@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2002344328631628270",
+    "created_at": "2025-12-20T11:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T12:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002345450712764843"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2002345450712764843",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002344328631628270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "干兽医都干不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2002344328631628270",
+        "created_at": "2025-12-20T11:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002345450712764843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002345450712764843",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002344328631628270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "干兽医都干不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2002344328631628270",
+        "created_at": "2025-12-20T11:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002344328631628270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/minokakay/status/2002343205975851377",
+              "start": 67,
+              "url": "https://t.co/z0uyNhaYpN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002344328631628270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002343205975851377",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别说上临床了，你这种人素质这么低，干法医？如何让社会相信你出的结果是公平公正的？！ 你这种素质干法医不偷器官不收贿赂都要谢天谢地了。 https://t.co/z0uyNhaYpN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13090,
+          "following_count": 1006,
+          "like_count": 44953,
+          "listed_count": 50,
+          "media_count": 1774,
+          "tweet_count": 24700
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

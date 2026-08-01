@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931517851858554880"
+      ],
+      "media_source_tweet_id": [
+        "1931517858644922749"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1931634922252321168",
+    "created_at": "2025-06-08T08:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T09:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931634922252321168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1391278425260781572",
+          "start": 3,
+          "username": "takeru0321neko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SQUmejT33o",
+          "end": 61,
+          "expanded_url": "https://x.com/takeru0321neko/status/1931517858644922749/photo/1",
+          "media_key": "3_1931517851858554880",
+          "start": 38,
+          "url": "https://t.co/SQUmejT33o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931634922252321168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 633
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931517858644922749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takeru0321neko: 隙をみて外に出ようとして捕まった猫 https://t.co/SQUmejT33o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1931517851858554880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs4hQK1a0AAm_m5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931517851858554880"
+          ],
+          "media_source_tweet_id": [
+            "1931517858644922749"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1931634922252321168",
+        "created_at": "2025-06-08T08:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T09:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931634922252321168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1391278425260781572",
+              "start": 3,
+              "username": "takeru0321neko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SQUmejT33o",
+              "end": 61,
+              "expanded_url": "https://x.com/takeru0321neko/status/1931517858644922749/photo/1",
+              "media_key": "3_1931517851858554880",
+              "start": 38,
+              "url": "https://t.co/SQUmejT33o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931634922252321168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 633
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931517858644922749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @takeru0321neko: 隙をみて外に出ようとして捕まった猫 https://t.co/SQUmejT33o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931517851858554880"
+          ]
+        },
+        "author_id": "1391278425260781572",
+        "conversation_id": "1931517858644922749",
+        "created_at": "2025-06-08T01:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T02:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931517858644922749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SQUmejT33o",
+              "end": 41,
+              "expanded_url": "https://x.com/takeru0321neko/status/1931517858644922749/photo/1",
+              "media_key": "3_1931517851858554880",
+              "start": 18,
+              "url": "https://t.co/SQUmejT33o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931517858644922749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 130275,
+          "like_count": 9953,
+          "quote_count": 10,
+          "reply_count": 14,
+          "retweet_count": 633
+        },
+        "reply_settings": "everyone",
+        "text": "隙をみて外に出ようとして捕まった猫 https://t.co/SQUmejT33o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1930535278814576654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7522,
+          "following_count": 881,
+          "like_count": 43289,
+          "listed_count": 29,
+          "media_count": 1137,
+          "tweet_count": 18501
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-09T06:26:58.000Z",
+        "description": "歌う猫ミームの正体。マンチカンの男の子。2021年03月21日生まれ。チャームポイントはまんまるおめめ。お父さん・お母さん・1歳と2歳の男の子と暮らしているよ。★YouTubeをはじめたよ。見てくれたらうれしいです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@takeru0321neko",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@takeru0321neko",
+                "start": 0,
+                "url": "https://t.co/1Gcw9iabBJ"
+              }
+            ]
+          }
+        },
+        "id": "1391278425260781572",
+        "name": "まつもとたける",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752636134528790528/3BCvYCyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63820,
+          "following_count": 750,
+          "like_count": 15238,
+          "listed_count": 315,
+          "media_count": 1043,
+          "tweet_count": 1455
+        },
+        "url": "https://t.co/1Gcw9iabBJ",
+        "username": "takeru0321neko",
+        "verified": true
+      }
+    ]
+  }
+}

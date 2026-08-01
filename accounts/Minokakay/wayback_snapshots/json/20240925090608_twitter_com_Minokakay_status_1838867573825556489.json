@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1838862470829760512"
+      ],
+      "media_source_tweet_id": [
+        "1838862497832669317"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1838867573825556489",
+    "created_at": "2024-09-25T09:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T10:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838867573825556489"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "岐阜",
+          "probability": 0.944,
+          "start": 17,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "267468344",
+          "start": 3,
+          "username": "benzycocker"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wit6x9oibc",
+          "end": 57,
+          "expanded_url": "https://twitter.com/benzycocker/status/1838862497832669317/photo/1",
+          "media_key": "3_1838862470829760512",
+          "start": 34,
+          "url": "https://t.co/wiT6X9OiBc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838867573825556489",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838862497832669317",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @benzycocker: 岐阜で見た、モネ「睡蓮」の世界。 https://t.co/wiT6X9OiBc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1626,
+        "media_key": "3_1838862470829760512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYTzrKya4AAFpCc.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838862470829760512"
+          ],
+          "media_source_tweet_id": [
+            "1838862497832669317"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1838867573825556489",
+        "created_at": "2024-09-25T09:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T10:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838867573825556489"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "岐阜",
+              "probability": 0.944,
+              "start": 17,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "267468344",
+              "start": 3,
+              "username": "benzycocker"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wit6x9oibc",
+              "end": 57,
+              "expanded_url": "https://twitter.com/benzycocker/status/1838862497832669317/photo/1",
+              "media_key": "3_1838862470829760512",
+              "start": 34,
+              "url": "https://t.co/wiT6X9OiBc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838867573825556489",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838862497832669317",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @benzycocker: 岐阜で見た、モネ「睡蓮」の世界。 https://t.co/wiT6X9OiBc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838862470829760512"
+          ]
+        },
+        "author_id": "267468344",
+        "conversation_id": "1838862497832669317",
+        "created_at": "2024-09-25T08:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T09:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838862497832669317"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "岐阜",
+              "probability": 0.9506,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wit6x9oibc",
+              "end": 40,
+              "expanded_url": "https://twitter.com/benzycocker/status/1838862497832669317/photo/1",
+              "media_key": "3_1838862470829760512",
+              "start": 17,
+              "url": "https://t.co/wiT6X9OiBc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838862497832669317",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2525,
+          "like_count": 134,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "岐阜で見た、モネ「睡蓮」の世界。 https://t.co/wiT6X9OiBc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比男高三生 阿斯ADHD Pansexual INFP 🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 847,
+          "like_count": 17003,
+          "listed_count": 3,
+          "tweet_count": 7416
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-17T00:37:19.000Z",
+        "description": "四季折々心に残る日常・風景・絶景を追いかけてます📸/写真はメディア＆ハイライト欄にて/無断転載NG。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/benzycocker?ig…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/benzycocker?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/AZLcwIQx6g"
+              }
+            ]
+          }
+        },
+        "id": "267468344",
+        "name": "ベンジー",
+        "pinned_tweet_id": "1838862497832669317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546729103499284480/LWm259Nw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21229,
+          "following_count": 345,
+          "like_count": 394028,
+          "listed_count": 366,
+          "tweet_count": 156167
+        },
+        "url": "https://t.co/AZLcwIQx6g",
+        "username": "benzycocker",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933522360633888768",
+        "3_1933522359321047044",
+        "3_1933522359467790338",
+        "3_1933522360663224330"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "1933522363913789478",
+    "created_at": "2025-06-13T13:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T14:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933522363913789478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L5WQPgyILU",
+          "end": 75,
+          "expanded_url": "https://x.com/Minokakay/status/1933522363913789478/photo/1",
+          "media_key": "3_1933522360633888768",
+          "start": 52,
+          "url": "https://t.co/L5WQPgyILU"
+        },
+        {
+          "display_url": "pic.x.com/L5WQPgyILU",
+          "end": 75,
+          "expanded_url": "https://x.com/Minokakay/status/1933522363913789478/photo/1",
+          "media_key": "3_1933522359321047044",
+          "start": 52,
+          "url": "https://t.co/L5WQPgyILU"
+        },
+        {
+          "display_url": "pic.x.com/L5WQPgyILU",
+          "end": 75,
+          "expanded_url": "https://x.com/Minokakay/status/1933522363913789478/photo/1",
+          "media_key": "3_1933522359467790338",
+          "start": 52,
+          "url": "https://t.co/L5WQPgyILU"
+        },
+        {
+          "display_url": "pic.x.com/L5WQPgyILU",
+          "end": 75,
+          "expanded_url": "https://x.com/Minokakay/status/1933522363913789478/photo/1",
+          "media_key": "3_1933522360663224330",
+          "start": 52,
+          "url": "https://t.co/L5WQPgyILU"
+        },
+        {
+          "display_url": "x.com/Minokakay/stat…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/Minokakay/status/1933516848781537400",
+          "start": 76,
+          "url": "https://t.co/X95dgPpUcX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933522363913789478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933516848781537400",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "另外店铺已支持 微信 支付宝 USDT FPS四种方式，支付，港币人民币美元三币均可，按当日汇率结算。 https://t.co/L5WQPgyILU https://t.co/X95dgPpUcX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1933522360633888768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtVAV77bkAAh-AP.jpg",
+        "width": 1080
+      },
+      {
+        "height": 217,
+        "media_key": "3_1933522359321047044",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtVAV3CbMAQ5Vem.jpg",
+        "width": 232
+      },
+      {
+        "height": 800,
+        "media_key": "3_1933522359467790338",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtVAV3laUAIqmwL.png",
+        "width": 800
+      },
+      {
+        "height": 600,
+        "media_key": "3_1933522360663224330",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtVAV8CbMAo7LsY.png",
+        "width": 600
+      },
+      {
+        "height": 1952,
+        "media_key": "3_1933516845681946630",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtU7U7IbMAYuiV2.jpg",
+        "width": 1594
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933522360633888768",
+            "3_1933522359321047044",
+            "3_1933522359467790338",
+            "3_1933522360663224330"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1933522363913789478",
+        "created_at": "2025-06-13T13:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T14:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933522363913789478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L5WQPgyILU",
+              "end": 75,
+              "expanded_url": "https://x.com/Minokakay/status/1933522363913789478/photo/1",
+              "media_key": "3_1933522360633888768",
+              "start": 52,
+              "url": "https://t.co/L5WQPgyILU"
+            },
+            {
+              "display_url": "pic.x.com/L5WQPgyILU",
+              "end": 75,
+              "expanded_url": "https://x.com/Minokakay/status/1933522363913789478/photo/1",
+              "media_key": "3_1933522359321047044",
+              "start": 52,
+              "url": "https://t.co/L5WQPgyILU"
+            },
+            {
+              "display_url": "pic.x.com/L5WQPgyILU",
+              "end": 75,
+              "expanded_url": "https://x.com/Minokakay/status/1933522363913789478/photo/1",
+              "media_key": "3_1933522359467790338",
+              "start": 52,
+              "url": "https://t.co/L5WQPgyILU"
+            },
+            {
+              "display_url": "pic.x.com/L5WQPgyILU",
+              "end": 75,
+              "expanded_url": "https://x.com/Minokakay/status/1933522363913789478/photo/1",
+              "media_key": "3_1933522360663224330",
+              "start": 52,
+              "url": "https://t.co/L5WQPgyILU"
+            },
+            {
+              "display_url": "x.com/Minokakay/stat…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/Minokakay/status/1933516848781537400",
+              "start": 76,
+              "url": "https://t.co/X95dgPpUcX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933522363913789478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933516848781537400",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另外店铺已支持 微信 支付宝 USDT FPS四种方式，支付，港币人民币美元三币均可，按当日汇率结算。 https://t.co/L5WQPgyILU https://t.co/X95dgPpUcX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933516845681946630"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1933516848781537400",
+        "created_at": "2025-06-13T13:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T14:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933516848781537400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 140,
+              "id": "1856322437144817667",
+              "start": 124,
+              "username": "ChosekiNoraneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cPDUUt3827",
+              "end": 169,
+              "expanded_url": "https://x.com/Minokakay/status/1933516848781537400/photo/1",
+              "media_key": "3_1933516845681946630",
+              "start": 146,
+              "url": "https://t.co/cPDUUt3827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933516848781537400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 240,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "考试月活动，抽个奖\n转发点赞评论此贴，抽5人送单月份美白护肝产品，另高考月（6月）考生可凭准考证认证，享有-10元无门槛优惠，满800包邮，满1000可-20元。\n\n本次价格表新增 莱博雷生10mg*28，和雷洛昔芬，心达悦20mg*28，欢迎找 @ChosekiNoraneko 下单哦。 https://t.co/cPDUUt3827"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1933514771426652655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7657,
+          "following_count": 877,
+          "like_count": 43438,
+          "listed_count": 29,
+          "media_count": 1153,
+          "tweet_count": 18647
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

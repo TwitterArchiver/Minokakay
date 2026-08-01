@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "1933928420087603648",
+    "created_at": "2025-06-14T16:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T17:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933928420087603648"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "南京虐殺記念館",
+          "probability": 0.2676,
+          "start": 26,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "794053202597449728",
+          "start": 3,
+          "username": "mizusawa_esashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933928420087603648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933896475320435019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizusawa_esashi: とりあえず南京虐殺記念館の写真をなるべく貼っていきます。何かの一助としてくれるなら嬉しいです\nなお一部のコーナーは私も撮影できなかったぐらい悲惨な内容だったので全部は載せられません。あと多くの方の言う通り万人坑など遺体があるエリアは写真…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933896436846067712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtaUkCaagAASTvX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1933896438175723520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtaUkHXbcAA8ebK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1933896439878553600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtaUkNtakAAKay6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1933896439937257472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtaUkN7aUAAe0Wf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1933928420087603648",
+        "created_at": "2025-06-14T16:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T17:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933928420087603648"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "南京虐殺記念館",
+              "probability": 0.2676,
+              "start": 26,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "794053202597449728",
+              "start": 3,
+              "username": "mizusawa_esashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933928420087603648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933896475320435019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizusawa_esashi: とりあえず南京虐殺記念館の写真をなるべく貼っていきます。何かの一助としてくれるなら嬉しいです\nなお一部のコーナーは私も撮影できなかったぐらい悲惨な内容だったので全部は載せられません。あと多くの方の言う通り万人坑など遺体があるエリアは写真…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933896436846067712",
+            "3_1933896438175723520",
+            "3_1933896439878553600",
+            "3_1933896439937257472"
+          ]
+        },
+        "author_id": "794053202597449728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1933896475320435019",
+        "created_at": "2025-06-14T14:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T15:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933896475320435019"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "南京",
+              "probability": 0.5646,
+              "start": 5,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fhE2RoJfOy",
+              "end": 160,
+              "expanded_url": "https://x.com/mizusawa_esashi/status/1933896475320435019/photo/1",
+              "media_key": "3_1933896436846067712",
+              "start": 137,
+              "url": "https://t.co/fhE2RoJfOy"
+            },
+            {
+              "display_url": "pic.x.com/fhE2RoJfOy",
+              "end": 160,
+              "expanded_url": "https://x.com/mizusawa_esashi/status/1933896475320435019/photo/1",
+              "media_key": "3_1933896438175723520",
+              "start": 137,
+              "url": "https://t.co/fhE2RoJfOy"
+            },
+            {
+              "display_url": "pic.x.com/fhE2RoJfOy",
+              "end": 160,
+              "expanded_url": "https://x.com/mizusawa_esashi/status/1933896475320435019/photo/1",
+              "media_key": "3_1933896439878553600",
+              "start": 137,
+              "url": "https://t.co/fhE2RoJfOy"
+            },
+            {
+              "display_url": "pic.x.com/fhE2RoJfOy",
+              "end": 160,
+              "expanded_url": "https://x.com/mizusawa_esashi/status/1933896475320435019/photo/1",
+              "media_key": "3_1933896439937257472",
+              "start": 137,
+              "url": "https://t.co/fhE2RoJfOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933896475320435019",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 2790,
+          "like_count": 100,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "とりあえず南京虐殺記念館の写真をなるべく貼っていきます。何かの一助としてくれるなら嬉しいです\nなお一部のコーナーは私も撮影できなかったぐらい悲惨な内容だったので全部は載せられません。あと多くの方の言う通り万人坑など遺体があるエリアは写真撮影禁止でした。そこはご容赦ください https://t.co/fhE2RoJfOy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1933516848781537400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7681,
+          "following_count": 875,
+          "like_count": 43468,
+          "listed_count": 29,
+          "media_count": 1155,
+          "tweet_count": 18688
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-03T05:46:51.000Z",
+        "description": "まあ、ꏥꏦなんて知ったことではありませんね！",
+        "id": "794053202597449728",
+        "location": "ꆺꃅꂿꈬꑤ，ꌩꁐꈬꉘ，ꌧꍧꌜ，ꍏꉸꏓꂱꇭꉼꇩ",
+        "name": "不知火カヤ",
+        "pinned_tweet_id": "1917197859809841614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757084943346454529/FdaogvIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2616,
+          "following_count": 90,
+          "like_count": 2898,
+          "listed_count": 18,
+          "media_count": 803,
+          "tweet_count": 2619
+        },
+        "username": "mizusawa_esashi",
+        "verified": false
+      }
+    ]
+  }
+}

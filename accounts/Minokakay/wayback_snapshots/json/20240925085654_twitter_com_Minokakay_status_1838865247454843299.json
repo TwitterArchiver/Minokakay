@@ -1,0 +1,659 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "J-Pop",
+          "id": "1162098498386350080",
+          "name": "Ren Meguro"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "J-Pop",
+          "id": "1162098498386350080",
+          "name": "Ren Meguro"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-Pop",
+          "id": "1162098498386350080",
+          "name": "Ren Meguro"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027762047",
+          "name": "Motorola"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cell phones",
+          "id": "848920700073123840",
+          "name": "Cell Phones"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "1838865247454843299",
+    "created_at": "2024-09-25T08:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T09:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1838865247454843299"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MotorolaJP/sta…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/MotorolaJP/status/1836057522442043551",
+          "start": 23,
+          "url": "https://t.co/AIKgdiZ3D3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838865247454843299",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836057522442043551",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這個代言人有點帥，我一個小學同學特喜歡目黑蓮 https://t.co/AIKgdiZ3D3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "J-Pop",
+              "id": "1162098498386350080",
+              "name": "Ren Meguro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "J-Pop",
+              "id": "1162098498386350080",
+              "name": "Ren Meguro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-Pop",
+              "id": "1162098498386350080",
+              "name": "Ren Meguro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027762047",
+              "name": "Motorola"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1838865247454843299",
+        "created_at": "2024-09-25T08:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T09:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838865247454843299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MotorolaJP/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/MotorolaJP/status/1836057522442043551",
+              "start": 23,
+              "url": "https://t.co/AIKgdiZ3D3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838865247454843299",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836057522442043551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這個代言人有點帥，我一個小學同學特喜歡目黑蓮 https://t.co/AIKgdiZ3D3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "874859994465923074",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "J-Pop",
+              "id": "1162098498386350080",
+              "name": "Ren Meguro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "J-Pop",
+              "id": "1162098498386350080",
+              "name": "Ren Meguro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-Pop",
+              "id": "1162098498386350080",
+              "name": "Ren Meguro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027762047",
+              "name": "Motorola"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1836057522442043551",
+        "created_at": "2024-09-17T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836057522442043551"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "motorola razr 50",
+              "probability": 0.5316,
+              "start": 1,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 29,
+              "tag": "AIBOUMAKER"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "目黒蓮"
+            },
+            {
+              "end": 125,
+              "start": 116,
+              "tag": "motorola"
+            },
+            {
+              "end": 132,
+              "start": 126,
+              "tag": "モトローラ"
+            },
+            {
+              "end": 146,
+              "start": 133,
+              "tag": "AIBOUが目黒蓮と共演"
+            }
+          ],
+          "urls": [
+            {
+              "description": "目黒 蓮がブランドアンバサダー就任！相棒“ミニREN”と共演したTVCM放送中！",
+              "display_url": "moto-bu.motorola.co.jp/campaign/razr5…",
+              "end": 114,
+              "expanded_url": "https://moto-bu.motorola.co.jp/campaign/razr50/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1838415532552601600/zvGeuaVR?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1838415532552601600/zvGeuaVR?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 91,
+              "status": 200,
+              "title": "motorola razr 50 |「そろそろ、フツーに飽きてきた？」",
+              "unwound_url": "https://moto-bu.motorola.co.jp/campaign/razr50/",
+              "url": "https://t.co/ke2FkhyKBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836057522442043551",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 4659655,
+          "like_count": 1203,
+          "quote_count": 65,
+          "reply_count": 1,
+          "retweet_count": 361
+        },
+        "reply_settings": "everyone",
+        "text": "「motorola razr 50」は、あなたの相棒。\n\n#AIBOUMAKER であなたの相棒を生成しよう！\n\nCMで #目黒蓮 さん と共演できるかも!?\n\nくわしくはコチラ↓\nhttps://t.co/ke2FkhyKBH\n\n#motorola #モトローラ #AIBOUが目黒蓮と共演"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比男高三生 阿斯ADHD Pansexual INFP 🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 846,
+          "like_count": 16986,
+          "listed_count": 3,
+          "tweet_count": 7402
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-14T05:24:11.000Z",
+        "description": "モトローラ・モビリティ・ジャパン公式アカウントです。motorolaのスマートフォン最新情報やキャンペーン情報などを発信します。\nそろそろ“フツー”に飽きてきた？\n利便性と機能美を両立した折り畳みスマホ「motorola razr 50」新登場！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "motorola.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.motorola.co.jp/",
+                "start": 0,
+                "url": "https://t.co/kpi7vV7F4J"
+              }
+            ]
+          }
+        },
+        "id": "874859994465923074",
+        "location": "東京 千代田区",
+        "name": "Motorola Japan",
+        "pinned_tweet_id": "1836223619413733557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345979044198719488/GV4iJhJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120229,
+          "following_count": 171,
+          "like_count": 9561,
+          "listed_count": 427,
+          "tweet_count": 10862
+        },
+        "url": "https://t.co/kpi7vV7F4J",
+        "username": "MotorolaJP",
+        "verified": true
+      }
+    ]
+  }
+}

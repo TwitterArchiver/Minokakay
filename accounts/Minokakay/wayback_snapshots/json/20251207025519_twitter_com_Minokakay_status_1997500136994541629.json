@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997265647001333760",
+        "3_1997265653821227008"
+      ],
+      "media_source_tweet_id": [
+        "1997265659445866652",
+        "1997265659445866652"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1997500136994541629",
+    "created_at": "2025-12-07T02:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T03:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997500136994541629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1618557658163970049",
+          "start": 3,
+          "username": "qqqqqf5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sajE0UrGPP",
+          "end": 47,
+          "expanded_url": "https://x.com/qqqqqf5/status/1997265659445866652/photo/1",
+          "media_key": "3_1997265647001333760",
+          "start": 24,
+          "url": "https://t.co/sajE0UrGPP"
+        },
+        {
+          "display_url": "pic.x.com/sajE0UrGPP",
+          "end": 47,
+          "expanded_url": "https://x.com/qqqqqf5/status/1997265659445866652/photo/1",
+          "media_key": "3_1997265653821227008",
+          "start": 24,
+          "url": "https://t.co/sajE0UrGPP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997500136994541629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997265659445866652",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qqqqqf5: 谁还记得 咱喵淀粉肠 https://t.co/sajE0UrGPP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1997265647001333760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7e2hiOa8AANIvq.jpg",
+        "width": 1920
+      },
+      {
+        "height": 839,
+        "media_key": "3_1997265653821227008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7e2h7oaQAAcwRP.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997265647001333760",
+            "3_1997265653821227008"
+          ],
+          "media_source_tweet_id": [
+            "1997265659445866652",
+            "1997265659445866652"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1997500136994541629",
+        "created_at": "2025-12-07T02:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T03:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997500136994541629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1618557658163970049",
+              "start": 3,
+              "username": "qqqqqf5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sajE0UrGPP",
+              "end": 47,
+              "expanded_url": "https://x.com/qqqqqf5/status/1997265659445866652/photo/1",
+              "media_key": "3_1997265647001333760",
+              "start": 24,
+              "url": "https://t.co/sajE0UrGPP"
+            },
+            {
+              "display_url": "pic.x.com/sajE0UrGPP",
+              "end": 47,
+              "expanded_url": "https://x.com/qqqqqf5/status/1997265659445866652/photo/1",
+              "media_key": "3_1997265653821227008",
+              "start": 24,
+              "url": "https://t.co/sajE0UrGPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997500136994541629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997265659445866652",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qqqqqf5: 谁还记得 咱喵淀粉肠 https://t.co/sajE0UrGPP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997265647001333760",
+            "3_1997265653821227008"
+          ]
+        },
+        "author_id": "1618557658163970049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1997265659445866652",
+        "created_at": "2025-12-06T11:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T12:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997265659445866652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sajE0UrGPP",
+              "end": 34,
+              "expanded_url": "https://x.com/qqqqqf5/status/1997265659445866652/photo/1",
+              "media_key": "3_1997265647001333760",
+              "start": 11,
+              "url": "https://t.co/sajE0UrGPP"
+            },
+            {
+              "display_url": "pic.x.com/sajE0UrGPP",
+              "end": 34,
+              "expanded_url": "https://x.com/qqqqqf5/status/1997265659445866652/photo/1",
+              "media_key": "3_1997265653821227008",
+              "start": 11,
+              "url": "https://t.co/sajE0UrGPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997265659445866652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 46274,
+          "like_count": 212,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "谁还记得 咱喵淀粉肠 https://t.co/sajE0UrGPP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。  阿斯ADHD精分抑鬱焦慮MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智/靶向药请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12917,
+          "following_count": 1012,
+          "like_count": 44982,
+          "listed_count": 49,
+          "media_count": 1711,
+          "tweet_count": 24092
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "拒绝键政 | 如果你有键政成分我都会block\n爱发梗图和生活日常 ｜ 偶尔爆照\n都是转发的图!!! 如果图片让你生气了 请不要骂我好不好\n逃生舱:@qqqqqf_\nNGL匿名提问箱:https://t.co/vkfKFLuIsm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 74,
+                "username": "qqqqqf_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/qqqqqf51",
+                "end": 115,
+                "expanded_url": "https://ngl.link/qqqqqf51",
+                "start": 92,
+                "url": "https://t.co/vkfKFLuIsm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "1989724969690173744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962054912130600960/NK8jfwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4201,
+          "following_count": 1983,
+          "like_count": 8422,
+          "listed_count": 11,
+          "media_count": 1095,
+          "tweet_count": 2950
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": true
+      }
+    ]
+  }
+}

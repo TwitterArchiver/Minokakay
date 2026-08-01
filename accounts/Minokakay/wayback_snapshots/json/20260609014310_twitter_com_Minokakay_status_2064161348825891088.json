@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2064026098934120814",
+    "created_at": "2026-06-09T01:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T02:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064161348825891088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "227949449",
+          "start": 0,
+          "username": "nefnefnefnefmef"
+        },
+        {
+          "end": 33,
+          "id": "1162387790736195584",
+          "start": 17,
+          "username": "DavidZh96096822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064161348825891088",
+    "in_reply_to_user_id": "227949449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064160183132066084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nefnefnefnefmef @DavidZh96096822 你这种头像的粉红不是更不正常吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2064026098934120814",
+        "created_at": "2026-06-09T01:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064161348825891088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "227949449",
+              "start": 0,
+              "username": "nefnefnefnefmef"
+            },
+            {
+              "end": 33,
+              "id": "1162387790736195584",
+              "start": 17,
+              "username": "DavidZh96096822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064161348825891088",
+        "in_reply_to_user_id": "227949449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064160183132066084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nefnefnefnefmef @DavidZh96096822 你这种头像的粉红不是更不正常吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "227949449",
+        "conversation_id": "2064026098934120814",
+        "created_at": "2026-06-09T01:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064160183132066084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1162387790736195584",
+              "start": 0,
+              "username": "DavidZh96096822"
+            },
+            {
+              "end": 27,
+              "id": "1597257668313260033",
+              "start": 17,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064160183132066084",
+        "in_reply_to_user_id": "1162387790736195584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064157125119791489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DavidZh96096822 @Minokakay 这种动漫头像的精日精神都不太正常"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14349,
+          "following_count": 1046,
+          "like_count": 44003,
+          "listed_count": 48,
+          "media_count": 1835,
+          "tweet_count": 26184
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2010-12-18T08:23:42.000Z",
+        "description": "",
+        "id": "227949449",
+        "name": "Happy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1193262379/6284f414jw6dc6b9ywwffj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 3662,
+          "like_count": 5952,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 6149
+        },
+        "username": "nefnefnefnefmef",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-16T15:37:13.000Z",
+        "description": "",
+        "id": "1162387790736195584",
+        "name": "David大卫",
+        "pinned_tweet_id": "1344909613943070722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1162387980503273472/pJv5wTTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 1048,
+          "like_count": 83343,
+          "listed_count": 10,
+          "media_count": 953,
+          "tweet_count": 74305
+        },
+        "username": "DavidZh96096822",
+        "verified": false
+      }
+    ]
+  }
+}

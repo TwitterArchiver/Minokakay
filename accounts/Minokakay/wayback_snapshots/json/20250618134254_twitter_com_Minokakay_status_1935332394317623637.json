@@ -1,0 +1,537 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "1935332394317623637",
+    "created_at": "2025-06-18T13:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T14:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935332394317623637"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "成都",
+          "probability": 0.6673,
+          "start": 21,
+          "type": "Place"
+        },
+        {
+          "end": 52,
+          "normalized_text": "中国",
+          "probability": 0.8159,
+          "start": 51,
+          "type": "Place"
+        },
+        {
+          "end": 100,
+          "normalized_text": "関羽",
+          "probability": 0.653,
+          "start": 99,
+          "type": "Person"
+        },
+        {
+          "end": 103,
+          "normalized_text": "張飛",
+          "probability": 0.5975,
+          "start": 102,
+          "type": "Person"
+        },
+        {
+          "end": 107,
+          "normalized_text": "諸葛亮",
+          "probability": 0.4023,
+          "start": 105,
+          "type": "Person"
+        },
+        {
+          "end": 110,
+          "normalized_text": "曹操",
+          "probability": 0.6878,
+          "start": 109,
+          "type": "Person"
+        },
+        {
+          "end": 113,
+          "normalized_text": "周瑜",
+          "probability": 0.518,
+          "start": 112,
+          "type": "Person"
+        },
+        {
+          "end": 116,
+          "normalized_text": "陸遜",
+          "probability": 0.7924,
+          "start": 115,
+          "type": "Person"
+        },
+        {
+          "end": 119,
+          "normalized_text": "黄忠",
+          "probability": 0.8557,
+          "start": 118,
+          "type": "Person"
+        },
+        {
+          "end": 122,
+          "normalized_text": "張遼",
+          "probability": 0.8855,
+          "start": 121,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1601217336178249728",
+          "start": 3,
+          "username": "Sui_TangDaisuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935332394317623637",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921519792785330467",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sui_TangDaisuki: 成都行きましたが武侯祠平日でもめちゃくちゃ人いますよ。\nまた中国の人たちは歴史を大切にする人々なので経験上三国志くらいはみんな知ってます。\n蜀も人気ですよ。関羽や張飛、諸葛亮、曹操、周瑜、陸遜、黄忠、張遼あたりは人気あります。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1935332394317623637",
+        "created_at": "2025-06-18T13:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T14:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935332394317623637"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "成都",
+              "probability": 0.6673,
+              "start": 21,
+              "type": "Place"
+            },
+            {
+              "end": 52,
+              "normalized_text": "中国",
+              "probability": 0.8159,
+              "start": 51,
+              "type": "Place"
+            },
+            {
+              "end": 100,
+              "normalized_text": "関羽",
+              "probability": 0.653,
+              "start": 99,
+              "type": "Person"
+            },
+            {
+              "end": 103,
+              "normalized_text": "張飛",
+              "probability": 0.5975,
+              "start": 102,
+              "type": "Person"
+            },
+            {
+              "end": 107,
+              "normalized_text": "諸葛亮",
+              "probability": 0.4023,
+              "start": 105,
+              "type": "Person"
+            },
+            {
+              "end": 110,
+              "normalized_text": "曹操",
+              "probability": 0.6878,
+              "start": 109,
+              "type": "Person"
+            },
+            {
+              "end": 113,
+              "normalized_text": "周瑜",
+              "probability": 0.518,
+              "start": 112,
+              "type": "Person"
+            },
+            {
+              "end": 116,
+              "normalized_text": "陸遜",
+              "probability": 0.7924,
+              "start": 115,
+              "type": "Person"
+            },
+            {
+              "end": 119,
+              "normalized_text": "黄忠",
+              "probability": 0.8557,
+              "start": 118,
+              "type": "Person"
+            },
+            {
+              "end": 122,
+              "normalized_text": "張遼",
+              "probability": 0.8855,
+              "start": 121,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1601217336178249728",
+              "start": 3,
+              "username": "Sui_TangDaisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935332394317623637",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921519792785330467",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sui_TangDaisuki: 成都行きましたが武侯祠平日でもめちゃくちゃ人いますよ。\nまた中国の人たちは歴史を大切にする人々なので経験上三国志くらいはみんな知ってます。\n蜀も人気ですよ。関羽や張飛、諸葛亮、曹操、周瑜、陸遜、黄忠、張遼あたりは人気あります。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601217336178249728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1921519792785330467",
+        "created_at": "2025-05-11T10:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T11:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921519792785330467"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "成都",
+              "probability": 0.7508,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 31,
+              "normalized_text": "中国",
+              "probability": 0.8112,
+              "start": 30,
+              "type": "Place"
+            },
+            {
+              "end": 79,
+              "normalized_text": "関羽",
+              "probability": 0.6576,
+              "start": 78,
+              "type": "Person"
+            },
+            {
+              "end": 82,
+              "normalized_text": "張飛",
+              "probability": 0.6051,
+              "start": 81,
+              "type": "Person"
+            },
+            {
+              "end": 86,
+              "normalized_text": "諸葛亮",
+              "probability": 0.4124,
+              "start": 84,
+              "type": "Person"
+            },
+            {
+              "end": 89,
+              "normalized_text": "曹操",
+              "probability": 0.6902,
+              "start": 88,
+              "type": "Person"
+            },
+            {
+              "end": 92,
+              "normalized_text": "周瑜",
+              "probability": 0.5159,
+              "start": 91,
+              "type": "Person"
+            },
+            {
+              "end": 95,
+              "normalized_text": "陸遜",
+              "probability": 0.7908,
+              "start": 94,
+              "type": "Person"
+            },
+            {
+              "end": 98,
+              "normalized_text": "黄忠",
+              "probability": 0.8564,
+              "start": 97,
+              "type": "Person"
+            },
+            {
+              "end": 101,
+              "normalized_text": "張遼",
+              "probability": 0.8788,
+              "start": 100,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/YariSenpai/sta…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/YariSenpai/status/1921045084931252525",
+              "start": 114,
+              "url": "https://t.co/fnCjFibfPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921519792785330467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "成都行きましたが武侯祠平日でもめちゃくちゃ人いますよ。\nまた中国の人たちは歴史を大切にする人々なので経験上三国志くらいはみんな知ってます。\n蜀も人気ですよ。関羽や張飛、諸葛亮、曹操、周瑜、陸遜、黄忠、張遼あたりは人気あります。\n\n三国志人気ないって言ってる人はいっぺん武侯祠行ってこいとしか。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1963,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921045084931252525",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "成都行きましたが武侯祠平日でもめちゃくちゃ人いますよ。\nまた中国の人たちは歴史を大切にする人々なので経験上三国志くらいはみんな知ってます。\n蜀も人気ですよ。関羽や張飛、諸葛亮、曹操、周瑜、陸遜、黄忠、張遼あたりは人気あります。 https://t.co/fnCjFibfPr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko 里推随缘过 @Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1933516848781537400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7731,
+          "following_count": 884,
+          "like_count": 43646,
+          "listed_count": 30,
+          "media_count": 1189,
+          "tweet_count": 18896
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-09T14:09:02.000Z",
+        "description": "东海大学三年文社ア 皇帝や皇族の称号（廟・諡号）などについて調べています。 陵墓、五代十国、魏晋南北朝など地方政権の皇帝皇族など。ラブライブ:桜内梨子同志と鐘嵐珠、エマ 偶に絵を吐きだします。信濃→相模 渡航:🇨🇳北京、南京、丹陽、鎮江、成都×2、上海×4、紹興×2.、杭州×2🇨🇦バンクーバー/ウィスラー",
+        "id": "1601217336178249728",
+        "location": "大唐帝国関内道西京/長安城 私立虹ヶ咲学園東洋史専攻",
+        "name": "中国史好きの一般諡法書生",
+        "pinned_tweet_id": "1930923481010766328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918283508193345543/H9A-TFWh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2660,
+          "following_count": 682,
+          "like_count": 34775,
+          "listed_count": 22,
+          "media_count": 3735,
+          "tweet_count": 16635
+        },
+        "username": "Sui_TangDaisuki",
+        "verified": true
+      }
+    ]
+  }
+}

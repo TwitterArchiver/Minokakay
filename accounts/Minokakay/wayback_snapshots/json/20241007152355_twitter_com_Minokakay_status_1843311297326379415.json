@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1843302268122386801",
+    "created_at": "2024-10-07T15:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T16:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843311297326379415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609619970811482112",
+          "start": 0,
+          "username": "3ch4O1H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843311297326379415",
+    "in_reply_to_user_id": "1609619970811482112",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843302268122386801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ch4O1H 給我吃點我最愛吃糖醋排骨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1843302268122386801",
+        "created_at": "2024-10-07T15:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T16:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843311297326379415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609619970811482112",
+              "start": 0,
+              "username": "3ch4O1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843311297326379415",
+        "in_reply_to_user_id": "1609619970811482112",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843302268122386801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ch4O1H 給我吃點我最愛吃糖醋排骨了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843302222937165824",
+            "3_1843302222295375872",
+            "3_1843302222320521216",
+            "3_1843302223859908608"
+          ]
+        },
+        "author_id": "1609619970811482112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1843302268122386801",
+        "created_at": "2024-10-07T14:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T15:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843302268122386801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7MpPoWvDwY",
+              "end": 99,
+              "expanded_url": "https://x.com/3ch4O1H/status/1843302268122386801/photo/1",
+              "media_key": "3_1843302222937165824",
+              "start": 76,
+              "url": "https://t.co/7MpPoWvDwY"
+            },
+            {
+              "display_url": "pic.x.com/7MpPoWvDwY",
+              "end": 99,
+              "expanded_url": "https://x.com/3ch4O1H/status/1843302268122386801/photo/1",
+              "media_key": "3_1843302222295375872",
+              "start": 76,
+              "url": "https://t.co/7MpPoWvDwY"
+            },
+            {
+              "display_url": "pic.x.com/7MpPoWvDwY",
+              "end": 99,
+              "expanded_url": "https://x.com/3ch4O1H/status/1843302268122386801/photo/1",
+              "media_key": "3_1843302222320521216",
+              "start": 76,
+              "url": "https://t.co/7MpPoWvDwY"
+            },
+            {
+              "display_url": "pic.x.com/7MpPoWvDwY",
+              "end": 99,
+              "expanded_url": "https://x.com/3ch4O1H/status/1843302268122386801/photo/1",
+              "media_key": "3_1843302223859908608",
+              "start": 76,
+              "url": "https://t.co/7MpPoWvDwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843302268122386801",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了\n糖醋排骨\n清炒上海青\n蒜蓉西兰花\n清炒生菜\n牛排\n可乐鸡翅根\nkfc\n照烧鸡腿\n卤花生\n咖喱饭\n红焖羊肉\n卤面\n烩面\n胡辣汤\n各种零食\n梅酒好喝 https://t.co/7MpPoWvDwY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 872,
+          "like_count": 20702,
+          "listed_count": 3,
+          "tweet_count": 9230
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "爱在当下\n顺男\n伴侣@LixdH5jzYx99195",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "LixdH5jzYx99195"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1794811854461730964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801965788699770880/04tk9Oj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 1633,
+          "like_count": 20084,
+          "listed_count": 0,
+          "tweet_count": 11578
+        },
+        "username": "3ch4O1H",
+        "verified": false
+      }
+    ]
+  }
+}

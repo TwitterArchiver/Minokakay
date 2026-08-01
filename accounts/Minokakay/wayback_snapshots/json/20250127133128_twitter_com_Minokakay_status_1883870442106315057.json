@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1883856074199175626",
+    "created_at": "2025-01-27T13:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T14:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883870442106315057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "mcew_233"
+        },
+        {
+          "end": 24,
+          "id": "1811011225058430982",
+          "start": 10,
+          "username": "Shenyuebanran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883870442106315057",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883856074199175626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mcew_233 @Shenyuebanran 喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1883856074199175626",
+        "created_at": "2025-01-27T13:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T14:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883870442106315057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "mcew_233"
+            },
+            {
+              "end": 24,
+              "id": "1811011225058430982",
+              "start": 10,
+              "username": "Shenyuebanran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883870442106315057",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883856074199175626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mcew_233 @Shenyuebanran 喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "1883856074199175626",
+        "created_at": "2025-01-27T12:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T13:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883856074199175626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 52,
+              "id": "1811011225058430982",
+              "start": 38,
+              "username": "Shenyuebanran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883856074199175626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 415,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "200fo了～于是也来整点抽奖贴喵～\n特等：被咱（咱被）超超？\n一等：来自 @Shenyuebanran 手搓特供雌爆版凝胶一瓶（不发q包退）\n二等：IKEA小鲨鲨一只（折现20）\n三等：墨守家挂件or贴纸一个×3份\n（可自己挑，折现5）\n转发评论关注喵～元宵节开奖～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日380色320泰210",
+        "pinned_tweet_id": "1881268152111440138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3194,
+          "following_count": 782,
+          "like_count": 33668,
+          "listed_count": 14,
+          "media_count": 903,
+          "tweet_count": 15255
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "是七海的主人~nanami~/infj/05年/ MtX/🍥/健全?/喜欢的/爱的/独占的/要一直陪帆的/对象/可爱猫猫 @nanami5513",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "nanami5513"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "MCEW233",
+        "pinned_tweet_id": "1873639409519862230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883155190695755776/h78s62n0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 336,
+          "like_count": 37286,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1852
+        },
+        "username": "mcew_233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T12:15:13.000Z",
+        "description": "跨同/炸柜/攒钱中/重焦/重抑/双相/大抵是有ADHD/可以直接叫我然然的！爱VSINGER爱天依～北南推/历史/文学/友善交流/最好哒妹妹～@Hongcha_Meow 姐姐～：@altaz_0 🚪：15r同类免费",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "Hongcha_Meow"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "altaz_0"
+              }
+            ]
+          }
+        },
+        "id": "1811011225058430982",
+        "location": "永恒的梦境中",
+        "name": "Luna_然🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877688582187651072/sWzniWZo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 89,
+          "like_count": 2024,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 954
+        },
+        "username": "Shenyuebanran",
+        "verified": false
+      }
+    ]
+  }
+}

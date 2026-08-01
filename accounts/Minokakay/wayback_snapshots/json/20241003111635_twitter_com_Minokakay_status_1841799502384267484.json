@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1841783956825346048",
+        "3_1841783956833763328"
+      ],
+      "media_source_tweet_id": [
+        "1841783963385311574",
+        "1841783963385311574"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1841799502384267484",
+    "created_at": "2024-10-03T11:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T12:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841799502384267484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1586332050528915457",
+          "start": 3,
+          "username": "lilaoshizuikeai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sKWBsnN3Y8",
+          "end": 49,
+          "expanded_url": "https://x.com/lilaoshizuikeai/status/1841783963385311574/photo/1",
+          "media_key": "3_1841783956825346048",
+          "start": 26,
+          "url": "https://t.co/sKWBsnN3Y8"
+        },
+        {
+          "display_url": "pic.x.com/sKWBsnN3Y8",
+          "end": 49,
+          "expanded_url": "https://x.com/lilaoshizuikeai/status/1841783963385311574/photo/1",
+          "media_key": "3_1841783956833763328",
+          "start": 26,
+          "url": "https://t.co/sKWBsnN3Y8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841799502384267484",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841783963385311574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilaoshizuikeai: 一阵晕眩 https://t.co/sKWBsnN3Y8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_1841783956825346048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY9UwCOWkAAXJ8V.jpg",
+        "width": 1080
+      },
+      {
+        "height": 3840,
+        "media_key": "3_1841783956833763328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY9UwCQXAAAVNGk.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841783956825346048",
+            "3_1841783956833763328"
+          ],
+          "media_source_tweet_id": [
+            "1841783963385311574",
+            "1841783963385311574"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1841799502384267484",
+        "created_at": "2024-10-03T11:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T12:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841799502384267484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1586332050528915457",
+              "start": 3,
+              "username": "lilaoshizuikeai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKWBsnN3Y8",
+              "end": 49,
+              "expanded_url": "https://x.com/lilaoshizuikeai/status/1841783963385311574/photo/1",
+              "media_key": "3_1841783956825346048",
+              "start": 26,
+              "url": "https://t.co/sKWBsnN3Y8"
+            },
+            {
+              "display_url": "pic.x.com/sKWBsnN3Y8",
+              "end": 49,
+              "expanded_url": "https://x.com/lilaoshizuikeai/status/1841783963385311574/photo/1",
+              "media_key": "3_1841783956833763328",
+              "start": 26,
+              "url": "https://t.co/sKWBsnN3Y8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841799502384267484",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841783963385311574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilaoshizuikeai: 一阵晕眩 https://t.co/sKWBsnN3Y8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841783956825346048",
+            "3_1841783956833763328"
+          ]
+        },
+        "author_id": "1586332050528915457",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1841783963385311574",
+        "created_at": "2024-10-03T10:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T11:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841783963385311574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKWBsnN3Y8",
+              "end": 28,
+              "expanded_url": "https://x.com/lilaoshizuikeai/status/1841783963385311574/photo/1",
+              "media_key": "3_1841783956825346048",
+              "start": 5,
+              "url": "https://t.co/sKWBsnN3Y8"
+            },
+            {
+              "display_url": "pic.x.com/sKWBsnN3Y8",
+              "end": 28,
+              "expanded_url": "https://x.com/lilaoshizuikeai/status/1841783963385311574/photo/1",
+              "media_key": "3_1841783956833763328",
+              "start": 5,
+              "url": "https://t.co/sKWBsnN3Y8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841783963385311574",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 11322,
+          "like_count": 152,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "一阵晕眩 https://t.co/sKWBsnN3Y8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 858,
+          "like_count": 19474,
+          "listed_count": 3,
+          "tweet_count": 8726
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600861407104335873/PIQM5Ii9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225060,
+          "following_count": 665,
+          "like_count": 4626,
+          "listed_count": 1250,
+          "tweet_count": 6565
+        },
+        "username": "lilaoshizuikeai",
+        "verified": true
+      }
+    ]
+  }
+}

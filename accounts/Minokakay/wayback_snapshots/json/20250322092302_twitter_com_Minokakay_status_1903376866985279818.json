@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903376864292560896"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1903358266517709003",
+    "created_at": "2025-03-22T09:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T10:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903376866985279818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1373755792948531200",
+          "start": 0,
+          "username": "_ASimpleSmile_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HLoJkrTCJJ",
+          "end": 39,
+          "expanded_url": "https://x.com/Minokakay/status/1903376866985279818/photo/1",
+          "media_key": "3_1903376864292560896",
+          "start": 16,
+          "url": "https://t.co/HLoJkrTCJJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903376866985279818",
+    "in_reply_to_user_id": "1373755792948531200",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903358266517709003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ASimpleSmile_ https://t.co/HLoJkrTCJJ"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1903358266517709003].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1903358266517709003",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1903358266517709003"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_1903376864292560896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmonLG3a4AAlHm7.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903376864292560896"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1903358266517709003",
+        "created_at": "2025-03-22T09:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T10:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903376866985279818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1373755792948531200",
+              "start": 0,
+              "username": "_ASimpleSmile_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLoJkrTCJJ",
+              "end": 39,
+              "expanded_url": "https://x.com/Minokakay/status/1903376866985279818/photo/1",
+              "media_key": "3_1903376864292560896",
+              "start": 16,
+              "url": "https://t.co/HLoJkrTCJJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903376866985279818",
+        "in_reply_to_user_id": "1373755792948531200",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903358266517709003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ASimpleSmile_ https://t.co/HLoJkrTCJJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 101,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 78,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1899298005330899355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5890,
+          "following_count": 843,
+          "like_count": 38686,
+          "listed_count": 27,
+          "media_count": 653,
+          "tweet_count": 15201
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-21T21:58:06.000Z",
+        "description": "请叫我阿咸！|| 18岁 是在中中国人 || 大概是mtx || 182㎝ 66㎏ || 日常推为主 偶尔会发女装照 || meme享受者 || 颜文字享受者(✪ω✪) || 太鼓の達人 2024夏九段金合格|| 中文/EN || 想要有很多朋友 所以欢迎互fo欢迎互fo❤️ || 分身@ASimpleSmile2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 144,
+                "username": "ASimpleSmile2"
+              }
+            ]
+          }
+        },
+        "id": "1373755792948531200",
+        "location": "卧室",
+        "name": "咸咸的",
+        "pinned_tweet_id": "1833902162956701931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714391721738711040/Fu_TJQSf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 828,
+          "like_count": 86331,
+          "listed_count": 3,
+          "media_count": 1113,
+          "tweet_count": 5818
+        },
+        "username": "_ASimpleSmile_",
+        "verified": false
+      }
+    ]
+  }
+}

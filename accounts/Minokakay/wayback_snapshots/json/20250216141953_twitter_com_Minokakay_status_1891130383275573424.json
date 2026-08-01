@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1891130383275573424",
+    "created_at": "2025-02-16T14:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T15:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891130383275573424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1490976522362302465",
+          "start": 3,
+          "username": "Bingfei_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891130383275573424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891075912692572508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bingfei_: 随着中小学开学，国际共运转入低潮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1891130383275573424",
+        "created_at": "2025-02-16T14:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T15:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891130383275573424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1490976522362302465",
+              "start": 3,
+              "username": "Bingfei_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891130383275573424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891075912692572508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bingfei_: 随着中小学开学，国际共运转入低潮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490976522362302465",
+        "conversation_id": "1891075912692572508",
+        "created_at": "2025-02-16T10:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T11:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891075912692572508"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891075912692572508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 477,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "随着中小学开学，国际共运转入低潮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1887195421598257202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4664,
+          "following_count": 803,
+          "like_count": 35093,
+          "listed_count": 23,
+          "media_count": 981,
+          "tweet_count": 16003
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "就是\n那很好了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bocchi.rocks",
+                "end": 23,
+                "expanded_url": "https://bocchi.rocks/",
+                "start": 0,
+                "url": "https://t.co/RB0YNUTOVV"
+              }
+            ]
+          }
+        },
+        "id": "1490976522362302465",
+        "location": "Macau",
+        "name": "患難",
+        "pinned_tweet_id": "1888200242325324170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889147755748294656/6dvJMfb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5752,
+          "following_count": 1150,
+          "like_count": 7132,
+          "listed_count": 12,
+          "media_count": 1597,
+          "tweet_count": 11041
+        },
+        "url": "https://t.co/RB0YNUTOVV",
+        "username": "Bingfei_",
+        "verified": false
+      }
+    ]
+  }
+}

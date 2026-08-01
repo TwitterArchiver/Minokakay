@@ -1,0 +1,534 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1815386393142816768",
+        "7_1815386423002017792",
+        "7_1815386434100166656",
+        "3_1815387300555374592"
+      ],
+      "media_source_tweet_id": [
+        "1815387310202196015",
+        "1815387310202196015",
+        "1815387310202196015",
+        "1815387310202196015"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1624925732722864129",
+          "name": "Temu"
+        }
+      }
+    ],
+    "conversation_id": "1903708355824357655",
+    "created_at": "2025-03-23T07:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T08:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903708355824357655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F2u2SveQU1",
+          "end": 104,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1815387310202196015/video/1",
+          "media_key": "7_1815386393142816768",
+          "start": 81,
+          "url": "https://t.co/F2u2SveQU1"
+        },
+        {
+          "display_url": "pic.x.com/F2u2SveQU1",
+          "end": 104,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1815387310202196015/video/1",
+          "media_key": "7_1815386423002017792",
+          "start": 81,
+          "url": "https://t.co/F2u2SveQU1"
+        },
+        {
+          "display_url": "pic.x.com/F2u2SveQU1",
+          "end": 104,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1815387310202196015/video/1",
+          "media_key": "7_1815386434100166656",
+          "start": 81,
+          "url": "https://t.co/F2u2SveQU1"
+        },
+        {
+          "display_url": "pic.x.com/F2u2SveQU1",
+          "end": 104,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1815387310202196015/video/1",
+          "media_key": "3_1815387300555374592",
+          "start": 81,
+          "url": "https://t.co/F2u2SveQU1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903708355824357655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 281
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815387310202196015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 7月21-22日，广东广州。网曝temu海外版拼多多无故扣罚商家，有商家被罚了几百万，上百名商家来到广州总部维权讨说法。 https://t.co/F2u2SveQU1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6666,
+        "height": 960,
+        "media_key": "7_1815386393142816768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1815386393142816768/pu/img/P904M71jCYJibAf4.jpg",
+        "public_metrics": {
+          "view_count": 254612
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1815386393142816768/pu/vid/avc1/320x564/XX6uY7uqbuAytugY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1815386393142816768/pu/vid/avc1/480x846/Ge0A0ob8v22RuAav.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1815386393142816768/pu/vid/avc1/544x960/ApveZSV6FQl9H0cf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1815386393142816768/pu/pl/nEb5xZ3aaUYvVKiv.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 7133,
+        "height": 960,
+        "media_key": "7_1815386423002017792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1815386423002017792/pu/img/A6xMooH69Wp8pff7.jpg",
+        "public_metrics": {
+          "view_count": 71469
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1815386423002017792/pu/vid/avc1/320x564/k9xcQcCLX6zv4-Y6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1815386423002017792/pu/vid/avc1/480x846/T8d8E0ddgiF94kV2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1815386423002017792/pu/vid/avc1/544x960/6Jy4jbJgNnXNsgmA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1815386423002017792/pu/pl/1VS6WhFyfKgiqjdN.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 61766,
+        "height": 720,
+        "media_key": "7_1815386434100166656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1815386434100166656/pu/img/pEr9WgUttbg1ia2T.jpg",
+        "public_metrics": {
+          "view_count": 37670
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1815386434100166656/pu/vid/avc1/480x270/x3di0H3Skd13pSeB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1815386434100166656/pu/vid/avc1/640x360/G8vETioPFgLj9e6n.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1815386434100166656/pu/vid/avc1/1280x720/eNJX4GfLFHiuFjVN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1815386434100166656/pu/pl/bEw7fB92BbYtqWnu.m3u8?tag=12&v=36e"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1562,
+        "media_key": "3_1815387300555374592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTGNIatbwAAHfVK.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1815386393142816768",
+            "7_1815386423002017792",
+            "7_1815386434100166656",
+            "3_1815387300555374592"
+          ],
+          "media_source_tweet_id": [
+            "1815387310202196015",
+            "1815387310202196015",
+            "1815387310202196015",
+            "1815387310202196015"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1624925732722864129",
+              "name": "Temu"
+            }
+          }
+        ],
+        "conversation_id": "1903708355824357655",
+        "created_at": "2025-03-23T07:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T08:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903708355824357655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2u2SveQU1",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1815387310202196015/video/1",
+              "media_key": "7_1815386393142816768",
+              "start": 81,
+              "url": "https://t.co/F2u2SveQU1"
+            },
+            {
+              "display_url": "pic.x.com/F2u2SveQU1",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1815387310202196015/video/1",
+              "media_key": "7_1815386423002017792",
+              "start": 81,
+              "url": "https://t.co/F2u2SveQU1"
+            },
+            {
+              "display_url": "pic.x.com/F2u2SveQU1",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1815387310202196015/video/1",
+              "media_key": "7_1815386434100166656",
+              "start": 81,
+              "url": "https://t.co/F2u2SveQU1"
+            },
+            {
+              "display_url": "pic.x.com/F2u2SveQU1",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1815387310202196015/video/1",
+              "media_key": "3_1815387300555374592",
+              "start": 81,
+              "url": "https://t.co/F2u2SveQU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903708355824357655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 281
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815387310202196015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 7月21-22日，广东广州。网曝temu海外版拼多多无故扣罚商家，有商家被罚了几百万，上百名商家来到广州总部维权讨说法。 https://t.co/F2u2SveQU1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1815386393142816768",
+            "7_1815386423002017792",
+            "7_1815386434100166656",
+            "3_1815387300555374592"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1624925732722864129",
+              "name": "Temu"
+            }
+          }
+        ],
+        "conversation_id": "1815387310202196015",
+        "created_at": "2024-07-22T14:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T15:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815387310202196015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2u2SveQU1",
+              "end": 84,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1815387310202196015/video/1",
+              "media_key": "7_1815386393142816768",
+              "start": 61,
+              "url": "https://t.co/F2u2SveQU1"
+            },
+            {
+              "display_url": "pic.x.com/F2u2SveQU1",
+              "end": 84,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1815387310202196015/video/1",
+              "media_key": "7_1815386423002017792",
+              "start": 61,
+              "url": "https://t.co/F2u2SveQU1"
+            },
+            {
+              "display_url": "pic.x.com/F2u2SveQU1",
+              "end": 84,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1815387310202196015/video/1",
+              "media_key": "7_1815386434100166656",
+              "start": 61,
+              "url": "https://t.co/F2u2SveQU1"
+            },
+            {
+              "display_url": "pic.x.com/F2u2SveQU1",
+              "end": 84,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1815387310202196015/video/1",
+              "media_key": "3_1815387300555374592",
+              "start": 61,
+              "url": "https://t.co/F2u2SveQU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815387310202196015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 259,
+          "impression_count": 1582114,
+          "like_count": 1663,
+          "quote_count": 41,
+          "reply_count": 169,
+          "retweet_count": 281
+        },
+        "reply_settings": "everyone",
+        "text": "7月21-22日，广东广州。网曝temu海外版拼多多无故扣罚商家，有商家被罚了几百万，上百名商家来到广州总部维权讨说法。 https://t.co/F2u2SveQU1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 101,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 78,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1899298005330899355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5922,
+          "following_count": 844,
+          "like_count": 38781,
+          "listed_count": 27,
+          "media_count": 662,
+          "tweet_count": 15242
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963522,
+          "following_count": 943,
+          "like_count": 5979,
+          "listed_count": 8068,
+          "media_count": 25207,
+          "tweet_count": 31595
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

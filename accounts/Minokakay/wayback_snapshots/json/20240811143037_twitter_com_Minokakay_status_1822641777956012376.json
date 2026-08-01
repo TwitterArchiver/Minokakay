@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1822557095365104121",
+    "created_at": "2024-08-11T14:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T15:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822641777956012376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1553317346122637312",
+          "start": 0,
+          "username": "Luke031228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822641777956012376",
+    "in_reply_to_user_id": "1553317346122637312",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822641403857633708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luke031228 我小时候10年那会成都每条河都是臭的，府南河整治都是这几年才搞的，只是没想到现在成都还有这种臭水沟"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1822641403857633708].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1822641403857633708",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1822641403857633708"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1822557095365104121",
+        "created_at": "2024-08-11T14:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T15:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822641777956012376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1553317346122637312",
+              "start": 0,
+              "username": "Luke031228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822641777956012376",
+        "in_reply_to_user_id": "1553317346122637312",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822641403857633708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luke031228 我小时候10年那会成都每条河都是臭的，府南河整治都是这几年才搞的，只是没想到现在成都还有这种臭水沟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome 友🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 付费裡推：@Minokakaysex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Minokakaysex"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 876,
+          "like_count": 6602,
+          "listed_count": 1,
+          "tweet_count": 2387
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T09:51:53.000Z",
+        "description": "He/mbti：infj/准大三牲🤧/有時鑒證/粉紅 粉藍與粉綠都批/🏳️‍🌈 🇵🇸 🇺🇦/OP 崩鐵 1999/有意見時盡量中立/純支黑繞道走謝謝/看furry但不入坑了/語言：英語 簡中（繁中 日文在學ing）/chengdu🚩",
+        "id": "1553317346122637312",
+        "location": "星穹列車",
+        "name": "8:45还不起床的小八（不想鉴政 version)",
+        "pinned_tweet_id": "1822301700457189803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820704698237931520/Ny7yes59_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 577,
+          "like_count": 5887,
+          "listed_count": 1,
+          "tweet_count": 1525
+        },
+        "username": "Luke031228",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1907777123756212547",
+    "created_at": "2025-04-03T13:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T14:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907793255368147270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1637759072115261440",
+          "start": 0,
+          "username": "MiaoZephyr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907793255368147270",
+    "in_reply_to_user_id": "1637759072115261440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907787281861394748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiaoZephyr 半成品是不用的，只要不是成品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1907777123756212547",
+        "created_at": "2025-04-03T13:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T14:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907793255368147270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1637759072115261440",
+              "start": 0,
+              "username": "MiaoZephyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907793255368147270",
+        "in_reply_to_user_id": "1637759072115261440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907787281861394748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiaoZephyr 半成品是不用的，只要不是成品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637759072115261440",
+        "conversation_id": "1907777123756212547",
+        "created_at": "2025-04-03T13:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T14:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907787281861394748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907787281861394748",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907786164280394072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 这个得花一万备案。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 101,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 78,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1899298005330899355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6250,
+          "following_count": 854,
+          "like_count": 39844,
+          "listed_count": 28,
+          "media_count": 730,
+          "tweet_count": 15704
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-20T10:13:58.000Z",
+        "description": "『彩虹厨房』实验室官方号，研究各种化妆品配方，主营5倍雌二醇凝胶和高浓度美白精华，日雌和色谱龙找@yaoniangmao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "yaoniangmao"
+              }
+            ]
+          }
+        },
+        "id": "1637759072115261440",
+        "name": "小怪兽🏳️‍⚧️",
+        "pinned_tweet_id": "1891718536654913726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773291055452139520/3hyvjI66_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 233,
+          "like_count": 2622,
+          "listed_count": 7,
+          "media_count": 122,
+          "tweet_count": 2106
+        },
+        "username": "MiaoZephyr",
+        "verified": false
+      }
+    ]
+  }
+}

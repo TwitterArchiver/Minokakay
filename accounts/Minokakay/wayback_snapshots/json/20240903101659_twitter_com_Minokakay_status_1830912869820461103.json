@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1830903288734056449"
+      ],
+      "media_source_tweet_id": [
+        "1830912117894975580"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Ongoing News Stories like 'Brexit'",
+          "id": "123",
+          "name": "Ongoing News Story"
+        },
+        "entity": {
+          "id": "1484601166080081920",
+          "name": "Russo-Ukrainian conflict"
+        }
+      }
+    ],
+    "conversation_id": "1830912869820461103",
+    "created_at": "2024-09-03T10:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T11:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830912869820461103"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "AMX",
+          "probability": 0.4003,
+          "start": 21,
+          "type": "Other"
+        },
+        {
+          "end": 97,
+          "normalized_text": "Marine Battalion",
+          "probability": 0.5532,
+          "start": 82,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "630995607",
+          "start": 3,
+          "username": "DefenceU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zllswni5dj",
+          "end": 130,
+          "expanded_url": "https://twitter.com/DefenceU/status/1830912117894975580/photo/1",
+          "media_key": "3_1830903288734056449",
+          "start": 107,
+          "url": "https://t.co/ZllSwni5dj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830912869820461103",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830912117894975580",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DefenceU: French AMX-10 RC armored fighting vehicle in service with the 505th Marine Battalion. \n🇺🇦🇫🇷💪 https://t.co/ZllSwni5dj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2052,
+        "media_key": "3_1830903288734056449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWis1y8WgAEYogx.jpg",
+        "width": 1498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830903288734056449"
+          ],
+          "media_source_tweet_id": [
+            "1830912117894975580"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1484601166080081920",
+              "name": "Russo-Ukrainian conflict"
+            }
+          }
+        ],
+        "conversation_id": "1830912869820461103",
+        "created_at": "2024-09-03T10:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T11:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830912869820461103"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "AMX",
+              "probability": 0.4003,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 97,
+              "normalized_text": "Marine Battalion",
+              "probability": 0.5532,
+              "start": 82,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "630995607",
+              "start": 3,
+              "username": "DefenceU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zllswni5dj",
+              "end": 130,
+              "expanded_url": "https://twitter.com/DefenceU/status/1830912117894975580/photo/1",
+              "media_key": "3_1830903288734056449",
+              "start": 107,
+              "url": "https://t.co/ZllSwni5dj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830912869820461103",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830912117894975580",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DefenceU: French AMX-10 RC armored fighting vehicle in service with the 505th Marine Battalion. \n🇺🇦🇫🇷💪 https://t.co/ZllSwni5dj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830903288734056449"
+          ]
+        },
+        "author_id": "630995607",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1484601166080081920",
+              "name": "Russo-Ukrainian conflict"
+            }
+          }
+        ],
+        "conversation_id": "1830912117894975580",
+        "created_at": "2024-09-03T10:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T11:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830912117894975580"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "French AMX-10",
+              "probability": 0.5459,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 83,
+              "normalized_text": "Marine Battalion",
+              "probability": 0.6019,
+              "start": 68,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zllswni5dj",
+              "end": 116,
+              "expanded_url": "https://twitter.com/DefenceU/status/1830912117894975580/photo/1",
+              "media_key": "3_1830903288734056449",
+              "start": 93,
+              "url": "https://t.co/ZllSwni5dj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830912117894975580",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2044,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "French AMX-10 RC armored fighting vehicle in service with the 505th Marine Battalion. \n🇺🇦🇫🇷💪 https://t.co/ZllSwni5dj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 795,
+          "like_count": 12378,
+          "listed_count": 3,
+          "tweet_count": 4874
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-09T08:39:09.000Z",
+        "description": "Official page of the Ministry of Defense of Ukraine 🇺🇦\nUkrainian MoD on Telegram:\n https://t.co/Ei2jAK4vla",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ministry_of_de…",
+                "end": 106,
+                "expanded_url": "https://t.me/ministry_of_defense_ua",
+                "start": 83,
+                "url": "https://t.co/Ei2jAK4vla"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mil.gov.ua",
+                "end": 23,
+                "expanded_url": "http://www.mil.gov.ua/",
+                "start": 0,
+                "url": "https://t.co/PavcLC8tCn"
+              }
+            ]
+          }
+        },
+        "id": "630995607",
+        "location": "Україна",
+        "name": "Defense of Ukraine",
+        "pinned_tweet_id": "1239561083280556037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788851187871023104/X6lt83NG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2117713,
+          "following_count": 74,
+          "like_count": 948,
+          "listed_count": 14165,
+          "tweet_count": 20255
+        },
+        "url": "https://t.co/PavcLC8tCn",
+        "username": "DefenceU",
+        "verified": true
+      }
+    ]
+  }
+}

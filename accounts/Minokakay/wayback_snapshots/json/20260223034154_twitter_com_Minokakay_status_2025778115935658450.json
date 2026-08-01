@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2024989551392161793"
+      ],
+      "media_source_tweet_id": [
+        "2024989626130436097"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2025778115935658450",
+    "created_at": "2026-02-23T03:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T04:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025778115935658450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2v6Clu43lF",
+          "end": 41,
+          "expanded_url": "https://x.com/anblk984/status/2024989626130436097/video/1",
+          "media_key": "13_2024989551392161793",
+          "start": 18,
+          "url": "https://t.co/2v6Clu43lF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025778115935658450",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024989626130436097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: 有鬼😁 https://t.co/2v6Clu43lF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2025778115935658450].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2025778115935658450",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2025778115935658450"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27733,
+        "height": 508,
+        "media_key": "13_2024989551392161793",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024989551392161793/img/zLyye-eOB5qurQTX.jpg",
+        "public_metrics": {
+          "view_count": 1464
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024989551392161793/vid/avc1/320x414/5uZnWgPFWLyW6xLY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024989551392161793/vid/avc1/392x508/DwJj2v_epXZPmGbP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024989551392161793/pl/nMw8OGa51tG_SofD.m3u8"
+          }
+        ],
+        "width": 392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024989551392161793"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2024989626130436097",
+        "created_at": "2026-02-20T23:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T00:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024989626130436097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2v6Clu43lF",
+              "end": 27,
+              "expanded_url": "https://x.com/anblk984/status/2024989626130436097/video/1",
+              "media_key": "13_2024989551392161793",
+              "start": 4,
+              "url": "https://t.co/2v6Clu43lF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024989626130436097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2879,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有鬼😁 https://t.co/2v6Clu43lF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp，私信不回，打不开是你梯子太烂了，换一个就行",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 51,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14066,
+          "following_count": 1066,
+          "like_count": 44131,
+          "listed_count": 52,
+          "media_count": 1728,
+          "tweet_count": 25226
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/劳保爱习楠/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1991346530033496380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9500,
+          "following_count": 964,
+          "like_count": 104068,
+          "listed_count": 59,
+          "media_count": 1983,
+          "tweet_count": 25761
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

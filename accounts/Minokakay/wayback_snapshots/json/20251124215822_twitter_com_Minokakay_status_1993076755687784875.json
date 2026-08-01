@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992867328338649088"
+      ],
+      "media_source_tweet_id": [
+        "1992867333275320728"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1993076755687784875",
+    "created_at": "2025-11-24T21:58:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T22:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993076755687784875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1956645343241850880",
+          "start": 3,
+          "username": "imy1675254"
+        },
+        {
+          "end": 30,
+          "id": "1837114188046684161",
+          "start": 16,
+          "username": "winterfruit_1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y7P7Op9y6Q",
+          "end": 54,
+          "expanded_url": "https://x.com/imy1675254/status/1992867333275320728/photo/1",
+          "media_key": "3_1992867328338649088",
+          "start": 31,
+          "url": "https://t.co/y7P7Op9y6Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993076755687784875",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992867333275320728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imy1675254: @winterfruit_1 https://t.co/y7P7Op9y6Q"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1993076755687784875].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1993076755687784875",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1993076755687784875"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_1992867328338649088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6gWRsYbYAAKyAY.jpg",
+        "width": 1371
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992867328338649088"
+          ]
+        },
+        "author_id": "1956645343241850880",
+        "conversation_id": "1992735512449392909",
+        "created_at": "2025-11-24T08:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T09:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992867333275320728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y7P7Op9y6Q",
+              "end": 38,
+              "expanded_url": "https://x.com/imy1675254/status/1992867333275320728/photo/1",
+              "media_key": "3_1992867328338649088",
+              "start": 15,
+              "url": "https://t.co/y7P7Op9y6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992867333275320728",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 560,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992735512449392909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 https://t.co/y7P7Op9y6Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12515,
+          "following_count": 1011,
+          "like_count": 45021,
+          "listed_count": 43,
+          "media_count": 1636,
+          "tweet_count": 23621
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-16T09:13:20.000Z",
+        "description": "血圖不打碼（開始碼了）會自言自語 *最近入坑P5X然後沒石頭抽祭司沒怎麼登新世界",
+        "id": "1956645343241850880",
+        "location": "我家",
+        "name": "安斯特",
+        "pinned_tweet_id": "1983074480869257224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959129993323454464/y1I1fMzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 42,
+          "like_count": 10729,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1373
+        },
+        "username": "imy1675254",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "🐙🐙 WinterFruit / 涘 / 里账：@_Yuyuko_FTZ 🐙🐙 Winit420的TG频道：https://t.co/8Fpj4I8VLs                     提问箱：https://t.co/NrASw1APTe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_Yuyuko_FTZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+3zLMFiyefJxiZ…",
+                "end": 77,
+                "expanded_url": "https://t.me/+3zLMFiyefJxiZGQx",
+                "start": 54,
+                "url": "https://t.co/8Fpj4I8VLs"
+              },
+              {
+                "display_url": "ngl.link/winterfruit",
+                "end": 125,
+                "expanded_url": "https://ngl.link/winterfruit",
+                "start": 102,
+                "url": "https://t.co/NrASw1APTe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcIVTH"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1988187452499177853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986854989541875717/haykguZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 1317,
+          "like_count": 23389,
+          "listed_count": 5,
+          "media_count": 827,
+          "tweet_count": 7482
+        },
+        "url": "https://t.co/PQZdMcIVTH",
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984606651174043655"
+      ],
+      "media_source_tweet_id": [
+        "1984606656479846426"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1984643910485098848",
+    "created_at": "2025-11-01T15:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T16:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984643910485098848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1958866789452193793",
+          "start": 3,
+          "username": "m3gris3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lqxOyaZLGr",
+          "end": 36,
+          "expanded_url": "https://x.com/m3gris3/status/1984606656479846426/photo/1",
+          "media_key": "3_1984606651174043655",
+          "start": 13,
+          "url": "https://t.co/lqxOyaZLGr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984643910485098848",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984606656479846426",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @m3gris3: https://t.co/lqxOyaZLGr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1860,
+        "media_key": "3_1984606651174043655",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4q9O_4bQAcb5UJ.jpg",
+        "width": 1157
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984606651174043655"
+          ],
+          "media_source_tweet_id": [
+            "1984606656479846426"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1984643910485098848",
+        "created_at": "2025-11-01T15:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T16:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984643910485098848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1958866789452193793",
+              "start": 3,
+              "username": "m3gris3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lqxOyaZLGr",
+              "end": 36,
+              "expanded_url": "https://x.com/m3gris3/status/1984606656479846426/photo/1",
+              "media_key": "3_1984606651174043655",
+              "start": 13,
+              "url": "https://t.co/lqxOyaZLGr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984643910485098848",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984606656479846426",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @m3gris3: https://t.co/lqxOyaZLGr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984606651174043655"
+          ]
+        },
+        "author_id": "1958866789452193793",
+        "conversation_id": "1984606656479846426",
+        "created_at": "2025-11-01T13:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T14:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984606656479846426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lqxOyaZLGr",
+              "end": 23,
+              "expanded_url": "https://x.com/m3gris3/status/1984606656479846426/photo/1",
+              "media_key": "3_1984606651174043655",
+              "start": 0,
+              "url": "https://t.co/lqxOyaZLGr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984606656479846426",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 5430,
+          "like_count": 817,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lqxOyaZLGr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11954,
+          "following_count": 998,
+          "like_count": 45023,
+          "listed_count": 41,
+          "media_count": 1495,
+          "tweet_count": 22395
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-22T12:20:19.000Z",
+        "description": "成人済/ EVA中心 / ｶｦｼﾝ,みんなすき",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/2mf0ek93j…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/2mf0ek93js5cwls8/",
+                "start": 0,
+                "url": "https://t.co/totup7iXIN"
+              }
+            ]
+          }
+        },
+        "id": "1958866789452193793",
+        "name": "ちょじ",
+        "pinned_tweet_id": "1979501633647288695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974835858231734272/yf2idXG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 40,
+          "like_count": 539,
+          "listed_count": 3,
+          "media_count": 32,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/totup7iXIN",
+        "username": "m3gris3",
+        "verified": false
+      }
+    ]
+  }
+}

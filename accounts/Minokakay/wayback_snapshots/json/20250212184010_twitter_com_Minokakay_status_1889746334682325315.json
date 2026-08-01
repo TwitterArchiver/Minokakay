@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1889739089806524707",
+    "created_at": "2025-02-12T18:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T19:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889746334682325315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751584887738716160",
+          "start": 0,
+          "username": "yekatinez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889746334682325315",
+    "in_reply_to_user_id": "1751584887738716160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889745613950226510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yekatinez 一般"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1889739089806524707",
+        "created_at": "2025-02-12T18:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T19:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889746334682325315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751584887738716160",
+              "start": 0,
+              "username": "yekatinez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889746334682325315",
+        "in_reply_to_user_id": "1751584887738716160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889745613950226510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yekatinez 一般"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751584887738716160",
+        "conversation_id": "1889739089806524707",
+        "created_at": "2025-02-12T18:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T19:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889745613950226510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889745613950226510",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889739089806524707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 芒果味好喝吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日雌泰補色諾",
+        "pinned_tweet_id": "1887195421598257202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4546,
+          "following_count": 804,
+          "like_count": 34853,
+          "listed_count": 22,
+          "media_count": 969,
+          "tweet_count": 15877
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T12:36:02.000Z",
+        "description": "我的意思是 你没有必要特意弄脏双手 孩子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/emiri94987",
+                "end": 23,
+                "expanded_url": "https://ngl.link/emiri94987",
+                "start": 0,
+                "url": "https://t.co/DgJxSjpQev"
+              }
+            ]
+          }
+        },
+        "id": "1751584887738716160",
+        "location": "天国",
+        "name": "emrio",
+        "pinned_tweet_id": "1884115787520303208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888850145586077696/3vqPS32b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 145,
+          "like_count": 93,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 214
+        },
+        "url": "https://t.co/DgJxSjpQev",
+        "username": "yekatinez",
+        "verified": false
+      }
+    ]
+  }
+}

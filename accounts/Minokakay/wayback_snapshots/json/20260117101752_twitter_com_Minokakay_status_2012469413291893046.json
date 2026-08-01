@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2012469413291893046",
+    "created_at": "2026-01-17T10:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T11:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012469413291893046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minokakay/stat…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/minokakay/status/2012409202849780201",
+          "start": 62,
+          "url": "https://t.co/R432E2DPNz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012469413291893046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012409202849780201",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我上学的时候可讨厌语文了，因为我觉得高考语文就是写臭八股，但我实际上是班上看书最多的人，一天四五个小时都拿着Kindle看 https://t.co/R432E2DPNz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2012469413291893046",
+        "created_at": "2026-01-17T10:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012469413291893046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/minokakay/status/2012409202849780201",
+              "start": 62,
+              "url": "https://t.co/R432E2DPNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012469413291893046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012409202849780201",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我上学的时候可讨厌语文了，因为我觉得高考语文就是写臭八股，但我实际上是班上看书最多的人，一天四五个小时都拿着Kindle看 https://t.co/R432E2DPNz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2012409202849780201",
+        "created_at": "2026-01-17T06:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T07:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012409202849780201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012409202849780201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1927,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "当知识不再为了分数服务，你就会体会到知识的魅力。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️咨询补色诺凝胶/减肥/促智等看https://t.co/9scN5m8csf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chosekipharmacy",
+                "end": 80,
+                "expanded_url": "http://linktr.ee/chosekipharmacy",
+                "start": 57,
+                "url": "https://t.co/9scN5m8csf"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2007855045178716540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13809,
+          "following_count": 1023,
+          "like_count": 44945,
+          "listed_count": 50,
+          "media_count": 1820,
+          "tweet_count": 25445
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

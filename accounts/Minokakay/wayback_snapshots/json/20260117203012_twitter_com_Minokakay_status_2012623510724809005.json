@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012540650978238465"
+      ],
+      "media_source_tweet_id": [
+        "2012540659186454826"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2012623510724809005",
+    "created_at": "2026-01-17T20:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T21:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012623510724809005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1445953436420169732",
+          "start": 3,
+          "username": "88888chae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DFyOUmXMgA",
+          "end": 38,
+          "expanded_url": "https://x.com/88888chae/status/2012540659186454826/photo/1",
+          "media_key": "3_2012540650978238465",
+          "start": 15,
+          "url": "https://t.co/DFyOUmXMgA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012623510724809005",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012540659186454826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @88888chae: https://t.co/DFyOUmXMgA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012540650978238465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-37DyWXYAE_jSQ.jpg",
+        "width": 1364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012540650978238465"
+          ],
+          "media_source_tweet_id": [
+            "2012540659186454826"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2012623510724809005",
+        "created_at": "2026-01-17T20:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T21:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012623510724809005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1445953436420169732",
+              "start": 3,
+              "username": "88888chae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFyOUmXMgA",
+              "end": 38,
+              "expanded_url": "https://x.com/88888chae/status/2012540659186454826/photo/1",
+              "media_key": "3_2012540650978238465",
+              "start": 15,
+              "url": "https://t.co/DFyOUmXMgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012623510724809005",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012540659186454826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @88888chae: https://t.co/DFyOUmXMgA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012540650978238465"
+          ]
+        },
+        "author_id": "1445953436420169732",
+        "conversation_id": "2012540659186454826",
+        "created_at": "2026-01-17T15:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012540659186454826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFyOUmXMgA",
+              "end": 23,
+              "expanded_url": "https://x.com/88888chae/status/2012540659186454826/photo/1",
+              "media_key": "3_2012540650978238465",
+              "start": 0,
+              "url": "https://t.co/DFyOUmXMgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012540659186454826",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 244,
+          "impression_count": 24407,
+          "like_count": 2485,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DFyOUmXMgA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️咨询补色诺凝胶等看https://t.co/9scN5m8csf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chosekipharmacy",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/chosekipharmacy",
+                "start": 51,
+                "url": "https://t.co/9scN5m8csf"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2007855045178716540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13828,
+          "following_count": 1023,
+          "like_count": 44944,
+          "listed_count": 50,
+          "media_count": 1823,
+          "tweet_count": 25476
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-07T03:25:46.000Z",
+        "description": "✉️chae88in@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ko/88888chae",
+                "end": 23,
+                "expanded_url": "https://lit.link/ko/88888chae",
+                "start": 0,
+                "url": "https://t.co/lQo5q4bO40"
+              }
+            ]
+          }
+        },
+        "id": "1445953436420169732",
+        "name": "채채",
+        "pinned_tweet_id": "2008131484880883844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938453405103755265/1GSREmb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80573,
+          "following_count": 457,
+          "like_count": 8912,
+          "listed_count": 512,
+          "media_count": 133,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/lQo5q4bO40",
+        "username": "88888chae",
+        "verified": false
+      }
+    ]
+  }
+}

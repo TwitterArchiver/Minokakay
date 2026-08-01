@@ -1,0 +1,272 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1802324959160930304"
+      ],
+      "media_source_tweet_id": [
+        "1802325121786679306"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1802957843760545886",
+    "created_at": "2024-06-18T06:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T07:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802957843760545886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1581878720016457728",
+          "start": 3,
+          "username": "cookies64900795"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/VaBJ5c4dhm",
+          "end": 66,
+          "expanded_url": "https://twitter.com/cookies64900795/status/1802325121786679306/video/1",
+          "media_key": "7_1802324959160930304",
+          "start": 43,
+          "url": "https://t.co/VaBJ5c4dhm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802957843760545886",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802325121786679306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cookies64900795: 胡耀邦的「死别」\n朋友做的剪辑，画画的是我 https://t.co/VaBJ5c4dhm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 89266,
+        "height": 720,
+        "media_key": "7_1802324959160930304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1802324959160930304/pu/img/9caMeyeRjYki13Vd.jpg",
+        "public_metrics": {
+          "view_count": 197
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802324959160930304/pu/vid/avc1/480x270/xYt69fYFl2NnzqfJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802324959160930304/pu/vid/avc1/640x360/Pxo-wpQnBOslf5AZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1802324959160930304/pu/vid/avc1/1280x720/ZBwb90IzTI1w-Nrd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1802324959160930304/pu/pl/oML-4Fgjlfh31ZiZ.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1802324959160930304"
+          ],
+          "media_source_tweet_id": [
+            "1802325121786679306"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1802957843760545886",
+        "created_at": "2024-06-18T06:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T07:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802957843760545886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1581878720016457728",
+              "start": 3,
+              "username": "cookies64900795"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/VaBJ5c4dhm",
+              "end": 66,
+              "expanded_url": "https://twitter.com/cookies64900795/status/1802325121786679306/video/1",
+              "media_key": "7_1802324959160930304",
+              "start": 43,
+              "url": "https://t.co/VaBJ5c4dhm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802957843760545886",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802325121786679306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cookies64900795: 胡耀邦的「死别」\n朋友做的剪辑，画画的是我 https://t.co/VaBJ5c4dhm"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1802324959160930304"
+          ]
+        },
+        "author_id": "1581878720016457728",
+        "conversation_id": "1802325121786679306",
+        "created_at": "2024-06-16T12:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T13:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802325121786679306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/VaBJ5c4dhm",
+              "end": 45,
+              "expanded_url": "https://twitter.com/cookies64900795/status/1802325121786679306/video/1",
+              "media_key": "7_1802324959160930304",
+              "start": 22,
+              "url": "https://t.co/VaBJ5c4dhm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802325121786679306",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 547,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "胡耀邦的「死别」\n朋友做的剪辑，画画的是我 https://t.co/VaBJ5c4dhm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "暗い未來だって，\n強くなって運命変えられるかもね  🇹🇼ROC成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 725,
+          "like_count": 1980,
+          "listed_count": 0,
+          "tweet_count": 976
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T05:24:28.000Z",
+        "description": "=曲奇  政史娘化相关｜我只看中共第二代领导团体｜不吵架不见证",
+        "id": "1581878720016457728",
+        "name": "曲奇曲奇曲奇",
+        "pinned_tweet_id": "1794963487422357955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800861673080881152/2w2jfUGx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 286,
+          "like_count": 1023,
+          "listed_count": 2,
+          "tweet_count": 681
+        },
+        "username": "cookies64900795",
+        "verified": false
+      }
+    ]
+  }
+}

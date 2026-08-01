@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2015469942876049847",
+    "created_at": "2026-01-25T17:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T18:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015469942876049847"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "白樺 青空 南風 こぶし咲くあの丘北国",
+          "probability": 0.1149,
+          "start": 0,
+          "type": "Place"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015469942876049847",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "白樺 青空 南風\nこぶし咲くあの丘北国の ああ北国の春"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2015469942876049847",
+        "created_at": "2026-01-25T17:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015469942876049847"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "白樺 青空 南風 こぶし咲くあの丘北国",
+              "probability": 0.1149,
+              "start": 0,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015469942876049847",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白樺 青空 南風\nこぶし咲くあの丘北国の ああ北国の春"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️咨询补色诺凝胶等看https://t.co/9scN5m8csf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chosekipharmacy",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/chosekipharmacy",
+                "start": 51,
+                "url": "https://t.co/9scN5m8csf"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2013945809042350395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13977,
+          "following_count": 1028,
+          "like_count": 44881,
+          "listed_count": 49,
+          "media_count": 1827,
+          "tweet_count": 25634
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

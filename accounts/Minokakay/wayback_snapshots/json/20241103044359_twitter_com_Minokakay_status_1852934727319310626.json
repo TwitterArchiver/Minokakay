@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1852864180644360628",
+    "created_at": "2024-11-03T04:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T05:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852934727319310626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1842339205495631872",
+          "start": 0,
+          "username": "Bocchi0221520"
+        },
+        {
+          "end": 26,
+          "id": "1748717733569875968",
+          "start": 15,
+          "username": "GLaDOS8964"
+        },
+        {
+          "end": 38,
+          "id": "1577816015840296960",
+          "start": 27,
+          "username": "yangaaa111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852934727319310626",
+    "in_reply_to_user_id": "1842339205495631872",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852934548793000356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bocchi0221520 @GLaDOS8964 @yangaaa111 吃吃你的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1852934548793000356].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1852934548793000356",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1852934548793000356"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1852864180644360628",
+        "created_at": "2024-11-03T04:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T05:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852934727319310626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1842339205495631872",
+              "start": 0,
+              "username": "Bocchi0221520"
+            },
+            {
+              "end": 26,
+              "id": "1748717733569875968",
+              "start": 15,
+              "username": "GLaDOS8964"
+            },
+            {
+              "end": 38,
+              "id": "1577816015840296960",
+              "start": 27,
+              "username": "yangaaa111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852934727319310626",
+        "in_reply_to_user_id": "1842339205495631872",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852934548793000356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bocchi0221520 @GLaDOS8964 @yangaaa111 吃吃你的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1850583794224635904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 928,
+          "like_count": 24738,
+          "listed_count": 3,
+          "tweet_count": 11286
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T23:01:22.000Z",
+        "description": "@Bocchi520_的裡推\n@yangaaa111 愛人\n不涉政，碎碎念\n不是黃推，友善的人多來\n喜歡友善的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Bocchi520_"
+              },
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yangaaa111"
+              }
+            ]
+          }
+        },
+        "id": "1842339205495631872",
+        "location": "睡覺了就犯病，有人了就心慌",
+        "name": "一裡",
+        "pinned_tweet_id": "1846904280181326082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851215743985348608/FVkCJlfu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 56,
+          "like_count": 1676,
+          "listed_count": 0,
+          "tweet_count": 709
+        },
+        "username": "Bocchi0221520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T14:43:03.000Z",
+        "description": "友跨，i am here   \n备：@zau743598828677  \nDOS向你问好\n这里是，格拉道斯\n沾负能鉴证经济学哲学思考，理性主义万岁，社会自由主义，右边偏左，反极端主义，反政治宗教化，图腾崇拜化\n\n家庭化学，CS，瓦，各种电脑游戏，经济学本科学习中，键政爱好，伪ADHD，od，一些伪心理疾病",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "zau743598828677"
+              }
+            ]
+          }
+        },
+        "id": "1748717733569875968",
+        "location": "荷兰郑州",
+        "name": "GLaDOS",
+        "pinned_tweet_id": "1838205367186333709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808141941017890816/gINiWXJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 874,
+          "like_count": 28764,
+          "listed_count": 2,
+          "tweet_count": 14675
+        },
+        "username": "GLaDOS8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-06T00:20:49.000Z",
+        "description": "一个无趣的人\n 爱人@Bocchi0221520\n里推@yangeee555（只过熟人）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "Bocchi0221520"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "yangeee555"
+              }
+            ]
+          }
+        },
+        "id": "1577816015840296960",
+        "location": "「結束バンド」",
+        "name": "yang",
+        "pinned_tweet_id": "1821150161479069831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836073477641768960/UW7mPXZy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 445,
+          "like_count": 38467,
+          "listed_count": 2,
+          "tweet_count": 7419
+        },
+        "username": "yangaaa111",
+        "verified": false
+      }
+    ]
+  }
+}

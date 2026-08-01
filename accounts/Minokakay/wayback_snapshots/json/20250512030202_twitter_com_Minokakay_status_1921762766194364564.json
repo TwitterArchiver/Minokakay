@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1921762766194364564",
+    "created_at": "2025-05-12T03:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T04:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921762766194364564"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zaobaosg/statu…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/zaobaosg/status/1921762268905193616",
+          "start": 21,
+          "url": "https://t.co/Jf5Ofn0xd0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921762766194364564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921762268905193616",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "像是百度能干得出来的事，我都用谷歌/高德 https://t.co/Jf5Ofn0xd0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1921762766194364564",
+        "created_at": "2025-05-12T03:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T04:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921762766194364564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zaobaosg/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/zaobaosg/status/1921762268905193616",
+              "start": 21,
+              "url": "https://t.co/Jf5Ofn0xd0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921762766194364564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921762268905193616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像是百度能干得出来的事，我都用谷歌/高德 https://t.co/Jf5Ofn0xd0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "39941478",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1921762268905193616",
+        "created_at": "2025-05-12T03:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T04:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921762268905193616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "（武汉／广州综合讯）中国科技巨头百度旗下地图导航应用“百度地图”，因在导航画面中植入广告内容，被网民炮轰影响行车安全。",
+              "display_url": "zb.sg/s5Rh",
+              "end": 82,
+              "expanded_url": "https://zb.sg/s5Rh",
+              "images": [
+                {
+                  "height": 682,
+                  "url": "https://pbs.twimg.com/news_img/1921762311301185536/oVS8aMev?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1921762311301185536/oVS8aMev?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 59,
+              "status": 200,
+              "title": "百度地图植入广告 被指影响行车安全",
+              "unwound_url": "https://www.zaobao.com.sg/finance/china/story20250511-6324983?utm_source=twitter&utm_medium=social",
+              "url": "https://t.co/BGsMDNn2DC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921762268905193616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 420,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（武汉／广州综合讯）中国科技巨头百度旗下地图导航应用“百度地图”，因在导航画面中植入广告内容，被网民炮轰影响行车安全。https://t.co/BGsMDNn2DC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1916475690863726978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6867,
+          "following_count": 877,
+          "like_count": 42058,
+          "listed_count": 30,
+          "media_count": 936,
+          "tweet_count": 17371
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-14T06:18:48.000Z",
+        "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36EdQU6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zaobaosg",
+                "end": 90,
+                "expanded_url": "http://t.me/zaobaosg",
+                "start": 67,
+                "url": "https://t.co/kHH36EdQU6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zaobao.sg",
+                "end": 23,
+                "expanded_url": "http://www.zaobao.sg",
+                "start": 0,
+                "url": "https://t.co/SFQSIIL8zo"
+              }
+            ]
+          }
+        },
+        "id": "39941478",
+        "location": "Singapore",
+        "name": "联合早报 Lianhe Zaobao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649809,
+          "following_count": 5,
+          "like_count": 22,
+          "listed_count": 5767,
+          "media_count": 5678,
+          "tweet_count": 151575
+        },
+        "url": "https://t.co/SFQSIIL8zo",
+        "username": "zaobaosg",
+        "verified": true
+      }
+    ]
+  }
+}

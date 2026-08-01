@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1988617708678627722",
+    "created_at": "2025-11-13T02:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T03:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988790543024099747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "852324263977558017",
+          "start": 0,
+          "username": "20mmMG151"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988790543024099747",
+    "in_reply_to_user_id": "852324263977558017",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988618051852390448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@20mmMG151 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1988617708678627722",
+        "created_at": "2025-11-13T02:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T03:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988790543024099747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "852324263977558017",
+              "start": 0,
+              "username": "20mmMG151"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988790543024099747",
+        "in_reply_to_user_id": "852324263977558017",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988618051852390448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@20mmMG151 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "852324263977558017",
+        "conversation_id": "1988617708678627722",
+        "created_at": "2025-11-12T14:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T15:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988618051852390448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988618051852390448",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988617708678627722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 这个都有七八年了吧🥲回不去的同年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12053,
+          "following_count": 1005,
+          "like_count": 45017,
+          "listed_count": 42,
+          "media_count": 1532,
+          "tweet_count": 22726
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-13T00:55:14.000Z",
+        "description": "跨女🏳️‍⚧️，hrt 2025/4/22\n无情的点赞机器 \n杂食，啥都看",
+        "id": "852324263977558017",
+        "location": "Gotham City, Sewer",
+        "name": "🐭wowo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960288056701030400/IDF5MIjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 555,
+          "like_count": 62239,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 3082
+        },
+        "username": "20mmMG151",
+        "verified": false
+      }
+    ]
+  }
+}

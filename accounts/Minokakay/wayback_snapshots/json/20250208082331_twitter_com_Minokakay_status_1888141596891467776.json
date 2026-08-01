@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1887874047108923442",
+    "created_at": "2025-02-08T08:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T09:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888141596891467776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2384854741",
+          "start": 0,
+          "username": "Fellon_Breath"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888141596891467776",
+    "in_reply_to_user_id": "2384854741",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888135486058959245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fellon_Breath 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1887874047108923442",
+        "created_at": "2025-02-08T08:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T09:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888141596891467776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2384854741",
+              "start": 0,
+              "username": "Fellon_Breath"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888141596891467776",
+        "in_reply_to_user_id": "2384854741",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888135486058959245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fellon_Breath 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2384854741",
+        "conversation_id": "1887874047108923442",
+        "created_at": "2025-02-08T07:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T08:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888135486058959245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888135486058959245",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887874047108923442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 银联可以吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日雌泰補色諾",
+        "pinned_tweet_id": "1887195421598257202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4042,
+          "following_count": 801,
+          "like_count": 34601,
+          "listed_count": 18,
+          "media_count": 953,
+          "tweet_count": 15720
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2014-03-12T07:27:12.000Z",
+        "description": "唔？",
+        "id": "2384854741",
+        "name": "綾羽Rinyu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786279934828441600/Bk1KDN8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 84,
+          "like_count": 946,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 363
+        },
+        "username": "Fellon_Breath",
+        "verified": false
+      }
+    ]
+  }
+}

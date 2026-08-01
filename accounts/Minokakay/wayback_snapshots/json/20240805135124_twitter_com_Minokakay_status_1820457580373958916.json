@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1820288302282654160",
+    "created_at": "2024-08-05T13:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T14:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820457580373958916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687839026316009472",
+          "start": 0,
+          "username": "nai_mou33457"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820457580373958916",
+    "in_reply_to_user_id": "1687839026316009472",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820457234972967351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nai_mou33457 中国的大学想做这些也蛮困难吧（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1820288302282654160",
+        "created_at": "2024-08-05T13:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T14:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820457580373958916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687839026316009472",
+              "start": 0,
+              "username": "nai_mou33457"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820457580373958916",
+        "in_reply_to_user_id": "1687839026316009472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820457234972967351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nai_mou33457 中国的大学想做这些也蛮困难吧（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687839026316009472",
+        "conversation_id": "1820288302282654160",
+        "created_at": "2024-08-05T13:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T14:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820457234972967351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820457234972967351",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820288302282654160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 或许这些是在大学里做的（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成都重慶 半休学状态陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 812,
+          "like_count": 4204,
+          "listed_count": 1,
+          "tweet_count": 1794
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T14:53:00.000Z",
+        "description": "一个爱摄影的2G网废物",
+        "id": "1687839026316009472",
+        "name": "不容呓枫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687842579206033409/cZkZsiSA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 11,
+          "like_count": 1354,
+          "listed_count": 0,
+          "tweet_count": 110
+        },
+        "username": "nai_mou33457",
+        "verified": false
+      }
+    ]
+  }
+}

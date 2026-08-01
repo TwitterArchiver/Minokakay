@@ -1,0 +1,642 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1855953286550974839",
+    "created_at": "2024-11-11T12:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T13:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1855953286550974839"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Strelexia/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Strelexia/status/1855774913203679662",
+          "start": 4,
+          "url": "https://t.co/7E5NWL49GU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855953286550974839",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855774913203679662",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真是我 https://t.co/7E5NWL49GU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1855953286550974839",
+        "created_at": "2024-11-11T12:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T13:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855953286550974839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Strelexia/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Strelexia/status/1855774913203679662",
+              "start": 4,
+              "url": "https://t.co/7E5NWL49GU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855953286550974839",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855774913203679662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真是我 https://t.co/7E5NWL49GU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418328991493070850",
+        "conversation_id": "1855774913203679662",
+        "created_at": "2024-11-11T00:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T01:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855774913203679662"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "恶心"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "头晕"
+            },
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "面色苍白"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "出汗"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "腹痛"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "血压下降"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "休克"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "昏迷"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "体温增高"
+            },
+            {
+              "end": 54,
+              "start": 47,
+              "tag": "浑身无力发冷"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "全身酸痛"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "没有食欲"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "昏昏欲睡"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "腹泻"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "呕吐"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "眼睛酸胀"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "关节疼痛"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "咳嗽"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "咳痰"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "胸痛"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "恶寒"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "头痛"
+            },
+            {
+              "end": 120,
+              "start": 113,
+              "tag": "全身肌肉酸痛"
+            },
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "咽喉疼痛"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "鼻塞"
+            },
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "流鼻涕"
+            },
+            {
+              "end": 141,
+              "start": 136,
+              "tag": "神志改变"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "心悸"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "出汗"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "震颤"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "伤感"
+            },
+            {
+              "end": 161,
+              "start": 158,
+              "tag": "抑郁"
+            },
+            {
+              "end": 166,
+              "start": 162,
+              "tag": "焦虑症"
+            },
+            {
+              "end": 171,
+              "start": 167,
+              "tag": "躁郁症"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855774913203679662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 5,
+                "tag": "恶心"
+              },
+              {
+                "end": 12,
+                "start": 9,
+                "tag": "头晕"
+              },
+              {
+                "end": 18,
+                "start": 13,
+                "tag": "面色苍白"
+              },
+              {
+                "end": 22,
+                "start": 19,
+                "tag": "出汗"
+              },
+              {
+                "end": 26,
+                "start": 23,
+                "tag": "腹痛"
+              },
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "血压下降"
+              },
+              {
+                "end": 36,
+                "start": 33,
+                "tag": "休克"
+              },
+              {
+                "end": 40,
+                "start": 37,
+                "tag": "昏迷"
+              },
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "体温增高"
+              },
+              {
+                "end": 54,
+                "start": 47,
+                "tag": "浑身无力发冷"
+              },
+              {
+                "end": 60,
+                "start": 55,
+                "tag": "全身酸痛"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "没有食欲"
+              },
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "昏昏欲睡"
+              },
+              {
+                "end": 76,
+                "start": 73,
+                "tag": "腹泻"
+              },
+              {
+                "end": 80,
+                "start": 77,
+                "tag": "呕吐"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "眼睛酸胀"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "关节疼痛"
+              },
+              {
+                "end": 96,
+                "start": 93,
+                "tag": "咳嗽"
+              },
+              {
+                "end": 100,
+                "start": 97,
+                "tag": "咳痰"
+              },
+              {
+                "end": 104,
+                "start": 101,
+                "tag": "胸痛"
+              },
+              {
+                "end": 108,
+                "start": 105,
+                "tag": "恶寒"
+              },
+              {
+                "end": 112,
+                "start": 109,
+                "tag": "头痛"
+              },
+              {
+                "end": 120,
+                "start": 113,
+                "tag": "全身肌肉酸痛"
+              },
+              {
+                "end": 126,
+                "start": 121,
+                "tag": "咽喉疼痛"
+              },
+              {
+                "end": 130,
+                "start": 127,
+                "tag": "鼻塞"
+              },
+              {
+                "end": 135,
+                "start": 131,
+                "tag": "流鼻涕"
+              },
+              {
+                "end": 141,
+                "start": 136,
+                "tag": "神志改变"
+              },
+              {
+                "end": 145,
+                "start": 142,
+                "tag": "心悸"
+              },
+              {
+                "end": 149,
+                "start": 146,
+                "tag": "出汗"
+              },
+              {
+                "end": 153,
+                "start": 150,
+                "tag": "震颤"
+              },
+              {
+                "end": 157,
+                "start": 154,
+                "tag": "伤感"
+              },
+              {
+                "end": 161,
+                "start": 158,
+                "tag": "抑郁"
+              },
+              {
+                "end": 166,
+                "start": 162,
+                "tag": "焦虑症"
+              },
+              {
+                "end": 171,
+                "start": 167,
+                "tag": "躁郁症"
+              },
+              {
+                "end": 179,
+                "start": 172,
+                "tag": "双相情感障碍"
+              },
+              {
+                "end": 183,
+                "start": 180,
+                "tag": "失眠"
+              },
+              {
+                "end": 187,
+                "start": 184,
+                "tag": "烧炭"
+              },
+              {
+                "end": 193,
+                "start": 188,
+                "tag": "精神分裂"
+              },
+              {
+                "end": 199,
+                "start": 194,
+                "tag": "被害妄想"
+              },
+              {
+                "end": 203,
+                "start": 200,
+                "tag": "发疯"
+              },
+              {
+                "end": 207,
+                "start": 204,
+                "tag": "多疑"
+              },
+              {
+                "end": 213,
+                "start": 208,
+                "tag": "面色苍白"
+              },
+              {
+                "end": 217,
+                "start": 214,
+                "tag": "出汗"
+              },
+              {
+                "end": 221,
+                "start": 218,
+                "tag": "腹痛"
+              },
+              {
+                "end": 226,
+                "start": 222,
+                "tag": "幻想症"
+              },
+              {
+                "end": 230,
+                "start": 227,
+                "tag": "腿痛"
+              },
+              {
+                "end": 235,
+                "start": 231,
+                "tag": "心脏病"
+              },
+              {
+                "end": 240,
+                "start": 236,
+                "tag": "高血压"
+              },
+              {
+                "end": 245,
+                "start": 241,
+                "tag": "糖尿病"
+              },
+              {
+                "end": 250,
+                "start": 246,
+                "tag": "自闭症"
+              }
+            ]
+          },
+          "text": "周一上课 #恶心 #头晕 #面色苍白 #出汗 #腹痛 #血压下降 #休克 #昏迷 #体温增高 #浑身无力发冷 #全身酸痛 #没有食欲 #昏昏欲睡 #腹泻 #呕吐 #眼睛酸胀 #关节疼痛 #咳嗽 #咳痰 #胸痛 #恶寒 #头痛 #全身肌肉酸痛 #咽喉疼痛 #鼻塞 #流鼻涕 #神志改变 #心悸 #出汗 #震颤 #伤感 #抑郁 #焦虑症 #躁郁症 #双相情感障碍 #失眠 #烧炭 #精神分裂 #被害妄想 #发疯 #多疑 #面色苍白 #出汗 #腹痛 #幻想症 #腿痛 #心脏病 #高血压 #糖尿病 #自闭症"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 692,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "周一上课 #恶心 #头晕 #面色苍白 #出汗 #腹痛 #血压下降 #休克 #昏迷 #体温增高 #浑身无力发冷 #全身酸痛 #没有食欲 #昏昏欲睡 #腹泻 #呕吐 #眼睛酸胀 #关节疼痛 #咳嗽 #咳痰 #胸痛 #恶寒 #头痛 #全身肌肉酸痛 #咽喉疼痛 #鼻塞 #流鼻涕 #神志改变 #心悸 #出汗 #震颤 #伤感 #抑郁 #焦虑症 #躁郁症…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1850583794224635904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1817,
+          "following_count": 945,
+          "like_count": 26072,
+          "listed_count": 3,
+          "tweet_count": 11742
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-22T21:56:09.000Z",
+        "description": "妹妹 @_Eyre_S|对象是晴岚|我是山东人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "_Eyre_S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ltyec.com",
+                "end": 23,
+                "expanded_url": "http://ltyec.com",
+                "start": 0,
+                "url": "https://t.co/xwVui83dNh"
+              }
+            ]
+          }
+        },
+        "id": "1418328991493070850",
+        "location": "セカイ",
+        "name": "申必名居天子@えな勢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850203926643326976/BPJqlwQM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 1350,
+          "like_count": 21400,
+          "listed_count": 7,
+          "tweet_count": 5623
+        },
+        "url": "https://t.co/xwVui83dNh",
+        "username": "Strelexia",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1411016592591253504",
+          "name": "iHerb"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1411016592591253504",
+          "name": "iHerb"
+        }
+      }
+    ],
+    "conversation_id": "1979796157607096527",
+    "created_at": "2025-10-19T22:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T23:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980040551086145943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1889613493013471232",
+          "start": 0,
+          "username": "Bragginghaha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980040551086145943",
+    "in_reply_to_user_id": "1889613493013471232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980040418508317139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bragginghaha iherb没事的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1411016592591253504",
+              "name": "iHerb"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1411016592591253504",
+              "name": "iHerb"
+            }
+          }
+        ],
+        "conversation_id": "1979796157607096527",
+        "created_at": "2025-10-19T22:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T23:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980040551086145943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1889613493013471232",
+              "start": 0,
+              "username": "Bragginghaha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980040551086145943",
+        "in_reply_to_user_id": "1889613493013471232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980040418508317139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bragginghaha iherb没事的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889613493013471232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1411016592591253504",
+              "name": "iHerb"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1411016592591253504",
+              "name": "iHerb"
+            }
+          }
+        ],
+        "conversation_id": "1979796157607096527",
+        "created_at": "2025-10-19T22:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T23:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980040418508317139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980040418508317139",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979796157607096527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay iHERB，我经常在这个平台买奶粉，也是显示香港清关发货，能帮忙辨别一下真假吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，长居🇭🇰🇯🇵。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11237,
+          "following_count": 976,
+          "like_count": 44852,
+          "listed_count": 38,
+          "media_count": 1458,
+          "tweet_count": 21809
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-12T09:52:48.000Z",
+        "description": "“不要自欺，神是轻慢不得的。人种的是什么，收的也是什么。”  “所以，无论何事，你们愿意人怎样待你们，你们也要怎样待人，因为这就是律法和先知的道理。”",
+        "id": "1889613493013471232",
+        "name": "GoldenRule",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977603464122503169/TiPZhBSE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 113,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 419
+        },
+        "username": "Bragginghaha",
+        "verified": false
+      }
+    ]
+  }
+}

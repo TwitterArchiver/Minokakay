@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1823425949653983454",
+    "created_at": "2024-08-13T18:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T19:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823426241195872440"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1823426241195872440",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823425949653983454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他这个2状态也不好，其实更接近1和2之间的状态，蛋白还嫩嫩的，蛋黄也刚刚凝固"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1823425949653983454",
+        "created_at": "2024-08-13T18:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T19:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823426241195872440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823426241195872440",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823425949653983454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他这个2状态也不好，其实更接近1和2之间的状态，蛋白还嫩嫩的，蛋黄也刚刚凝固"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1823425949653983454",
+        "created_at": "2024-08-13T18:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T19:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823425949653983454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rabbubble550W/…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/Rabbubble550W/status/1823359020671140215",
+              "start": 68,
+              "url": "https://t.co/g7EaF7Znw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823425949653983454",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823359020671140215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢2，没有糖心，但是中间刚刚凝固，没有变成难吃的腥味重的黄色蛋黄，是柔软得像豆沙一样的日落赤黄色蛋黄。4567都是煎蛋，为啥叫荷包蛋 https://t.co/g7EaF7Znw0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome 友🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 付费裡推：@Minokakaysex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 140,
+                "username": "Minokakaysex"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 884,
+          "like_count": 7356,
+          "listed_count": 1,
+          "tweet_count": 2634
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

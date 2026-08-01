@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1973461562158620808",
+    "created_at": "2025-10-03T07:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T08:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974011038971658388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1255525654705000448",
+          "start": 0,
+          "username": "imPrk_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974011038971658388",
+    "in_reply_to_user_id": "1255525654705000448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974006660470362366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imPrk_ 也许新注册用户才会被风控\n我以前注册的fb系app没有过这种情况"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 69,
+        "media_key": "3_1974006651859709952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2UUl1RbMAAfaIS.jpg",
+        "width": 281
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1973461562158620808",
+        "created_at": "2025-10-03T07:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T08:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974011038971658388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1255525654705000448",
+              "start": 0,
+              "username": "imPrk_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974011038971658388",
+        "in_reply_to_user_id": "1255525654705000448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974006660470362366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imPrk_ 也许新注册用户才会被风控\n我以前注册的fb系app没有过这种情况"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974006651859709952"
+          ]
+        },
+        "author_id": "1255525654705000448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1973461562158620808",
+        "created_at": "2025-10-03T07:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T08:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974006660470362366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ajE7yUndi",
+              "end": 181,
+              "expanded_url": "https://x.com/imPrk_/status/1974006660470362366/photo/1",
+              "media_key": "3_1974006651859709952",
+              "start": 158,
+              "url": "https://t.co/3ajE7yUndi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974006660470362366",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973991077259718879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 我注册的时候在上海，小时候，美国的实体手机卡，我记得是这台 iPhone 6，注册后加了当时在读上海某学校的白人朋友的 WhatsApp，然后一直在用。已经用了好多好多年了，依旧没有封禁过任何一次。\n\n你可以试试购买 WhatsApp 老号然后迁移手机号到你的也许可以。或者 IP 是否纯净？ https://t.co/3ajE7yUndi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，长居🇭🇰🇯🇵。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我在做客服。买电子烟找@weita2024。买抗癌药物找@LuciusPharmacy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "weita2024"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "LuciusPharmacy"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10645,
+          "following_count": 945,
+          "like_count": 44771,
+          "listed_count": 35,
+          "media_count": 1444,
+          "tweet_count": 21500
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-29T15:53:46.000Z",
+        "description": "Web programer (Go PHP Vue.js) | https://t.co/RYLFerxSDX | 📮 talk-to-me@imprk.me ｜🦋@imprk.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 82,
+                "username": "imprk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "meowo.app",
+                "end": 55,
+                "expanded_url": "http://meowo.app",
+                "start": 32,
+                "url": "https://t.co/RYLFerxSDX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "imprk.me",
+                "end": 23,
+                "expanded_url": "https://imprk.me",
+                "start": 0,
+                "url": "https://t.co/qOav9NSHLn"
+              }
+            ]
+          }
+        },
+        "id": "1255525654705000448",
+        "location": "LA, CA ✈️ Taipei, Taiwan ✈️ 上海",
+        "name": "Prk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866170576911716352/raF713mK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 791,
+          "like_count": 26228,
+          "listed_count": 4,
+          "media_count": 491,
+          "tweet_count": 5221
+        },
+        "url": "https://t.co/qOav9NSHLn",
+        "username": "imPrk_",
+        "verified": false
+      }
+    ]
+  }
+}

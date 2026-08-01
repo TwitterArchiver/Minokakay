@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about global finance and economies.",
+          "id": "847511168268644352",
+          "name": "Global Economy"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      }
+    ],
+    "conversation_id": "1990795315944022397",
+    "created_at": "2025-11-19T17:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T18:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991194781880635709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "378594477",
+          "start": 0,
+          "username": "MiyajimaRyotaro"
+        },
+        {
+          "end": 28,
+          "id": "1312592882986029056",
+          "start": 17,
+          "username": "S16Patient"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991194781880635709",
+    "in_reply_to_user_id": "378594477",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991194613277946084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiyajimaRyotaro @S16Patient 経済が悪化しているため、両政府は自らの問題から注意をそらすために国民の間で互いへの憎悪を煽っている。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "1990795315944022397",
+        "created_at": "2025-11-19T17:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T18:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991194781880635709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "378594477",
+              "start": 0,
+              "username": "MiyajimaRyotaro"
+            },
+            {
+              "end": 28,
+              "id": "1312592882986029056",
+              "start": 17,
+              "username": "S16Patient"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991194781880635709",
+        "in_reply_to_user_id": "378594477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991194613277946084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiyajimaRyotaro @S16Patient 経済が悪化しているため、両政府は自らの問題から注意をそらすために国民の間で互いへの憎悪を煽っている。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "378594477",
+        "conversation_id": "1990795315944022397",
+        "created_at": "2025-11-19T17:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T18:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991194613277946084"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "日本",
+              "probability": 0.8141,
+              "start": 26,
+              "type": "Place"
+            },
+            {
+              "end": 35,
+              "normalized_text": "中国",
+              "probability": 0.8462,
+              "start": 34,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1312592882986029056",
+              "start": 0,
+              "username": "S16Patient"
+            },
+            {
+              "end": 22,
+              "id": "1597257668313260033",
+              "start": 12,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991194613277946084",
+        "in_reply_to_user_id": "1312592882986029056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991193965949829182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S16Patient @Minokakay 同意。日本の政治家にも中国を憎ませたい人達は多い。悲しいことだ。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12383,
+          "following_count": 1015,
+          "like_count": 45028,
+          "listed_count": 44,
+          "media_count": 1594,
+          "tweet_count": 23232
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-23T13:38:11.000Z",
+        "description": "REST(2025)Monk SEISHIN(2023) CASTLE(2019) AEON(2017) RADIO WAVE(2016)などアニメーション作っています。東京藝術大学先端→アニメーション専攻→博士号（映像）取得。バリ島育ち。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miyajimaryotaro.com",
+                "end": 23,
+                "expanded_url": "http://miyajimaryotaro.com",
+                "start": 0,
+                "url": "https://t.co/GNIfTV6gmY"
+              }
+            ]
+          }
+        },
+        "id": "378594477",
+        "name": "宮嶋龍太郎RyotaroMIYAJIMA",
+        "pinned_tweet_id": "1906163120823017573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1053250356736536576/Wvm1vfzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 867,
+          "like_count": 25798,
+          "listed_count": 40,
+          "media_count": 4219,
+          "tweet_count": 30799
+        },
+        "url": "https://t.co/GNIfTV6gmY",
+        "username": "MiyajimaRyotaro",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T03:18:33.000Z",
+        "description": "",
+        "id": "1312592882986029056",
+        "name": "patient's",
+        "pinned_tweet_id": "1314214044895645698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1314214516134010881/2HQbwGg6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 84,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 420
+        },
+        "username": "S16Patient",
+        "verified": false
+      }
+    ]
+  }
+}

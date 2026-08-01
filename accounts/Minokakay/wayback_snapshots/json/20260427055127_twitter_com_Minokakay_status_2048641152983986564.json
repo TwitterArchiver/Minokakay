@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2048319647213289831",
+    "created_at": "2026-04-27T05:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048641152983986564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "38607365",
+          "start": 0,
+          "username": "AFairyStory"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048641152983986564",
+    "in_reply_to_user_id": "38607365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048612840664445020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AFairyStory 我觉得深圳就算很地狱了 所以我不去深圳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2048319647213289831",
+        "created_at": "2026-04-27T05:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048641152983986564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "38607365",
+              "start": 0,
+              "username": "AFairyStory"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048641152983986564",
+        "in_reply_to_user_id": "38607365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048612840664445020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AFairyStory 我觉得深圳就算很地狱了 所以我不去深圳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "38607365",
+        "conversation_id": "2048319647213289831",
+        "created_at": "2026-04-27T03:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048612840664445020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048612840664445020",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048319647213289831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 只能説你沒見過地獄還以爲自己在地獄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "发着光的半平米，胡乱哼唱的旋律，\n但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 78,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 55,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14396,
+          "following_count": 1055,
+          "like_count": 44009,
+          "listed_count": 54,
+          "media_count": 1806,
+          "tweet_count": 25986
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-08T04:39:41.000Z",
+        "description": "同心同德，貫徹始終",
+        "id": "38607365",
+        "location": "The Republic of Formosa",
+        "name": "億達萬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813571260141694977/sfRZshVn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 1840,
+          "like_count": 537,
+          "listed_count": 23,
+          "media_count": 2092,
+          "tweet_count": 18623
+        },
+        "username": "AFairyStory",
+        "verified": false
+      }
+    ]
+  }
+}

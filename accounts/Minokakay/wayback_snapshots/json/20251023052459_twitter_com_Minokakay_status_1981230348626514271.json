@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981054645007982592"
+      ],
+      "media_source_tweet_id": [
+        "1981054648338288980"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1981230348626514271",
+    "created_at": "2025-10-23T05:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T06:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981230348626514271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1620367275273633792",
+          "start": 3,
+          "username": "Alina_Medverova"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pnY7SPEPIL",
+          "end": 79,
+          "expanded_url": "https://x.com/Alina_Medverova/status/1981054648338288980/photo/1",
+          "media_key": "3_1981054645007982592",
+          "start": 56,
+          "url": "https://t.co/pnY7SPEPIL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981230348626514271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981054648338288980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alina_Medverova: 一个乌克兰老奶奶和她养的俩只羊被俄罗斯无人机投弹炸死了\n...... https://t.co/pnY7SPEPIL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1981230348626514271].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1981230348626514271",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1981230348626514271"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 525,
+        "media_key": "3_1981054645007982592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G34etBxWoAAYhYB.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981054645007982592"
+          ]
+        },
+        "author_id": "1620367275273633792",
+        "conversation_id": "1981054648338288980",
+        "created_at": "2025-10-22T17:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T18:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981054648338288980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pnY7SPEPIL",
+              "end": 58,
+              "expanded_url": "https://x.com/Alina_Medverova/status/1981054648338288980/photo/1",
+              "media_key": "3_1981054645007982592",
+              "start": 35,
+              "url": "https://t.co/pnY7SPEPIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981054648338288980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2572,
+          "like_count": 113,
+          "quote_count": 5,
+          "reply_count": 23,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "一个乌克兰老奶奶和她养的俩只羊被俄罗斯无人机投弹炸死了\n...... https://t.co/pnY7SPEPIL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，长居🇭🇰🇯🇵。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11707,
+          "following_count": 984,
+          "like_count": 44885,
+          "listed_count": 41,
+          "media_count": 1471,
+          "tweet_count": 21907
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T10:24:13.000Z",
+        "description": "Здравствуйте, меня зовут Kiperina",
+        "id": "1620367275273633792",
+        "location": "21世纪",
+        "name": "Алина-Медвежова🇫🇮",
+        "pinned_tweet_id": "1946063729399079021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937045943628496896/Zpe_tGkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1808,
+          "following_count": 1529,
+          "like_count": 75140,
+          "listed_count": 6,
+          "media_count": 992,
+          "tweet_count": 16443
+        },
+        "username": "Alina_Medverova",
+        "verified": false
+      }
+    ]
+  }
+}

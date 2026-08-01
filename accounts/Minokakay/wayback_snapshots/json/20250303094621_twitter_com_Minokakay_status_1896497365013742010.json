@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Ongoing News Stories like 'Brexit'",
+          "id": "123",
+          "name": "Ongoing News Story"
+        },
+        "entity": {
+          "id": "1484601166080081920",
+          "name": "Russo-Ukrainian conflict"
+        }
+      }
+    ],
+    "conversation_id": "1896497365013742010",
+    "created_at": "2025-03-03T09:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T10:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896497365013742010"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "Ukraine",
+          "probability": 0.9623,
+          "start": 14,
+          "type": "Place"
+        },
+        {
+          "end": 96,
+          "normalized_text": "RapidRanger",
+          "probability": 0.7109,
+          "start": 86,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "630995607",
+          "start": 3,
+          "username": "DefenceU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896497365013742010",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896497200286351489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DefenceU: Ukraine will receive over 5,000 LMM interceptor missiles and associated RapidRanger launchers worth £1.6 billion from the Uni…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1896497162038513664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlG2HuzXkAACpq-.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1484601166080081920",
+              "name": "Russo-Ukrainian conflict"
+            }
+          }
+        ],
+        "conversation_id": "1896497365013742010",
+        "created_at": "2025-03-03T09:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T10:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896497365013742010"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Ukraine",
+              "probability": 0.9623,
+              "start": 14,
+              "type": "Place"
+            },
+            {
+              "end": 96,
+              "normalized_text": "RapidRanger",
+              "probability": 0.7109,
+              "start": 86,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "630995607",
+              "start": 3,
+              "username": "DefenceU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896497365013742010",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896497200286351489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DefenceU: Ukraine will receive over 5,000 LMM interceptor missiles and associated RapidRanger launchers worth £1.6 billion from the Uni…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896497162038513664"
+          ]
+        },
+        "author_id": "630995607",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1484601166080081920",
+              "name": "Russo-Ukrainian conflict"
+            }
+          }
+        ],
+        "conversation_id": "1896497200286351489",
+        "created_at": "2025-03-03T09:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T10:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896497200286351489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hxGhEvsPyR",
+              "end": 300,
+              "expanded_url": "https://x.com/DefenceU/status/1896497200286351489/photo/1",
+              "media_key": "3_1896497162038513664",
+              "start": 277,
+              "url": "https://t.co/hxGhEvsPyR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896497200286351489",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Ukraine will receive over 5,000 LMM interceptor missiles and associated RapidRanger launchers worth £1.6 billion from the United Kingdom as part of the mega project LMM-RapidRanger.\n\nThe LMM (Lightweight Multirole Missile) is a modern British interceptor missile specifically adapted to counter Shahed-type drones.\n\nThis agreement is one of the largest in Ukraine’s history in the field of security and defense. The £1.6 billion project aims to strengthen Ukraine’s air defense by 2030 and is financed through a loan guaranteed by the UK Export Finance (UKEF) agency.\n\nWe are grateful to the UK government and all partners for supporting Ukraine in our fight for freedom! \n🇺🇦🤝🇬🇧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Ukraine will receive over 5,000 LMM interceptor missiles and associated RapidRanger launchers worth £1.6 billion from the United Kingdom as part of the mega project LMM-RapidRanger.\n\nThe LMM (Lightweight Multirole Missile) is a modern British interceptor missile specifically… https://t.co/hxGhEvsPyR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈 https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 99,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 76,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay （日雌泰补色诺",
+        "pinned_tweet_id": "1891554377909010835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5434,
+          "following_count": 820,
+          "like_count": 37001,
+          "listed_count": 28,
+          "media_count": 1031,
+          "tweet_count": 16518
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-09T08:39:09.000Z",
+        "description": "Official page of the Ministry of Defense of Ukraine 🇺🇦\nMinister: @rustem_umerov",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 65,
+                "username": "rustem_umerov"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mod.gov.ua/en",
+                "end": 23,
+                "expanded_url": "https://mod.gov.ua/en",
+                "start": 0,
+                "url": "https://t.co/Jvmv6wZEPU"
+              }
+            ]
+          }
+        },
+        "id": "630995607",
+        "location": "Україна",
+        "name": "Defense of Ukraine",
+        "pinned_tweet_id": "1239561083280556037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788851187871023104/X6lt83NG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2147892,
+          "following_count": 74,
+          "like_count": 955,
+          "listed_count": 13457,
+          "media_count": 12832,
+          "tweet_count": 22116
+        },
+        "url": "https://t.co/Jvmv6wZEPU",
+        "username": "DefenceU",
+        "verified": true
+      }
+    ]
+  }
+}

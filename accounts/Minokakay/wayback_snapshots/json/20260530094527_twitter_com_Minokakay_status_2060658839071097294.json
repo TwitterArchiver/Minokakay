@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2060658789771317248"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2060658839071097294",
+    "created_at": "2026-05-30T09:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060658839071097294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NxCVotzmnb",
+          "end": 23,
+          "expanded_url": "https://x.com/Minokakay/status/2060658839071097294/video/1",
+          "media_key": "13_2060658789771317248",
+          "start": 0,
+          "url": "https://t.co/NxCVotzmnb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060658839071097294",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/NxCVotzmnb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5000,
+        "height": 240,
+        "media_key": "13_2060658789771317248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060658789771317248/img/xi7dWeVTFtXGqHWE.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060658789771317248/vid/avc1/240x240/Jq-ji4cP6hkty-ZC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060658789771317248/pl/SLwQggD5hbPn_6oi.m3u8"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060658789771317248"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2060658839071097294",
+        "created_at": "2026-05-30T09:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060658839071097294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxCVotzmnb",
+              "end": 23,
+              "expanded_url": "https://x.com/Minokakay/status/2060658839071097294/video/1",
+              "media_key": "13_2060658789771317248",
+              "start": 0,
+              "url": "https://t.co/NxCVotzmnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060658839071097294",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NxCVotzmnb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14371,
+          "following_count": 1051,
+          "like_count": 43969,
+          "listed_count": 49,
+          "media_count": 1831,
+          "tweet_count": 26166
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

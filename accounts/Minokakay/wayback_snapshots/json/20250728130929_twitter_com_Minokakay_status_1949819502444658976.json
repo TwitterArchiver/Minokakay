@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "GoPro",
+          "id": "10026325476",
+          "name": "GoPro"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "GoPro",
+          "id": "10026325476",
+          "name": "GoPro"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "1949819502444658976",
+    "created_at": "2025-07-28T13:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T14:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949819502444658976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/foolschasinger…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/foolschasinger/status/1949430726333497645",
+          "start": 136,
+          "url": "https://t.co/ukgOiz2TeU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949819502444658976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949430726333497645",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "矛盾尖锐的主要原因是在矛盾被放大化之前没有被公平公正地解决，但凡诬告有成本，中国也不至于满大街都是随便诬陷人的弱智。说到底中国是个诬陷别人给别人添麻烦毫无成本且公检法完全不为受害者考虑的国家，连心理损失费这么基础的要求都不予支持，大伙还是出门时头上戴个gopro安全点。 https://t.co/ukgOiz2TeU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "GoPro",
+              "id": "10026325476",
+              "name": "GoPro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "GoPro",
+              "id": "10026325476",
+              "name": "GoPro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "1949819502444658976",
+        "created_at": "2025-07-28T13:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T14:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949819502444658976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foolschasinger…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/foolschasinger/status/1949430726333497645",
+              "start": 136,
+              "url": "https://t.co/ukgOiz2TeU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949819502444658976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949430726333497645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "矛盾尖锐的主要原因是在矛盾被放大化之前没有被公平公正地解决，但凡诬告有成本，中国也不至于满大街都是随便诬陷人的弱智。说到底中国是个诬陷别人给别人添麻烦毫无成本且公检法完全不为受害者考虑的国家，连心理损失费这么基础的要求都不予支持，大伙还是出门时头上戴个gopro安全点。 https://t.co/ukgOiz2TeU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771754880052715520",
+        "conversation_id": "1949430726333497645",
+        "created_at": "2025-07-27T11:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949430726333497645"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949430726333497645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 46772,
+          "like_count": 320,
+          "quote_count": 6,
+          "reply_count": 57,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "最近发生的事情太令人震惊了，武汉大学女生诬告男生并引导网暴，后来又大言不惭地说要持续跟进推免读博的材料举报。\n这样的性质就完全变了，在非正义对非正义当中，所有人都只有输。\n陷入无意义的内耗实在是无聊的，但好像也没有人能刹得住这样的风气了。\n世界变得越来越烂了，矛盾真的有那么尖锐吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1940009083995873344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8295,
+          "following_count": 909,
+          "like_count": 44367,
+          "listed_count": 31,
+          "media_count": 1337,
+          "tweet_count": 19834
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-24T04:24:37.000Z",
+        "description": "热血元气奋斗逼/一般通过社会人/学习吃饭中 | 烙铁:@Luminous_Tide",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Luminous_Tide"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dl.acm.org",
+                "end": 23,
+                "expanded_url": "https://dl.acm.org/",
+                "start": 0,
+                "url": "https://t.co/6mOYC9pMEA"
+              }
+            ]
+          }
+        },
+        "id": "1771754880052715520",
+        "location": "No such information",
+        "name": "果壳里的君王",
+        "pinned_tweet_id": "1923242028747403595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884181886760804356/ycOyoMJG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 552,
+          "like_count": 49131,
+          "listed_count": 9,
+          "media_count": 2398,
+          "tweet_count": 17251
+        },
+        "url": "https://t.co/6mOYC9pMEA",
+        "username": "FoolsChasinger",
+        "verified": false
+      }
+    ]
+  }
+}

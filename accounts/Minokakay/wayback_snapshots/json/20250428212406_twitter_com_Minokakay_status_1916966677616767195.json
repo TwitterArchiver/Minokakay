@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1916904910450528460",
+    "created_at": "2025-04-28T21:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T22:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916966677616767195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1670362954590728197",
+          "start": 0,
+          "username": "Kagurazakahyoto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916966677616767195",
+    "in_reply_to_user_id": "1670362954590728197",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916904910450528460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagurazakahyoto 草饲"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1916904910450528460].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1916904910450528460",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1916904910450528460"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1916904910450528460",
+        "created_at": "2025-04-28T21:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T22:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916966677616767195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1670362954590728197",
+              "start": 0,
+              "username": "Kagurazakahyoto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916966677616767195",
+        "in_reply_to_user_id": "1670362954590728197",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916904910450528460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagurazakahyoto 草饲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1916475690863726978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6526,
+          "following_count": 865,
+          "like_count": 41329,
+          "listed_count": 29,
+          "media_count": 864,
+          "tweet_count": 16719
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-18T09:29:12.000Z",
+        "description": "07| MTX🏳️‍⚧️|:HRT：2025/01/14|无证含糖｜Asexuality｜是离不开的人@kiriyama_lemon清酱@heiwawomamore妈妈@asahi_jx 小语@charming_xiaoyu杂鱼兰@Inwal3310 姐姐@VicoOci",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "kiriyama_lemon"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "heiwawomamore"
+              },
+              {
+                "end": 93,
+                "start": 84,
+                "username": "asahi_jx"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 125,
+                "start": 115,
+                "username": "Inwal3310"
+              },
+              {
+                "end": 136,
+                "start": 128,
+                "username": "VicoOci"
+              }
+            ]
+          }
+        },
+        "id": "1670362954590728197",
+        "location": "土星",
+        "name": "神樂坂 溫原🍥🏳️‍⚧️🌂",
+        "pinned_tweet_id": "1916746784870928505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911806116985524224/0wx0z0fF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 1040,
+          "like_count": 10914,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 2613
+        },
+        "username": "Kagurazakahyoto",
+        "verified": false
+      }
+    ]
+  }
+}

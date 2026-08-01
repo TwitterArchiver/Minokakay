@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2040047764927873024",
+    "created_at": "2026-04-03T12:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T13:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040049054529573339"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040049054529573339",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040047764927873024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "活这么久，还头次见这么不要脸的。\n反正我身边的人基本都爱面子，有尊严，不会为了一时贪吃，做破坏规则的事情。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2040047764927873024",
+        "created_at": "2026-04-03T12:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040049054529573339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040049054529573339",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040047764927873024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "活这么久，还头次见这么不要脸的。\n反正我身边的人基本都爱面子，有尊严，不会为了一时贪吃，做破坏规则的事情。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2040047764927873024",
+        "created_at": "2026-04-03T12:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040047764927873024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yiren1123/stat…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/yiren1123/status/2040043178393485380",
+              "start": 50,
+              "url": "https://t.co/cAwggiOTma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040047764927873024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040043178393485380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "头次见没教养的人说有教养的人有教养是因为他们穷，而道德崩坏是富裕的象征，闻所未闻见所未见的阿q方式 https://t.co/cAwggiOTma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "命に嫌われている。 mtx 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp，私信不回，打不开换梯子换浏览器",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 78,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 55,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14329,
+          "following_count": 1054,
+          "like_count": 44017,
+          "listed_count": 53,
+          "media_count": 1791,
+          "tweet_count": 25720
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

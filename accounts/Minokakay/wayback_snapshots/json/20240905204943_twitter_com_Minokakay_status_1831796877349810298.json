@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1831796667156476415",
+    "created_at": "2024-09-05T20:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T21:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831796877349810298"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1831796877349810298",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831796667156476415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这辈子没怎么去过大城市，去了趟上海，感想就是干净，大街上干净，地砖都没有碎掉的，除了这个感觉就一般了，我不喜欢城市，我以后一定回乡下住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1831796667156476415",
+        "created_at": "2024-09-05T20:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T21:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831796877349810298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1831796877349810298",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831796667156476415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这辈子没怎么去过大城市，去了趟上海，感想就是干净，大街上干净，地砖都没有碎掉的，除了这个感觉就一般了，我不喜欢城市，我以后一定回乡下住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1831796667156476415",
+        "created_at": "2024-09-05T20:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T21:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831796667156476415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Anastasia19511…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Anastasia195113/status/1831551057446760588",
+              "start": 42,
+              "url": "https://t.co/XTsAChHmp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831796667156476415",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831551057446760588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喝不起星巴克只喝得起抢的9.9瑞幸😁但我也不爱喝咖啡无所谓了，现在也不喜欢快餐了 https://t.co/XTsAChHmp5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 811,
+          "like_count": 12804,
+          "listed_count": 3,
+          "tweet_count": 5255
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

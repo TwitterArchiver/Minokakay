@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2052688065806950893",
+    "created_at": "2026-05-09T13:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053111818395205807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038865513690890240",
+          "start": 0,
+          "username": "yi_zhu8740"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053111818395205807",
+    "in_reply_to_user_id": "2038865513690890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052724551520534556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi_zhu8740 说的好像北京不农逼似的，就一大号郑州"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2052688065806950893",
+        "created_at": "2026-05-09T13:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053111818395205807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038865513690890240",
+              "start": 0,
+              "username": "yi_zhu8740"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053111818395205807",
+        "in_reply_to_user_id": "2038865513690890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052724551520534556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi_zhu8740 说的好像北京不农逼似的，就一大号郑州"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038865513690890240",
+        "conversation_id": "2052688065806950893",
+        "created_at": "2026-05-08T12:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052724551520534556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052724551520534556",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 945,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052688065806950893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 深圳人不用像东京社畜只能挤爆轨道交通，没有选择，深圳既有地铁，人均汽车拥有量是东京人2.5倍，500万电鸡更是方便，滴滴也便宜，优势给你说成不方便，我北京人，有车也有电鸡啊，哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "发着光的半平米，胡乱哼唱的旋律，\n但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 78,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 55,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14462,
+          "following_count": 1057,
+          "like_count": 44005,
+          "listed_count": 52,
+          "media_count": 1810,
+          "tweet_count": 26072
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-31T06:26:45.000Z",
+        "description": "财经、科技，文明对话，以理服人",
+        "id": "2038865513690890240",
+        "name": "Yi Zhu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048579348933017600/NRqBe8w1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 68,
+          "like_count": 1644,
+          "listed_count": 10,
+          "media_count": 557,
+          "tweet_count": 2938
+        },
+        "username": "yi_zhu8740",
+        "verified": false
+      }
+    ]
+  }
+}

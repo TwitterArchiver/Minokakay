@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2057797580382462235",
+    "created_at": "2026-05-22T14:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057834539146498275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362960365055668225",
+          "start": 0,
+          "username": "POI74103174"
+        },
+        {
+          "end": 26,
+          "id": "1819745933535657984",
+          "start": 13,
+          "username": "kanagawa_tmr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057834539146498275",
+    "in_reply_to_user_id": "1362960365055668225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057821610669998465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@POI74103174 @kanagawa_tmr 吃过这家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2057797580382462235",
+        "created_at": "2026-05-22T14:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057834539146498275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362960365055668225",
+              "start": 0,
+              "username": "POI74103174"
+            },
+            {
+              "end": 26,
+              "id": "1819745933535657984",
+              "start": 13,
+              "username": "kanagawa_tmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057834539146498275",
+        "in_reply_to_user_id": "1362960365055668225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057821610669998465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@POI74103174 @kanagawa_tmr 吃过这家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362960365055668225",
+        "conversation_id": "2057797580382462235",
+        "created_at": "2026-05-22T13:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057821610669998465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1819745933535657984",
+              "start": 0,
+              "username": "kanagawa_tmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057821610669998465",
+        "in_reply_to_user_id": "1819745933535657984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057813572571598924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanagawa_tmr スタンドふじ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "发着光的半平米，胡乱哼唱的旋律，\n但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬🍥找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 79,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 56,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14431,
+          "following_count": 1063,
+          "like_count": 43973,
+          "listed_count": 51,
+          "media_count": 1827,
+          "tweet_count": 26162
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "活了（大概）🐧的饲养员@penguinmomentjp\n日常/小市民；不友也不厌任何群体，\n爱具体的人。\n小号@POI74103175",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "penguinmomentjp"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "POI74103175"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "penguinvisual.jp/zh",
+                "end": 23,
+                "expanded_url": "http://penguinvisual.jp/zh",
+                "start": 0,
+                "url": "https://t.co/XlV7pWwsvr"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "name": "優杏@Poi🍧",
+        "pinned_tweet_id": "1786390162064433658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045474696750321664/K_i_d53j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3756,
+          "following_count": 327,
+          "like_count": 67837,
+          "listed_count": 15,
+          "media_count": 3009,
+          "tweet_count": 25145
+        },
+        "url": "https://t.co/XlV7pWwsvr",
+        "username": "POI74103174",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T14:46:10.000Z",
+        "description": "",
+        "id": "1819745933535657984",
+        "name": "神奈川県民（仮）",
+        "pinned_tweet_id": "1819748950251106501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008738904128778240/0z9F8QIB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 662,
+          "like_count": 78586,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 4060
+        },
+        "username": "kanagawa_tmr",
+        "verified": false
+      }
+    ]
+  }
+}

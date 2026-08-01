@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950459214306168834"
+      ],
+      "media_source_tweet_id": [
+        "1950459227153002600"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1950850940854276283",
+    "created_at": "2025-07-31T09:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T10:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950850940854276283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796810496345341952",
+          "start": 3,
+          "username": "elmar_0_dsa"
+        },
+        {
+          "end": 25,
+          "id": "2853407766",
+          "start": 17,
+          "username": "zhu0588"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kl1CTN7ADX",
+          "end": 49,
+          "expanded_url": "https://x.com/elmar_0_dsa/status/1950459227153002600/photo/1",
+          "media_key": "3_1950459214306168834",
+          "start": 26,
+          "url": "https://t.co/Kl1CTN7ADX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950850940854276283",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950459227153002600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elmar_0_dsa: @zhu0588 https://t.co/Kl1CTN7ADX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 444,
+        "media_key": "3_1950459214306168834",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxFsUkmbUAIOHE6.png",
+        "width": 504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950459214306168834"
+          ],
+          "media_source_tweet_id": [
+            "1950459227153002600"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1950850940854276283",
+        "created_at": "2025-07-31T09:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T10:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950850940854276283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796810496345341952",
+              "start": 3,
+              "username": "elmar_0_dsa"
+            },
+            {
+              "end": 25,
+              "id": "2853407766",
+              "start": 17,
+              "username": "zhu0588"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kl1CTN7ADX",
+              "end": 49,
+              "expanded_url": "https://x.com/elmar_0_dsa/status/1950459227153002600/photo/1",
+              "media_key": "3_1950459214306168834",
+              "start": 26,
+              "url": "https://t.co/Kl1CTN7ADX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950850940854276283",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950459227153002600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elmar_0_dsa: @zhu0588 https://t.co/Kl1CTN7ADX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950459214306168834"
+          ]
+        },
+        "author_id": "1796810496345341952",
+        "conversation_id": "1950361658930745651",
+        "created_at": "2025-07-30T07:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T08:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950459227153002600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2853407766",
+              "start": 0,
+              "username": "zhu0588"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kl1CTN7ADX",
+              "end": 32,
+              "expanded_url": "https://x.com/elmar_0_dsa/status/1950459227153002600/photo/1",
+              "media_key": "3_1950459214306168834",
+              "start": 9,
+              "url": "https://t.co/Kl1CTN7ADX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950459227153002600",
+        "in_reply_to_user_id": "2853407766",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 54484,
+          "like_count": 1463,
+          "quote_count": 2,
+          "reply_count": 35,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950361658930745651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhu0588 https://t.co/Kl1CTN7ADX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1940009083995873344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8328,
+          "following_count": 913,
+          "like_count": 44441,
+          "listed_count": 32,
+          "media_count": 1341,
+          "tweet_count": 19908
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-01T07:46:26.000Z",
+        "description": "",
+        "id": "1796810496345341952",
+        "name": "Xiao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799805198267019264/5OniosuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 43,
+          "like_count": 57,
+          "listed_count": 4,
+          "media_count": 285,
+          "tweet_count": 2666
+        },
+        "username": "elmar_0_dsa",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-12T18:27:07.000Z",
+        "description": "中国未来大趋势：经济危机--社会动荡--专制垮台",
+        "id": "2853407766",
+        "name": "朱韵和",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/633313799383060480/3SqyD6-x_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493154,
+          "following_count": 389,
+          "like_count": 470,
+          "listed_count": 1412,
+          "media_count": 58669,
+          "tweet_count": 80786
+        },
+        "username": "zhu0588",
+        "verified": true
+      }
+    ]
+  }
+}

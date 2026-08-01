@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1991588218584854581",
+    "created_at": "2025-11-21T15:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T16:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991895081004261823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1274594862",
+          "start": 0,
+          "username": "dvorak0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991895081004261823",
+    "in_reply_to_user_id": "1274594862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991893523856265637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dvorak0 对的 但其实离线地图也可以吧，航旅纵横内置地图稍微改一下就可以实现这个功能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1991588218584854581",
+        "created_at": "2025-11-21T15:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991895081004261823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1274594862",
+              "start": 0,
+              "username": "dvorak0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991895081004261823",
+        "in_reply_to_user_id": "1274594862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991893523856265637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dvorak0 对的 但其实离线地图也可以吧，航旅纵横内置地图稍微改一下就可以实现这个功能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1274594862",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          }
+        ],
+        "conversation_id": "1991588218584854581",
+        "created_at": "2025-11-21T15:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991893523856265637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991893523856265637",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991588218584854581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 之前有个想法，应该可以结合GPS写一个离线的app，可以用AR的方式显示下面的山峰/城市是哪一个。富士山特征比较明显。有时候在国内航线上看到一些城市，还挺好奇是哪一个的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12444,
+          "following_count": 1014,
+          "like_count": 44999,
+          "listed_count": 44,
+          "media_count": 1607,
+          "tweet_count": 23300
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2013-03-17T10:17:35.000Z",
+        "description": "CS @HIT_1920 | ECE @hkust | led a group making drones @DJIGlobal | VR/XR enthusiast | creator of @Surreal_Touch/@UniflexAI | working with robots at a startup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "HIT_1920"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "hkust"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "DJIGlobal"
+              },
+              {
+                "end": 111,
+                "start": 97,
+                "username": "Surreal_Touch"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "UniflexAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yangzhenfei.com",
+                "end": 23,
+                "expanded_url": "https://yangzhenfei.com",
+                "start": 0,
+                "url": "https://t.co/Wc0youLAuX"
+              }
+            ]
+          }
+        },
+        "id": "1274594862",
+        "name": "Seeking Complexity",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912349582584856576/h2x5F3-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 1226,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 174
+        },
+        "url": "https://t.co/Wc0youLAuX",
+        "username": "dvorak0",
+        "verified": true
+      }
+    ]
+  }
+}

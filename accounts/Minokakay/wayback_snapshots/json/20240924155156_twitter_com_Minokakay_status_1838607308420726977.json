@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1838606364740116823",
+    "created_at": "2024-09-24T15:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T16:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838607308420726977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1800023244420026368",
+          "start": 0,
+          "username": "Nothingto_U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838607308420726977",
+    "in_reply_to_user_id": "1800023244420026368",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838607129047097519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nothingto_U 陪我聊聊天喵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1838607129047097519].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1838607129047097519",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1838607129047097519"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1838606364740116823",
+        "created_at": "2024-09-24T15:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T16:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838607308420726977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1800023244420026368",
+              "start": 0,
+              "username": "Nothingto_U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838607308420726977",
+        "in_reply_to_user_id": "1800023244420026368",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838607129047097519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nothingto_U 陪我聊聊天喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比男高三生 阿斯ADHD Pansexual INFP 🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 843,
+          "like_count": 16718,
+          "listed_count": 3,
+          "tweet_count": 7248
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T04:33:08.000Z",
+        "description": "幻想成为中推小天使😇目前是一只乌鸦🐦‍⬛还在等他回来║😡我是不会死的！失踪只是手机被老登收了而已║🏳️‍🌈🏳️‍⚧️LGBTQ+友好║🇨🇳🇹🇼和平万岁，一中各表║左下颠佬，自由意志毛主义者（这是什么东西）",
+        "id": "1800023244420026368",
+        "name": "138亿年的紅移",
+        "pinned_tweet_id": "1836543440781185091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836423025232879616/-IyvMtU5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 1077,
+          "like_count": 35085,
+          "listed_count": 2,
+          "tweet_count": 10428
+        },
+        "username": "Nothingto_U",
+        "verified": false
+      }
+    ]
+  }
+}

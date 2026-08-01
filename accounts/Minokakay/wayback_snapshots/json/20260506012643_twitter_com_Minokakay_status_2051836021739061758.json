@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      }
+    ],
+    "conversation_id": "2051836021739061758",
+    "created_at": "2026-05-06T01:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T02:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051836021739061758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1484396278079705091",
+          "start": 3,
+          "username": "YanJian40647127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051836021739061758",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051662295420563612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YanJian40647127: 发现中国的外卖需求是被柯布西耶型城市格局给逼出来的... 住东京的时候就没想过点外卖，下楼走半分钟到Lawson，一分钟到サミットストア，两分钟范围内有松屋和N家拉面馆。一回国，全是超大地块+超宽街道，出小区走五分钟，过个马路再走五分钟…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          }
+        ],
+        "conversation_id": "2051836021739061758",
+        "created_at": "2026-05-06T01:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T02:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051836021739061758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1484396278079705091",
+              "start": 3,
+              "username": "YanJian40647127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051836021739061758",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051662295420563612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YanJian40647127: 发现中国的外卖需求是被柯布西耶型城市格局给逼出来的... 住东京的时候就没想过点外卖，下楼走半分钟到Lawson，一分钟到サミットストア，两分钟范围内有松屋和N家拉面馆。一回国，全是超大地块+超宽街道，出小区走五分钟，过个马路再走五分钟…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484396278079705091",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          }
+        ],
+        "conversation_id": "2051662295420563612",
+        "created_at": "2026-05-05T13:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051662295420563612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051662295420563612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 48108,
+          "like_count": 368,
+          "quote_count": 3,
+          "reply_count": 59,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "发现中国的外卖需求是被柯布西耶型城市格局给逼出来的... 住东京的时候就没想过点外卖，下楼走半分钟到Lawson，一分钟到サミットストア，两分钟范围内有松屋和N家拉面馆。一回国，全是超大地块+超宽街道，出小区走五分钟，过个马路再走五分钟，步行生活圈压根不存在，再加上电鸡横冲直撞，还是点外卖吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "发着光的半平米，胡乱哼唱的旋律，\n但是还想拯救你，同时拯救我自己。 \n大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 76,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 53,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14425,
+          "following_count": 1055,
+          "like_count": 43997,
+          "listed_count": 52,
+          "media_count": 1807,
+          "tweet_count": 26027
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-21T05:24:09.000Z",
+        "description": "🎓PKU 2016 - 2021 | CS major, Geology minor\n🏃菜腿 | 全马 337 | 半马 145｜越野 ITRA 425\n🧑‍💻外企程序员 | 全远程工作旅居中\n🏙️ 港吹+日吹 | 📝日本語勉強中",
+        "id": "1484396278079705091",
+        "location": "Tokyo",
+        "name": "紫电清霜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1484396375987322884/Zn7nRpum_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 18,
+          "like_count": 674,
+          "listed_count": 8,
+          "media_count": 22,
+          "tweet_count": 161
+        },
+        "username": "YanJian40647127",
+        "verified": false
+      }
+    ]
+  }
+}

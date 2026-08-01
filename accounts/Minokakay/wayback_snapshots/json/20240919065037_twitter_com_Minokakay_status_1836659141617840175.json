@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1836659133057241091"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "JP House of Councillors",
+          "id": "858955986433748993",
+          "name": "Japan House of Councillors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "JP House of Councillors",
+          "id": "858955986433748993",
+          "name": "Japan House of Councillors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "1836659141617840175",
+    "created_at": "2024-09-19T06:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T07:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1836659141617840175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fgjn3bo9i7",
+          "end": 23,
+          "expanded_url": "https://twitter.com/Minokakay/status/1836659141617840175/photo/1",
+          "media_key": "3_1836659133057241091",
+          "start": 0,
+          "url": "https://t.co/FGJN3bo9I7"
+        },
+        {
+          "display_url": "x.com/jimin_koho/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/jimin_koho/status/1836648564631703895",
+          "start": 24,
+          "url": "https://t.co/bYtpUsVY7S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836659141617840175",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836648564631703895",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/FGJN3bo9I7 https://t.co/bYtpUsVY7S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1549,
+        "media_key": "3_1836659133057241091",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GX0fwB9akAMv1AH.jpg",
+        "width": 1034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836659133057241091"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "JP House of Councillors",
+              "id": "858955986433748993",
+              "name": "Japan House of Councillors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "JP House of Councillors",
+              "id": "858955986433748993",
+              "name": "Japan House of Councillors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1836659141617840175",
+        "created_at": "2024-09-19T06:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T07:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836659141617840175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgjn3bo9i7",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Minokakay/status/1836659141617840175/photo/1",
+              "media_key": "3_1836659133057241091",
+              "start": 0,
+              "url": "https://t.co/FGJN3bo9I7"
+            },
+            {
+              "display_url": "x.com/jimin_koho/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/jimin_koho/status/1836648564631703895",
+              "start": 24,
+              "url": "https://t.co/bYtpUsVY7S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836659141617840175",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836648564631703895",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/FGJN3bo9I7 https://t.co/bYtpUsVY7S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836648559665647618"
+          ]
+        },
+        "author_id": "58359180",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "JP House of Councillors",
+              "id": "858955986433748993",
+              "name": "Japan House of Councillors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "JP House of Councillors",
+              "id": "858955986433748993",
+              "name": "Japan House of Councillors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1836648564631703895",
+        "created_at": "2024-09-19T06:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T07:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836648564631703895"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "赤松健 参議院議員",
+              "probability": 0.4757,
+              "start": 41,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 160,
+              "start": 149,
+              "tag": "自民党総裁選2024"
+            }
+          ],
+          "urls": [
+            {
+              "description": "自由民主党 総裁選挙2024の特設サイトです。令和6年9月12日告示・27日開票。立候補者のプロフィール、自民党総裁選日程、演説会情報など、さまざまなコンテンツをご用意しています。",
+              "display_url": "jimin.jp/sousai24/",
+              "end": 147,
+              "expanded_url": "https://www.jimin.jp/sousai24/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1836391708688551937/ElAoT-Ys?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1836391708688551937/ElAoT-Ys?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 124,
+              "status": 200,
+              "title": "総裁選2024｜自由民主党",
+              "unwound_url": "https://www.jimin.jp/sousai24/",
+              "url": "https://t.co/sL2oN7xl42"
+            },
+            {
+              "display_url": "pic.x.com/1h4clurrdy",
+              "end": 184,
+              "expanded_url": "https://twitter.com/jimin_koho/status/1836648564631703895/photo/1",
+              "media_key": "3_1836648559665647618",
+              "start": 161,
+              "url": "https://t.co/1h4ClurrdY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836648564631703895",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 20518,
+          "like_count": 432,
+          "quote_count": 47,
+          "reply_count": 18,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "˗ˏˋ 🌟似顔絵版キービジュアルを公開🌟 ˊˎ˗\n\n自民党総裁候補が勢揃い！\n赤松健 参議院議員による似顔絵版キービジュアルを公開しました！\n\n総裁選も後半戦に突入。\n全国各地で繰り広げられる演説会や候補者の所見、プロフィールはこちらから↓👀✨️\nhttps://t.co/sL2oN7xl42\n\n#自民党総裁選2024 https://t.co/1h4ClurrdY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高三生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 830,
+          "like_count": 15202,
+          "listed_count": 3,
+          "tweet_count": 6376
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-20T02:09:15.000Z",
+        "description": "自由民主党の公式アカウントです。 自民党のニュース、政策、自民党が運営するインターネット生放送“CafeSta（カフェスタ）”の番組案内、テレビ出演情報、国会情報などについて、お知らせしています。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jimin.jp",
+                "end": 23,
+                "expanded_url": "http://www.jimin.jp/",
+                "start": 0,
+                "url": "https://t.co/5gXc07DAm8"
+              }
+            ]
+          }
+        },
+        "id": "58359180",
+        "location": "東京都千代田区永田町",
+        "name": "自民党広報",
+        "pinned_tweet_id": "1835885389120483669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1532645750521606145/CQPpEZtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254793,
+          "following_count": 541,
+          "like_count": 366,
+          "listed_count": 5626,
+          "tweet_count": 19997
+        },
+        "url": "https://t.co/5gXc07DAm8",
+        "username": "jimin_koho",
+        "verified": true
+      }
+    ]
+  }
+}

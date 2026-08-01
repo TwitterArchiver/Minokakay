@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1882830515138601189",
+    "created_at": "2025-01-24T16:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T17:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882830515138601189"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Coccus_Swamer/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Coccus_Swamer/status/1882825174426566752",
+          "start": 18,
+          "url": "https://t.co/cWEOdCA0rj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882830515138601189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882825174426566752",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這是我們推特精神衛生中心的藥房主任 https://t.co/cWEOdCA0rj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1882830515138601189",
+        "created_at": "2025-01-24T16:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T17:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882830515138601189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Coccus_Swamer/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Coccus_Swamer/status/1882825174426566752",
+              "start": 18,
+              "url": "https://t.co/cWEOdCA0rj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882830515138601189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882825174426566752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這是我們推特精神衛生中心的藥房主任 https://t.co/cWEOdCA0rj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1882825174426566752",
+        "created_at": "2025-01-24T16:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T17:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882825174426566752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882825174426566752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 299,
+                "id": "1597257668313260033",
+                "start": 289,
+                "username": "Minokakay"
+              }
+            ]
+          },
+          "text": "整理一下在售商品：\n二氢杨梅素60-120mg胶囊\n胡椒碱10-30mg胶囊\n甜菜碱500mg胶囊\n助眠胶囊植物提取物\n辅酶Q10 42mg胶囊\n苯乙胺胶囊350-400mg\n现货日雌\n雌激素凝胶\n米氮平 瑞美隆\n奎硫平 启唯 0.1g\n安非他酮缓释 (二型） 150mg\n拉莫三嗪 利必通 50mg\n丙戊酸钠 德巴金 0.5g 30t\n丙戊酸缓释  喜复至 0.5g 30t\n阿戈美拉汀 14片 25mg\n二甲双胍缓释 斯邦得 0.5g\n二甲双胍肠溶 京丰 0.25g\n各类用药指导\nNAC 300mg\n抗抑郁处方药代购\n合法致幻剂\n司来吉兰 5mg\n专注达合法平替\n下面是\n@Minokakay\nidra21 20mg\n苯基吡拉西坦\n美白套装\n减肥药等"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "整理一下在售商品：\n二氢杨梅素60-120mg胶囊\n胡椒碱10-30mg胶囊\n甜菜碱500mg胶囊\n助眠胶囊植物提取物\n辅酶Q10 42mg胶囊\n苯乙胺胶囊350-400mg\n现货日雌\n雌激素凝胶\n米氮平 瑞美隆\n奎硫平 启唯 0.1g\n安非他酮缓释 (二型） 150mg\n拉莫三嗪 利必通 50mg\n丙戊酸钠 德巴金 0.5g 30t\n丙戊酸缓释  喜复至 0.5g…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日380色320泰210",
+        "pinned_tweet_id": "1881268152111440138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3136,
+          "following_count": 784,
+          "like_count": 33196,
+          "listed_count": 14,
+          "media_count": 895,
+          "tweet_count": 15053
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\n带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/日常学习/互关慎重\n中文/English/Deutsch/ภาษาไทย/日本語/Suomi kieli",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1882825174426566752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 1544,
+          "like_count": 7242,
+          "listed_count": 0,
+          "media_count": 419,
+          "tweet_count": 2549
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

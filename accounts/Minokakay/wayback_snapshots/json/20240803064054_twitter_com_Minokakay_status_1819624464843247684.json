@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1819620995914957165",
+    "created_at": "2024-08-03T06:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T07:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819624464843247684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804503492977205248",
+          "start": 0,
+          "username": "jingqinrencai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819624464843247684",
+    "in_reply_to_user_id": "1804503492977205248",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819624410418237795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingqinrencai 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1819620995914957165",
+        "created_at": "2024-08-03T06:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T07:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819624464843247684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804503492977205248",
+              "start": 0,
+              "username": "jingqinrencai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819624464843247684",
+        "in_reply_to_user_id": "1804503492977205248",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819624410418237795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingqinrencai 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804503492977205248",
+        "conversation_id": "1819620995914957165",
+        "created_at": "2024-08-03T06:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T07:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819624410418237795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819624410418237795",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819620995914957165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 🥺🥺🥺🥺摸摸摸摸摸摸摸摸摸摸摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 795,
+          "like_count": 3760,
+          "listed_count": 1,
+          "tweet_count": 1666
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T13:16:34.000Z",
+        "description": "苦逼高三学生一个，要是没动静不是似了就是在学校",
+        "id": "1804503492977205248",
+        "name": "jingqinrencai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809629976146382848/6Bn0JfL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 205,
+          "like_count": 1298,
+          "listed_count": 0,
+          "tweet_count": 546
+        },
+        "username": "jingqinrencai",
+        "verified": false
+      }
+    ]
+  }
+}

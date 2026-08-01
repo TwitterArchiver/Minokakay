@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596157251584",
+          "name": "Grocery/Convenience - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Safeway",
+          "id": "10027586463",
+          "name": "Safeway"
+        }
+      }
+    ],
+    "conversation_id": "1947806739950399944",
+    "created_at": "2025-07-22T23:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T00:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947806739950399944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1672822866986024961",
+          "start": 3,
+          "username": "Lycaropia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947806739950399944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947121221826650593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lycaropia: 假如说一个中文不好的外国人到中国买羊肉串，他中文不好所以说了“我要羊肉串，给我五根”，稍微有点常识的店员都知道这是外国人中文不好就不追究礼貌问题了。反倒是追究的才是以礼貌问题作为幌子行文化霸凌之实吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251584",
+              "name": "Grocery/Convenience - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Safeway",
+              "id": "10027586463",
+              "name": "Safeway"
+            }
+          }
+        ],
+        "conversation_id": "1947806739950399944",
+        "created_at": "2025-07-22T23:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T00:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947806739950399944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1672822866986024961",
+              "start": 3,
+              "username": "Lycaropia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947806739950399944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947121221826650593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lycaropia: 假如说一个中文不好的外国人到中国买羊肉串，他中文不好所以说了“我要羊肉串，给我五根”，稍微有点常识的店员都知道这是外国人中文不好就不追究礼貌问题了。反倒是追究的才是以礼貌问题作为幌子行文化霸凌之实吧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672822866986024961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251584",
+              "name": "Grocery/Convenience - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Safeway",
+              "id": "10027586463",
+              "name": "Safeway"
+            }
+          }
+        ],
+        "conversation_id": "1947121221826650593",
+        "created_at": "2025-07-21T02:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T03:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947121221826650593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hachimon2022/s…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/hachimon2022/status/1946305460497461280",
+              "start": 101,
+              "url": "https://t.co/B3Tk15Y12W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947121221826650593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 262423,
+          "like_count": 1975,
+          "quote_count": 5,
+          "reply_count": 150,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946305460497461280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "假如说一个中文不好的外国人到中国买羊肉串，他中文不好所以说了“我要羊肉串，给我五根”，稍微有点常识的店员都知道这是外国人中文不好就不追究礼貌问题了。反倒是追究的才是以礼貌问题作为幌子行文化霸凌之实吧？ https://t.co/B3Tk15Y12W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/癌症靶向藥找 @ChosekiNoraneko，我在做客服",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 88,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1940009083995873344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8264,
+          "following_count": 895,
+          "like_count": 44365,
+          "listed_count": 31,
+          "media_count": 1319,
+          "tweet_count": 19707
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-25T04:24:03.000Z",
+        "description": "Aspie | TS Fullstack | Transgirl🏳️‍⚧️ | 🌈Les | GF @CatTalkerMitaka LOVE ❤ FOREVER",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "CatTalkerMitaka"
+              }
+            ]
+          }
+        },
+        "id": "1672822866986024961",
+        "location": "384,400km",
+        "name": "居眠姬",
+        "pinned_tweet_id": "1910250184527024612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905253739625320448/sKopIlPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 1092,
+          "like_count": 81131,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 9799
+        },
+        "username": "Lycaropia",
+        "verified": false
+      }
+    ]
+  }
+}

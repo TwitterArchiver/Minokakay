@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+          "id": "847543836330958848",
+          "name": "Global security & terrorism"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      }
+    ],
+    "conversation_id": "1824859991519711609",
+    "created_at": "2024-08-17T18:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T19:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824870531344277753"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 102,
+          "normalized_text": "China",
+          "probability": 0.9783,
+          "start": 98,
+          "type": "Place"
+        },
+        {
+          "end": 157,
+          "normalized_text": "United States",
+          "probability": 0.9715,
+          "start": 145,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808610126200459265",
+          "start": 0,
+          "username": "Richyveeeee"
+        },
+        {
+          "end": 29,
+          "id": "852820302086029314",
+          "start": 13,
+          "username": "realsteelmuslim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824870531344277753",
+    "in_reply_to_user_id": "1808610126200459265",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824869611072041267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Richyveeeee @realsteelmuslim You will be arrested for terrorist attacks and domestic violence in China. What you say about the situation in the United States is a lie."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "1824859991519711609",
+        "created_at": "2024-08-17T18:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T19:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824870531344277753"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 102,
+              "normalized_text": "China",
+              "probability": 0.9783,
+              "start": 98,
+              "type": "Place"
+            },
+            {
+              "end": 157,
+              "normalized_text": "United States",
+              "probability": 0.9715,
+              "start": 145,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808610126200459265",
+              "start": 0,
+              "username": "Richyveeeee"
+            },
+            {
+              "end": 29,
+              "id": "852820302086029314",
+              "start": 13,
+              "username": "realsteelmuslim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824870531344277753",
+        "in_reply_to_user_id": "1808610126200459265",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824869611072041267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Richyveeeee @realsteelmuslim You will be arrested for terrorist attacks and domestic violence in China. What you say about the situation in the United States is a lie."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808610126200459265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "1824859991519711609",
+        "created_at": "2024-08-17T18:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T19:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824869611072041267"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "China",
+              "probability": 0.9717,
+              "start": 28,
+              "type": "Place"
+            },
+            {
+              "end": 108,
+              "normalized_text": "US",
+              "probability": 0.9178,
+              "start": 107,
+              "type": "Place"
+            },
+            {
+              "end": 183,
+              "normalized_text": "US",
+              "probability": 0.966,
+              "start": 182,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            },
+            {
+              "end": 27,
+              "id": "852820302086029314",
+              "start": 11,
+              "username": "realsteelmuslim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824869611072041267",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824868461924991402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay @realsteelmuslim China doesn’t tolerate terrorist attacks or domestic violence? And like 50% of US cops abuse their wives, the guys supposed to uphold those laws. And the US literally has invaded, bombed and help kill 4 million people in 20 years? Are you brain dead"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 付费裡推：@Minokakaysex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Minokakaysex"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 901,
+          "like_count": 8501,
+          "listed_count": 2,
+          "tweet_count": 2938
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T21:13:59.000Z",
+        "description": "",
+        "id": "1808610126200459265",
+        "name": "Fun Guy 2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808610223479009280/YSpRArsj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 330,
+          "like_count": 15899,
+          "listed_count": 0,
+          "tweet_count": 4808
+        },
+        "username": "Richyveeeee",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-14T09:46:19.000Z",
+        "description": "Union member. Hui Muslim. Contact me at temursteel@gmail.com",
+        "id": "852820302086029314",
+        "location": "Naarm",
+        "name": "Temür",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686705829792415744/nhyCWGFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14464,
+          "following_count": 2066,
+          "like_count": 37223,
+          "listed_count": 96,
+          "tweet_count": 34920
+        },
+        "username": "realsteelmuslim",
+        "verified": true
+      }
+    ]
+  }
+}

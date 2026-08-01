@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1840300977842479241",
+    "created_at": "2024-09-29T08:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T09:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1840300977842479241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nagitsuki441/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Nagitsuki441/status/1839974753064628596",
+          "start": 6,
+          "url": "https://t.co/58M96AEbQM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840300977842479241",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839974753064628596",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我老婆 https://t.co/58M96AEbQM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1840300977842479241",
+        "created_at": "2024-09-29T08:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T09:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840300977842479241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nagitsuki441/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Nagitsuki441/status/1839974753064628596",
+              "start": 6,
+              "url": "https://t.co/58M96AEbQM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840300977842479241",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839974753064628596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我老婆 https://t.co/58M96AEbQM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839974748358610944"
+          ]
+        },
+        "author_id": "1313808336551174144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1839974753064628596",
+        "created_at": "2024-09-28T10:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T11:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839974753064628596"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "けいおん",
+              "probability": 0.4927,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 27,
+              "normalized_text": "平沢唯",
+              "probability": 0.834,
+              "start": 25,
+              "type": "Person"
+            },
+            {
+              "end": 38,
+              "normalized_text": "けんしんさん",
+              "probability": 0.4791,
+              "start": 33,
+              "type": "Person"
+            },
+            {
+              "end": 49,
+              "normalized_text": "2Naスタさん",
+              "probability": 0.3728,
+              "start": 43,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gsvmv017qs",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Nagitsuki441/status/1839974753064628596/photo/1",
+              "media_key": "3_1839974748358610944",
+              "start": 49,
+              "url": "https://t.co/gsvMv017QS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839974753064628596",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 233,
+          "impression_count": 28436,
+          "like_count": 1911,
+          "quote_count": 7,
+          "reply_count": 10,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "- Cosplay / コスプレ -\nけいおん！\n平沢唯\n\n📸：けんしんさん\n🏠：2Naスタさん https://t.co/gsvMv017QS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比男高三生 阿斯ADHD Pansexual INFP 🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 860,
+          "like_count": 18213,
+          "listed_count": 3,
+          "tweet_count": 8162
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T11:48:20.000Z",
+        "description": "🌷🐹適当に生きとりましたが最近目標が出来ました。広島🥜🎐ツナコケシ🐔🐟ジャンル問わず好きを呟きます🗣【世界一スコ @Noa___O912 】 東ディバ／ドズル社／マイクラ／maimai／黒バス／DB／UT／SD／🏐／DOAXVV／緑さん卍 ⚠自信皆無写真重加工⚠ ／ #おいなぎつき ※無断転載NG",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 141,
+                "start": 134,
+                "tag": "おいなぎつき"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "Noa___O912"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/kurobahu",
+                "end": 23,
+                "expanded_url": "https://twitter.com/kurobahu",
+                "start": 0,
+                "url": "https://t.co/27wCA34KHL"
+              }
+            ]
+          }
+        },
+        "id": "1313808336551174144",
+        "location": "来世は性別のない世界",
+        "name": "𣷓月ぼる",
+        "pinned_tweet_id": "1817613698116325775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787770182980825088/5e-QhL5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20246,
+          "following_count": 1229,
+          "like_count": 94227,
+          "listed_count": 176,
+          "tweet_count": 25801
+        },
+        "url": "https://t.co/27wCA34KHL",
+        "username": "Nagitsuki441",
+        "verified": false
+      }
+    ]
+  }
+}

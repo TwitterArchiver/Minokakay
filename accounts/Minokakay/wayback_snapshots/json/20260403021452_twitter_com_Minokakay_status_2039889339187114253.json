@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2039759192203079680"
+      ],
+      "media_source_tweet_id": [
+        "2039759278844592323"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2039889339187114253",
+    "created_at": "2026-04-03T02:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T03:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039889339187114253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "281045155",
+          "start": 3,
+          "username": "_vicwong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AKBu3UREQd",
+          "end": 52,
+          "expanded_url": "https://x.com/Out5p0ken/status/2039759278844592323/video/1",
+          "media_key": "13_2039759192203079680",
+          "start": 29,
+          "url": "https://t.co/AKBu3UREQd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039889339187114253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039886388112261350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_vicwong: 英语学习视频：给川粉解释关税 https://t.co/AKBu3UREQd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75866,
+        "height": 994,
+        "media_key": "13_2039759192203079680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039759192203079680/img/34wsxj8Xq2hJe5Ub.jpg",
+        "public_metrics": {
+          "view_count": 16935
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039759192203079680/vid/avc1/320x442/pl_3UOvmv2wkk9hr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039759192203079680/vid/avc1/480x664/c1i---UTISd_lfOT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039759192203079680/vid/avc1/718x994/0AqIDS3CfaWmUfa1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039759192203079680/pl/qUjG8WbgwRsUy7hj.m3u8?v=542"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039759192203079680"
+          ],
+          "media_source_tweet_id": [
+            "2039759278844592323"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2039889339187114253",
+        "created_at": "2026-04-03T02:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039889339187114253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "281045155",
+              "start": 3,
+              "username": "_vicwong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AKBu3UREQd",
+              "end": 52,
+              "expanded_url": "https://x.com/Out5p0ken/status/2039759278844592323/video/1",
+              "media_key": "13_2039759192203079680",
+              "start": 29,
+              "url": "https://t.co/AKBu3UREQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039889339187114253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039886388112261350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_vicwong: 英语学习视频：给川粉解释关税 https://t.co/AKBu3UREQd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039759192203079680"
+          ],
+          "media_source_tweet_id": [
+            "2039759278844592323"
+          ]
+        },
+        "author_id": "281045155",
+        "conversation_id": "2039886388112261350",
+        "created_at": "2026-04-03T02:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039886388112261350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AKBu3UREQd",
+              "end": 38,
+              "expanded_url": "https://x.com/Out5p0ken/status/2039759278844592323/video/1",
+              "media_key": "13_2039759192203079680",
+              "start": 15,
+              "url": "https://t.co/AKBu3UREQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039886388112261350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "英语学习视频：给川粉解释关税 https://t.co/AKBu3UREQd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "命に嫌われている。 mtx 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp，私信不回，打不开换梯子换浏览器",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 78,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 55,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14327,
+          "following_count": 1054,
+          "like_count": 44015,
+          "listed_count": 53,
+          "media_count": 1789,
+          "tweet_count": 25701
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2011-04-12T14:27:54.000Z",
+        "description": "加拿大多伦多人；移民二十九年，非信徒；崇尚“赛先生”和“德先生”； 享受退休生活，喜欢房车音乐。 上推的目的：用以往生活工作经验，帮推友借助科技学习英语，了解西方社会，享受现代生活。 欢迎任何评论，提出你的论点，不接受任何脏话，没时间私信通讯，感谢推友关注。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vicwong.com",
+                "end": 23,
+                "expanded_url": "http://www.vicwong.com",
+                "start": 0,
+                "url": "https://t.co/k96TOcRpuE"
+              }
+            ]
+          }
+        },
+        "id": "281045155",
+        "location": "Toronto, Ontario",
+        "name": "Vic Wong 黄维克",
+        "pinned_tweet_id": "2038822038081507574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562231842530549760/gakJS4XE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57599,
+          "following_count": 411,
+          "like_count": 68030,
+          "listed_count": 243,
+          "media_count": 10930,
+          "tweet_count": 65054
+        },
+        "url": "https://t.co/k96TOcRpuE",
+        "username": "_vicwong",
+        "verified": true
+      }
+    ]
+  }
+}

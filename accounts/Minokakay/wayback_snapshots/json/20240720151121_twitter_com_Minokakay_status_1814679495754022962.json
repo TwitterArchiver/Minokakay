@@ -1,0 +1,195 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1810299332559814656"
+      ],
+      "media_source_tweet_id": [
+        "1810299594808725839"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1814679495754022962",
+    "created_at": "2024-07-20T15:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-20T16:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814679495754022962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "324391547",
+          "start": 3,
+          "username": "avogado6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/lEPXb14Ocr",
+          "end": 41,
+          "expanded_url": "https://twitter.com/avogado6/status/1810299594808725839/photo/1",
+          "media_key": "3_1810299332559814656",
+          "start": 18,
+          "url": "https://t.co/lEPXb14Ocr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814679495754022962",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3436
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810299594808725839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @avogado6: あみだ https://t.co/lEPXb14Ocr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1814679495754022962].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1814679495754022962",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1814679495754022962"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1810299332559814656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GR95ps5awAAoHzG.jpg",
+        "width": 3900
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1810299332559814656"
+          ]
+        },
+        "author_id": "324391547",
+        "conversation_id": "1810299594808725839",
+        "created_at": "2024-07-08T13:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T14:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810299594808725839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/lEPXb14Ocr",
+              "end": 27,
+              "expanded_url": "https://twitter.com/avogado6/status/1810299594808725839/photo/1",
+              "media_key": "3_1810299332559814656",
+              "start": 4,
+              "url": "https://t.co/lEPXb14Ocr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810299594808725839",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1372,
+          "impression_count": 544097,
+          "like_count": 44460,
+          "quote_count": 87,
+          "reply_count": 46,
+          "retweet_count": 3436
+        },
+        "reply_settings": "everyone",
+        "text": "あみだ https://t.co/lEPXb14Ocr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "暗い未來だって，\n強くなって運命変えられるかもね  🇹🇼ROC成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome\n遇到傻逼会直接block，见谅，不和非人类交流",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 761,
+          "like_count": 2567,
+          "listed_count": 1,
+          "tweet_count": 1270
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-26T14:46:50.000Z",
+        "description": "化学が好きな一般人です。映像作品とか創ってます。https://t.co/lMOTGT5AX4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/28725264",
+                "end": 47,
+                "expanded_url": "http://nicovideo.jp/mylist/28725264",
+                "start": 24,
+                "url": "https://t.co/lMOTGT5AX4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "avogado6.com",
+                "end": 23,
+                "expanded_url": "https://www.avogado6.com/",
+                "start": 0,
+                "url": "https://t.co/C6ykDstxlb"
+              }
+            ]
+          }
+        },
+        "id": "324391547",
+        "name": "アボガド6",
+        "pinned_tweet_id": "1697145165679653046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/982977860804554753/2TGsjSo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2466545,
+          "following_count": 23,
+          "like_count": 33,
+          "listed_count": 9212,
+          "tweet_count": 3690
+        },
+        "url": "https://t.co/C6ykDstxlb",
+        "username": "avogado6",
+        "verified": true
+      }
+    ]
+  }
+}

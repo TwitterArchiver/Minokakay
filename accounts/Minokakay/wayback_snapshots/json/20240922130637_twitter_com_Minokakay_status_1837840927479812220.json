@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1837833670792827017",
+    "created_at": "2024-09-22T13:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T14:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837840927479812220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1702290376894152704",
+          "start": 0,
+          "username": "Bocchi520_"
+        },
+        {
+          "end": 22,
+          "id": "1786568618823897089",
+          "start": 12,
+          "username": "mottoye64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837840927479812220",
+    "in_reply_to_user_id": "1702290376894152704",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837834264022286622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bocchi520_ @mottoye64 你怎么在这里😡"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1837834264022286622].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1837834264022286622",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1837834264022286622"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1837833670792827017",
+        "created_at": "2024-09-22T13:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T14:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837840927479812220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1702290376894152704",
+              "start": 0,
+              "username": "Bocchi520_"
+            },
+            {
+              "end": 22,
+              "id": "1786568618823897089",
+              "start": 12,
+              "username": "mottoye64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837840927479812220",
+        "in_reply_to_user_id": "1702290376894152704",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837834264022286622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bocchi520_ @mottoye64 你怎么在这里😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  成渝 半休学陰暗比男高三生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 152,
+                "start": 136,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 838,
+          "like_count": 16004,
+          "listed_count": 4,
+          "tweet_count": 6827
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T11:57:16.000Z",
+        "description": "極左翼l禁欲主義的偉大實踐者|瘋子l\n傻子@onikawaeisa|快去fo新號→@Hitori_Gotoh520\n己死有事私訊或Discord",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "onikawaeisa"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "Hitori_Gotoh520"
+              }
+            ]
+          }
+        },
+        "id": "1702290376894152704",
+        "location": "自由之鄉＿自由之土🇹🇼",
+        "name": "抱歉BOT",
+        "pinned_tweet_id": "1830580300570923418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814192894468915200/ce8g9NaG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 1194,
+          "like_count": 32426,
+          "listed_count": 3,
+          "tweet_count": 15205
+        },
+        "username": "Bocchi520_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T01:29:25.000Z",
+        "description": "這裡是小夜的生活推小號 門檻128 主要還是oc營業 本體不營業 親友免費 謝謝咪",
+        "id": "1786568618823897089",
+        "location": "龙椅,北京",
+        "name": "魔盗小小夜🇨🇳",
+        "pinned_tweet_id": "1812843746104660432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807040195826700288/rRZ-cD7-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 499,
+          "like_count": 1994,
+          "listed_count": 0,
+          "tweet_count": 660
+        },
+        "username": "mottoye64",
+        "verified": false
+      }
+    ]
+  }
+}

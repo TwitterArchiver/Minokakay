@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1972498430980493805",
+    "created_at": "2025-09-29T03:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T04:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972498430980493805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1742381695045939200",
+          "start": 3,
+          "username": "mo6ji4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972498430980493805",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972197390456430832",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mo6ji4: 香草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1972498430980493805",
+        "created_at": "2025-09-29T03:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T04:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972498430980493805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1742381695045939200",
+              "start": 3,
+              "username": "mo6ji4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972498430980493805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972197390456430832",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mo6ji4: 香草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742381695045939200",
+        "conversation_id": "1972197390456430832",
+        "created_at": "2025-09-28T07:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T08:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972197390456430832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kakowara365/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/kakowara365/status/1972193041676202318",
+              "start": 3,
+              "url": "https://t.co/MAgycXzobs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972197390456430832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 517,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972193041676202318",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "香草 https://t.co/MAgycXzobs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX 长居🇭🇰🇯🇵🇹🇭买HRT补佳乐色普龙诺坤复/减肥/促智找 @ChosekiNoraneko，全球可寄，我朋友开的我在做客服。买电子烟找@weita2024。买抗癌药物找@LuciusPharmacy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "LuciusPharmacy"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10500,
+          "following_count": 944,
+          "like_count": 44716,
+          "listed_count": 35,
+          "media_count": 1434,
+          "tweet_count": 21386
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-03T03:06:37.000Z",
+        "description": "头像源：《blacksouls》贞德相爱CG\n防失联小号@m8o9j6i4 亲爱的 @35zf_out @Fiammetta1453  @Bingfei2v2 @azusaROCtw  @mingnaisama\n玻璃心自卑仇富（我是顺男）小狗@GLaDOS8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "m8o9j6i4"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "35zf_out"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "Fiammetta1453"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Bingfei2v2"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "azusaROCtw"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "mingnaisama"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "GLaDOS8964"
+              }
+            ]
+          }
+        },
+        "id": "1742381695045939200",
+        "location": "阿拉斯加美军要塞",
+        "name": "圣骑士贞德（误ban抱歉）（情绪垃圾桶）（推文不完全代表本人立场）性压抑下头男",
+        "pinned_tweet_id": "1948006603099447615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821365773853675521/fOq21twb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2889,
+          "following_count": 1052,
+          "like_count": 128978,
+          "listed_count": 9,
+          "media_count": 2263,
+          "tweet_count": 32249
+        },
+        "username": "mo6ji4",
+        "verified": false
+      }
+    ]
+  }
+}

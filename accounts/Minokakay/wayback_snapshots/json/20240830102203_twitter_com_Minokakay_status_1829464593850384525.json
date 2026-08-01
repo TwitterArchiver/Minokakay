@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1829416181809254772",
+    "created_at": "2024-08-30T10:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T11:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829464593850384525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1786694173883871232",
+          "start": 0,
+          "username": "2022Fxs"
+        },
+        {
+          "end": 21,
+          "id": "1683441735144439808",
+          "start": 9,
+          "username": "Allenium114"
+        },
+        {
+          "end": 33,
+          "id": "1816907110841802752",
+          "start": 22,
+          "username": "Ienvy19511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829464593850384525",
+    "in_reply_to_user_id": "1786694173883871232",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829464011458420927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2022Fxs @Allenium114 @Ienvy19511 我准备医院加药再自己想办法搞抗抑郁药，最大药量猛吃把抑郁症这些短时间内治好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1829464011458420927].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1829464011458420927",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1829464011458420927"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1829416181809254772",
+        "created_at": "2024-08-30T10:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T11:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829464593850384525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1786694173883871232",
+              "start": 0,
+              "username": "2022Fxs"
+            },
+            {
+              "end": 21,
+              "id": "1683441735144439808",
+              "start": 9,
+              "username": "Allenium114"
+            },
+            {
+              "end": 33,
+              "id": "1816907110841802752",
+              "start": 22,
+              "username": "Ienvy19511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829464593850384525",
+        "in_reply_to_user_id": "1786694173883871232",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829464011458420927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2022Fxs @Allenium114 @Ienvy19511 我准备医院加药再自己想办法搞抗抑郁药，最大药量猛吃把抑郁症这些短时间内治好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 792,
+          "like_count": 11854,
+          "listed_count": 3,
+          "tweet_count": 4578
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T09:47:51.000Z",
+        "description": "08年mtf hrt:2024.5.19 /药娘，生理性别男/自由意志社会主义/政治立场不同也能正常交流/ 精神状态很良好（坚信）/重度焦虑/高中二年级（半休学）/阴暗逼/ 里推@8964liuguang,只过熟人，放点图什么的/同学少来视奸我/ 老公@sabulin8964/一场寂寞凭谁诉。算前言，总轻负",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 89,
+                "username": "8964liuguang"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "sabulin8964"
+              }
+            ]
+          }
+        },
+        "id": "1786694173883871232",
+        "location": "警戒号",
+        "name": "野田流光🍥",
+        "pinned_tweet_id": "1827023951744364683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819243129423515648/OcxK0fXt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 235,
+          "like_count": 6520,
+          "listed_count": 1,
+          "tweet_count": 3611
+        },
+        "username": "2022Fxs",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:39:28.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥 HRT2024.4.20|持证 ADHD | 半出柜半家长党| 小证 2024.8.5丨178cm 57kg | 重度 Apex | 准高二08 年物化生😭| 麻麻@xue_zhi2008 笨蛋@charge_rif|🇵🇸逃生舱@kagurazaka_Lynn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 93,
+                "username": "xue_zhi2008"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "charge_rif"
+              },
+              {
+                "end": 141,
+                "start": 125,
+                "username": "kagurazaka_Lynn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/AG5sVAiJgj"
+              }
+            ]
+          }
+        },
+        "id": "1683441735144439808",
+        "location": "重庆 渝北",
+        "name": ".翎🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789540383489449984/g9zaDvGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 706,
+          "like_count": 35933,
+          "listed_count": 7,
+          "tweet_count": 8598
+        },
+        "url": "https://t.co/AG5sVAiJgj",
+        "username": "Allenium114",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T18:43:23.000Z",
+        "description": "MTX～F | 友善的自我中心者 | 睡不够会很烦 | infp~intp波动中 | 重力放出 | 需要评价和建议 | 时间永远不够 | 内在=迷子 |  努力成长中 | 比想象中更脆弱 | 雌二醇+推特重度依恋 | 不希望任何朋友继续痛苦 | 希望一直幸运而纯洁🍀⚜  \n依恋着不存在于这一侧的黎明🌈💞",
+        "id": "1816907110841802752",
+        "location": "哈尔滨",
+        "name": "Azure Ether🍀⚜️🦋(二代目)",
+        "pinned_tweet_id": "1818637454212993531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818637232712175616/nfo8YMr4_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 175,
+          "like_count": 8890,
+          "listed_count": 0,
+          "tweet_count": 1309
+        },
+        "username": "Ienvy19511",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1834815826798755965",
+    "created_at": "2024-09-14T07:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-14T08:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834859006692933901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1786694173883871232",
+          "start": 0,
+          "username": "2022Fxs"
+        },
+        {
+          "end": 22,
+          "id": "1592805077101596675",
+          "start": 9,
+          "username": "lerosase8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834859006692933901",
+    "in_reply_to_user_id": "1786694173883871232",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834858881887224269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2022Fxs @lerosase8964 記得藏幾粒備用"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1834858881887224269].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1834858881887224269",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1834858881887224269"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1834815826798755965",
+        "created_at": "2024-09-14T07:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T08:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834859006692933901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1786694173883871232",
+              "start": 0,
+              "username": "2022Fxs"
+            },
+            {
+              "end": 22,
+              "id": "1592805077101596675",
+              "start": 9,
+              "username": "lerosase8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834859006692933901",
+        "in_reply_to_user_id": "1786694173883871232",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834858881887224269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2022Fxs @lerosase8964 記得藏幾粒備用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 821,
+          "like_count": 14093,
+          "listed_count": 3,
+          "tweet_count": 5918
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T09:47:51.000Z",
+        "description": "就是那个叫流光小药娘",
+        "id": "1786694173883871232",
+        "location": "萨宝心里",
+        "name": "野田流光🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819243129423515648/OcxK0fXt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 254,
+          "like_count": 9517,
+          "listed_count": 2,
+          "tweet_count": 5314
+        },
+        "username": "2022Fxs",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T09:01:49.000Z",
+        "description": "马列毛主义 友LGBTQ+🏳️‍⚧️🏳️‍🌈 台湾民族自决 @gemmillihxrfpz (。•ω•。)ノ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "gemmillihxrfpz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ci-ic.org",
+                "end": 23,
+                "expanded_url": "https://ci-ic.org/",
+                "start": 0,
+                "url": "https://t.co/RcP305d4Zx"
+              }
+            ]
+          }
+        },
+        "id": "1592805077101596675",
+        "location": "中華人民共和國（1949-1976）",
+        "name": "Leros.椿宫",
+        "pinned_tweet_id": "1815220111193907619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829197958912331776/wcAlN8WX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 1456,
+          "like_count": 23545,
+          "listed_count": 12,
+          "tweet_count": 6934
+        },
+        "url": "https://t.co/RcP305d4Zx",
+        "username": "lerosase8964",
+        "verified": false
+      }
+    ]
+  }
+}

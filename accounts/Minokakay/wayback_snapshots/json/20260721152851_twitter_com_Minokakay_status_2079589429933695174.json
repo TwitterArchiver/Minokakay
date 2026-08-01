@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2079589429933695174",
+    "created_at": "2026-07-21T15:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T16:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079589429933695174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meuuuu_kk/stat…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/meuuuu_kk/status/2079297986668994822",
+          "start": 29,
+          "url": "https://t.co/W5xsuYYStb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079589429933695174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079297986668994822",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还停留在16日元=1中国元 现在去日本真是什么都打66折 https://t.co/W5xsuYYStb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2079589429933695174",
+        "created_at": "2026-07-21T15:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079589429933695174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meuuuu_kk/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/meuuuu_kk/status/2079297986668994822",
+              "start": 29,
+              "url": "https://t.co/W5xsuYYStb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079589429933695174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079297986668994822",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还停留在16日元=1中国元 现在去日本真是什么都打66折 https://t.co/W5xsuYYStb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831127108791529473",
+        "conversation_id": "2079297986668994822",
+        "created_at": "2026-07-20T20:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T21:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079297986668994822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079297986668994822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11321,
+          "like_count": 96,
+          "quote_count": 3,
+          "reply_count": 27,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我对日元印象还停在了10000日元=500人民币，现在真是变这么多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14457,
+          "following_count": 1083,
+          "like_count": 43822,
+          "listed_count": 49,
+          "media_count": 1851,
+          "tweet_count": 26312
+        },
+        "url": "",
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T00:28:52.000Z",
+        "description": "🌈",
+        "id": "1831127108791529473",
+        "location": "He/him",
+        "name": "💫",
+        "pinned_tweet_id": "2053922314778038337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076283640275783680/1GyvugGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 249,
+          "like_count": 17387,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 6387
+        },
+        "url": "",
+        "username": "Meuuuu_kk",
+        "verified": false
+      }
+    ]
+  }
+}

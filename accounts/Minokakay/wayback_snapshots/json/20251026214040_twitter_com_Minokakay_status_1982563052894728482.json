@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982392586904985600"
+      ],
+      "media_source_tweet_id": [
+        "1982392596388626872"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1982563052894728482",
+    "created_at": "2025-10-26T21:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T22:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982563052894728482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1641795821078474754",
+          "start": 3,
+          "username": "Tnk_Chiyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IAqlJC7q2B",
+          "end": 38,
+          "expanded_url": "https://x.com/Tnk_Chiyo/status/1982392596388626872/photo/1",
+          "media_key": "3_1982392586904985600",
+          "start": 15,
+          "url": "https://t.co/IAqlJC7q2B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982563052894728482",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982392596388626872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tnk_Chiyo: https://t.co/IAqlJC7q2B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_1982392586904985600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LfjfvW4AAedQp.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982392586904985600"
+          ],
+          "media_source_tweet_id": [
+            "1982392596388626872"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1982563052894728482",
+        "created_at": "2025-10-26T21:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T22:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982563052894728482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1641795821078474754",
+              "start": 3,
+              "username": "Tnk_Chiyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IAqlJC7q2B",
+              "end": 38,
+              "expanded_url": "https://x.com/Tnk_Chiyo/status/1982392596388626872/photo/1",
+              "media_key": "3_1982392586904985600",
+              "start": 15,
+              "url": "https://t.co/IAqlJC7q2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982563052894728482",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982392596388626872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tnk_Chiyo: https://t.co/IAqlJC7q2B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982392586904985600"
+          ]
+        },
+        "author_id": "1641795821078474754",
+        "conversation_id": "1982392596388626872",
+        "created_at": "2025-10-26T10:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T11:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982392596388626872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IAqlJC7q2B",
+              "end": 23,
+              "expanded_url": "https://x.com/Tnk_Chiyo/status/1982392596388626872/photo/1",
+              "media_key": "3_1982392586904985600",
+              "start": 0,
+              "url": "https://t.co/IAqlJC7q2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982392596388626872",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IAqlJC7q2B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新 买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11845,
+          "following_count": 988,
+          "like_count": 44951,
+          "listed_count": 41,
+          "media_count": 1484,
+          "tweet_count": 22143
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-31T13:34:38.000Z",
+        "description": "多言語垢🇭🇰広東語 🇯🇵日本語 🇨🇳中国語 /Formula 1～ 虹ヶ咲🌈/Aqours💧/ユーフォ🎺/ゆるキャン🏕/～～天王寺璃奈激推し🛜愛車～トヨタ キャミ",
+        "id": "1641795821078474754",
+        "location": "台場、虹ヶ咲学園/沼津、浦の星女学院",
+        "name": "千代_ChiyoTnk",
+        "pinned_tweet_id": "1911883127645192309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940183531340083264/qUs-v8hx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 565,
+          "like_count": 3775,
+          "listed_count": 1,
+          "media_count": 628,
+          "tweet_count": 2638
+        },
+        "username": "Tnk_Chiyo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002390660700422144"
+      ],
+      "media_source_tweet_id": [
+        "2002390667486769559"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2002508415562887220",
+    "created_at": "2025-12-20T22:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T23:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002508415562887220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1450773205178720260",
+          "start": 3,
+          "username": "ReT0ky0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ru5p21uCYv",
+          "end": 36,
+          "expanded_url": "https://x.com/ReT0ky0/status/2002390667486769559/photo/1",
+          "media_key": "3_2002390660700422144",
+          "start": 13,
+          "url": "https://t.co/Ru5p21uCYv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002508415562887220",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 194
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002390667486769559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ReT0ky0: https://t.co/Ru5p21uCYv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1860,
+        "media_key": "3_2002390660700422144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8nrsmCbwAAT8cZ.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002390660700422144"
+          ],
+          "media_source_tweet_id": [
+            "2002390667486769559"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2002508415562887220",
+        "created_at": "2025-12-20T22:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T23:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002508415562887220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1450773205178720260",
+              "start": 3,
+              "username": "ReT0ky0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ru5p21uCYv",
+              "end": 36,
+              "expanded_url": "https://x.com/ReT0ky0/status/2002390667486769559/photo/1",
+              "media_key": "3_2002390660700422144",
+              "start": 13,
+              "url": "https://t.co/Ru5p21uCYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002508415562887220",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002390667486769559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ReT0ky0: https://t.co/Ru5p21uCYv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002390660700422144"
+          ]
+        },
+        "author_id": "1450773205178720260",
+        "conversation_id": "2002390667486769559",
+        "created_at": "2025-12-20T14:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T15:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002390667486769559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ru5p21uCYv",
+              "end": 23,
+              "expanded_url": "https://x.com/ReT0ky0/status/2002390667486769559/photo/1",
+              "media_key": "3_2002390660700422144",
+              "start": 0,
+              "url": "https://t.co/Ru5p21uCYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002390667486769559",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2110,
+          "impression_count": 238581,
+          "like_count": 13541,
+          "quote_count": 19,
+          "reply_count": 70,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ru5p21uCYv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13122,
+          "following_count": 1013,
+          "like_count": 44947,
+          "listed_count": 50,
+          "media_count": 1783,
+          "tweet_count": 24769
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-20T10:37:49.000Z",
+        "description": "Something good Archives.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ret0ky0_memory…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/ret0ky0_memory?igshid=OGIzYTJhMTRmYQ==",
+                "start": 0,
+                "url": "https://t.co/bplsffeB4f"
+              }
+            ]
+          }
+        },
+        "id": "1450773205178720260",
+        "name": "Re:TOKYO MEMORY",
+        "pinned_tweet_id": "1679151106558169088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1459403716784963584/I3Gq8aGR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758265,
+          "following_count": 17,
+          "like_count": 870,
+          "listed_count": 1828,
+          "media_count": 5244,
+          "tweet_count": 5411
+        },
+        "url": "https://t.co/bplsffeB4f",
+        "username": "ReT0ky0",
+        "verified": true
+      }
+    ]
+  }
+}

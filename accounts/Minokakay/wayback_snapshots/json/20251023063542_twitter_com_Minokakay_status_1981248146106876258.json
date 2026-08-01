@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1980776562158105025",
+    "created_at": "2025-10-23T06:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T07:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981248146106876258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "18014465",
+          "start": 0,
+          "username": "ssynhtn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981248146106876258",
+    "in_reply_to_user_id": "18014465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981014597311312087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ssynhtn 日本主要是工资低 比起欧美太低了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1980776562158105025",
+        "created_at": "2025-10-23T06:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T07:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981248146106876258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "18014465",
+              "start": 0,
+              "username": "ssynhtn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981248146106876258",
+        "in_reply_to_user_id": "18014465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981014597311312087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssynhtn 日本主要是工资低 比起欧美太低了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "18014465",
+        "conversation_id": "1980776562158105025",
+        "created_at": "2025-10-22T15:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T16:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981014597311312087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981014597311312087",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 732,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980776562158105025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 可是感觉日本的房价很便宜呀，不需要住出租屋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，长居🇭🇰🇯🇵。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11711,
+          "following_count": 985,
+          "like_count": 44886,
+          "listed_count": 41,
+          "media_count": 1471,
+          "tweet_count": 21922
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2008-12-10T07:04:07.000Z",
+        "description": "",
+        "id": "18014465",
+        "name": "ssynhtn",
+        "pinned_tweet_id": "798499686629904384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1173960436552585221/pMeRwALF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 344,
+          "like_count": 6642,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 7063
+        },
+        "username": "ssynhtn",
+        "verified": false
+      }
+    ]
+  }
+}

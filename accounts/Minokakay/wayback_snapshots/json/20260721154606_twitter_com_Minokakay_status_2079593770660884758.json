@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      }
+    ],
+    "conversation_id": "2079528003873448062",
+    "created_at": "2026-07-21T15:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T16:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079593770660884758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546464289602428929",
+          "start": 0,
+          "username": "yuji53719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079593770660884758",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079593383522431298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuji53719 招商：服务\n兴业：汇率与服务（一定办寰宇人生卡）\n中行：跨境到海外及香港稳定性 （也一定办张莫奈（Mastercard））"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2079528003873448062",
+        "created_at": "2026-07-21T15:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079593770660884758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546464289602428929",
+              "start": 0,
+              "username": "yuji53719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079593770660884758",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079593383522431298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuji53719 招商：服务\n兴业：汇率与服务（一定办寰宇人生卡）\n中行：跨境到海外及香港稳定性 （也一定办张莫奈（Mastercard））"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2079528003873448062",
+        "created_at": "2026-07-21T15:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079593383522431298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546464289602428929",
+              "start": 0,
+              "username": "yuji53719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079593383522431298",
+        "in_reply_to_user_id": "1546464289602428929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079528003873448062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuji53719 年轻人直接招商+兴业+中行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14459,
+          "following_count": 1083,
+          "like_count": 43823,
+          "listed_count": 49,
+          "media_count": 1851,
+          "tweet_count": 26317
+        },
+        "url": "",
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-11T12:00:07.000Z",
+        "description": "细看来 不是杨花 点点是离人泪｜未完成的@defeuillaison｜友链：老铁@Makarios327375 小德@Devi114514 小宇@wanzi0209 小白@xubai_01｜灵魂常居于此｜北京",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "defeuillaison"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "Makarios327375"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "Devi114514"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "wanzi0209"
+              },
+              {
+                "end": 94,
+                "start": 85,
+                "username": "xubai_01"
+              }
+            ]
+          }
+        },
+        "id": "1546464289602428929",
+        "name": "鯉",
+        "pinned_tweet_id": "2056769490856366583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014623207685296128/IrfrFqMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3070,
+          "following_count": 3961,
+          "like_count": 53107,
+          "listed_count": 3,
+          "media_count": 387,
+          "tweet_count": 16148
+        },
+        "url": "",
+        "username": "yuji53719",
+        "verified": true
+      }
+    ]
+  }
+}

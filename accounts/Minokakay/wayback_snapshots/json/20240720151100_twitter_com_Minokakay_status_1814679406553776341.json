@@ -1,0 +1,470 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1811752086218141696",
+        "3_1811752086222307330",
+        "3_1811752086222307334",
+        "3_1811752086226501633"
+      ],
+      "media_source_tweet_id": [
+        "1811752419451457830",
+        "1811752419451457830",
+        "1811752419451457830",
+        "1811752419451457830"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Meals",
+          "id": "1034860760093024257",
+          "name": "Meals"
+        }
+      }
+    ],
+    "conversation_id": "1814679406553776341",
+    "created_at": "2024-07-20T15:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-20T16:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814679406553776341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "324391547",
+          "start": 3,
+          "username": "avogado6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/1UhFp1bkaD",
+          "end": 40,
+          "expanded_url": "https://twitter.com/avogado6/status/1811752419451457830/photo/1",
+          "media_key": "3_1811752086218141696",
+          "start": 17,
+          "url": "https://t.co/1UhFp1bkaD"
+        },
+        {
+          "display_url": "pic.twitter.com/1UhFp1bkaD",
+          "end": 40,
+          "expanded_url": "https://twitter.com/avogado6/status/1811752419451457830/photo/1",
+          "media_key": "3_1811752086222307330",
+          "start": 17,
+          "url": "https://t.co/1UhFp1bkaD"
+        },
+        {
+          "display_url": "pic.twitter.com/1UhFp1bkaD",
+          "end": 40,
+          "expanded_url": "https://twitter.com/avogado6/status/1811752419451457830/photo/1",
+          "media_key": "3_1811752086222307334",
+          "start": 17,
+          "url": "https://t.co/1UhFp1bkaD"
+        },
+        {
+          "display_url": "pic.twitter.com/1UhFp1bkaD",
+          "end": 40,
+          "expanded_url": "https://twitter.com/avogado6/status/1811752419451457830/photo/1",
+          "media_key": "3_1811752086226501633",
+          "start": 17,
+          "url": "https://t.co/1UhFp1bkaD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814679406553776341",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5495
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811752419451457830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @avogado6: 食事 https://t.co/1UhFp1bkaD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1811752086218141696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSSi7GAa8AAhD7m.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_1811752086222307330",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSSi7GBagAIhI4D.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_1811752086222307334",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSSi7GBagAYvkTK.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_1811752086226501633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSSi7GCagAEuunZ.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811752086218141696",
+            "3_1811752086222307330",
+            "3_1811752086222307334",
+            "3_1811752086226501633"
+          ],
+          "media_source_tweet_id": [
+            "1811752419451457830",
+            "1811752419451457830",
+            "1811752419451457830",
+            "1811752419451457830"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          }
+        ],
+        "conversation_id": "1814679406553776341",
+        "created_at": "2024-07-20T15:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T16:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814679406553776341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "324391547",
+              "start": 3,
+              "username": "avogado6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1UhFp1bkaD",
+              "end": 40,
+              "expanded_url": "https://twitter.com/avogado6/status/1811752419451457830/photo/1",
+              "media_key": "3_1811752086218141696",
+              "start": 17,
+              "url": "https://t.co/1UhFp1bkaD"
+            },
+            {
+              "display_url": "pic.twitter.com/1UhFp1bkaD",
+              "end": 40,
+              "expanded_url": "https://twitter.com/avogado6/status/1811752419451457830/photo/1",
+              "media_key": "3_1811752086222307330",
+              "start": 17,
+              "url": "https://t.co/1UhFp1bkaD"
+            },
+            {
+              "display_url": "pic.twitter.com/1UhFp1bkaD",
+              "end": 40,
+              "expanded_url": "https://twitter.com/avogado6/status/1811752419451457830/photo/1",
+              "media_key": "3_1811752086222307334",
+              "start": 17,
+              "url": "https://t.co/1UhFp1bkaD"
+            },
+            {
+              "display_url": "pic.twitter.com/1UhFp1bkaD",
+              "end": 40,
+              "expanded_url": "https://twitter.com/avogado6/status/1811752419451457830/photo/1",
+              "media_key": "3_1811752086226501633",
+              "start": 17,
+              "url": "https://t.co/1UhFp1bkaD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814679406553776341",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5495
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811752419451457830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @avogado6: 食事 https://t.co/1UhFp1bkaD"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811752086218141696",
+            "3_1811752086222307330",
+            "3_1811752086222307334",
+            "3_1811752086226501633"
+          ]
+        },
+        "author_id": "324391547",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          }
+        ],
+        "conversation_id": "1811752419451457830",
+        "created_at": "2024-07-12T13:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T14:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811752419451457830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1UhFp1bkaD",
+              "end": 26,
+              "expanded_url": "https://twitter.com/avogado6/status/1811752419451457830/photo/1",
+              "media_key": "3_1811752086218141696",
+              "start": 3,
+              "url": "https://t.co/1UhFp1bkaD"
+            },
+            {
+              "display_url": "pic.twitter.com/1UhFp1bkaD",
+              "end": 26,
+              "expanded_url": "https://twitter.com/avogado6/status/1811752419451457830/photo/1",
+              "media_key": "3_1811752086222307330",
+              "start": 3,
+              "url": "https://t.co/1UhFp1bkaD"
+            },
+            {
+              "display_url": "pic.twitter.com/1UhFp1bkaD",
+              "end": 26,
+              "expanded_url": "https://twitter.com/avogado6/status/1811752419451457830/photo/1",
+              "media_key": "3_1811752086222307334",
+              "start": 3,
+              "url": "https://t.co/1UhFp1bkaD"
+            },
+            {
+              "display_url": "pic.twitter.com/1UhFp1bkaD",
+              "end": 26,
+              "expanded_url": "https://twitter.com/avogado6/status/1811752419451457830/photo/1",
+              "media_key": "3_1811752086226501633",
+              "start": 3,
+              "url": "https://t.co/1UhFp1bkaD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811752419451457830",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2141,
+          "impression_count": 1683143,
+          "like_count": 78802,
+          "quote_count": 229,
+          "reply_count": 127,
+          "retweet_count": 5495
+        },
+        "reply_settings": "everyone",
+        "text": "食事 https://t.co/1UhFp1bkaD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "暗い未來だって，\n強くなって運命変えられるかもね  🇹🇼ROC成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome\n遇到傻逼会直接block，见谅，不和非人类交流",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 761,
+          "like_count": 2567,
+          "listed_count": 1,
+          "tweet_count": 1269
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-26T14:46:50.000Z",
+        "description": "化学が好きな一般人です。映像作品とか創ってます。https://t.co/lMOTGT5AX4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/28725264",
+                "end": 47,
+                "expanded_url": "http://nicovideo.jp/mylist/28725264",
+                "start": 24,
+                "url": "https://t.co/lMOTGT5AX4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "avogado6.com",
+                "end": 23,
+                "expanded_url": "https://www.avogado6.com/",
+                "start": 0,
+                "url": "https://t.co/C6ykDstxlb"
+              }
+            ]
+          }
+        },
+        "id": "324391547",
+        "name": "アボガド6",
+        "pinned_tweet_id": "1697145165679653046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/982977860804554753/2TGsjSo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2466545,
+          "following_count": 23,
+          "like_count": 33,
+          "listed_count": 9212,
+          "tweet_count": 3690
+        },
+        "url": "https://t.co/C6ykDstxlb",
+        "username": "avogado6",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905533229865762816"
+      ],
+      "media_source_tweet_id": [
+        "1905533236224413745"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1905541564652568868",
+    "created_at": "2025-03-28T08:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T09:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905541564652568868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1860501553297125376",
+          "start": 3,
+          "username": "ogasawarafuuko"
+        },
+        {
+          "end": 36,
+          "id": "1597257668313260033",
+          "start": 26,
+          "username": "Minokakay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xlxr5sKiga",
+          "end": 60,
+          "expanded_url": "https://x.com/ogasawarafuuko/status/1905533236224413745/photo/1",
+          "media_key": "3_1905533229865762816",
+          "start": 37,
+          "url": "https://t.co/xlxr5sKiga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905541564652568868",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905533236224413745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ogasawarafuuko: ありがとう。@Minokakay https://t.co/xlxr5sKiga"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905533229865762816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnHQYGnaAAA7sil.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905533229865762816"
+          ],
+          "media_source_tweet_id": [
+            "1905533236224413745"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1905541564652568868",
+        "created_at": "2025-03-28T08:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T09:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905541564652568868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1860501553297125376",
+              "start": 3,
+              "username": "ogasawarafuuko"
+            },
+            {
+              "end": 36,
+              "id": "1597257668313260033",
+              "start": 26,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlxr5sKiga",
+              "end": 60,
+              "expanded_url": "https://x.com/ogasawarafuuko/status/1905533236224413745/photo/1",
+              "media_key": "3_1905533229865762816",
+              "start": 37,
+              "url": "https://t.co/xlxr5sKiga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905541564652568868",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905533236224413745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ogasawarafuuko: ありがとう。@Minokakay https://t.co/xlxr5sKiga"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905533229865762816"
+          ]
+        },
+        "author_id": "1860501553297125376",
+        "conversation_id": "1905533236224413745",
+        "created_at": "2025-03-28T08:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T09:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905533236224413745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1597257668313260033",
+              "start": 6,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlxr5sKiga",
+              "end": 40,
+              "expanded_url": "https://x.com/ogasawarafuuko/status/1905533236224413745/photo/1",
+              "media_key": "3_1905533229865762816",
+              "start": 17,
+              "url": "https://t.co/xlxr5sKiga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905533236224413745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ありがとう。@Minokakay https://t.co/xlxr5sKiga"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 101,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 78,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1899298005330899355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6107,
+          "following_count": 849,
+          "like_count": 39356,
+          "listed_count": 28,
+          "media_count": 695,
+          "tweet_count": 15508
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-24T01:52:03.000Z",
+        "description": "INFP☆天の川に行って、 小さな星を摘み取り、 小さな瓶に入れて一緒に寝てみたい☆砂糖を食べ 始めた日: 令和6年11月22日☆残りの人生が幸せでありますように☆サポートされている言語🇹🇼🇯🇵🇨🇳🇬🇧マシュマロリンク https://t.co/pLsY7D2zGA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/toraemonn",
+                "end": 133,
+                "expanded_url": "http://t.me/toraemonn",
+                "start": 110,
+                "url": "https://t.co/pLsY7D2zGA"
+              }
+            ]
+          }
+        },
+        "id": "1860501553297125376",
+        "location": "Hino-shi, Tokyo",
+        "name": "小笠原ふうこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860502863828393984/4UXjRpUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 24,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "username": "ogasawarafuuko",
+        "verified": false
+      }
+    ]
+  }
+}

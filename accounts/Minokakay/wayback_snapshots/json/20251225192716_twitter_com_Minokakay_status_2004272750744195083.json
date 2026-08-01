@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004005890400440323"
+      ],
+      "media_source_tweet_id": [
+        "2004006072047309203"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2004272750744195083",
+    "created_at": "2025-12-25T19:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T20:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004272750744195083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4001820198",
+          "start": 3,
+          "username": "sola_iris"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pvHsm8AWj3",
+          "end": 50,
+          "expanded_url": "https://x.com/sola_iris/status/2004006072047309203/photo/1",
+          "media_key": "3_2004005890400440323",
+          "start": 27,
+          "url": "https://t.co/pvHsm8AWj3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004272750744195083",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1331
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004006072047309203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sola_iris: サンタほたるん\nSFW https://t.co/pvHsm8AWj3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004272750744195083].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004272750744195083",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004272750744195083"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2952,
+        "media_key": "3_2004005890400440323",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8-ovVkb0AMISlZ.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004005890400440323"
+          ]
+        },
+        "author_id": "4001820198",
+        "conversation_id": "2004006072047309203",
+        "created_at": "2025-12-25T01:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T02:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004006072047309203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pvHsm8AWj3",
+              "end": 35,
+              "expanded_url": "https://x.com/sola_iris/status/2004006072047309203/photo/1",
+              "media_key": "3_2004005890400440323",
+              "start": 12,
+              "url": "https://t.co/pvHsm8AWj3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004006072047309203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15354,
+          "impression_count": 3094905,
+          "like_count": 51946,
+          "quote_count": 30,
+          "reply_count": 120,
+          "retweet_count": 1331
+        },
+        "reply_settings": "everyone",
+        "text": "サンタほたるん\nSFW https://t.co/pvHsm8AWj3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，如需癌症/慢病用药，请找@Lucius_Pharma，均是我朋友开的，我担保。如需电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Lucius_Pharma"
+              },
+              {
+                "end": 136,
+                "start": 126,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13415,
+          "following_count": 1015,
+          "like_count": 44942,
+          "listed_count": 51,
+          "media_count": 1810,
+          "tweet_count": 25049
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2015-10-24T11:48:27.000Z",
+        "description": "AIで遊ぶ垢 原神/スタレメイン\n環境 SDとWAN2.2、PSで手直し\nI only know Japanese, so GPT-chan helps me translate!\n🅿atrɇ0n→https://t.co/436uTlbh9J\nSUB→@aoi_and_yuna\n🚫Account→@sola_iris_r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 127,
+                "username": "aoi_and_yuna"
+              },
+              {
+                "end": 162,
+                "start": 150,
+                "username": "sola_iris_r"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/ByMAi",
+                "end": 122,
+                "expanded_url": "https://x.gd/ByMAi",
+                "start": 99,
+                "url": "https://t.co/436uTlbh9J"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/6sS4Ukc9gS",
+                "end": 23,
+                "expanded_url": "https://discord.gg/6sS4Ukc9gS",
+                "start": 0,
+                "url": "https://t.co/5gkFcUAhsp"
+              }
+            ]
+          }
+        },
+        "id": "4001820198",
+        "name": "エンジ/Enji_Sola",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905607502630453253/moOuEBz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116534,
+          "following_count": 374,
+          "like_count": 4900,
+          "listed_count": 466,
+          "media_count": 563,
+          "tweet_count": 3847
+        },
+        "url": "https://t.co/5gkFcUAhsp",
+        "username": "sola_iris",
+        "verified": true
+      }
+    ]
+  }
+}

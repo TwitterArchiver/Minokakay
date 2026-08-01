@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1839953263120277842",
+    "created_at": "2024-09-28T09:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T10:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839953310914359339"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1839953310914359339",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839953263120277842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "互联网老东西应该都记得吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1839953263120277842",
+        "created_at": "2024-09-28T09:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T10:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839953310914359339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1839953310914359339",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839953263120277842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "互联网老东西应该都记得吧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1839953263120277842",
+        "created_at": "2024-09-28T09:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T10:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839953263120277842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minokakay/stat…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/Minokakay/status/1839949917831221419",
+              "start": 101,
+              "url": "https://t.co/QnZvpJGgzF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839953263120277842",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839949917831221419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "16 17那会就这样，不知道你们当中有没有人还记得豫章书院，那时候堵嘴巴还没那么严，但也已经开始管控弱势群体发声渠道了，本以为豫章被搞下去了中国已经没有这样的设施了，直到最近两年我才知道反而越来越多了 https://t.co/QnZvpJGgzF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比男高三生 阿斯ADHD Pansexual INFP 🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 854,
+          "like_count": 17854,
+          "listed_count": 3,
+          "tweet_count": 7886
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

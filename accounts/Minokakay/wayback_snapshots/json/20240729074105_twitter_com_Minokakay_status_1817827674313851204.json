@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1817827301884846288",
+    "created_at": "2024-07-29T07:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-29T08:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817827674313851204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1577816015840296960",
+          "start": 0,
+          "username": "yangaaa111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817827674313851204",
+    "in_reply_to_user_id": "1577816015840296960",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817827551592751408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangaaa111 讨厌我的肤色，希望有效果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1817827301884846288",
+        "created_at": "2024-07-29T07:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T08:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817827674313851204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1577816015840296960",
+              "start": 0,
+              "username": "yangaaa111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817827674313851204",
+        "in_reply_to_user_id": "1577816015840296960",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817827551592751408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangaaa111 讨厌我的肤色，希望有效果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577816015840296960",
+        "conversation_id": "1817827301884846288",
+        "created_at": "2024-07-29T07:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T08:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817827551592751408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817827551592751408",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817827301884846288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 应该有一定效果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 782,
+          "like_count": 3138,
+          "listed_count": 1,
+          "tweet_count": 1442
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-06T00:20:49.000Z",
+        "description": "又是想似的一天呢",
+        "id": "1577816015840296960",
+        "name": "yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814903212924936197/wOEHq_9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 123,
+          "like_count": 8303,
+          "listed_count": 0,
+          "tweet_count": 1585
+        },
+        "username": "yangaaa111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006535598727901184"
+      ],
+      "media_source_tweet_id": [
+        "2006535600959270971"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      }
+    ],
+    "conversation_id": "2007572195099496823",
+    "created_at": "2026-01-03T21:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T22:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007572195099496823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1342088250484117504",
+          "start": 3,
+          "username": "kakowara365"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ACdlR0i9lM",
+          "end": 63,
+          "expanded_url": "https://x.com/kakowara365/status/2006535600959270971/photo/1",
+          "media_key": "3_2006535598727901184",
+          "start": 40,
+          "url": "https://t.co/ACdlR0i9lM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007572195099496823",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006535600959270971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kakowara365: 明けましておめでとう✨️\n今年もよろしくな！ https://t.co/ACdlR0i9lM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006535598727901184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ilfvdaMAAJQQg.jpg",
+        "width": 1374
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006535598727901184"
+          ],
+          "media_source_tweet_id": [
+            "2006535600959270971"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "2007572195099496823",
+        "created_at": "2026-01-03T21:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T22:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007572195099496823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1342088250484117504",
+              "start": 3,
+              "username": "kakowara365"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACdlR0i9lM",
+              "end": 63,
+              "expanded_url": "https://x.com/kakowara365/status/2006535600959270971/photo/1",
+              "media_key": "3_2006535598727901184",
+              "start": 40,
+              "url": "https://t.co/ACdlR0i9lM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007572195099496823",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006535600959270971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kakowara365: 明けましておめでとう✨️\n今年もよろしくな！ https://t.co/ACdlR0i9lM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006535598727901184"
+          ]
+        },
+        "author_id": "1342088250484117504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "2006535600959270971",
+        "created_at": "2026-01-01T01:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T02:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006535600959270971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACdlR0i9lM",
+              "end": 46,
+              "expanded_url": "https://x.com/kakowara365/status/2006535600959270971/photo/1",
+              "media_key": "3_2006535598727901184",
+              "start": 23,
+              "url": "https://t.co/ACdlR0i9lM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006535600959270971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 10729,
+          "like_count": 429,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "明けましておめでとう✨️\n今年もよろしくな！ https://t.co/ACdlR0i9lM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️咨询补色诺凝胶/减肥/促智等https://t.co/9scN5m8csf联系",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chosekipharmacy",
+                "end": 79,
+                "expanded_url": "http://linktr.ee/chosekipharmacy",
+                "start": 56,
+                "url": "https://t.co/9scN5m8csf"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2006821383171719588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13705,
+          "following_count": 1016,
+          "like_count": 44989,
+          "listed_count": 49,
+          "media_count": 1823,
+          "tweet_count": 25352
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-24T12:42:37.000Z",
+        "description": "AI界隈生まれのふつーの女装男子Vtuber！ファンマ 🐾🤎  |   ▶FAタグ:  #にーちゃんこれみて  ▶ 投稿は生成AI使用 | ▶ language:🇯🇵🇺🇸 | ▶マネージャ垢 @kakowara24",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 44,
+                "tag": "にーちゃんこれみて"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "kakowara24"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kakowara",
+                "end": 23,
+                "expanded_url": "https://lit.link/kakowara",
+                "start": 0,
+                "url": "https://t.co/qvRdVdolKZ"
+              }
+            ]
+          }
+        },
+        "id": "1342088250484117504",
+        "location": "日本",
+        "name": "にーちゃん🐾🤎",
+        "pinned_tweet_id": "1984194795854757934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893800918702833664/E0bf2rnm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59046,
+          "following_count": 1261,
+          "like_count": 62171,
+          "listed_count": 241,
+          "media_count": 2501,
+          "tweet_count": 15543
+        },
+        "url": "https://t.co/qvRdVdolKZ",
+        "username": "kakowara365",
+        "verified": true
+      }
+    ]
+  }
+}

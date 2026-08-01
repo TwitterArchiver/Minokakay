@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      }
+    ],
+    "conversation_id": "1988602144812044621",
+    "created_at": "2025-11-12T13:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T14:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988602144812044621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kawaiieru_/sta…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/kawaiieru_/status/1988592729010651528",
+          "start": 135,
+          "url": "https://t.co/pCRJlJaxTU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988602144812044621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988592729010651528",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我离开重庆才知道很多城市的地铁站是没有厕所的，重庆基本上每个月台都有厕所，唉我们重庆还是太进步了。\n\n然后我昨天在京都跟本地人坐在河边喝酒，他告诉我日本的电车站你想进去上厕所，直接推开问询处的门说一声进去就行了，他也不怕你是要白嫖坐车，我惊呆了，因为我一直以为要买票。 https://t.co/pCRJlJaxTU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988592579269758976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jmajJaEAAyqv_.jpg",
+        "width": 946
+      },
+      {
+        "duration_ms": 29164,
+        "height": 1280,
+        "media_key": "7_1988592615328264192",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1988592615328264192/pu/img/AqINHIOiMS5NG8Zz.jpg",
+        "public_metrics": {
+          "view_count": 36
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988592615328264192/pu/vid/avc1/320x568/rxSEwtucw-fsLe62.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988592615328264192/pu/vid/avc1/480x852/l84C9eCt0ddFf-tR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988592615328264192/pu/vid/avc1/720x1280/Z-um2wj87cLaRMh5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1988592615328264192/pu/pl/aCpazOnkbHGkxJJ6.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1988602144812044621",
+        "created_at": "2025-11-12T13:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988602144812044621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kawaiieru_/sta…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/kawaiieru_/status/1988592729010651528",
+              "start": 135,
+              "url": "https://t.co/pCRJlJaxTU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988602144812044621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988592729010651528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我离开重庆才知道很多城市的地铁站是没有厕所的，重庆基本上每个月台都有厕所，唉我们重庆还是太进步了。\n\n然后我昨天在京都跟本地人坐在河边喝酒，他告诉我日本的电车站你想进去上厕所，直接推开问询处的门说一声进去就行了，他也不怕你是要白嫖坐车，我惊呆了，因为我一直以为要买票。 https://t.co/pCRJlJaxTU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988592579269758976",
+            "7_1988592615328264192"
+          ]
+        },
+        "author_id": "1796349415650664448",
+        "conversation_id": "1988592729010651528",
+        "created_at": "2025-11-12T13:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988592729010651528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H56jglOlJD",
+              "end": 28,
+              "expanded_url": "https://x.com/KawaiiEru_/status/1988592729010651528/video/1",
+              "media_key": "3_1988592579269758976",
+              "start": 5,
+              "url": "https://t.co/H56jglOlJD"
+            },
+            {
+              "display_url": "pic.x.com/H56jglOlJD",
+              "end": 28,
+              "expanded_url": "https://x.com/KawaiiEru_/status/1988592729010651528/video/1",
+              "media_key": "7_1988592615328264192",
+              "start": 5,
+              "url": "https://t.co/H56jglOlJD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988592729010651528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 80,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "标记领地 https://t.co/H56jglOlJD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12033,
+          "following_count": 1005,
+          "like_count": 45014,
+          "listed_count": 42,
+          "media_count": 1531,
+          "tweet_count": 22699
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-31T01:14:22.000Z",
+        "description": "",
+        "id": "1796349415650664448",
+        "location": "神山高中古典文学部",
+        "name": "坂下える",
+        "pinned_tweet_id": "1948788722897437042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979236785960996864/dedZl5RE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3149,
+          "following_count": 326,
+          "like_count": 25829,
+          "listed_count": 13,
+          "media_count": 2571,
+          "tweet_count": 12604
+        },
+        "username": "KawaiiEru_",
+        "verified": true
+      }
+    ]
+  }
+}

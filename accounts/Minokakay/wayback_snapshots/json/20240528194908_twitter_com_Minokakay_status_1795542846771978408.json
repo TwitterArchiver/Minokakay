@@ -1,0 +1,420 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1795542846771978408",
+    "created_at": "2024-05-28T19:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T20:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1795542846771978408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BTR_anime/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/BTR_anime/status/1795470081083752649",
+          "start": 8,
+          "url": "https://t.co/REFGruRYPh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795542846771978408",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795470081083752649",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "媽媽生日快樂😺 https://t.co/REFGruRYPh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1795542846771978408",
+        "created_at": "2024-05-28T19:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T20:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795542846771978408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BTR_anime/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/BTR_anime/status/1795470081083752649",
+              "start": 8,
+              "url": "https://t.co/REFGruRYPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795542846771978408",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795470081083752649",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "媽媽生日快樂😺 https://t.co/REFGruRYPh"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795439079531905025"
+          ]
+        },
+        "author_id": "1465923253554548736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1795470081083752649",
+        "created_at": "2024-05-28T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795470081083752649"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 71,
+              "tag": "ぼっち・ざ・ろっく"
+            },
+            {
+              "end": 95,
+              "start": 82,
+              "tag": "伊地知虹夏生誕祭2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/TUdP5BtPSr",
+              "end": 119,
+              "expanded_url": "https://twitter.com/BTR_anime/status/1795470081083752649/photo/1",
+              "media_key": "3_1795439079531905025",
+              "start": 96,
+              "url": "https://t.co/TUdP5BtPSr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795470081083752649",
+        "lang": "in",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 600,
+          "impression_count": 484001,
+          "like_count": 23887,
+          "quote_count": 498,
+          "reply_count": 151,
+          "retweet_count": 7218
+        },
+        "reply_settings": "everyone",
+        "text": "🎂‥∵‥‥∵‥‥∵‥‥∵‥‥🍰\n\n　ℍ𝔸ℙℙ𝕐 𝔹𝕀ℝ𝕋ℍ𝔻𝔸𝕐\n\n    　𝕀𝕁𝕀ℂℍ𝕀 ℕ𝕀𝕁𝕀𝕂𝔸\n\n🥁‥∵‥‥∵‥‥∵‥‥∵‥‥🎉\n\n#ぼっち・ざ・ろっく\n#伊地知虹夏生誕祭2024 https://t.co/TUdP5BtPSr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "暗い未來だって，\n強くなって運命変えられるかもね  🇹🇼ROC成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome",
+        "id": "1597257668313260033",
+        "location": "Tokyo-to, Japan",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 691,
+          "like_count": 1572,
+          "listed_count": 0,
+          "tweet_count": 757
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T05:58:51.000Z",
+        "description": "アニメ「ぼっち・ざ・ろっく！」公式アカウント 劇場総集編【前編】Re:6月7日(金)/【後編】Re:Re:8月9日(金) 公開！ 推奨ハッシュタグ⇒ #ぼっち・ざ・ろっく",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 75,
+                "tag": "ぼっち・ざ・ろっく"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bocchi.rocks",
+                "end": 23,
+                "expanded_url": "http://bocchi.rocks",
+                "start": 0,
+                "url": "https://t.co/9csHWKaKpd"
+              }
+            ]
+          }
+        },
+        "id": "1465923253554548736",
+        "name": "アニメ「ぼっち・ざ・ろっく！」公式",
+        "pinned_tweet_id": "1771805467628732800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1495775359199248386/oTBvibjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652818,
+          "following_count": 29,
+          "like_count": 67,
+          "listed_count": 2297,
+          "tweet_count": 4867
+        },
+        "url": "https://t.co/9csHWKaKpd",
+        "username": "BTR_anime",
+        "verified": true
+      }
+    ]
+  }
+}

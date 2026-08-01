@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1856241103063920960",
+    "created_at": "2024-11-12T10:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T11:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856279903391592905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609619970811482112",
+          "start": 0,
+          "username": "3ch4O1H"
+        },
+        {
+          "end": 22,
+          "id": "1720819011057840128",
+          "start": 9,
+          "username": "Pissenlit_AH"
+        },
+        {
+          "end": 36,
+          "id": "1683441735144439808",
+          "start": 23,
+          "username": "TheSoutaLynn"
+        },
+        {
+          "end": 53,
+          "id": "1829878525714915328",
+          "start": 37,
+          "username": "mantianxing_fly"
+        },
+        {
+          "end": 67,
+          "id": "1797143402347479040",
+          "start": 54,
+          "username": "s4tuRday_joe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856279903391592905",
+    "in_reply_to_user_id": "1609619970811482112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856279822454141072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ch4O1H @Pissenlit_AH @TheSoutaLynn @mantianxing_fly @s4tuRday_joe 我每张都没露脸（😋"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1856279822454141072].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1856279822454141072",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1856279822454141072"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1856241103063920960",
+        "created_at": "2024-11-12T10:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T11:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856279903391592905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609619970811482112",
+              "start": 0,
+              "username": "3ch4O1H"
+            },
+            {
+              "end": 22,
+              "id": "1720819011057840128",
+              "start": 9,
+              "username": "Pissenlit_AH"
+            },
+            {
+              "end": 36,
+              "id": "1683441735144439808",
+              "start": 23,
+              "username": "TheSoutaLynn"
+            },
+            {
+              "end": 53,
+              "id": "1829878525714915328",
+              "start": 37,
+              "username": "mantianxing_fly"
+            },
+            {
+              "end": 67,
+              "id": "1797143402347479040",
+              "start": 54,
+              "username": "s4tuRday_joe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856279903391592905",
+        "in_reply_to_user_id": "1609619970811482112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856279822454141072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ch4O1H @Pissenlit_AH @TheSoutaLynn @mantianxing_fly @s4tuRday_joe 我每张都没露脸（😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1850583794224635904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 945,
+          "like_count": 26248,
+          "listed_count": 3,
+          "tweet_count": 11822
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "爱在当下\n顺男\n最爱的伴侣@LixdH5jzYx99195",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "LixdH5jzYx99195"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1854585828779212968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801965788699770880/04tk9Oj__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 1928,
+          "like_count": 24549,
+          "listed_count": 1,
+          "tweet_count": 14397
+        },
+        "username": "3ch4O1H",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T15:03:25.000Z",
+        "description": "学习魔法中/MTF/哲逼/Liberté，Égalité，Fraternité/发癫/Pansexual/Louis Pierre Althusser梦女（？）",
+        "id": "1720819011057840128",
+        "name": "AH🇫🇷",
+        "pinned_tweet_id": "1856146280483102878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796466737287954433/1kBjJj9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 205,
+          "like_count": 5763,
+          "listed_count": 2,
+          "tweet_count": 1630
+        },
+        "username": "Pissenlit_AH",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:39:28.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈/🍥2024.4.20/小证/ADHD/178cm57kg/ A-Level to HongKong🇭🇰/2008.5.6/ 少数民族 /Apex22 赛季手把钻石💎坏姐姐@beijieyoufengle🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "beijieyoufengle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/AG5sVAiJgj"
+              }
+            ]
+          }
+        },
+        "id": "1683441735144439808",
+        "location": "距离你 3.7km",
+        "name": ".翎 SoutaWashuu🍥",
+        "pinned_tweet_id": "1841737663013118000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853450549901062144/m1aAp43-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3231,
+          "following_count": 1317,
+          "like_count": 63793,
+          "listed_count": 8,
+          "tweet_count": 15117
+        },
+        "url": "https://t.co/AG5sVAiJgj",
+        "username": "TheSoutaLynn",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:46:59.000Z",
+        "description": "I06I舞萌新手I超级无敌缺爱I无糖跨女I泛性恋I最爱的好朋友 @AiharaShizuku  @akui1121 l🌕︎ @fly_me2_themoon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "AiharaShizuku"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "akui1121"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "fly_me2_themoon"
+              }
+            ]
+          }
+        },
+        "id": "1829878525714915328",
+        "name": "满天star🍥",
+        "pinned_tweet_id": "1849170387009192214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829879212741967878/fDoMQGsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 149,
+          "like_count": 1405,
+          "listed_count": 1,
+          "tweet_count": 1075
+        },
+        "username": "mantianxing_fly",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T05:49:33.000Z",
+        "description": "dxm and nicotine make it go away\n碎碎念@idunnowh0ami",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "idunnowh0ami"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/s4tuRday_joe",
+                "end": 23,
+                "expanded_url": "http://t.me/s4tuRday_joe",
+                "start": 0,
+                "url": "https://t.co/v3nJt0nbGJ"
+              }
+            ]
+          }
+        },
+        "id": "1797143402347479040",
+        "location": "桐梓林",
+        "name": "周陸4ReaL",
+        "pinned_tweet_id": "1847133754273534152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829725825505378305/SeNrQTAX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 552,
+          "like_count": 5695,
+          "listed_count": 1,
+          "tweet_count": 1735
+        },
+        "url": "https://t.co/v3nJt0nbGJ",
+        "username": "s4tuRday_joe",
+        "verified": false
+      }
+    ]
+  }
+}

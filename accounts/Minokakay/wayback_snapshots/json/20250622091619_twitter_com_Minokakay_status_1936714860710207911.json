@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936714857614860288"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1936714860710207911",
+    "created_at": "2025-06-22T09:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T10:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936714860710207911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZomJbW8oqb",
+          "end": 40,
+          "expanded_url": "https://x.com/Minokakay/status/1936714860710207911/photo/1",
+          "media_key": "3_1936714857614860288",
+          "start": 17,
+          "url": "https://t.co/ZomJbW8oqb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936714860710207911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "酷态科cp13，39元拿下😁😁😁 https://t.co/ZomJbW8oqb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1936714857614860288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuCX5t9a4AAjeD7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936714857614860288"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1936714860710207911",
+        "created_at": "2025-06-22T09:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T10:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936714860710207911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZomJbW8oqb",
+              "end": 40,
+              "expanded_url": "https://x.com/Minokakay/status/1936714860710207911/photo/1",
+              "media_key": "3_1936714857614860288",
+              "start": 17,
+              "url": "https://t.co/ZomJbW8oqb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936714860710207911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "酷态科cp13，39元拿下😁😁😁 https://t.co/ZomJbW8oqb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1933516848781537400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7753,
+          "following_count": 887,
+          "like_count": 43786,
+          "listed_count": 30,
+          "media_count": 1208,
+          "tweet_count": 19025
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

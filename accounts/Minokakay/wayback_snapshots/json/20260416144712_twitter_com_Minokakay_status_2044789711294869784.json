@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2044764393263837352",
+    "created_at": "2026-04-16T14:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T15:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044789711294869784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1829677182609997826",
+          "start": 0,
+          "username": "twsdah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044789711294869784",
+    "in_reply_to_user_id": "1829677182609997826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044786193154687004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twsdah 没有什么启动资金，加上也确实不好起号，我个人不适合国内那种咋咋唬唬的风格。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2044764393263837352",
+        "created_at": "2026-04-16T14:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044789711294869784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1829677182609997826",
+              "start": 0,
+              "username": "twsdah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044789711294869784",
+        "in_reply_to_user_id": "1829677182609997826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044786193154687004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twsdah 没有什么启动资金，加上也确实不好起号，我个人不适合国内那种咋咋唬唬的风格。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829677182609997826",
+        "conversation_id": "2044764393263837352",
+        "created_at": "2026-04-16T14:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044786193154687004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044786193154687004",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044764393263837352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 建议学蓝战非当一个旅游up主"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "发着光的半平米，胡乱哼唱的旋律，但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 77,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 54,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14163,
+          "following_count": 1049,
+          "like_count": 44029,
+          "listed_count": 53,
+          "media_count": 1790,
+          "tweet_count": 25873
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-31T00:27:15.000Z",
+        "description": "26岁，是浓度极高的米学长（社畜ver.）粤🐒｜Aza&TAFFY推荐！｜雅思7.0｜天津大学智能与计算学部本科生/港大电机与电子工程msc毕业（水硕认证版）｜现华为海思芯片综合及后端工程师（练习时长两年半版）｜米门！散兵激推（散解退散警告⚠️）｜米家三件套重度中毒患者（原崩铁全图鉴の屑）｜",
+        "id": "1829677182609997826",
+        "location": "Amersfoort, Nederland",
+        "name": "米笑梓-永雏塔菲的主人",
+        "pinned_tweet_id": "1857457117466419382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997940839474135040/LBVL0CAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 918,
+          "like_count": 3386,
+          "listed_count": 5,
+          "media_count": 977,
+          "tweet_count": 5142
+        },
+        "username": "twsdah",
+        "verified": true
+      }
+    ]
+  }
+}

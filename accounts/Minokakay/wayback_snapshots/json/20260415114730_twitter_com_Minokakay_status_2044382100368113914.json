@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2044364526448177326",
+    "created_at": "2026-04-15T11:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T12:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044382100368113914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1116503230761046035",
+          "start": 0,
+          "username": "Chigura__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044382100368113914",
+    "in_reply_to_user_id": "1116503230761046035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044364526448177326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chigura__ 民众没有提前打开乘车码的意识，大把走到那堵着在那搞乘车码的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2044364526448177326",
+        "created_at": "2026-04-15T11:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044382100368113914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1116503230761046035",
+              "start": 0,
+              "username": "Chigura__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044382100368113914",
+        "in_reply_to_user_id": "1116503230761046035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044364526448177326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chigura__ 民众没有提前打开乘车码的意识，大把走到那堵着在那搞乘车码的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1116503230761046035",
+        "conversation_id": "2044364526448177326",
+        "created_at": "2026-04-15T10:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044364526448177326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/minokakay/status/2044343700109808120",
+              "start": 98,
+              "url": "https://t.co/m9bVYFi6dk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044364526448177326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实技术架构做好的话二维码也可以很快，毕竟 NFC 最后也不过是一串文本。\n\n另外国内其实 NFC 也很慢，刷卡速度比日本差了不是一点半点，完全做不到像日本一样可以在不影响走路的情况下刷卡过闸。\n\n另外就是日本可以保持闸门常开，而国内等待闸门打开也要耗时。上海有几站试点了闸门常开的模式，据我观察效果比较一般，毕竟根据木桶效应来说长木板再长也是装不了更多水的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044343700109808120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实技术架构做好的话二维码也可以很快，毕竟 NFC 最后也不过是一串文本。\n\n另外国内其实 NFC 也很慢，刷卡速度比日本差了不是一点半点，完全做不到像日本一样可以在不影响走路的情况下刷卡过闸。 https://t.co/m9bVYFi6dk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "发着光的半平米，胡乱哼唱的旋律，但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 77,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 54,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14155,
+          "following_count": 1051,
+          "like_count": 44018,
+          "listed_count": 52,
+          "media_count": 1788,
+          "tweet_count": 25825
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-12T00:48:08.000Z",
+        "description": "Dangerously skip permissions.\n\n@ Poizon ex@TikTok",
+        "id": "1116503230761046035",
+        "location": "Shanghai",
+        "name": "Cygra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1399026277340749829/lCgsXnYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 1308,
+          "like_count": 3615,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 931
+        },
+        "username": "Chigura__",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1804428478617653472",
+    "created_at": "2024-06-22T08:18:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T09:18:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804428694729166946"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1804428694729166946",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804428478617653472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现实生活中的大家都去死吧，反正都很讨厌我吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1804428478617653472",
+        "created_at": "2024-06-22T08:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T09:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804428694729166946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804428694729166946",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804428478617653472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现实生活中的大家都去死吧，反正都很讨厌我吧"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804428470577246208"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1804428478617653472",
+        "created_at": "2024-06-22T08:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T09:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804428478617653472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/E2P59Kvd8M",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Minokakay/status/1804428478617653472/photo/1",
+              "media_key": "3_1804428470577246208",
+              "start": 3,
+              "url": "https://t.co/E2P59Kvd8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804428478617653472",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想 https://t.co/E2P59Kvd8M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "暗い未來だって，\n強くなって運命変えられるかもね  🇹🇼ROC成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 731,
+          "like_count": 2082,
+          "listed_count": 0,
+          "tweet_count": 1023
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

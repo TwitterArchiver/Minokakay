@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1976731876766499304",
+    "created_at": "2025-10-10T20:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T21:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976742560719945862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1279702935102865409",
+          "start": 0,
+          "username": "Yoselindead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976742560719945862",
+    "in_reply_to_user_id": "1279702935102865409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976742468415816182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoselindead 没有卡啊🥺能不能跟我假结婚带我"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1976742468415816182].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1976742468415816182",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1976742468415816182"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1976731876766499304",
+        "created_at": "2025-10-10T20:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T21:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976742560719945862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1279702935102865409",
+              "start": 0,
+              "username": "Yoselindead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976742560719945862",
+        "in_reply_to_user_id": "1279702935102865409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976742468415816182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoselindead 没有卡啊🥺能不能跟我假结婚带我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，长居🇭🇰🇯🇵。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我在做客服。买电子烟找@weita2024。买抗癌药物找@LuciusPharmacy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "weita2024"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "LuciusPharmacy"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10907,
+          "following_count": 956,
+          "like_count": 44802,
+          "listed_count": 37,
+          "media_count": 1459,
+          "tweet_count": 21669
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-05T09:05:40.000Z",
+        "description": "LGBTQ+friendly一爱顺直女, 重抑重焦, 已申根移民，国内业务仅有：病历处方，神必化学物质，电子烟外烟（外烟满10包电子烟满300包邮），渠道介绍（需付费），🤦🏻‍♀️@coiloffaraday 卖掉了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "coiloffaraday"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mylifeallfucke…",
+                "end": 23,
+                "expanded_url": "https://t.me/mylifeallfuckedup",
+                "start": 0,
+                "url": "https://t.co/R0EDK2Lhy4"
+              }
+            ]
+          }
+        },
+        "id": "1279702935102865409",
+        "location": "🚪288/588，线下过门后详问",
+        "name": "Yoselin跳海🪬💊🩸",
+        "pinned_tweet_id": "1968932170459656643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947177584891936768/JyIXTLSH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 365,
+          "like_count": 13259,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 3647
+        },
+        "url": "https://t.co/R0EDK2Lhy4",
+        "username": "Yoselindead",
+        "verified": false
+      }
+    ]
+  }
+}

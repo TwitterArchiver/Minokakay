@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1907673739111563363",
+    "created_at": "2025-04-03T20:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T21:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907894134498898063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609619970811482112",
+          "start": 0,
+          "username": "3ch4O1H"
+        },
+        {
+          "end": 23,
+          "id": "1843518394056015872",
+          "start": 9,
+          "username": "xxxx123yyy545"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907894134498898063",
+    "in_reply_to_user_id": "1609619970811482112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907875051816497215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ch4O1H @xxxx123yyy545 高考能考663证明智商不低，我不相信智商低的人会搞不到钱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1907875051816497215].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1907875051816497215",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1907875051816497215"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1907673739111563363",
+        "created_at": "2025-04-03T20:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T21:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907894134498898063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609619970811482112",
+              "start": 0,
+              "username": "3ch4O1H"
+            },
+            {
+              "end": 23,
+              "id": "1843518394056015872",
+              "start": 9,
+              "username": "xxxx123yyy545"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907894134498898063",
+        "in_reply_to_user_id": "1609619970811482112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907875051816497215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ch4O1H @xxxx123yyy545 高考能考663证明智商不低，我不相信智商低的人会搞不到钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 101,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 78,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1899298005330899355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6258,
+          "following_count": 856,
+          "like_count": 39892,
+          "listed_count": 27,
+          "media_count": 735,
+          "tweet_count": 15730
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "只有情感能超越时间\n顺男 弗雷尔卓德人\n最爱的伴侣@LixdH5jzYx99195",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 25,
+                "username": "LixdH5jzYx99195"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1854585828779212968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904955476137377793/XftD2J7L_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 2290,
+          "like_count": 32041,
+          "listed_count": 1,
+          "media_count": 542,
+          "tweet_count": 17781
+        },
+        "username": "3ch4O1H",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T05:06:59.000Z",
+        "description": "百合无限好！持证含糖xyn / 日常发疯 / 偶尔鉴证自残 / 喜提双相 / 热爱猎奇gal血图 / 高考政治满分者 / 天依南北 / 喜欢被调教\n\n知识拥有：文学 电影 戏剧 生化竞赛 欢迎交流 另接初高中语历政家教150/h 同类100\n求灌注，同类回fo！\n爱人&小狗 @l93374231",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 138,
+                "username": "l93374231"
+              }
+            ]
+          }
+        },
+        "id": "1843518394056015872",
+        "location": "后海旁边地道老北京人",
+        "name": "纪~伊~🏳️‍⚧️",
+        "pinned_tweet_id": "1891920129182597566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843519143460646915/nykInaID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 828,
+          "like_count": 4203,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 1232
+        },
+        "username": "xxxx123yyy545",
+        "verified": false
+      }
+    ]
+  }
+}

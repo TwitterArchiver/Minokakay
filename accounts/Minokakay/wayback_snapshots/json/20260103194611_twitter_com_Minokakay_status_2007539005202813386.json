@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2007539005202813386",
+    "created_at": "2026-01-03T19:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T20:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007539005202813386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minokakay/stat…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/minokakay/status/2007538668232491220",
+          "start": 31,
+          "url": "https://t.co/A1mx2OqArN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007539005202813386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007538668232491220",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "翻墙第一件事\n卸载你的华为浏览器小米浏览器\n使用Chrome https://t.co/A1mx2OqArN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2007539005202813386",
+        "created_at": "2026-01-03T19:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T20:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007539005202813386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/minokakay/status/2007538668232491220",
+              "start": 31,
+              "url": "https://t.co/A1mx2OqArN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007539005202813386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007538668232491220",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "翻墙第一件事\n卸载你的华为浏览器小米浏览器\n使用Chrome https://t.co/A1mx2OqArN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2007538668232491220",
+        "created_at": "2026-01-03T19:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T20:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007538668232491220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/minokakay/status/2007370984937140311",
+              "start": 67,
+              "url": "https://t.co/azp2LCHQBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007538668232491220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007370984937140311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在网站写了tg注册到解除风控全流程 发现没几个人看 还吸引来一堆非客户的圈外人士来私信问\n\n我说白了大饼都套你脖子上了 咬一口很难吗 https://t.co/azp2LCHQBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️咨询补色诺凝胶/减肥/促智等https://t.co/9scN5m8csf联系",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chosekipharmacy",
+                "end": 79,
+                "expanded_url": "http://linktr.ee/chosekipharmacy",
+                "start": 56,
+                "url": "https://t.co/9scN5m8csf"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2006821383171719588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13704,
+          "following_count": 1016,
+          "like_count": 44989,
+          "listed_count": 49,
+          "media_count": 1821,
+          "tweet_count": 25342
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

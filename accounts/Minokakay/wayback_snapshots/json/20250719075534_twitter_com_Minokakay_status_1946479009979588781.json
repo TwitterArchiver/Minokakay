@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946468110317355008"
+      ],
+      "media_source_tweet_id": [
+        "1946468123919659185"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1946479009979588781",
+    "created_at": "2025-07-19T07:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T08:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946479009979588781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1821640942396358656",
+          "start": 3,
+          "username": "wwl15956a"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yJc33PvfE1",
+          "end": 63,
+          "expanded_url": "https://x.com/wwl15956a/status/1946468123919659185/photo/1",
+          "media_key": "3_1946468110317355008",
+          "start": 40,
+          "url": "https://t.co/yJc33PvfE1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946479009979588781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946468123919659185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wwl15956a: “反正东方明珠塔下的我们 从来就没被谁给需要。” https://t.co/yJc33PvfE1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946468110317355008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwM-bvoXgAAFHF2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946468110317355008"
+          ],
+          "media_source_tweet_id": [
+            "1946468123919659185"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1946479009979588781",
+        "created_at": "2025-07-19T07:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T08:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946479009979588781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1821640942396358656",
+              "start": 3,
+              "username": "wwl15956a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJc33PvfE1",
+              "end": 63,
+              "expanded_url": "https://x.com/wwl15956a/status/1946468123919659185/photo/1",
+              "media_key": "3_1946468110317355008",
+              "start": 40,
+              "url": "https://t.co/yJc33PvfE1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946479009979588781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946468123919659185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wwl15956a: “反正东方明珠塔下的我们 从来就没被谁给需要。” https://t.co/yJc33PvfE1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946468110317355008"
+          ]
+        },
+        "author_id": "1821640942396358656",
+        "conversation_id": "1946468123919659185",
+        "created_at": "2025-07-19T07:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T08:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946468123919659185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJc33PvfE1",
+              "end": 48,
+              "expanded_url": "https://x.com/wwl15956a/status/1946468123919659185/photo/1",
+              "media_key": "3_1946468110317355008",
+              "start": 25,
+              "url": "https://t.co/yJc33PvfE1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946468123919659185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“反正东方明珠塔下的我们 从来就没被谁给需要。” https://t.co/yJc33PvfE1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分 Pansexual MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/癌症靶向藥找 @ChosekiNoraneko，我在做客服",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 84,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1940009083995873344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8231,
+          "following_count": 893,
+          "like_count": 44329,
+          "listed_count": 31,
+          "media_count": 1316,
+          "tweet_count": 19655
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-08T20:13:48.000Z",
+        "description": "一只会上网的黑色家猫🐈‍⬛\n\nDestiny record will again\n\n超级无敌世界第一可爱的女儿：@beastere_susu  ❤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "beastere_susu"
+              }
+            ]
+          }
+        },
+        "id": "1821640942396358656",
+        "location": "地狱",
+        "name": "我是萌宝 黑猫🐈‍⬛",
+        "pinned_tweet_id": "1944309562527691119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941904610500767744/7JYkEkab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2720,
+          "following_count": 952,
+          "like_count": 15150,
+          "listed_count": 8,
+          "media_count": 599,
+          "tweet_count": 5226
+        },
+        "username": "wwl15956a",
+        "verified": false
+      }
+    ]
+  }
+}

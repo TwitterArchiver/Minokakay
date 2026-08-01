@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2041082087915274512",
+    "created_at": "2026-04-06T09:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T10:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041083522111434987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1926444025478778880",
+          "start": 0,
+          "username": "morikawayuu160c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041083522111434987",
+    "in_reply_to_user_id": "1926444025478778880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041082596684439989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@morikawayuu160c 这也是真的🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2041082087915274512",
+        "created_at": "2026-04-06T09:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041083522111434987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1926444025478778880",
+              "start": 0,
+              "username": "morikawayuu160c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041083522111434987",
+        "in_reply_to_user_id": "1926444025478778880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041082596684439989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@morikawayuu160c 这也是真的🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926444025478778880",
+        "conversation_id": "2041082087915274512",
+        "created_at": "2026-04-06T09:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041082596684439989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041082596684439989",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041082087915274512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 跟成都人一样说话阴阳怪气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "命に嫌われている。 mtx 正找寻着生命意义的人，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp，私信不回，打不开换梯子换浏览器",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 67,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 44,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14270,
+          "following_count": 1053,
+          "like_count": 44012,
+          "listed_count": 53,
+          "media_count": 1798,
+          "tweet_count": 25810
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-25T01:03:54.000Z",
+        "description": "she/they",
+        "id": "1926444025478778880",
+        "name": "Phạm Ngọc Hân",
+        "pinned_tweet_id": "2029191103061364783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029195967812259840/Of2Mywe2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 760,
+          "like_count": 5429,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1064
+        },
+        "url": "",
+        "username": "morikawayuu160c",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T01:03:54.000Z",
+        "description": "she/they",
+        "id": "1926444025478778880",
+        "name": "Phạm Ngọc Hân",
+        "pinned_tweet_id": "2029191103061364783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029195967812259840/Of2Mywe2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 760,
+          "like_count": 5429,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1064
+        },
+        "username": "morikawayuu160c",
+        "verified": false
+      }
+    ]
+  }
+}

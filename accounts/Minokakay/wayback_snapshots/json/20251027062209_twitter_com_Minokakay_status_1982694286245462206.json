@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982694162597138432"
+      ],
+      "media_source_tweet_id": [
+        "1982694165919178929"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1982694286245462206",
+    "created_at": "2025-10-27T06:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T07:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982694286245462206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1810420098513145856",
+          "start": 3,
+          "username": "LizzzL2005"
+        },
+        {
+          "end": 42,
+          "id": "1856322437144817667",
+          "start": 26,
+          "username": "ChosekiNoraneko"
+        },
+        {
+          "end": 54,
+          "id": "1597257668313260033",
+          "start": 44,
+          "username": "Minokakay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KkGS3HJl1J",
+          "end": 78,
+          "expanded_url": "https://x.com/LizzzL2005/status/1982694165919178929/photo/1",
+          "media_key": "3_1982694162597138432",
+          "start": 55,
+          "url": "https://t.co/KkGS3HJl1J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982694286245462206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982694165919178929",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LizzzL2005: 糖到啦！\n买糖认准 @ChosekiNoraneko 和@Minokakay https://t.co/KkGS3HJl1J"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1982694286245462206].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1982694286245462206",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1982694286245462206"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1982694162597138432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Px1gvX0AAArZp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982694162597138432"
+          ]
+        },
+        "author_id": "1810420098513145856",
+        "conversation_id": "1982694165919178929",
+        "created_at": "2025-10-27T06:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T07:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982694165919178929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1856322437144817667",
+              "start": 10,
+              "username": "ChosekiNoraneko"
+            },
+            {
+              "end": 38,
+              "id": "1597257668313260033",
+              "start": 28,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkGS3HJl1J",
+              "end": 62,
+              "expanded_url": "https://x.com/LizzzL2005/status/1982694165919178929/photo/1",
+              "media_key": "3_1982694162597138432",
+              "start": 39,
+              "url": "https://t.co/KkGS3HJl1J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982694165919178929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "糖到啦！\n买糖认准 @ChosekiNoraneko 和@Minokakay https://t.co/KkGS3HJl1J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11856,
+          "following_count": 991,
+          "like_count": 44953,
+          "listed_count": 41,
+          "media_count": 1484,
+          "tweet_count": 22159
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-08T21:06:10.000Z",
+        "description": "咱是璃子哦（可以叫栗子啦），請多指教！\n​是mtf🏳️‍⚧️一枚哦/19歲/185cm 72kg/無證含糖🍥炸柜版，hrt💊2024.11.14/\n​INFP-T🦋/自殘傾向/藥物上癮/性無能/昆明就讀的笨蛋大學生\n❤️❤️❤️最最最最最喜歡的寶寶@XxcationxX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 124,
+                "username": "XxcationxX"
+              }
+            ]
+          }
+        },
+        "id": "1810420098513145856",
+        "name": "璃花猫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928368600425082880/ZbtCMNBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 447,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 367
+        },
+        "username": "LizzzL2005",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T13:05:46.000Z",
+        "description": "Choseki Pharmacy的官方賬號，售卖正规进口药品，EN/JP/CN三語客服，此店铺由@Minokakay 担保并提供客服服务，欢迎https://t.co/Re1C3wHxMr或推特私信下单！ 可邮寄全球220國 12PM-25PM不定时在線，请隨時留言，下单采取留言制，不定时回复见谅，未成年勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Minokakay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/chosekinoraneko",
+                "end": 94,
+                "expanded_url": "http://t.me/chosekinoraneko",
+                "start": 71,
+                "url": "https://t.co/Re1C3wHxMr"
+              }
+            ]
+          }
+        },
+        "id": "1856322437144817667",
+        "location": "Singapore",
+        "name": "Choseki Pharmacy（HRT药商）",
+        "pinned_tweet_id": "1963871499271455228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970461184341221378/Q2FYjkcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3768,
+          "following_count": 32,
+          "like_count": 130,
+          "listed_count": 7,
+          "media_count": 6,
+          "tweet_count": 146
+        },
+        "username": "ChosekiNoraneko",
+        "verified": false
+      }
+    ]
+  }
+}

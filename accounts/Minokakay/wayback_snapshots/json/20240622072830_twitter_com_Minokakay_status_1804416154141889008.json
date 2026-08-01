@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1804016885547307508",
+    "created_at": "2024-06-22T07:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T08:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804416154141889008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1224953820716945408",
+          "start": 0,
+          "username": "ChingteLai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804416154141889008",
+    "in_reply_to_user_id": "1224953820716945408",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804016885547307508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChingteLai 你不是中國總統嗎？講什麼慰問中國？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1804016885547307508",
+        "created_at": "2024-06-22T07:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T08:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804416154141889008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1224953820716945408",
+              "start": 0,
+              "username": "ChingteLai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804416154141889008",
+        "in_reply_to_user_id": "1224953820716945408",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804016885547307508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChingteLai 你不是中國總統嗎？講什麼慰問中國？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1224953820716945408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "1804016885547307508",
+        "created_at": "2024-06-21T05:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T06:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804016885547307508"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804016885547307508",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 438,
+          "impression_count": 2208561,
+          "like_count": 16614,
+          "quote_count": 237,
+          "reply_count": 2579,
+          "retweet_count": 1349
+        },
+        "reply_settings": "everyone",
+        "text": "针对中国广东地区等多处，因为连日暴雨引发严重的水灾，造成不幸伤亡及大量人民疏散；基于人道关怀立场，我要表达诚挚的慰问与关心。\n\n期盼受灾地区早日脱离洪害，恢復正常生活。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "暗い未來だって，\n強くなって運命変えられるかもね  🇹🇼ROC成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 730,
+          "like_count": 2072,
+          "listed_count": 0,
+          "tweet_count": 1015
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-05T07:12:26.000Z",
+        "description": "President of R.O.C. Taiwan. Chairperson of Democratic Progressive Party.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/chingte/",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/chingte/",
+                "start": 0,
+                "url": "https://t.co/jlskvCNP8H"
+              }
+            ]
+          }
+        },
+        "id": "1224953820716945408",
+        "location": "Taiwan",
+        "name": "賴清德Lai Ching-te",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730152721926516736/K-asKS36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307597,
+          "following_count": 9,
+          "like_count": 162,
+          "listed_count": 954,
+          "tweet_count": 420
+        },
+        "url": "https://t.co/jlskvCNP8H",
+        "username": "ChingteLai",
+        "verified": true
+      }
+    ]
+  }
+}

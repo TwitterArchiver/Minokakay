@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002714937307914240",
+        "3_2002714937299517440"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2002714946577240341",
+    "created_at": "2025-12-21T12:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T13:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002714946577240341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wwjxYycgQr",
+          "end": 51,
+          "expanded_url": "https://x.com/Minokakay/status/2002714946577240341/photo/1",
+          "media_key": "3_2002714937307914240",
+          "start": 28,
+          "url": "https://t.co/wwjxYycgQr"
+        },
+        {
+          "display_url": "pic.x.com/wwjxYycgQr",
+          "end": 51,
+          "expanded_url": "https://x.com/Minokakay/status/2002714946577240341/photo/1",
+          "media_key": "3_2002714937299517440",
+          "start": 28,
+          "url": "https://t.co/wwjxYycgQr"
+        },
+        {
+          "display_url": "x.com/minokakay/stat…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/minokakay/status/2002712731015893373",
+          "start": 52,
+          "url": "https://t.co/Q5zezM2dZP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002714946577240341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002712731015893373",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他还是这么喜欢6793642，连推特账号都用的这串数字 https://t.co/wwjxYycgQr https://t.co/Q5zezM2dZP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 340,
+        "media_key": "3_2002714937307914240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sSn-ibYAAiOSU.jpg",
+        "width": 912
+      },
+      {
+        "height": 875,
+        "media_key": "3_2002714937299517440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sSn-gbQAAqG2i.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1580,
+        "media_key": "3_2002712722497208320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sQnDuaAAAi8JM.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002714937307914240",
+            "3_2002714937299517440"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2002714946577240341",
+        "created_at": "2025-12-21T12:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T13:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002714946577240341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wwjxYycgQr",
+              "end": 51,
+              "expanded_url": "https://x.com/Minokakay/status/2002714946577240341/photo/1",
+              "media_key": "3_2002714937307914240",
+              "start": 28,
+              "url": "https://t.co/wwjxYycgQr"
+            },
+            {
+              "display_url": "pic.x.com/wwjxYycgQr",
+              "end": 51,
+              "expanded_url": "https://x.com/Minokakay/status/2002714946577240341/photo/1",
+              "media_key": "3_2002714937299517440",
+              "start": 28,
+              "url": "https://t.co/wwjxYycgQr"
+            },
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/minokakay/status/2002712731015893373",
+              "start": 52,
+              "url": "https://t.co/Q5zezM2dZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002714946577240341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002712731015893373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他还是这么喜欢6793642，连推特账号都用的这串数字 https://t.co/wwjxYycgQr https://t.co/Q5zezM2dZP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002712722497208320"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2002712731015893373",
+        "created_at": "2025-12-21T12:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T13:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002712731015893373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dCT8e5NtUw",
+              "end": 60,
+              "expanded_url": "https://x.com/Minokakay/status/2002712731015893373/photo/1",
+              "media_key": "3_2002712722497208320",
+              "start": 37,
+              "url": "https://t.co/dCT8e5NtUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002712731015893373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是來自黑龍江省黑河市北安市的衣春洋先生嗎？原神uid尾號3934對嗎？🤡 https://t.co/dCT8e5NtUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13201,
+          "following_count": 1012,
+          "like_count": 44943,
+          "listed_count": 50,
+          "media_count": 1785,
+          "tweet_count": 24772
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

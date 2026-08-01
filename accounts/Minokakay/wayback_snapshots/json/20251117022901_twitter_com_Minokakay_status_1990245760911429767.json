@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1990245760911429767",
+    "created_at": "2025-11-17T02:29:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T03:29:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990245760911429767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wang_rui18278/…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/wang_rui18278/status/1990242354058674539",
+          "start": 22,
+          "url": "https://t.co/EDHlcKbOFD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990245760911429767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990242354058674539",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "安徽小县城看黄男 那我还说什么 你开心就好 https://t.co/EDHlcKbOFD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1990245760911429767",
+        "created_at": "2025-11-17T02:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T03:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990245760911429767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wang_rui18278/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/wang_rui18278/status/1990242354058674539",
+              "start": 22,
+              "url": "https://t.co/EDHlcKbOFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990245760911429767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990242354058674539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "安徽小县城看黄男 那我还说什么 你开心就好 https://t.co/EDHlcKbOFD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775067309733998592",
+        "conversation_id": "1990041367557648740",
+        "created_at": "2025-11-17T02:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T03:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990242354058674539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990242354058674539",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990041367557648740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 哈哈哈哈傻逼笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12203,
+          "following_count": 1012,
+          "like_count": 45019,
+          "listed_count": 43,
+          "media_count": 1563,
+          "tweet_count": 23008
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-02T07:46:48.000Z",
+        "description": "泗县的，男的",
+        "id": "1775067309733998592",
+        "location": "泗县",
+        "name": "昆明呈贡找女M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807245451701428224/tNSv4j3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 51,
+          "like_count": 33,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 71
+        },
+        "username": "wang_rui18278",
+        "verified": false
+      }
+    ]
+  }
+}

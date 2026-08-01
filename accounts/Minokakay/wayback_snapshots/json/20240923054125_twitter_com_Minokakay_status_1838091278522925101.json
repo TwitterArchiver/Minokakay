@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1838091278522925101",
+    "created_at": "2024-09-23T05:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T06:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1838091278522925101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rin_rinrinrink…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/rin_rinrinrinko/status/1837669012937101577",
+          "start": 11,
+          "url": "https://t.co/SvmvNXoPEy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838091278522925101",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837669012937101577",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想吃萨利亚，没吃过 https://t.co/SvmvNXoPEy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1838091278522925101",
+        "created_at": "2024-09-23T05:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T06:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838091278522925101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rin_rinrinrink…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/rin_rinrinrinko/status/1837669012937101577",
+              "start": 11,
+              "url": "https://t.co/SvmvNXoPEy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838091278522925101",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837669012937101577",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想吃萨利亚，没吃过 https://t.co/SvmvNXoPEy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812368691595800576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1837669012937101577",
+        "created_at": "2024-09-22T01:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T02:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837669012937101577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837669012937101577",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 60408,
+          "like_count": 432,
+          "quote_count": 6,
+          "reply_count": 41,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "姐妹你别吃糖了，我14岁年龄党，天赋假两性畸形，大证小证都有，会化妆cosplay，maimai机厅、宜家、萨莉亚离家不过500米，推特fo数过万，上周尝试性做了六项，基本看不到睾酮了，手术费也攒齐了。所以我真不知道你们怎么和我竞争？你真的要头铁，那么咱们出勤的时间见吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  成渝 半休学陰暗比男高三生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 152,
+                "start": 136,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 843,
+          "like_count": 16149,
+          "listed_count": 4,
+          "tweet_count": 6907
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T06:09:58.000Z",
+        "description": "Like a complete unknown\n\nLike a rolling stone\n（要回fo请私信喵🥺🥺）\n🚪68口令红包",
+        "id": "1812368691595800576",
+        "name": "林林子（互fo",
+        "pinned_tweet_id": "1826163532163068056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812369804747038721/jOMHP0w9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 517,
+          "like_count": 1456,
+          "listed_count": 0,
+          "tweet_count": 816
+        },
+        "username": "rin_rinrinrinko",
+        "verified": false
+      }
+    ]
+  }
+}

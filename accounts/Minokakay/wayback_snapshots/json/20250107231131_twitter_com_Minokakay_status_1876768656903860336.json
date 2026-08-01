@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876647747912183808"
+      ],
+      "media_source_tweet_id": [
+        "1876647765763338556"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1876768656903860336",
+    "created_at": "2025-01-07T23:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T00:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876768656903860336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748717733569875968",
+          "start": 3,
+          "username": "GLaDOS8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TvQ3fYYKxT",
+          "end": 39,
+          "expanded_url": "https://x.com/GLaDOS8964/status/1876647765763338556/photo/1",
+          "media_key": "3_1876647747912183808",
+          "start": 16,
+          "url": "https://t.co/TvQ3fYYKxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876768656903860336",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876647765763338556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GLaDOS8964: https://t.co/TvQ3fYYKxT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1876647747912183808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgsxLw7XsAA1qg_.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876647747912183808"
+          ],
+          "media_source_tweet_id": [
+            "1876647765763338556"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1876768656903860336",
+        "created_at": "2025-01-07T23:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T00:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876768656903860336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748717733569875968",
+              "start": 3,
+              "username": "GLaDOS8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TvQ3fYYKxT",
+              "end": 39,
+              "expanded_url": "https://x.com/GLaDOS8964/status/1876647765763338556/photo/1",
+              "media_key": "3_1876647747912183808",
+              "start": 16,
+              "url": "https://t.co/TvQ3fYYKxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876768656903860336",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876647765763338556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GLaDOS8964: https://t.co/TvQ3fYYKxT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876647747912183808"
+          ]
+        },
+        "author_id": "1748717733569875968",
+        "conversation_id": "1876647765763338556",
+        "created_at": "2025-01-07T15:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T16:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876647765763338556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TvQ3fYYKxT",
+              "end": 23,
+              "expanded_url": "https://x.com/GLaDOS8964/status/1876647765763338556/photo/1",
+              "media_key": "3_1876647747912183808",
+              "start": 0,
+              "url": "https://t.co/TvQ3fYYKxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876647765763338556",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 533,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TvQ3fYYKxT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要内服美白成分/日雌/色普龙/促智药/用药咨询/代购药物找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日雌 藥物諮詢 購藥",
+        "pinned_tweet_id": "1872051766805840215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 749,
+          "like_count": 31868,
+          "listed_count": 9,
+          "media_count": 787,
+          "tweet_count": 14240
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T14:43:03.000Z",
+        "description": "_",
+        "id": "1748717733569875968",
+        "location": "@mo6ji4",
+        "name": "GLaDOS",
+        "pinned_tweet_id": "1876647765763338556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867950029501071360/VYPnQ5Ls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 909,
+          "like_count": 30634,
+          "listed_count": 2,
+          "media_count": 702,
+          "tweet_count": 17452
+        },
+        "username": "GLaDOS8964",
+        "verified": false
+      }
+    ]
+  }
+}

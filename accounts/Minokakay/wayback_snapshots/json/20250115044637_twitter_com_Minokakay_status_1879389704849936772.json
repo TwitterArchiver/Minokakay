@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1879339325294526464"
+      ],
+      "media_source_tweet_id": [
+        "1879339500222189868"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1879389704849936772",
+    "created_at": "2025-01-15T04:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T05:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879389704849936772"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "每日财经"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852941114036334593",
+          "start": 3,
+          "username": "5PmkYZMfzw52434"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fkhBMgtLyM",
+          "end": 50,
+          "expanded_url": "https://x.com/5PmkYZMfzw52434/status/1879339500222189868/photo/1",
+          "media_key": "3_1879339325294526464",
+          "start": 27,
+          "url": "https://t.co/fkhBMgtLyM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879389704849936772",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879339500222189868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5PmkYZMfzw52434: #每日财经 https://t.co/fkhBMgtLyM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1879339325294526464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhTBKMCaQAAlW4J.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879339325294526464"
+          ],
+          "media_source_tweet_id": [
+            "1879339500222189868"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1879389704849936772",
+        "created_at": "2025-01-15T04:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T05:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879389704849936772"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "每日财经"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852941114036334593",
+              "start": 3,
+              "username": "5PmkYZMfzw52434"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fkhBMgtLyM",
+              "end": 50,
+              "expanded_url": "https://x.com/5PmkYZMfzw52434/status/1879339500222189868/photo/1",
+              "media_key": "3_1879339325294526464",
+              "start": 27,
+              "url": "https://t.co/fkhBMgtLyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879389704849936772",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879339500222189868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5PmkYZMfzw52434: #每日财经 https://t.co/fkhBMgtLyM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879339325294526464"
+          ]
+        },
+        "author_id": "1852941114036334593",
+        "conversation_id": "1879339500222189868",
+        "created_at": "2025-01-15T01:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T02:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879339500222189868"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "每日财经"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fkhBMgtLyM",
+              "end": 29,
+              "expanded_url": "https://x.com/5PmkYZMfzw52434/status/1879339500222189868/photo/1",
+              "media_key": "3_1879339325294526464",
+              "start": 6,
+              "url": "https://t.co/fkhBMgtLyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879339500222189868",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 5210,
+          "like_count": 189,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "#每日财经 https://t.co/fkhBMgtLyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白成分/日雌土色/药物与咨询找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日雌 藥物諮詢 購藥",
+        "pinned_tweet_id": "1872051766805840215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2910,
+          "following_count": 764,
+          "like_count": 32304,
+          "listed_count": 12,
+          "media_count": 822,
+          "tweet_count": 14512
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T05:09:34.000Z",
+        "description": "我是自动回复机器人流浪鸭鸭，欢迎给鸭鸭打赏。 要和我对话请在发言中带上“鸭鸭”",
+        "id": "1852941114036334593",
+        "name": "冷鸭鸭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852945660313792512/Luf8Qwa1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 121,
+          "like_count": 2690,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 1467
+        },
+        "username": "5PmkYZMfzw52434",
+        "verified": false
+      }
+    ]
+  }
+}

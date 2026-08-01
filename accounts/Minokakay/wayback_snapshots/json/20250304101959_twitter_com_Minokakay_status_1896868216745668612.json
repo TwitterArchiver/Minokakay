@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1896761499470950400"
+      ],
+      "media_source_tweet_id": [
+        "1896761554802180410"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1896868216745668612",
+    "created_at": "2025-03-04T10:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T11:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896868216745668612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1552238688590958592",
+          "start": 3,
+          "username": "Coccus_Swamer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lKhT94hsYc",
+          "end": 42,
+          "expanded_url": "https://x.com/Coccus_Swamer/status/1896761554802180410/video/1",
+          "media_key": "7_1896761499470950400",
+          "start": 19,
+          "url": "https://t.co/lKhT94hsYc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896868216745668612",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896761554802180410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Coccus_Swamer: https://t.co/lKhT94hsYc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36687,
+        "height": 1280,
+        "media_key": "7_1896761499470950400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1896761499470950400/pu/img/1UnG8VT_U88IKlXq.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1896761499470950400/pu/vid/avc1/320x568/_rHhYXMAH7lbhhYP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1896761499470950400/pu/vid/avc1/480x852/qTg_jTub1sQ_Zwi9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1896761499470950400/pu/vid/avc1/720x1280/cnBygDkpx3flZrqk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1896761499470950400/pu/pl/_dZWyw4ZHrSQuNHA.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1896761499470950400"
+          ],
+          "media_source_tweet_id": [
+            "1896761554802180410"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1896868216745668612",
+        "created_at": "2025-03-04T10:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T11:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896868216745668612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1552238688590958592",
+              "start": 3,
+              "username": "Coccus_Swamer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKhT94hsYc",
+              "end": 42,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1896761554802180410/video/1",
+              "media_key": "7_1896761499470950400",
+              "start": 19,
+              "url": "https://t.co/lKhT94hsYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896868216745668612",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896761554802180410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Coccus_Swamer: https://t.co/lKhT94hsYc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1896761499470950400"
+          ]
+        },
+        "author_id": "1552238688590958592",
+        "conversation_id": "1896761554802180410",
+        "created_at": "2025-03-04T03:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T04:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896761554802180410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKhT94hsYc",
+              "end": 23,
+              "expanded_url": "https://x.com/Coccus_Swamer/status/1896761554802180410/video/1",
+              "media_key": "7_1896761499470950400",
+              "start": 0,
+              "url": "https://t.co/lKhT94hsYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896761554802180410",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lKhT94hsYc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈 https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 99,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 76,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay （日雌泰补色诺",
+        "pinned_tweet_id": "1891554377909010835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5439,
+          "following_count": 823,
+          "like_count": 37079,
+          "listed_count": 28,
+          "media_count": 1031,
+          "tweet_count": 16531
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/学习/互关慎重/@sikkmywife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "sikkmywife"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1886742501513683101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890450710346756100/bUTzXaCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 1909,
+          "like_count": 8210,
+          "listed_count": 0,
+          "media_count": 476,
+          "tweet_count": 2885
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      }
+    ]
+  }
+}

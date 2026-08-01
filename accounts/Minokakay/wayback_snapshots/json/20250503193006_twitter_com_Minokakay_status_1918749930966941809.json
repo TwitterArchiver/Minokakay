@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1918749930966941809",
+    "created_at": "2025-05-03T19:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T20:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918749930966941809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cuichenghao7/s…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/cuichenghao7/status/1918096401965162584",
+          "start": 37,
+          "url": "https://t.co/1i6HvvbYmt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918749930966941809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918096401965162584",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以真不能怪病人查百度，有些医生水平还没百度高，有能力的跟病人解释下就行 https://t.co/1i6HvvbYmt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1918749930966941809",
+        "created_at": "2025-05-03T19:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T20:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918749930966941809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cuichenghao7/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/cuichenghao7/status/1918096401965162584",
+              "start": 37,
+              "url": "https://t.co/1i6HvvbYmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918749930966941809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918096401965162584",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以真不能怪病人查百度，有些医生水平还没百度高，有能力的跟病人解释下就行 https://t.co/1i6HvvbYmt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811888010088316932",
+        "conversation_id": "1918096401965162584",
+        "created_at": "2025-05-02T00:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T01:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918096401965162584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918096401965162584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 309594,
+          "like_count": 2081,
+          "quote_count": 9,
+          "reply_count": 27,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "董：“爷爷，我长大想当医生。”\n\n爷爷：“你已经是医生了，等着长大就行了。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1916475690863726978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6667,
+          "following_count": 870,
+          "like_count": 41559,
+          "listed_count": 28,
+          "media_count": 894,
+          "tweet_count": 16978
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "Heart in Pyongyang, never left.   心系平壤 从未离开",
+        "id": "1811888010088316932",
+        "location": "Pyongyang",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811979930038575104/fbLjyMjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11379,
+          "following_count": 276,
+          "like_count": 138,
+          "listed_count": 30,
+          "media_count": 129,
+          "tweet_count": 224
+        },
+        "username": "cuichenghao7",
+        "verified": false
+      }
+    ]
+  }
+}

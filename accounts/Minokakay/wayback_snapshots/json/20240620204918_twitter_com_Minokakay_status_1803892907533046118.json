@@ -1,0 +1,287 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1803492093064527872"
+      ],
+      "media_source_tweet_id": [
+        "1803492305157992569"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1803892907533046118",
+    "created_at": "2024-06-20T20:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T21:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803892907533046118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1586332050528915457",
+          "start": 3,
+          "username": "lilaoshizuikeai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/RehNnKIukL",
+          "end": 63,
+          "expanded_url": "https://twitter.com/lilaoshizuikeai/status/1803492305157992569/video/1",
+          "media_key": "7_1803492093064527872",
+          "start": 40,
+          "url": "https://t.co/RehNnKIukL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803892907533046118",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803492305157992569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilaoshizuikeai: 第一天来推特 vs 来推特一个星期后 https://t.co/RehNnKIukL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30070,
+        "height": 1280,
+        "media_key": "7_1803492093064527872",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1803492093064527872/pu/img/Qj1m0BOf4cnknvuN.jpg",
+        "public_metrics": {
+          "view_count": 85088
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803492093064527872/pu/vid/avc1/320x690/pgQXegK1DPwlOTq8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803492093064527872/pu/vid/avc1/480x1036/4Z_YelyqkKhi-yli.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1803492093064527872/pu/vid/avc1/592x1280/oIc3-xebzuuUG9eY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1803492093064527872/pu/pl/ciNyTjakKVCMq56m.m3u8?tag=12"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1803492093064527872"
+          ],
+          "media_source_tweet_id": [
+            "1803492305157992569"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1803892907533046118",
+        "created_at": "2024-06-20T20:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T21:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803892907533046118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1586332050528915457",
+              "start": 3,
+              "username": "lilaoshizuikeai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/RehNnKIukL",
+              "end": 63,
+              "expanded_url": "https://twitter.com/lilaoshizuikeai/status/1803492305157992569/video/1",
+              "media_key": "7_1803492093064527872",
+              "start": 40,
+              "url": "https://t.co/RehNnKIukL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803892907533046118",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803492305157992569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilaoshizuikeai: 第一天来推特 vs 来推特一个星期后 https://t.co/RehNnKIukL"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1803492093064527872"
+          ]
+        },
+        "author_id": "1586332050528915457",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1803492305157992569",
+        "created_at": "2024-06-19T18:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T19:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803492305157992569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/RehNnKIukL",
+              "end": 42,
+              "expanded_url": "https://twitter.com/lilaoshizuikeai/status/1803492305157992569/video/1",
+              "media_key": "7_1803492093064527872",
+              "start": 19,
+              "url": "https://t.co/RehNnKIukL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803492305157992569",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 173451,
+          "like_count": 1224,
+          "quote_count": 17,
+          "reply_count": 149,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "第一天来推特 vs 来推特一个星期后 https://t.co/RehNnKIukL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "暗い未來だって，\n強くなって運命変えられるかもね  🇹🇼ROC成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 732,
+          "like_count": 2053,
+          "listed_count": 0,
+          "tweet_count": 1003
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600861407104335873/PIQM5Ii9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209767,
+          "following_count": 665,
+          "like_count": 4018,
+          "listed_count": 1179,
+          "tweet_count": 6244
+        },
+        "username": "lilaoshizuikeai",
+        "verified": true
+      }
+    ]
+  }
+}

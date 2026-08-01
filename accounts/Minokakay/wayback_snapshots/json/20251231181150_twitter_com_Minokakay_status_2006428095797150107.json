@@ -1,0 +1,773 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1293278449495203840",
+          "name": "Music TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "NHK",
+          "id": "1034881250840915968",
+          "name": "NHK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "NHK",
+          "id": "1034881250840915968",
+          "name": "NHK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286400936550608896",
+          "name": "Music events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293278449495203840",
+          "name": "Music TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324850959449616384",
+          "name": "Kouhaku Music Show"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2006428095797150107",
+    "created_at": "2025-12-31T18:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T19:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006428095797150107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nhk_kouhaku/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/nhk_kouhaku/status/2006376067443958161",
+          "start": 7,
+          "url": "https://t.co/914Sbi1rkL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006428095797150107",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006376067443958161",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今年忘记看了 https://t.co/914Sbi1rkL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2006376065116069888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gUZqcW4AAsOYm.jpg",
+        "width": 1350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1293278449495203840",
+              "name": "Music TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400936550608896",
+              "name": "Music events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293278449495203840",
+              "name": "Music TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324850959449616384",
+              "name": "Kouhaku Music Show"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2006428095797150107",
+        "created_at": "2025-12-31T18:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T19:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006428095797150107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nhk_kouhaku/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/nhk_kouhaku/status/2006376067443958161",
+              "start": 7,
+              "url": "https://t.co/914Sbi1rkL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006428095797150107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006376067443958161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今年忘记看了 https://t.co/914Sbi1rkL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006376065116069888"
+          ]
+        },
+        "author_id": "85765327",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1293278449495203840",
+              "name": "Music TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400936550608896",
+              "name": "Music events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293278449495203840",
+              "name": "Music TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324850959449616384",
+              "name": "Kouhaku Music Show"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "12月31日にNHK総合などで放送される『第72回NHK紅白歌合戦』の出場者が19日、正式に発表されました。初出場は、紅組は上白石萌音さん、Awesome City Club、BiSHの4組。白組は布袋寅泰さん、KAT-TUN、SnowMan、DISH//、まふまふさん、平井大さんの6組。出場歌手は43組です。このモーメントは自動でツイートを掲載しています。",
+              "id": "1461187744508432387",
+              "name": "『第72回NHK紅白歌合戦』の出場者発表 初出場は10組"
+            }
+          }
+        ],
+        "conversation_id": "2006376067443958161",
+        "created_at": "2025-12-31T14:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T15:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006376067443958161"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 161,
+              "start": 155,
+              "tag": "NHK紅白"
+            }
+          ],
+          "urls": [
+            {
+              "description": "【NHK】矢沢永吉・ミセス・米津玄師・ユーミン・玉置浩二・髙橋真梨子・ＭＩＳＩＡ・福山雅治・久保田利伸・ＴＵＢＥ・サカナクション・Ｐｅｒｆｕｍｅ",
+              "display_url": "web.nhk/tv/pl/series-t…",
+              "end": 100,
+              "expanded_url": "https://www.web.nhk/tv/pl/series-tep-NRMN3WP7Z5/ep/E725R7JW8Y",
+              "start": 77,
+              "status": 200,
+              "title": "司会は綾瀬はるか・有吉弘行・今田美桜 | 第76回NHK紅白歌合戦",
+              "unwound_url": "https://www.web.nhk/tv/pl/series-tep-NRMN3WP7Z5/ep/E725R7JW8Y",
+              "url": "https://t.co/9iVtm0yEuF"
+            },
+            {
+              "display_url": "pic.x.com/svjDgYySjc",
+              "end": 185,
+              "expanded_url": "https://x.com/nhk_kouhaku/status/2006376067443958161/photo/1",
+              "media_key": "3_2006376065116069888",
+              "start": 162,
+              "url": "https://t.co/svjDgYySjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006376067443958161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 399262,
+          "like_count": 7923,
+          "quote_count": 64,
+          "reply_count": 130,
+          "retweet_count": 826
+        },
+        "reply_settings": "everyone",
+        "text": "✧.*🔴┈\n\n第76回NHK紅白歌合戦 放送終了\n　　\n　　　　　　　　　　　┈⚪️*.✦\n\nご視聴ありがとうございました💐\n\n見逃し配信はこちらから👇\nhttps://t.co/9iVtm0yEuF\n\n2026年が\n明るく希望に満ちた1年になりますように✨️\n\nそれでは皆さま、よいお年をお迎えください☺\n\n#NHK紅白 https://t.co/svjDgYySjc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，如需癌症/慢病用药，请找@Lucius_Pharma，均是我朋友开的，我担保。如需电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Lucius_Pharma"
+              },
+              {
+                "end": 136,
+                "start": 126,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13615,
+          "following_count": 1021,
+          "like_count": 44978,
+          "listed_count": 50,
+          "media_count": 1826,
+          "tweet_count": 25279
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-28T07:32:46.000Z",
+        "description": "NHK紅白歌合戦公式アカウントです\n#NHK紅白 の関連情報を発信します！\n公式Instagramもチェックよろしくお願いします。\n利用規約はこちら👉https://t.co/2yW4uX3x2X",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 18,
+                "tag": "NHK紅白"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nhk.jp/rules",
+                "end": 98,
+                "expanded_url": "https://nhk.jp/rules",
+                "start": 75,
+                "url": "https://t.co/2yW4uX3x2X"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nhk.or.jp/kouhaku/",
+                "end": 23,
+                "expanded_url": "https://www.nhk.or.jp/kouhaku/",
+                "start": 0,
+                "url": "https://t.co/WopUl3982k"
+              }
+            ]
+          }
+        },
+        "id": "85765327",
+        "location": "東京都渋谷区神南",
+        "name": "NHK紅白歌合戦",
+        "pinned_tweet_id": "2006376067443958161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968216795673923586/owkdtxJT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808136,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 3526,
+          "media_count": 983,
+          "tweet_count": 4032
+        },
+        "url": "https://t.co/WopUl3982k",
+        "username": "nhk_kouhaku",
+        "verified": true
+      }
+    ]
+  }
+}

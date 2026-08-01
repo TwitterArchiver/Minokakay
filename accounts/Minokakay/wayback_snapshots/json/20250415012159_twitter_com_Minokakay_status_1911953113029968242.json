@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1911953113029968242",
+    "created_at": "2025-04-15T01:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T02:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911953113029968242"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "美國"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2215812295",
+          "start": 3,
+          "username": "NikolaTesla2010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911953113029968242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911938588679524757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NikolaTesla2010: 美国发言人：鉴于中国主动道歉，我们降低了对中国的部分关税。\n\n记者问：中国怎么道歉了，能具体说一说么？\n\n美国发言人回答到：伟大的特朗普总统主动电话习近平，电话那头回话“对不起，您拨打的电话已关机”，他们主动说了的“对不起”。\n\n#美國…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1911953113029968242",
+        "created_at": "2025-04-15T01:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T02:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911953113029968242"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "美國"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2215812295",
+              "start": 3,
+              "username": "NikolaTesla2010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911953113029968242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911938588679524757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NikolaTesla2010: 美国发言人：鉴于中国主动道歉，我们降低了对中国的部分关税。\n\n记者问：中国怎么道歉了，能具体说一说么？\n\n美国发言人回答到：伟大的特朗普总统主动电话习近平，电话那头回话“对不起，您拨打的电话已关机”，他们主动说了的“对不起”。\n\n#美國…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2215812295",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1911938588679524757",
+        "created_at": "2025-04-15T00:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T01:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911938588679524757"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "美國"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "傻逼"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911938588679524757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 365,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "美国发言人：鉴于中国主动道歉，我们降低了对中国的部分关税。\n\n记者问：中国怎么道歉了，能具体说一说么？\n\n美国发言人回答到：伟大的特朗普总统主动电话习近平，电话那头回话“对不起，您拨打的电话已关机”，他们主动说了的“对不起”。\n\n#美國 #傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1911284276345405679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6313,
+          "following_count": 864,
+          "like_count": 40459,
+          "listed_count": 31,
+          "media_count": 779,
+          "tweet_count": 16128
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2013-11-26T14:23:23.000Z",
+        "description": "",
+        "id": "2215812295",
+        "location": "Sagittarius A*",
+        "name": "Tesla",
+        "pinned_tweet_id": "1911390531017408792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884785853194776576/U7JbZj26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5226,
+          "following_count": 2363,
+          "like_count": 41191,
+          "listed_count": 38,
+          "media_count": 4988,
+          "tweet_count": 13217
+        },
+        "username": "NikolaTesla2010",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2075154706159251690",
+    "created_at": "2026-07-09T11:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075176479235924380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1670362954590728197",
+          "start": 0,
+          "username": "citric_baizhou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075176479235924380",
+    "in_reply_to_user_id": "1670362954590728197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075154706159251690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@citric_baizhou 乡镇小学中学唯一的用处就是把这些人拴着免得出去搞事情"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2075154706159251690].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2075154706159251690",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2075154706159251690"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2075154706159251690",
+        "created_at": "2026-07-09T11:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075176479235924380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1670362954590728197",
+              "start": 0,
+              "username": "citric_baizhou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075176479235924380",
+        "in_reply_to_user_id": "1670362954590728197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075154706159251690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@citric_baizhou 乡镇小学中学唯一的用处就是把这些人拴着免得出去搞事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新，较少看/发推特",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14429,
+          "following_count": 1062,
+          "like_count": 43810,
+          "listed_count": 49,
+          "media_count": 1849,
+          "tweet_count": 26271
+        },
+        "url": "",
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-18T09:29:12.000Z",
+        "description": "青春って値札が背中に貼られていて。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ikukoo0413",
+                "end": 23,
+                "expanded_url": "http://t.me/ikukoo0413",
+                "start": 0,
+                "url": "https://t.co/mTviyCNN5Y"
+              }
+            ]
+          }
+        },
+        "id": "1670362954590728197",
+        "location": "添加你的位置",
+        "name": "阳光菇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070129123608170496/6HYKjYI6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 993,
+          "like_count": 41486,
+          "listed_count": 6,
+          "media_count": 1045,
+          "tweet_count": 6390
+        },
+        "url": "https://t.co/mTviyCNN5Y",
+        "username": "citric_baizhou",
+        "verified": false
+      }
+    ]
+  }
+}

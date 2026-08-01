@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2016712014249529752",
+    "created_at": "2026-01-29T03:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T04:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/exusiai159/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/exusiai159/status/2016511019674489339",
+          "start": 21,
+          "url": "https://t.co/4GdiOjDgOd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016712014249529752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016511019674489339",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我活着的意义就是不断恶心那些讨厌我的人😁 https://t.co/4GdiOjDgOd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253165636210978817",
+        "conversation_id": "2016511019674489339",
+        "created_at": "2026-01-28T13:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {},
+        "geo": {},
+        "id": "2016511019674489339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 595,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我活着的意义就是不断恶心那些讨厌我的人😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️咨询补色诺凝胶等找https://t.co/9scN5m8KhN，私信不回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chosekipharmacy",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/chosekipharmacy",
+                "start": 51,
+                "url": "https://t.co/9scN5m8KhN"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2013945809042350395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13962,
+          "following_count": 1028,
+          "like_count": 44875,
+          "listed_count": 49,
+          "media_count": 1801,
+          "tweet_count": 25603
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "粥批，正太控，中推鹿野灸和能天使粉丝头子｜会转发正太黄推🔞，如有介意请不要关注｜推特用来当日记本记录碎碎念｜数码产品迷，Windows平板爱好者，半个车迷｜编程一生黑｜禁极端歧视仇恨言论｜包含微量政治元素｜有大量政治内容的账号恕不回fo｜避难所@Exusiai159_2｜扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "http://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/z598x1t5k0"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202665618526208/AijwsiNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5026,
+          "following_count": 6500,
+          "like_count": 162230,
+          "listed_count": 11,
+          "media_count": 4829,
+          "tweet_count": 48834
+        },
+        "url": "https://t.co/z598x1t5k0",
+        "username": "Exusiai159",
+        "verified": false
+      }
+    ]
+  }
+}

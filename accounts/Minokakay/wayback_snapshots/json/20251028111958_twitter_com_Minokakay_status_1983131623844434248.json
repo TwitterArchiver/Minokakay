@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1980983264715083776"
+      ],
+      "media_source_tweet_id": [
+        "1980983330687647951"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1983131623844434248",
+    "created_at": "2025-10-28T11:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T12:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983131623844434248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1958097250749685760",
+          "start": 3,
+          "username": "KEMONO_UMA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QPia8aeK45",
+          "end": 45,
+          "expanded_url": "https://x.com/KEMONO_UMA/status/1980983330687647951/video/1",
+          "media_key": "7_1980983264715083776",
+          "start": 22,
+          "url": "https://t.co/QPia8aeK45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983131623844434248",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1989
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980983330687647951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KEMONO_UMA: Wataa https://t.co/QPia8aeK45"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983131623844434248].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983131623844434248",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983131623844434248"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 99370,
+        "height": 1080,
+        "media_key": "7_1980983264715083776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1980983264715083776/pu/img/srtqCIkCM2Mj_Hxk.jpg",
+        "public_metrics": {
+          "view_count": 495313
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980983264715083776/pu/vid/avc1/320x530/VvkfBwh7mBOK83vl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980983264715083776/pu/vid/avc1/480x794/gjF1YJMAAlpBAqId.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1980983264715083776/pu/vid/avc1/652x1080/FJ3tuzB4Khk7Vivh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1980983264715083776/pu/pl/ay9F-ziIDiEX4IJC.m3u8?tag=12"
+          }
+        ],
+        "width": 652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1980983264715083776"
+          ]
+        },
+        "author_id": "1958097250749685760",
+        "conversation_id": "1980983330687647951",
+        "created_at": "2025-10-22T13:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T14:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980983330687647951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QPia8aeK45",
+              "end": 29,
+              "expanded_url": "https://x.com/KEMONO_UMA/status/1980983330687647951/video/1",
+              "media_key": "7_1980983264715083776",
+              "start": 6,
+              "url": "https://t.co/QPia8aeK45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980983330687647951",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6439,
+          "impression_count": 239088,
+          "like_count": 15078,
+          "quote_count": 42,
+          "reply_count": 40,
+          "retweet_count": 1989
+        },
+        "reply_settings": "everyone",
+        "text": "Wataa https://t.co/QPia8aeK45"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11876,
+          "following_count": 991,
+          "like_count": 44961,
+          "listed_count": 41,
+          "media_count": 1485,
+          "tweet_count": 22171
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-20T09:22:27.000Z",
+        "description": "",
+        "id": "1958097250749685760",
+        "name": "KEMONO ケモノ",
+        "pinned_tweet_id": "1980983330687647951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958097977026957313/qFrSumV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141183,
+          "following_count": 4,
+          "like_count": 211,
+          "listed_count": 208,
+          "media_count": 325,
+          "tweet_count": 7131
+        },
+        "username": "KEMONO_UMA",
+        "verified": false
+      }
+    ]
+  }
+}

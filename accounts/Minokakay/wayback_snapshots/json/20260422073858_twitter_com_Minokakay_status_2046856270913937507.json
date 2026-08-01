@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2046301657722700083",
+    "created_at": "2026-04-22T07:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T08:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046856270913937507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1629058457222656001",
+          "start": 0,
+          "username": "nursenika1840"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046856270913937507",
+    "in_reply_to_user_id": "1629058457222656001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046301657722700083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nursenika1840 你骂他苏北人就把他老年痴呆治好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2046301657722700083",
+        "created_at": "2026-04-22T07:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046856270913937507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1629058457222656001",
+              "start": 0,
+              "username": "nursenika1840"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046856270913937507",
+        "in_reply_to_user_id": "1629058457222656001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046301657722700083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nursenika1840 你骂他苏北人就把他老年痴呆治好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629058457222656001",
+        "conversation_id": "2046301657722700083",
+        "created_at": "2026-04-20T18:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T19:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046301657722700083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046301657722700083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 115337,
+          "like_count": 538,
+          "quote_count": 8,
+          "reply_count": 261,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "夜班遇到一个来自上海的老年痴呆症老头，反复用上海话和我强调自己住在南市区（现在已经没这个区了），同时，乡毋宁滚蛋。我是唯一一个能和他交流的人。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "发着光的半平米，胡乱哼唱的旋律，\n但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 78,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 55,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14252,
+          "following_count": 1051,
+          "like_count": 44034,
+          "listed_count": 53,
+          "media_count": 1805,
+          "tweet_count": 25945
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-24T09:59:45.000Z",
+        "description": "如有移民问题可以私信，只能力所能及回答。",
+        "id": "1629058457222656001",
+        "name": "澳洲护士卡子弟",
+        "pinned_tweet_id": "1791700234860740900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648533563825082369/SW0QqoYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53188,
+          "following_count": 432,
+          "like_count": 9170,
+          "listed_count": 199,
+          "media_count": 845,
+          "tweet_count": 17242
+        },
+        "username": "nursenika1840",
+        "verified": true
+      }
+    ]
+  }
+}

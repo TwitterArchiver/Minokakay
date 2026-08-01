@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003740739113762816"
+      ],
+      "media_source_tweet_id": [
+        "2003740744595701816"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2003942424431964204",
+    "created_at": "2025-12-24T21:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T22:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003942424431964204"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "アストルフォくん",
+          "probability": 0.8574,
+          "start": 26,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "4732339382",
+          "start": 3,
+          "username": "Sadistic_wanko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NsnelwTqHH",
+          "end": 60,
+          "expanded_url": "https://x.com/Sadistic_wanko/status/2003740744595701816/photo/1",
+          "media_key": "3_2003740739113762816",
+          "start": 37,
+          "url": "https://t.co/NsnelwTqHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003942424431964204",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003740744595701816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sadistic_wanko: プレゼントはアストルフォくんです https://t.co/NsnelwTqHH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2003942424431964204].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2003942424431964204",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2003942424431964204"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2003740739113762816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G863lgDawAARtOE.jpg",
+        "width": 1414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003740739113762816"
+          ]
+        },
+        "author_id": "4732339382",
+        "conversation_id": "2003740744595701816",
+        "created_at": "2025-12-24T08:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T09:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003740744595701816"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "アストルフォくん",
+              "probability": 0.8519,
+              "start": 6,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NsnelwTqHH",
+              "end": 40,
+              "expanded_url": "https://x.com/Sadistic_wanko/status/2003740744595701816/photo/1",
+              "media_key": "3_2003740739113762816",
+              "start": 17,
+              "url": "https://t.co/NsnelwTqHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003740744595701816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 233,
+          "impression_count": 11115,
+          "like_count": 1265,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "プレゼントはアストルフォくんです https://t.co/NsnelwTqHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，如需癌症/慢病用药，请找@Lucius_Pharma，均是我朋友开的，我担保。如需电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Lucius_Pharma"
+              },
+              {
+                "end": 136,
+                "start": 126,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13414,
+          "following_count": 1017,
+          "like_count": 44952,
+          "listed_count": 51,
+          "media_count": 1803,
+          "tweet_count": 24972
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-09T07:57:25.000Z",
+        "description": "お仕事募集中です！：nanoneji7☆https://t.co/BRQLIeMK9p(☆→＠)\nFANBOX：https://t.co/BSFgcQe61k\nskeb：https://t.co/idsZVaKv3R\n通知切ってるのでちょくちょくリプ返遅れちゃうかもです\nAI使用禁止",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 43,
+                "expanded_url": "http://gmail.com",
+                "start": 20,
+                "url": "https://t.co/BRQLIeMK9p"
+              },
+              {
+                "display_url": "sadisticwanko.fanbox.cc",
+                "end": 79,
+                "expanded_url": "http://sadisticwanko.fanbox.cc",
+                "start": 56,
+                "url": "https://t.co/BSFgcQe61k"
+              },
+              {
+                "display_url": "skeb.jp/@Sadistic_wanko",
+                "end": 108,
+                "expanded_url": "http://skeb.jp/@Sadistic_wanko",
+                "start": 85,
+                "url": "https://t.co/idsZVaKv3R"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=18515888",
+                "start": 0,
+                "url": "https://t.co/l7sGnmCEHN"
+              }
+            ]
+          }
+        },
+        "id": "4732339382",
+        "name": "ゆうき🐶",
+        "pinned_tweet_id": "1699015693235290296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583173296530432000/MBaHlNgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46285,
+          "following_count": 281,
+          "like_count": 12031,
+          "listed_count": 398,
+          "media_count": 303,
+          "tweet_count": 7134
+        },
+        "url": "https://t.co/l7sGnmCEHN",
+        "username": "Sadistic_wanko",
+        "verified": false
+      }
+    ]
+  }
+}

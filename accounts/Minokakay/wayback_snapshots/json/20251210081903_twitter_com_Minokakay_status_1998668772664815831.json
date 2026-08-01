@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1998668772664815831",
+    "created_at": "2025-12-10T08:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T09:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998668772664815831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/milifo363999/s…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/milifo363999/status/1998573105313403028",
+          "start": 105,
+          "url": "https://t.co/wyMGoRFhQj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998668772664815831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998573105313403028",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "信韦东奕的都是底层中年人，幻想不给小孩任何精神支持，没有任何爱好培养，嗯造数理化做题考上清华北大进华为，然后爆金币养活一大家子人。\n我都不知道这帮人自己的基因如此劣质是怎么幻想两个劣质基因的结合体能是神童的。 https://t.co/wyMGoRFhQj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1998668772664815831",
+        "created_at": "2025-12-10T08:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T09:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998668772664815831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/milifo363999/s…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/milifo363999/status/1998573105313403028",
+              "start": 105,
+              "url": "https://t.co/wyMGoRFhQj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998668772664815831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998573105313403028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "信韦东奕的都是底层中年人，幻想不给小孩任何精神支持，没有任何爱好培养，嗯造数理化做题考上清华北大进华为，然后爆金币养活一大家子人。\n我都不知道这帮人自己的基因如此劣质是怎么幻想两个劣质基因的结合体能是神童的。 https://t.co/wyMGoRFhQj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812332654521618432",
+        "conversation_id": "1998540296167338393",
+        "created_at": "2025-12-10T01:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T02:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998573105313403028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998573105313403028",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6680,
+          "like_count": 163,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998540296167338393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 因为韦东奕是造神的神童，他主要是完美满足了劳保家庭又不想投资孩子又不想精神关心就幻想自家孩子咔咔啃大馒头然后猛猛学上清华的心态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 阿斯ADHD精分抑鬱焦慮MtX，成都大阪随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智/靶向药请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13031,
+          "following_count": 1012,
+          "like_count": 44984,
+          "listed_count": 50,
+          "media_count": 1723,
+          "tweet_count": 24208
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T03:45:58.000Z",
+        "description": "恋同癖（喜欢同性恋的人类）/讲理主义/人道主义/万物明码标价的社会是可悲的/友跨顺直（目前）男/车万/术术人/多元的社会应当容得下保守派/应润尽润/欣赏美好的人与世界/观le致歉补药b我😭/白河豚",
+        "id": "1812332654521618432",
+        "name": "Milifo 咲樂团",
+        "pinned_tweet_id": "1965104993520034096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812333831287894016/qfYoOBMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 430,
+          "like_count": 2204,
+          "listed_count": 2,
+          "media_count": 270,
+          "tweet_count": 3019
+        },
+        "username": "Milifo363999",
+        "verified": false
+      }
+    ]
+  }
+}

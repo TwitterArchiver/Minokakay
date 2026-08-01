@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965234288368254977"
+      ],
+      "media_source_tweet_id": [
+        "1965234290779979914"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1965463343780758015",
+    "created_at": "2025-09-09T17:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T18:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965463343780758015"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "にーちゃん",
+          "probability": 0.2989,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 30,
+          "tag": "MyFemboyNiChan"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1342088250484117504",
+          "start": 3,
+          "username": "kakowara365"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0hFogXJ3E3",
+          "end": 69,
+          "expanded_url": "https://x.com/kakowara365/status/1965234290779979914/photo/1",
+          "media_key": "3_1965234288368254977",
+          "start": 46,
+          "url": "https://t.co/0hFogXJ3E3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965463343780758015",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965234290779979914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kakowara365: ばにーちゃん🥕✨️だぞ〜\n#MyFemboyNiChan https://t.co/0hFogXJ3E3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1965463343780758015].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1965463343780758015",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1965463343780758015"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_1965234288368254977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0XqLEqbgAEKpTD.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965234288368254977"
+          ]
+        },
+        "author_id": "1342088250484117504",
+        "conversation_id": "1965234290779979914",
+        "created_at": "2025-09-09T02:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T03:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965234290779979914"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "にーちゃん",
+              "probability": 0.3303,
+              "start": 1,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 13,
+              "tag": "MyFemboyNiChan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hFogXJ3E3",
+              "end": 52,
+              "expanded_url": "https://x.com/kakowara365/status/1965234290779979914/photo/1",
+              "media_key": "3_1965234288368254977",
+              "start": 29,
+              "url": "https://t.co/0hFogXJ3E3"
+            },
+            {
+              "display_url": "x.com/kakowara365/st…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/kakowara365/status/1959440520062845339",
+              "start": 53,
+              "url": "https://t.co/tFasOTvYCB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965234290779979914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 10188,
+          "like_count": 888,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959440520062845339",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ばにーちゃん🥕✨️だぞ〜\n#MyFemboyNiChan https://t.co/0hFogXJ3E3 https://t.co/tFasOTvYCB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复/美白/减肥/促智找 @ChosekiNoraneko，我在做客服。买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 86,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1965082149155184692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9473,
+          "following_count": 934,
+          "like_count": 44681,
+          "listed_count": 33,
+          "media_count": 1406,
+          "tweet_count": 20846
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-24T12:42:37.000Z",
+        "description": "Vtuber準備中！ファンマ 🐾🤎  |  投稿タグ ▶  #MyFemboyNiChan ▶FAタグ:  #にーちゃんこれみて  ▶ language:🇯🇵🇺🇸 | 投稿は生成AI使用🌈",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 30,
+                "tag": "MyFemboyNiChan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "tag": "にーちゃんこれみて"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kakowara",
+                "end": 23,
+                "expanded_url": "https://lit.link/kakowara",
+                "start": 0,
+                "url": "https://t.co/qvRdVdoTAx"
+              }
+            ]
+          }
+        },
+        "id": "1342088250484117504",
+        "location": "日本",
+        "name": "にーちゃん🐾🤎Kakko",
+        "pinned_tweet_id": "1959840304330358963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893800918702833664/E0bf2rnm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54385,
+          "following_count": 1302,
+          "like_count": 60057,
+          "listed_count": 229,
+          "media_count": 2344,
+          "tweet_count": 14014
+        },
+        "url": "https://t.co/qvRdVdoTAx",
+        "username": "kakowara365",
+        "verified": true
+      }
+    ]
+  }
+}

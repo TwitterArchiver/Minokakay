@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1963881890391445926",
+    "created_at": "2025-09-05T15:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T16:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963991554026099046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "fuckpregabalin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963991554026099046",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963881890391445926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckpregabalin 我也想要"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1963881890391445926].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1963881890391445926",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1963881890391445926"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1963881890391445926",
+        "created_at": "2025-09-05T15:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T16:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963991554026099046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "fuckpregabalin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963991554026099046",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963881890391445926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckpregabalin 我也想要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复/美白/减肥/促智找 @ChosekiNoraneko，我在做客服 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 86,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9390,
+          "following_count": 935,
+          "like_count": 44610,
+          "listed_count": 33,
+          "media_count": 1397,
+          "tweet_count": 20762
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "🐽@HyotoChandesuyo｜👾@vicoOci_Olvidar @yangaaa111 @iTZQing @genya1976 @crypto_incase @Cheese_Ghostfox @Chenuden @heherrrrabbit1 @EarlofFidonisi @heiwawomamore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "HyotoChandesuyo"
+              },
+              {
+                "end": 35,
+                "start": 19,
+                "username": "vicoOci_Olvidar"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "yangaaa111"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "username": "iTZQing"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "genya1976"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "crypto_incase"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "Cheese_Ghostfox"
+              },
+              {
+                "end": 109,
+                "start": 100,
+                "username": "Chenuden"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "heherrrrabbit1"
+              },
+              {
+                "end": 141,
+                "start": 126,
+                "username": "EarlofFidonisi"
+              },
+              {
+                "end": 156,
+                "start": 142,
+                "username": "heiwawomamore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IokbunTan",
+                "end": 23,
+                "expanded_url": "https://t.me/IokbunTan",
+                "start": 0,
+                "url": "https://t.co/8W9EYboUy0"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "Amoy",
+        "name": "杨丞琳哭哭🥺",
+        "pinned_tweet_id": "1961596935317643350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960382056799846400/a3055saY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 567,
+          "like_count": 20456,
+          "listed_count": 1,
+          "media_count": 876,
+          "tweet_count": 7903
+        },
+        "url": "https://t.co/8W9EYboUy0",
+        "username": "fuckpregabalin",
+        "verified": false
+      }
+    ]
+  }
+}

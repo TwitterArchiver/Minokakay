@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1843456251470249985",
+    "created_at": "2024-10-08T00:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T01:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843456251470249985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1318795387428237317",
+          "start": 3,
+          "username": "superlazy_cat"
+        },
+        {
+          "end": 30,
+          "id": "980039713112260610",
+          "start": 19,
+          "username": "HakkenRyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843456251470249985",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1328368053684355072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @superlazy_cat: @HakkenRyou You look more relaxed with white or black t-shirts. I love that way(^^)\nI'm waiting for your next cosplay, s…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1843456251470249985",
+        "created_at": "2024-10-08T00:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T01:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843456251470249985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1318795387428237317",
+              "start": 3,
+              "username": "superlazy_cat"
+            },
+            {
+              "end": 30,
+              "id": "980039713112260610",
+              "start": 19,
+              "username": "HakkenRyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843456251470249985",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1328368053684355072",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @superlazy_cat: @HakkenRyou You look more relaxed with white or black t-shirts. I love that way(^^)\nI'm waiting for your next cosplay, s…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1328367970695868416",
+            "3_1328368050844823562"
+          ]
+        },
+        "author_id": "1318795387428237317",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1328292682574139392",
+        "created_at": "2020-11-16T16:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2020-11-16T16:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1328368053684355072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "980039713112260610",
+              "start": 0,
+              "username": "HakkenRyou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xUkZ879Hr3",
+              "end": 175,
+              "expanded_url": "https://x.com/zifazema_/status/1328368053684355072/photo/1",
+              "media_key": "3_1328367970695868416",
+              "start": 152,
+              "url": "https://t.co/xUkZ879Hr3"
+            },
+            {
+              "display_url": "pic.x.com/xUkZ879Hr3",
+              "end": 175,
+              "expanded_url": "https://x.com/zifazema_/status/1328368053684355072/photo/1",
+              "media_key": "3_1328368050844823562",
+              "start": 152,
+              "url": "https://t.co/xUkZ879Hr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1328368053684355072",
+        "in_reply_to_user_id": "980039713112260610",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1328292682574139392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HakkenRyou You look more relaxed with white or black t-shirts. I love that way(^^)\nI'm waiting for your next cosplay, stay healthy my mood booster(^^) https://t.co/xUkZ879Hr3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 875,
+          "like_count": 20806,
+          "listed_count": 3,
+          "tweet_count": 9316
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-21T06:05:21.000Z",
+        "description": "nothing",
+        "id": "1318795387428237317",
+        "name": "ur not my taste 💅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1499057684028747778/jhtXjTER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 774,
+          "listed_count": 0,
+          "tweet_count": 81
+        },
+        "username": "superlazy_cat",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-31T11:10:50.000Z",
+        "description": "Malaysia Cosplayer | Model | Tokyo Tourism Ambassador | Business: hcrewatelier@gmail.com",
+        "id": "980039713112260610",
+        "location": "🇲🇾Malaysia",
+        "name": "Hakken 八犬",
+        "pinned_tweet_id": "1696467292308337086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290961099521589250/E1q85IfC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983093,
+          "following_count": 30,
+          "like_count": 1136,
+          "listed_count": 1166,
+          "tweet_count": 480
+        },
+        "username": "HakkenRyou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,509 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Liquor and spirits",
+          "id": "847866073693081601",
+          "name": "Liquor and spirits"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Gin",
+          "id": "850413695184257024",
+          "name": "Gin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Liquor and spirits",
+          "id": "847866073693081601",
+          "name": "Liquor and spirits"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Liquor and spirits",
+          "id": "847866073693081601",
+          "name": "Liquor and spirits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Gin",
+          "id": "850413695184257024",
+          "name": "Gin"
+        }
+      }
+    ],
+    "conversation_id": "1988601063252079011",
+    "created_at": "2025-11-12T13:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T14:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988601063252079011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minokakay/stat…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/minokakay/status/1988600440636993757",
+          "start": 112,
+          "url": "https://t.co/2vsGe2MEO0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988601063252079011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988600440636993757",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当晚我喝了五杯酒，第一杯是翠gin with soda，估计有个15度，中间的三杯平均10度，最后一杯是柠檬堂，好像是7度。\n\n于是我感到很欣快，在第二杯时拉上一个关西长发小哥一起出去玩到三点才回酒店睡觉，第二天直接痛醒了 https://t.co/2vsGe2MEO0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988600431757660160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jtjn8akAAV6nj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988600431745069057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jtjn5acAEBNvM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988600431745089536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jtjn5awAAVoYK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988600431761838080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jtjn9aUAAuKse.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Liquor and spirits",
+              "id": "847866073693081601",
+              "name": "Liquor and spirits"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Gin",
+              "id": "850413695184257024",
+              "name": "Gin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Liquor and spirits",
+              "id": "847866073693081601",
+              "name": "Liquor and spirits"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Liquor and spirits",
+              "id": "847866073693081601",
+              "name": "Liquor and spirits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Gin",
+              "id": "850413695184257024",
+              "name": "Gin"
+            }
+          }
+        ],
+        "conversation_id": "1988601063252079011",
+        "created_at": "2025-11-12T13:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988601063252079011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/minokakay/status/1988600440636993757",
+              "start": 112,
+              "url": "https://t.co/2vsGe2MEO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988601063252079011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988600440636993757",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当晚我喝了五杯酒，第一杯是翠gin with soda，估计有个15度，中间的三杯平均10度，最后一杯是柠檬堂，好像是7度。\n\n于是我感到很欣快，在第二杯时拉上一个关西长发小哥一起出去玩到三点才回酒店睡觉，第二天直接痛醒了 https://t.co/2vsGe2MEO0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988600431757660160",
+            "3_1988600431745069057",
+            "3_1988600431745089536",
+            "3_1988600431761838080"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1988600440636993757",
+        "created_at": "2025-11-12T13:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988600440636993757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l3pWLGJ4fI",
+              "end": 68,
+              "expanded_url": "https://x.com/Minokakay/status/1988600440636993757/photo/1",
+              "media_key": "3_1988600431757660160",
+              "start": 45,
+              "url": "https://t.co/l3pWLGJ4fI"
+            },
+            {
+              "display_url": "pic.x.com/l3pWLGJ4fI",
+              "end": 68,
+              "expanded_url": "https://x.com/Minokakay/status/1988600440636993757/photo/1",
+              "media_key": "3_1988600431745069057",
+              "start": 45,
+              "url": "https://t.co/l3pWLGJ4fI"
+            },
+            {
+              "display_url": "pic.x.com/l3pWLGJ4fI",
+              "end": 68,
+              "expanded_url": "https://x.com/Minokakay/status/1988600440636993757/photo/1",
+              "media_key": "3_1988600431745089536",
+              "start": 45,
+              "url": "https://t.co/l3pWLGJ4fI"
+            },
+            {
+              "display_url": "pic.x.com/l3pWLGJ4fI",
+              "end": 68,
+              "expanded_url": "https://x.com/Minokakay/status/1988600440636993757/photo/1",
+              "media_key": "3_1988600431761838080",
+              "start": 45,
+              "url": "https://t.co/l3pWLGJ4fI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988600440636993757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Bar moon walk\nShijo Kiyamachi\n\n我爱京都\n京都的夜晚很迷人 https://t.co/l3pWLGJ4fI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12033,
+          "following_count": 1005,
+          "like_count": 45014,
+          "listed_count": 42,
+          "media_count": 1531,
+          "tweet_count": 22697
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

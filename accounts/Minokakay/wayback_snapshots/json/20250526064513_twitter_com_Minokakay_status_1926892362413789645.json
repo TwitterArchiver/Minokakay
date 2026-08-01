@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596153057282",
+          "name": "Alcohol - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1060269025026961409",
+          "name": "Horoyoi (ほろよい)"
+        }
+      }
+    ],
+    "conversation_id": "1926892362413789645",
+    "created_at": "2025-05-26T06:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T07:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926892362413789645"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Minokakay/stat…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/Minokakay/status/1926890825390116920",
+          "start": 135,
+          "url": "https://t.co/VmStop0PIr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926892362413789645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926890825390116920",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冰结和-196喝了后脑勺疼得很，我喝伏特加都不会这样，就冰结和-196这样，我倾向于认为这种调制酒是不是不能酒精含量太高，因为比起酿造酒，调制酒的酒精更容易被吸收，且达峰快，也就是老人们常说的假酒伤身的原理（\n所以我后来就只喝horoyoi了，毕竟3%，微醺一下正好。 https://t.co/VmStop0PIr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596153057282",
+              "name": "Alcohol - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1060269025026961409",
+              "name": "Horoyoi (ほろよい)"
+            }
+          }
+        ],
+        "conversation_id": "1926892362413789645",
+        "created_at": "2025-05-26T06:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T07:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926892362413789645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minokakay/stat…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/Minokakay/status/1926890825390116920",
+              "start": 135,
+              "url": "https://t.co/VmStop0PIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926892362413789645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926890825390116920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冰结和-196喝了后脑勺疼得很，我喝伏特加都不会这样，就冰结和-196这样，我倾向于认为这种调制酒是不是不能酒精含量太高，因为比起酿造酒，调制酒的酒精更容易被吸收，且达峰快，也就是老人们常说的假酒伤身的原理（\n所以我后来就只喝horoyoi了，毕竟3%，微醺一下正好。 https://t.co/VmStop0PIr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596153057282",
+              "name": "Alcohol - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1060269025026961409",
+              "name": "Horoyoi (ほろよい)"
+            }
+          }
+        ],
+        "conversation_id": "1926889874499518729",
+        "created_at": "2025-05-26T06:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T07:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926890825390116920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926890825390116920",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926890690740359497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 但我还是喜欢ほろよい，因为冰结和-196我喝了超过一罐就后脑勺疼，跟要死了似的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1925566748516024652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7117,
+          "following_count": 883,
+          "like_count": 42711,
+          "listed_count": 30,
+          "media_count": 1042,
+          "tweet_count": 17927
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

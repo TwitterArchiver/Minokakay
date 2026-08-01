@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pizza",
+          "id": "825048935626469376",
+          "name": "Pizza"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cheese",
+          "id": "825063068027621376",
+          "name": "Cheese"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390771701223284737",
+          "name": "Commercials"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Cheese",
+          "id": "825063068027621376",
+          "name": "Cheese"
+        }
+      }
+    ],
+    "conversation_id": "1848079335955354036",
+    "created_at": "2024-10-20T19:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T20:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1848079335955354036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/livedoornews/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/livedoornews/status/1848078230026162621",
+          "start": 11,
+          "url": "https://t.co/zMxxkngbWm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1848079335955354036",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848078230026162621",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎麼長得這麼像賴清德 https://t.co/zMxxkngbWm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pizza",
+              "id": "825048935626469376",
+              "name": "Pizza"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cheese",
+              "id": "825063068027621376",
+              "name": "Cheese"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390771701223284737",
+              "name": "Commercials"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Cheese",
+              "id": "825063068027621376",
+              "name": "Cheese"
+            }
+          }
+        ],
+        "conversation_id": "1848079335955354036",
+        "created_at": "2024-10-20T19:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T20:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1848079335955354036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/livedoornews/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/livedoornews/status/1848078230026162621",
+              "start": 11,
+              "url": "https://t.co/zMxxkngbWm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848079335955354036",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848078230026162621",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎麼長得這麼像賴清德 https://t.co/zMxxkngbWm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847229762173046784"
+          ]
+        },
+        "author_id": "17306975",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Cheese",
+              "id": "825063068027621376",
+              "name": "Cheese"
+            }
+          }
+        ],
+        "conversation_id": "1848078230026162621",
+        "created_at": "2024-10-20T19:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T20:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1848078230026162621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ピザハットが新たに「今夜はピザる？（チーズ増量）」篇を10月21日（月）から全国放映することを発表した。CMには俳優の山﨑賢人が再び登場し、チーズが130%増量されたピザを楽しむ姿を描いている。新CMでは、",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 61,
+              "expanded_url": "https://news.livedoor.com/article/detail/27393143/",
+              "images": [
+                {
+                  "height": 330,
+                  "url": "https://pbs.twimg.com/news_img/1848078239899500544/qV-6oRxJ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1848078239899500544/qV-6oRxJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "山﨑賢人がピザハットの130%増量ピザを堪能！新CM「今夜はピザる？（チーズ増量）」篇が10月21日より全国放映開始",
+              "unwound_url": "https://news.livedoor.com/article/detail/27393143/",
+              "url": "https://t.co/EizQrcGTvS"
+            },
+            {
+              "display_url": "pic.x.com/UC5cgktDGc",
+              "end": 169,
+              "expanded_url": "https://x.com/livedoornews/status/1848078230026162621/photo/1",
+              "media_key": "3_1847229762173046784",
+              "start": 146,
+              "url": "https://t.co/UC5cgktDGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848078230026162621",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1872,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【🍕】山﨑賢人が130%増量ピザを堪能！ ピザハット新CMが21日より公開\nhttps://t.co/EizQrcGTvS\n\n今回のリニューアルでは、全ピザのモッツァレラチーズが130%に増量。長年の研究と最新のAI味覚センサーを駆使して導き出された「チーズの黄金比」に基づいているという。 https://t.co/UC5cgktDGc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 905,
+          "like_count": 23014,
+          "listed_count": 3,
+          "tweet_count": 10367
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。 ■公式アプリhttps://t.co/mboL5a5cKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/JHuxZ3v",
+                "end": 83,
+                "expanded_url": "http://onl.la/JHuxZ3v",
+                "start": 60,
+                "url": "https://t.co/mboL5a5cKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com",
+                "end": 23,
+                "expanded_url": "http://news.livedoor.com/",
+                "start": 0,
+                "url": "https://t.co/wgqBLjY4vo"
+              }
+            ]
+          }
+        },
+        "id": "17306975",
+        "name": "ライブドアニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698896423025270784/GhIkQiXi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974457,
+          "following_count": 104,
+          "like_count": 2316,
+          "listed_count": 13592,
+          "tweet_count": 410136
+        },
+        "url": "https://t.co/wgqBLjY4vo",
+        "username": "livedoornews",
+        "verified": true
+      }
+    ]
+  }
+}

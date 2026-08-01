@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1836384492262436864"
+      ],
+      "media_source_tweet_id": [
+        "1836385310311166293"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Florida",
+          "id": "855436277054750722",
+          "name": "Florida"
+        }
+      }
+    ],
+    "conversation_id": "1836789205676306914",
+    "created_at": "2024-09-19T15:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T16:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836789205676306914"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "China",
+          "probability": 0.9804,
+          "start": 37,
+          "type": "Place"
+        },
+        {
+          "end": 88,
+          "normalized_text": "Florida",
+          "probability": 0.9901,
+          "start": 82,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1663172653",
+          "start": 3,
+          "username": "TerribleMaps"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nhe8eiohlz",
+          "end": 113,
+          "expanded_url": "https://twitter.com/TerribleMaps/status/1836385310311166293/photo/1",
+          "media_key": "3_1836384492262436864",
+          "start": 90,
+          "url": "https://t.co/NHE8EIoHLz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836789205676306914",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2806
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836385310311166293",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TerribleMaps: People often think China is huge, but its actually smaller than Florida https://t.co/NHE8EIoHLz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 520,
+        "media_key": "3_1836384492262436864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXwl91RWsAAja7v.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836384492262436864"
+          ],
+          "media_source_tweet_id": [
+            "1836385310311166293"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Florida",
+              "id": "855436277054750722",
+              "name": "Florida"
+            }
+          }
+        ],
+        "conversation_id": "1836789205676306914",
+        "created_at": "2024-09-19T15:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T16:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836789205676306914"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "China",
+              "probability": 0.9804,
+              "start": 37,
+              "type": "Place"
+            },
+            {
+              "end": 88,
+              "normalized_text": "Florida",
+              "probability": 0.9901,
+              "start": 82,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1663172653",
+              "start": 3,
+              "username": "TerribleMaps"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nhe8eiohlz",
+              "end": 113,
+              "expanded_url": "https://twitter.com/TerribleMaps/status/1836385310311166293/photo/1",
+              "media_key": "3_1836384492262436864",
+              "start": 90,
+              "url": "https://t.co/NHE8EIoHLz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836789205676306914",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2806
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836385310311166293",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TerribleMaps: People often think China is huge, but its actually smaller than Florida https://t.co/NHE8EIoHLz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836384492262436864"
+          ]
+        },
+        "author_id": "1663172653",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Florida",
+              "id": "855436277054750722",
+              "name": "Florida"
+            }
+          }
+        ],
+        "conversation_id": "1836385310311166293",
+        "created_at": "2024-09-18T12:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T13:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836385310311166293"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "China",
+              "probability": 0.98,
+              "start": 19,
+              "type": "Place"
+            },
+            {
+              "end": 70,
+              "normalized_text": "Florida",
+              "probability": 0.9899,
+              "start": 64,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nhe8eiohlz",
+              "end": 95,
+              "expanded_url": "https://twitter.com/TerribleMaps/status/1836385310311166293/photo/1",
+              "media_key": "3_1836384492262436864",
+              "start": 72,
+              "url": "https://t.co/NHE8EIoHLz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836385310311166293",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2169,
+          "impression_count": 2615765,
+          "like_count": 72598,
+          "quote_count": 277,
+          "reply_count": 519,
+          "retweet_count": 2806
+        },
+        "reply_settings": "everyone",
+        "text": "People often think China is huge, but its actually smaller than Florida https://t.co/NHE8EIoHLz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高三生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 832,
+          "like_count": 15292,
+          "listed_count": 3,
+          "tweet_count": 6440
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-11T18:15:23.000Z",
+        "description": "The home of terrible maps with a pinch of humour    \nterriblemaps@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/terriblemaps",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/terriblemaps",
+                "start": 0,
+                "url": "https://t.co/ZPHp6V80Ej"
+              }
+            ]
+          }
+        },
+        "id": "1663172653",
+        "name": "Terrible Maps",
+        "pinned_tweet_id": "1836385310311166293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/695741339326160900/CalT3T7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1804535,
+          "following_count": 1000,
+          "like_count": 2210,
+          "listed_count": 4313,
+          "tweet_count": 3362
+        },
+        "url": "https://t.co/ZPHp6V80Ej",
+        "username": "TerribleMaps",
+        "verified": true
+      }
+    ]
+  }
+}

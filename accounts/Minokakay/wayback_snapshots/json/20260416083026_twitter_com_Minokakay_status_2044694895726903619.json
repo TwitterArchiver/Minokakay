@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2044694895726903619",
+    "created_at": "2026-04-16T08:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T09:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044694895726903619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1703297947121901568",
+          "start": 3,
+          "username": "xue_zhi2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044694895726903619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044648698303680678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xue_zhi2008: 昨天做检查的时候，其实就算她叫我弟弟问我男的女的我都无所谓，但是她说「这个检查要让你儿子本人来哦」，我真的有点不知所措"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2044694895726903619",
+        "created_at": "2026-04-16T08:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044694895726903619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1703297947121901568",
+              "start": 3,
+              "username": "xue_zhi2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044694895726903619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044648698303680678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xue_zhi2008: 昨天做检查的时候，其实就算她叫我弟弟问我男的女的我都无所谓，但是她说「这个检查要让你儿子本人来哦」，我真的有点不知所措"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703297947121901568",
+        "conversation_id": "2044648698303680678",
+        "created_at": "2026-04-16T05:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T06:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044648698303680678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044648698303680678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2016,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天做检查的时候，其实就算她叫我弟弟问我男的女的我都无所谓，但是她说「这个检查要让你儿子本人来哦」，我真的有点不知所措"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "发着光的半平米，胡乱哼唱的旋律，但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 77,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 54,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14165,
+          "following_count": 1051,
+          "like_count": 44024,
+          "listed_count": 52,
+          "media_count": 1788,
+          "tweet_count": 25846
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "member of @MtFwiki ||\n观上下至前后，知里外于左右 || 高三牲/医学与药物/有机化学/分子生物学/逻辑学/声乐/摄影（喜欢是一方面，啊我太菜了×）|| Arknights/Endfield/maimaiDX || 查完成分记得 ↑是我的投影 ↓是鲜活的我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "MtFwiki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Xuezhi_Asagiri",
+                "end": 23,
+                "expanded_url": "http://t.me/Xuezhi_Asagiri",
+                "start": 0,
+                "url": "https://t.co/nkV6p3rSEL"
+              }
+            ]
+          }
+        },
+        "id": "1703297947121901568",
+        "name": "织织织织织",
+        "pinned_tweet_id": "1907327813289730421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024737262987251713/RPkPlRXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 541,
+          "like_count": 7816,
+          "listed_count": 6,
+          "media_count": 809,
+          "tweet_count": 2976
+        },
+        "url": "https://t.co/nkV6p3rSEL",
+        "username": "xue_zhi2008",
+        "verified": false
+      }
+    ]
+  }
+}

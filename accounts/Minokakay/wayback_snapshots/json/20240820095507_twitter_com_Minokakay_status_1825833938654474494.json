@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1825602286284058624"
+      ],
+      "media_source_tweet_id": [
+        "1825653975854497823"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1825833938654474494",
+    "created_at": "2024-08-20T09:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T10:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825833938654474494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1553107630511603712",
+          "start": 3,
+          "username": "JiZhenYouZi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sj2twpo23e",
+          "end": 54,
+          "expanded_url": "https://twitter.com/JiZhenYouZi/status/1825653975854497823/photo/1",
+          "media_key": "3_1825602286284058624",
+          "start": 31,
+          "url": "https://t.co/sj2twpo23E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825833938654474494",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825653975854497823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JiZhenYouZi: 穷人写爽文be like： https://t.co/sj2twpo23E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 257,
+        "media_key": "3_1825602286284058624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVXXm18aMAAchCW.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825602286284058624"
+          ],
+          "media_source_tweet_id": [
+            "1825653975854497823"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1825833938654474494",
+        "created_at": "2024-08-20T09:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T10:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825833938654474494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1553107630511603712",
+              "start": 3,
+              "username": "JiZhenYouZi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sj2twpo23e",
+              "end": 54,
+              "expanded_url": "https://twitter.com/JiZhenYouZi/status/1825653975854497823/photo/1",
+              "media_key": "3_1825602286284058624",
+              "start": 31,
+              "url": "https://t.co/sj2twpo23E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825833938654474494",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825653975854497823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JiZhenYouZi: 穷人写爽文be like： https://t.co/sj2twpo23E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825602286284058624"
+          ]
+        },
+        "author_id": "1553107630511603712",
+        "conversation_id": "1825653975854497823",
+        "created_at": "2024-08-19T22:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T23:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825653975854497823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sj2twpo23e",
+              "end": 37,
+              "expanded_url": "https://twitter.com/JiZhenYouZi/status/1825653975854497823/photo/1",
+              "media_key": "3_1825602286284058624",
+              "start": 14,
+              "url": "https://t.co/sj2twpo23E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825653975854497823",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 170965,
+          "like_count": 1339,
+          "quote_count": 6,
+          "reply_count": 27,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "穷人写爽文be like： https://t.co/sj2twpo23E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 付费裡推：@Minokakaysex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Minokakaysex"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 909,
+          "like_count": 9198,
+          "listed_count": 3,
+          "tweet_count": 3219
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T19:58:53.000Z",
+        "description": "叶底黄鹂一两声，日长飞絮轻。",
+        "id": "1553107630511603712",
+        "location": "东亚",
+        "name": "纪真由子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821428357503873024/yksf06KG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7185,
+          "following_count": 2171,
+          "like_count": 10154,
+          "listed_count": 28,
+          "tweet_count": 10802
+        },
+        "username": "JiZhenYouZi",
+        "verified": true
+      }
+    ]
+  }
+}

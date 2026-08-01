@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1881277456608563619",
+    "created_at": "2025-01-20T09:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T10:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881278802854392231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1794825887554387968",
+          "start": 0,
+          "username": "porphyrin49"
+        },
+        {
+          "end": 24,
+          "id": "1372184630753853444",
+          "start": 13,
+          "username": "2temisinin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881278802854392231",
+    "in_reply_to_user_id": "1794825887554387968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881278337236279648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@porphyrin49 @2temisinin 雌激素确实有点抗抑郁"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1881278337236279648].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1881278337236279648",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1881278337236279648"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1881277456608563619",
+        "created_at": "2025-01-20T09:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T10:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881278802854392231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1794825887554387968",
+              "start": 0,
+              "username": "porphyrin49"
+            },
+            {
+              "end": 24,
+              "id": "1372184630753853444",
+              "start": 13,
+              "username": "2temisinin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881278802854392231",
+        "in_reply_to_user_id": "1794825887554387968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881278337236279648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@porphyrin49 @2temisinin 雌激素确实有点抗抑郁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日380色320泰210",
+        "pinned_tweet_id": "1872051766805840215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3022,
+          "following_count": 780,
+          "like_count": 32566,
+          "listed_count": 12,
+          "media_count": 864,
+          "tweet_count": 14749
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T20:21:30.000Z",
+        "description": "嗯？所以你为什么被我吸引呢……\n可爱的妹妹@_XiaoYu_OvO_\n椿宫姐姐（大雾）@ATRIyatuoliQAQ\n一份自我的网上拷贝（一些研究日志以及各种莫名的话语）@fengjiezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "_XiaoYu_OvO_"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "ATRIyatuoliQAQ"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "fengjiezi"
+              }
+            ]
+          }
+        },
+        "id": "1794825887554387968",
+        "location": "距你 460亿Ly",
+        "name": "porphyrin",
+        "pinned_tweet_id": "1862214995960046023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861693473185042432/SeVXhxm4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 617,
+          "like_count": 41776,
+          "listed_count": 1,
+          "media_count": 653,
+          "tweet_count": 3341
+        },
+        "username": "porphyrin49",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T13:54:56.000Z",
+        "description": "最爱@haku_dabai｜人生二周目｜可以叫我鸮｜INTJ/INTP，双相偶尔爆炸求原谅｜ MtF🏳️‍⚧️小证家长党｜HRT 2024.10.20｜ Wuhan生科大一休学 ，业余药理学习中｜忠实的尼康用户、电台呼号BH6RQG｜彩虹六号、Noita、MC｜现实的理想主义者 悲观的乐观主义者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1372184630753853444",
+        "location": "罗德岛",
+        "name": "哈茨涅米库",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877945835163619329/HtDpkILh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 1294,
+          "like_count": 20624,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1350
+        },
+        "username": "2temisinin",
+        "verified": false
+      }
+    ]
+  }
+}

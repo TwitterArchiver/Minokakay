@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1838571894410281288",
+    "created_at": "2024-09-24T15:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T16:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838597047391301932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778656100621152256",
+          "start": 0,
+          "username": "KagurazakaSusie"
+        },
+        {
+          "end": 24,
+          "id": "1423220645383475200",
+          "start": 17,
+          "username": "sysjf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838597047391301932",
+    "in_reply_to_user_id": "1778656100621152256",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838596167594315995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaSusie @sysjf0 啥幻覺，我之前只覺得噁心"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1838596167594315995].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1838596167594315995",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1838596167594315995"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1838571894410281288",
+        "created_at": "2024-09-24T15:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T16:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838597047391301932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778656100621152256",
+              "start": 0,
+              "username": "KagurazakaSusie"
+            },
+            {
+              "end": 24,
+              "id": "1423220645383475200",
+              "start": 17,
+              "username": "sysjf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838597047391301932",
+        "in_reply_to_user_id": "1778656100621152256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838596167594315995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaSusie @sysjf0 啥幻覺，我之前只覺得噁心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比男高三生 阿斯ADHD Pansexual INFP 🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 842,
+          "like_count": 16707,
+          "listed_count": 3,
+          "tweet_count": 7236
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T05:27:23.000Z",
+        "description": "@Susiethegamer的赛博骨灰盒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "Susiethegamer"
+              }
+            ]
+          }
+        },
+        "id": "1778656100621152256",
+        "location": "Shinagawa-ku, Tokyo",
+        "name": "神楽坂 蘇西🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1838416439231021197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837807280605233152/8kyTT6Xq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 146,
+          "like_count": 1023,
+          "listed_count": 0,
+          "tweet_count": 168
+        },
+        "username": "KagurazakaSusie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T09:53:54.000Z",
+        "description": "主播是infp-t(不键政萌萌人),一只充满好奇心的菜狗，存活在网络世界，希望人类命运共同体的实现，想能够获得更多关注，单推初音未来。(汉堡最好吃了)",
+        "id": "1423220645383475200",
+        "location": "1.7km",
+        "name": "十九方彠灪齉齆韛𰻝",
+        "pinned_tweet_id": "1785706715612107044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808531520623112193/K_NSRmZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 922,
+          "like_count": 7785,
+          "listed_count": 1,
+          "tweet_count": 11621
+        },
+        "username": "sysjf0",
+        "verified": false
+      }
+    ]
+  }
+}

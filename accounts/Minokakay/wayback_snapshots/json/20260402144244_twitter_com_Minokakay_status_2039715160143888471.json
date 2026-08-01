@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "2039643724859478213",
+    "created_at": "2026-04-02T14:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T15:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039715160143888471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4921868294",
+          "start": 0,
+          "username": "LCCOPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039715160143888471",
+    "in_reply_to_user_id": "4921868294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039714342703452622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LCCOPS 这个也好看，国内现在盲目追求科技风，实际上那种科技风是落后十年的审美了，win10时代的想法"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2039714329709449216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6FYEGbEAAjqa2.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2039643724859478213",
+        "created_at": "2026-04-02T14:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039715160143888471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4921868294",
+              "start": 0,
+              "username": "LCCOPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039715160143888471",
+        "in_reply_to_user_id": "4921868294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039714342703452622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LCCOPS 这个也好看，国内现在盲目追求科技风，实际上那种科技风是落后十年的审美了，win10时代的想法"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039714329709449216"
+          ]
+        },
+        "author_id": "4921868294",
+        "conversation_id": "2039643724859478213",
+        "created_at": "2026-04-02T14:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039714342703452622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hGWeI7dg0C",
+              "end": 55,
+              "expanded_url": "https://x.com/LCCOPS/status/2039714342703452622/photo/1",
+              "media_key": "3_2039714329709449216",
+              "start": 32,
+              "url": "https://t.co/hGWeI7dg0C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039714342703452622",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039643724859478213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 说实话，我还是更喜欢美国的这种工业风地铁 https://t.co/hGWeI7dg0C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "命に嫌われている。 mtx 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp，私信不回，打不开换梯子换浏览器",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 78,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 55,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14320,
+          "following_count": 1054,
+          "like_count": 44013,
+          "listed_count": 53,
+          "media_count": 1788,
+          "tweet_count": 25683
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-17T17:31:12.000Z",
+        "description": "Born in SG 🇸🇬 have live CN 🇨🇳 before，stay in US 🇺🇸 right now",
+        "id": "4921868294",
+        "location": "Liberty city",
+        "name": "Nobody",
+        "pinned_tweet_id": "1993376961490829759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992762174746624000/2ab-R8Ez_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 506,
+          "like_count": 17168,
+          "listed_count": 1,
+          "media_count": 312,
+          "tweet_count": 2407
+        },
+        "username": "LCCOPS",
+        "verified": false
+      }
+    ]
+  }
+}

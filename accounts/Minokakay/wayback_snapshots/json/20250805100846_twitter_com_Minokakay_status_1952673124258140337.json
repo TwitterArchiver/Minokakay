@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1952610091095523526",
+    "created_at": "2025-08-05T10:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T11:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952673124258140337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919049320546086912",
+          "start": 0,
+          "username": "mizuame19953"
+        },
+        {
+          "end": 24,
+          "id": "1863153995159687168",
+          "start": 14,
+          "username": "weita2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952673124258140337",
+    "in_reply_to_user_id": "1919049320546086912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952618275906695627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuame19953 @weita2024 抹茶 椰子水"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1952618275906695627].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1952618275906695627",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1952618275906695627"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1952610091095523526",
+        "created_at": "2025-08-05T10:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T11:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952673124258140337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919049320546086912",
+              "start": 0,
+              "username": "mizuame19953"
+            },
+            {
+              "end": 24,
+              "id": "1863153995159687168",
+              "start": 14,
+              "username": "weita2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952673124258140337",
+        "in_reply_to_user_id": "1919049320546086912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952618275906695627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuame19953 @weita2024 抹茶 椰子水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8521,
+          "following_count": 912,
+          "like_count": 44510,
+          "listed_count": 33,
+          "media_count": 1354,
+          "tweet_count": 20040
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-04T15:20:06.000Z",
+        "description": "",
+        "id": "1919049320546086912",
+        "name": "バタフライ🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946423619749388289/-5n_ADOT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 174,
+          "like_count": 5005,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 408
+        },
+        "username": "mizuame19953",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T09:31:53.000Z",
+        "description": "#电子烟 微信咨询下单，零售正品，各品牌烟弹，一次性电子烟。\n///薇v：RELX零壹JK，\n加QQ群：///305698910///是QQ群哦。\n备用V，wkt玖pd贰贰。\n可先货后款，童叟无欺，真实度100%，\n悦刻，冰熊，崧，鸭嘴兽，大板砖。零售。https://t.co/oqdMiOk67e\n也可直接私信我。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "电子烟"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Vita0754",
+                "end": 150,
+                "expanded_url": "http://t.me/Vita0754",
+                "start": 127,
+                "url": "https://t.co/oqdMiOk67e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.qq.com/document/DSnhR…",
+                "end": 23,
+                "expanded_url": "https://docs.qq.com/document/DSnhRRU1XbVBLUkpO?tab=000001",
+                "start": 0,
+                "url": "https://t.co/gQmCXeqTz3"
+              }
+            ]
+          }
+        },
+        "id": "1863153995159687168",
+        "location": "广东",
+        "name": "百川x专注电子烟正品零售",
+        "pinned_tweet_id": "1947616852378804347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868962909750976512/JJyZLtyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7625,
+          "following_count": 118,
+          "like_count": 1057,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1199
+        },
+        "url": "https://t.co/gQmCXeqTz3",
+        "username": "weita2024",
+        "verified": true
+      }
+    ]
+  }
+}

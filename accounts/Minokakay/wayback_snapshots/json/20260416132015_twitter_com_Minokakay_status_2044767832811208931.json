@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2044767527759458355",
+    "created_at": "2026-04-16T13:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T14:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044767832811208931"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044767832811208931",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044767527759458355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "写着ブルガリア那款最常见的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2044767527759458355",
+        "created_at": "2026-04-16T13:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T14:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044767832811208931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044767832811208931",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044767527759458355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "写着ブルガリア那款最常见的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2044767527759458355",
+        "created_at": "2026-04-16T13:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T14:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044767527759458355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/minokakay/status/2044766275726082499",
+              "start": 63,
+              "url": "https://t.co/PVluv5bQa7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044767527759458355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044766275726082499",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "买了明治那个无糖酸奶回家，喂给猫，结果猫不吃，之前买酸奶她都会吃得很高兴，研究了半天为什么，最后发现是因为那个酸奶是无糖的。 https://t.co/PVluv5bQa7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "发着光的半平米，胡乱哼唱的旋律，但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 77,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 54,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14163,
+          "following_count": 1051,
+          "like_count": 44025,
+          "listed_count": 52,
+          "media_count": 1789,
+          "tweet_count": 25855
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

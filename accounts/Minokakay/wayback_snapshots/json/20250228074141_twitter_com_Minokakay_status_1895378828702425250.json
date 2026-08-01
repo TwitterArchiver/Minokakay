@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895367963198255104"
+      ],
+      "media_source_tweet_id": [
+        "1895367974015676807"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1895378828702425250",
+    "created_at": "2025-02-28T07:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T08:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895378828702425250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1858186854526562304",
+          "start": 3,
+          "username": "meiyujijie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N1CRICuUyT",
+          "end": 64,
+          "expanded_url": "https://x.com/meiyujijie/status/1895367974015676807/photo/1",
+          "media_key": "3_1895367963198255104",
+          "start": 41,
+          "url": "https://t.co/N1CRICuUyT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895378828702425250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895367974015676807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meiyujijie: 别人说和你上床都是为了骗钱\n只有我是真想和你做爱 https://t.co/N1CRICuUyT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1895378828702425250].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1895378828702425250",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1895378828702425250"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1895367963198255104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk2zHtUWcAAIOjP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895367963198255104"
+          ]
+        },
+        "author_id": "1858186854526562304",
+        "conversation_id": "1895367974015676807",
+        "created_at": "2025-02-28T06:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T07:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895367974015676807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N1CRICuUyT",
+              "end": 48,
+              "expanded_url": "https://x.com/meiyujijie/status/1895367974015676807/photo/1",
+              "media_key": "3_1895367963198255104",
+              "start": 25,
+              "url": "https://t.co/N1CRICuUyT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895367974015676807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 415,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "别人说和你上床都是为了骗钱\n只有我是真想和你做爱 https://t.co/N1CRICuUyT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈 https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 99,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 76,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay （日雌泰补色诺",
+        "pinned_tweet_id": "1891554377909010835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5251,
+          "following_count": 812,
+          "like_count": 36619,
+          "listed_count": 26,
+          "media_count": 1023,
+          "tweet_count": 16390
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-17T16:34:14.000Z",
+        "description": "我只是一颗仙人球",
+        "id": "1858186854526562304",
+        "name": "何六诚🍥",
+        "pinned_tweet_id": "1892435541817257985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872109760369307648/im2B7nOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23033,
+          "following_count": 80,
+          "like_count": 1240,
+          "listed_count": 50,
+          "media_count": 74,
+          "tweet_count": 331
+        },
+        "username": "meiyujijie",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1902379897991070161",
+    "created_at": "2025-03-19T16:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T17:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902390258324639865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4223840896",
+          "start": 0,
+          "username": "dreamhawk_cn"
+        },
+        {
+          "end": 27,
+          "id": "1444640763070005251",
+          "start": 14,
+          "username": "hqin_chihiro"
+        },
+        {
+          "end": 42,
+          "id": "1222794842880626689",
+          "start": 28,
+          "username": "chenchen_suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902390258324639865",
+    "in_reply_to_user_id": "4223840896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902389837560475888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dreamhawk_cn @hqin_chihiro @chenchen_suki 我只想永遠活在浪漫的時間裡，如果這個國家不再美好，我就去一個美好的國家住。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1902389837560475888].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1902389837560475888",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1902389837560475888"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1902379897991070161",
+        "created_at": "2025-03-19T16:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T17:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902390258324639865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4223840896",
+              "start": 0,
+              "username": "dreamhawk_cn"
+            },
+            {
+              "end": 27,
+              "id": "1444640763070005251",
+              "start": 14,
+              "username": "hqin_chihiro"
+            },
+            {
+              "end": 42,
+              "id": "1222794842880626689",
+              "start": 28,
+              "username": "chenchen_suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902390258324639865",
+        "in_reply_to_user_id": "4223840896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902389837560475888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreamhawk_cn @hqin_chihiro @chenchen_suki 我只想永遠活在浪漫的時間裡，如果這個國家不再美好，我就去一個美好的國家住。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 101,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 78,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1899298005330899355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5780,
+          "following_count": 839,
+          "like_count": 38428,
+          "listed_count": 28,
+          "media_count": 629,
+          "tweet_count": 15038
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2015-11-19T05:00:10.000Z",
+        "description": "Male/INFJ-T/Bi/自立、自强、自由/Never lament.Stride forever./里:@dreamhawk_cn_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "dreamhawk_cn_in"
+              }
+            ]
+          }
+        },
+        "id": "4223840896",
+        "location": "Henan,P.R.China",
+        "name": "DreamHawk🦅🍭",
+        "pinned_tweet_id": "1795867788680245733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840784308996612096/BF739jkL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 1046,
+          "like_count": 77108,
+          "listed_count": 6,
+          "media_count": 533,
+          "tweet_count": 9001
+        },
+        "username": "dreamhawk_cn",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T12:29:42.000Z",
+        "description": "轮回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hqinchriso.github.io",
+                "end": 23,
+                "expanded_url": "http://hqinchriso.github.io",
+                "start": 0,
+                "url": "https://t.co/mvUyfVbtaq"
+              }
+            ]
+          }
+        },
+        "id": "1444640763070005251",
+        "location": "Northeast China",
+        "name": "Hqin",
+        "pinned_tweet_id": "1900968623658987657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890321751579717635/tyU1QCqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 830,
+          "like_count": 12514,
+          "listed_count": 5,
+          "media_count": 479,
+          "tweet_count": 7055
+        },
+        "url": "https://t.co/mvUyfVbtaq",
+        "username": "hqin_chihiro",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-30T08:13:14.000Z",
+        "description": "我的小男友@khronos0601",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "khronos0601"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chenchensuki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chenchensuki",
+                "start": 0,
+                "url": "https://t.co/Xo8fAugPh3"
+              }
+            ]
+          }
+        },
+        "id": "1222794842880626689",
+        "name": "Khronos｜螺絲",
+        "pinned_tweet_id": "1898069477138612709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872348017170567168/r0ISu-Yb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7508,
+          "following_count": 3231,
+          "like_count": 113094,
+          "listed_count": 13,
+          "media_count": 1431,
+          "tweet_count": 39908
+        },
+        "url": "https://t.co/Xo8fAugPh3",
+        "username": "chenchen_suki",
+        "verified": false
+      }
+    ]
+  }
+}

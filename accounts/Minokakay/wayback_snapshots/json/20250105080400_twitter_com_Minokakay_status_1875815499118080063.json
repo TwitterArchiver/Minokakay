@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875755698094796803"
+      ],
+      "media_source_tweet_id": [
+        "1875755707880136710"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1875815499118080063",
+    "created_at": "2025-01-05T08:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T09:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875815499118080063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1634407469777825792",
+          "start": 3,
+          "username": "UsystemO_HsienY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/crRWLs4tNb",
+          "end": 47,
+          "expanded_url": "https://x.com/UsystemO_HsienY/status/1875755707880136710/photo/1",
+          "media_key": "3_1875755698094796803",
+          "start": 24,
+          "url": "https://t.co/crRWLs4tNb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875815499118080063",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875755707880136710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UsystemO_HsienY: 🇹🇼 https://t.co/crRWLs4tNb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1875815499118080063].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1875815499118080063",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1875815499118080063"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1875755698094796803",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GggF3oZa8AM8MLX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875755698094796803"
+          ]
+        },
+        "author_id": "1634407469777825792",
+        "conversation_id": "1875755707880136710",
+        "created_at": "2025-01-05T04:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T05:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875755707880136710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/crRWLs4tNb",
+              "end": 26,
+              "expanded_url": "https://x.com/UsystemO_HsienY/status/1875755707880136710/photo/1",
+              "media_key": "3_1875755698094796803",
+              "start": 3,
+              "url": "https://t.co/crRWLs4tNb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875755707880136710",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 116,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "🇹🇼 https://t.co/crRWLs4tNb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要内服美白成分/日雌/色普龙/促智药/用药咨询/代购药物找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日雌 藥物諮詢 購藥",
+        "pinned_tweet_id": "1872051766805840215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2688,
+          "following_count": 743,
+          "like_count": 31699,
+          "listed_count": 9,
+          "media_count": 777,
+          "tweet_count": 14160
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T04:14:51.000Z",
+        "description": "❂ 🇹🇼中華民國，國之存亡，民之存亡也。 ❤️❤️@smzhytyzhg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "smzhytyzhg"
+              }
+            ]
+          }
+        },
+        "id": "1634407469777825792",
+        "location": "Republic of China",
+        "name": "𝐘𝐮-𝐇𝐬𝐢𝐞𝐧 𝐂𝐡𝐞𝐧❂陳裕弦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774859891129376770/uxAnZdXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2747,
+          "following_count": 1105,
+          "like_count": 17375,
+          "listed_count": 1,
+          "media_count": 467,
+          "tweet_count": 6586
+        },
+        "username": "UsystemO_HsienY",
+        "verified": false
+      }
+    ]
+  }
+}

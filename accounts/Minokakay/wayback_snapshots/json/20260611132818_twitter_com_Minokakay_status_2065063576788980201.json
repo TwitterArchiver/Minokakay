@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065063568811380736"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2065063576788980201",
+    "created_at": "2026-06-11T13:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065063576788980201"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7YqA0nvVDT",
+          "end": 35,
+          "expanded_url": "https://x.com/Minokakay/status/2065063576788980201/photo/1",
+          "media_key": "3_2065063568811380736",
+          "start": 12,
+          "url": "https://t.co/7YqA0nvVDT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065063576788980201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈妈 我考上985了！ https://t.co/7YqA0nvVDT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2065063568811380736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiUX-maUAA0XWB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065063568811380736"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2065063576788980201",
+        "created_at": "2026-06-11T13:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065063576788980201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7YqA0nvVDT",
+              "end": 35,
+              "expanded_url": "https://x.com/Minokakay/status/2065063576788980201/photo/1",
+              "media_key": "3_2065063568811380736",
+              "start": 12,
+              "url": "https://t.co/7YqA0nvVDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065063576788980201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈 我考上985了！ https://t.co/7YqA0nvVDT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14354,
+          "following_count": 1047,
+          "like_count": 44008,
+          "listed_count": 49,
+          "media_count": 1836,
+          "tweet_count": 26194
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1903419733489364995"
+      ],
+      "media_source_tweet_id": [
+        "1903419794763706620"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1904459715691925603",
+    "created_at": "2025-03-25T09:05:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T10:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904459715691925603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1568891904028442624",
+          "start": 3,
+          "username": "itapi24"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TbSFnprY7h",
+          "end": 36,
+          "expanded_url": "https://x.com/itapi24/status/1903419794763706620/video/1",
+          "media_key": "7_1903419733489364995",
+          "start": 13,
+          "url": "https://t.co/TbSFnprY7h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904459715691925603",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1178
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903419794763706620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itapi24: https://t.co/TbSFnprY7h"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1904459715691925603].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1904459715691925603",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1904459715691925603"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 96317,
+        "height": 288,
+        "media_key": "7_1903419733489364995",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1903419733489364995/pu/img/Ny1CX5GnU2WH6g9v.jpg",
+        "public_metrics": {
+          "view_count": 106815
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903419733489364995/pu/vid/avc1/360x270/Epvb_9CIvYH7U5gE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1903419733489364995/pu/vid/avc1/384x288/G72cN_70EkOLO9BR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1903419733489364995/pu/pl/ylZew0c7_z4d8Rjc.m3u8?tag=12"
+          }
+        ],
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1903419733489364995"
+          ]
+        },
+        "author_id": "1568891904028442624",
+        "conversation_id": "1903419794763706620",
+        "created_at": "2025-03-22T12:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T13:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903419794763706620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbSFnprY7h",
+              "end": 23,
+              "expanded_url": "https://x.com/itapi24/status/1903419794763706620/video/1",
+              "media_key": "7_1903419733489364995",
+              "start": 0,
+              "url": "https://t.co/TbSFnprY7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903419794763706620",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3326,
+          "impression_count": 326711,
+          "like_count": 8437,
+          "quote_count": 247,
+          "reply_count": 61,
+          "retweet_count": 1178
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TbSFnprY7h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 101,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 78,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1899298005330899355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6001,
+          "following_count": 845,
+          "like_count": 39042,
+          "listed_count": 29,
+          "media_count": 678,
+          "tweet_count": 15391
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-11T09:19:32.000Z",
+        "description": "例のアレ\n\n♀/チン凸募集\n\nにゃんこ大戦争UR20000超え\n\n　見る専という名の無産　　アフィカス無断転載罰金三百万　いいねとRTは必ずしも賛成であるとは限らない",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "seesaawiki.jp/battlecatswiki…",
+                "end": 23,
+                "expanded_url": "https://seesaawiki.jp/battlecatswiki/d/%c7%c3%a5%de%a5%df",
+                "start": 0,
+                "url": "https://t.co/VkkibKpHAA"
+              }
+            ]
+          }
+        },
+        "id": "1568891904028442624",
+        "location": "何も考えずに行動する癖を止めたい",
+        "name": "伊田ピ",
+        "pinned_tweet_id": "1871189290568548669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892898542366445569/uxWlx5mO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 1612,
+          "like_count": 373213,
+          "listed_count": 11,
+          "media_count": 1776,
+          "tweet_count": 30207
+        },
+        "url": "https://t.co/VkkibKpHAA",
+        "username": "itapi24",
+        "verified": false
+      }
+    ]
+  }
+}

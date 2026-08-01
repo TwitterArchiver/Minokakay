@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "1894479870841032978",
+    "created_at": "2025-02-25T20:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T21:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894479870841032978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Minokakay/stat…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/Minokakay/status/1894478693567008943",
+          "start": 141,
+          "url": "https://t.co/wDASLQj1l5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894479870841032978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894478693567008943",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同时需要改变的也很多，我们的教育有问题，我们的精神疾病关怀与治疗，自杀干预，生命教育，全都有很大的改进空间，目前抑郁疾病患者的就诊率仍很低，社会对精神疾病的认知水平也很低，包括学校一般也是不涉及相关教育的，我们学校请清华的心理学家来做讲座居然还说ADHD是后天导致，水平实在堪忧。 https://t.co/wDASLQj1l5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1894479870841032978",
+        "created_at": "2025-02-25T20:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T21:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894479870841032978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minokakay/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Minokakay/status/1894478693567008943",
+              "start": 141,
+              "url": "https://t.co/wDASLQj1l5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894479870841032978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894478693567008943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同时需要改变的也很多，我们的教育有问题，我们的精神疾病关怀与治疗，自杀干预，生命教育，全都有很大的改进空间，目前抑郁疾病患者的就诊率仍很低，社会对精神疾病的认知水平也很低，包括学校一般也是不涉及相关教育的，我们学校请清华的心理学家来做讲座居然还说ADHD是后天导致，水平实在堪忧。 https://t.co/wDASLQj1l5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1894478693567008943",
+        "created_at": "2025-02-25T20:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T21:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894478693567008943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AsdQWD358224/s…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/AsdQWD358224/status/1894426221565616376",
+              "start": 138,
+              "url": "https://t.co/MQP8xOTbdY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894478693567008943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894426221565616376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我认为20%的自杀者去死的原因是长久的痛苦堆积已无法忍受，而剩下80%平时还没到那个地步，只是一时冲动。挽救的意义在于，再给他们一次安静下来思考人生的机会，而不因为一时冲动而结束了生命。且无论是哪一种，归根结底是没有得到合理的治疗所导致的后果，只要开始治疗，一切都还来得及。 https://t.co/MQP8xOTbdY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈 https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 99,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 76,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay （日雌泰补色诺",
+        "pinned_tweet_id": "1891554377909010835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5162,
+          "following_count": 810,
+          "like_count": 36226,
+          "listed_count": 26,
+          "media_count": 1018,
+          "tweet_count": 16291
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

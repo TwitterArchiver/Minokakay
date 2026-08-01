@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1817605622256558338",
+    "created_at": "2024-07-28T17:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T18:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817608351880225247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1662475048261935104",
+          "start": 0,
+          "username": "Nemonia_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817608351880225247",
+    "in_reply_to_user_id": "1662475048261935104",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817608127401050121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nemonia_1 這倒是，所以推特和短信息還是必要的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1817605622256558338",
+        "created_at": "2024-07-28T17:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T18:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817608351880225247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662475048261935104",
+              "start": 0,
+              "username": "Nemonia_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817608351880225247",
+        "in_reply_to_user_id": "1662475048261935104",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817608127401050121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nemonia_1 這倒是，所以推特和短信息還是必要的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662475048261935104",
+        "conversation_id": "1817605622256558338",
+        "created_at": "2024-07-28T17:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T18:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817608127401050121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817608127401050121",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817607442706088281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 不过我不太一样 我需要手机 渴望交流"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome\n遇到傻逼会直接block，见谅，不和非人类交流",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 779,
+          "like_count": 3015,
+          "listed_count": 1,
+          "tweet_count": 1397
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T15:05:21.000Z",
+        "description": "愛看畫畫的活死人",
+        "id": "1662475048261935104",
+        "name": "芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788230479076106240/iJkEtzTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 334,
+          "like_count": 1970,
+          "listed_count": 0,
+          "tweet_count": 508
+        },
+        "username": "Nemonia_1",
+        "verified": false
+      }
+    ]
+  }
+}

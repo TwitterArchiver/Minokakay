@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2037506090553037114",
+    "created_at": "2026-03-27T13:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037522144809415037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2030546379089887234",
+          "start": 0,
+          "username": "SleepZzzNtr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037522144809415037",
+    "in_reply_to_user_id": "2030546379089887234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037520947331453036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SleepZzzNtr 因为现在收入没那么多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2037506090553037114",
+        "created_at": "2026-03-27T13:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037522144809415037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2030546379089887234",
+              "start": 0,
+              "username": "SleepZzzNtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037522144809415037",
+        "in_reply_to_user_id": "2030546379089887234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037520947331453036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SleepZzzNtr 因为现在收入没那么多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030546379089887234",
+        "conversation_id": "2037506090553037114",
+        "created_at": "2026-03-27T13:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037520947331453036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037520947331453036",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037506090553037114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 月入六位数 ，去海外医学院也不难叭\n🥺不过还是家里蹲爽哎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp，私信不回，打不开换梯子换浏览器",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 51,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14211,
+          "following_count": 1051,
+          "like_count": 43987,
+          "listed_count": 53,
+          "media_count": 1773,
+          "tweet_count": 25495
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-08T07:34:53.000Z",
+        "description": "新的开始，2026开年破产中…\n不喜欢人多的地方哎🥺我是炒币sb",
+        "id": "2030546379089887234",
+        "name": "萝莉就是媽媽",
+        "pinned_tweet_id": "2034238916409368725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031363681263742976/L6xZ2zr__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 225,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 134
+        },
+        "username": "SleepZzzNtr",
+        "verified": true
+      }
+    ]
+  }
+}

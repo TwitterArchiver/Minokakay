@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1820678951293108677",
+    "created_at": "2024-08-06T04:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-06T05:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820682625994109406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1577816015840296960",
+          "start": 0,
+          "username": "yangaaa111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820682625994109406",
+    "in_reply_to_user_id": "1577816015840296960",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820682506003235084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangaaa111 不知道收多少合适，感觉不该太低也不该太高🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1820678951293108677",
+        "created_at": "2024-08-06T04:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T05:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820682625994109406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1577816015840296960",
+              "start": 0,
+              "username": "yangaaa111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820682625994109406",
+        "in_reply_to_user_id": "1577816015840296960",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820682506003235084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangaaa111 不知道收多少合适，感觉不该太低也不该太高🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577816015840296960",
+        "conversation_id": "1820678951293108677",
+        "created_at": "2024-08-06T04:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T05:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820682506003235084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820682506003235084",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820678951293108677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 门槛多少钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成都重慶 半休学状态陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 815,
+          "like_count": 4346,
+          "listed_count": 1,
+          "tweet_count": 1821
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-06T00:20:49.000Z",
+        "description": "又是想似的一天呢",
+        "id": "1577816015840296960",
+        "location": "「結束バンド」",
+        "name": "yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820632584906244096/ardl_EdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 177,
+          "like_count": 14317,
+          "listed_count": 0,
+          "tweet_count": 3023
+        },
+        "username": "yangaaa111",
+        "verified": false
+      }
+    ]
+  }
+}

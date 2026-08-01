@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1940374925942169672",
+    "created_at": "2025-07-02T11:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T12:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940374925942169672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minokakay/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/minokakay/status/1940374227384967280",
+          "start": 19,
+          "url": "https://t.co/SpSGwRCuIK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940374925942169672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940374227384967280",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "摇几个专家来一起探讨一下我的用药方案 https://t.co/SpSGwRCuIK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1940374925942169672",
+        "created_at": "2025-07-02T11:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T12:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940374925942169672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/minokakay/status/1940374227384967280",
+              "start": 19,
+              "url": "https://t.co/SpSGwRCuIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940374925942169672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940374227384967280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "摇几个专家来一起探讨一下我的用药方案 https://t.co/SpSGwRCuIK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1940374227384967280",
+        "created_at": "2025-07-02T11:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T12:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940374227384967280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940374227384967280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "未来一周可能闪现成都华西 北京协和 或上精卫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 93,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1940009083995873344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7986,
+          "following_count": 897,
+          "like_count": 44017,
+          "listed_count": 31,
+          "media_count": 1269,
+          "tweet_count": 19325
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

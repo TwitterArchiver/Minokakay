@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1995406228709843017",
+    "created_at": "2025-12-01T08:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T09:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995406228709843017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/samuelliu54454…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/samuelliu544544/status/1991864395560034773",
+          "start": 25,
+          "url": "https://t.co/NIObeJ51Zj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995406228709843017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991864395560034773",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "少发这些泔水出来，还挂个国旗，让人家外国人笑话🤣 https://t.co/NIObeJ51Zj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10633,
+        "height": 1280,
+        "media_key": "13_1991863737687650304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1991863737687650304/img/ABEnEGsG32t9hX-d.jpg",
+        "public_metrics": {
+          "view_count": 32768
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991863737687650304/vid/avc1/320x568/G4R3dXh7hepeH3Oi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991863737687650304/vid/avc1/480x852/TlEb9kSaKi4sa4vK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991863737687650304/vid/avc1/720x1280/zb0hK2ZCd6u3jERq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1991863737687650304/pl/bzfW6srxn_yY3Xae.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1995406228709843017",
+        "created_at": "2025-12-01T08:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T09:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995406228709843017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/samuelliu54454…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/samuelliu544544/status/1991864395560034773",
+              "start": 25,
+              "url": "https://t.co/NIObeJ51Zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995406228709843017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991864395560034773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "少发这些泔水出来，还挂个国旗，让人家外国人笑话🤣 https://t.co/NIObeJ51Zj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1991863737687650304"
+          ]
+        },
+        "author_id": "1821183623460257792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "1991864395560034773",
+        "created_at": "2025-11-21T13:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T14:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991864395560034773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4yKFwzrDC",
+              "end": 71,
+              "expanded_url": "https://x.com/SamuelLiu544544/status/1991864395560034773/video/1",
+              "media_key": "13_1991863737687650304",
+              "start": 48,
+              "url": "https://t.co/O4yKFwzrDC"
+            },
+            {
+              "display_url": "x.com/daihonyaku/sta…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/daihonyaku/status/1991826613676437988",
+              "start": 72,
+              "url": "https://t.co/Xxu00rB3dX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991864395560034773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 131867,
+          "like_count": 31,
+          "quote_count": 60,
+          "reply_count": 183,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991826613676437988",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😜，让某些日本狗失望了，今晚上吃大米饭搭配土豆鸡蛋汤+西红柿黄瓜炒鸡蛋，以及饭后水果两颗橙子。 https://t.co/O4yKFwzrDC https://t.co/Xxu00rB3dX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。  阿斯ADHD精分抑鬱焦慮MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智/靶向药请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12712,
+          "following_count": 1013,
+          "like_count": 45024,
+          "listed_count": 47,
+          "media_count": 1675,
+          "tweet_count": 23853
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-07T13:56:40.000Z",
+        "description": "A person who supports Taiwan’s military reunification, a young man born in the 1990s, a Chinese nationalist, a peace-loving person who refutes all Chinese rumor",
+        "id": "1821183623460257792",
+        "location": "中国山东",
+        "name": "Samuel Liu🇨🇳(刘)",
+        "pinned_tweet_id": "1842458726420431263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821190458602594304/SOHCe9zO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 129,
+          "like_count": 3680,
+          "listed_count": 10,
+          "media_count": 1327,
+          "tweet_count": 3530
+        },
+        "username": "SamuelLiu544544",
+        "verified": false
+      }
+    ]
+  }
+}

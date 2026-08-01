@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2002343205975851377",
+    "created_at": "2025-12-20T12:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T13:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002358738511085885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1617861691764793346",
+          "start": 0,
+          "username": "mkukpkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002358738511085885",
+    "in_reply_to_user_id": "1617861691764793346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002358587121938476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mkukpkk 说的好像你考得上一样，常年临床比法医学高40分。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2002343205975851377",
+        "created_at": "2025-12-20T12:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T13:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002358738511085885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1617861691764793346",
+              "start": 0,
+              "username": "mkukpkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002358738511085885",
+        "in_reply_to_user_id": "1617861691764793346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002358587121938476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mkukpkk 说的好像你考得上一样，常年临床比法医学高40分。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617861691764793346",
+        "conversation_id": "2002343205975851377",
+        "created_at": "2025-12-20T12:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T13:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002358587121938476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002358587121938476",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002343205975851377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 法医学刚改制没几年，改制前确实能考临床啊，有问题？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13093,
+          "following_count": 1007,
+          "like_count": 44956,
+          "listed_count": 51,
+          "media_count": 1776,
+          "tweet_count": 24727
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-24T12:27:58.000Z",
+        "description": "",
+        "id": "1617861691764793346",
+        "name": "gang van",
+        "pinned_tweet_id": "1977202996179353825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651783024646979584/eISsQXIi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 35,
+          "like_count": 182,
+          "listed_count": 3,
+          "media_count": 34,
+          "tweet_count": 958
+        },
+        "username": "mkukpkk",
+        "verified": false
+      }
+    ]
+  }
+}

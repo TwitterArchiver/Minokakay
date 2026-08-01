@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965067143801937920"
+      ],
+      "media_source_tweet_id": [
+        "1965067160289775952"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1965141123338498151",
+    "created_at": "2025-09-08T19:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T20:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965141123338498151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1451408516699201552",
+          "start": 3,
+          "username": "TargaryenLiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0EelAEWhaP",
+          "end": 47,
+          "expanded_url": "https://x.com/TargaryenLiu/status/1965067160289775952/photo/1",
+          "media_key": "3_1965067143801937920",
+          "start": 24,
+          "url": "https://t.co/0EelAEWhaP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965141123338498151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965067160289775952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TargaryenLiu: 艺术成这样 https://t.co/0EelAEWhaP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1231,
+        "media_key": "3_1965067143801937920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0VSJ-obIAAi0cX.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965067143801937920"
+          ],
+          "media_source_tweet_id": [
+            "1965067160289775952"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1965141123338498151",
+        "created_at": "2025-09-08T19:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T20:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965141123338498151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1451408516699201552",
+              "start": 3,
+              "username": "TargaryenLiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0EelAEWhaP",
+              "end": 47,
+              "expanded_url": "https://x.com/TargaryenLiu/status/1965067160289775952/photo/1",
+              "media_key": "3_1965067143801937920",
+              "start": 24,
+              "url": "https://t.co/0EelAEWhaP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965141123338498151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965067160289775952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TargaryenLiu: 艺术成这样 https://t.co/0EelAEWhaP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965067143801937920"
+          ]
+        },
+        "author_id": "1451408516699201552",
+        "conversation_id": "1965067160289775952",
+        "created_at": "2025-09-08T14:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T15:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965067160289775952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0EelAEWhaP",
+              "end": 29,
+              "expanded_url": "https://x.com/TargaryenLiu/status/1965067160289775952/photo/1",
+              "media_key": "3_1965067143801937920",
+              "start": 6,
+              "url": "https://t.co/0EelAEWhaP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965067160289775952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 26026,
+          "like_count": 425,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "艺术成这样 https://t.co/0EelAEWhaP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复/美白/减肥/促智找 @ChosekiNoraneko，我在做客服。买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 86,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1965082149155184692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9445,
+          "following_count": 935,
+          "like_count": 44671,
+          "listed_count": 33,
+          "media_count": 1405,
+          "tweet_count": 20840
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-22T04:42:22.000Z",
+        "description": "直男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "targaryenliu.com",
+                "end": 23,
+                "expanded_url": "http://targaryenliu.com",
+                "start": 0,
+                "url": "https://t.co/TBdcJnRtY0"
+              }
+            ]
+          }
+        },
+        "id": "1451408516699201552",
+        "location": "Guangzhou",
+        "name": "Gary",
+        "pinned_tweet_id": "1963510508880855428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911744169954959360/3Z9VpPaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10186,
+          "following_count": 3312,
+          "like_count": 24737,
+          "listed_count": 13,
+          "media_count": 1292,
+          "tweet_count": 10760
+        },
+        "url": "https://t.co/TBdcJnRtY0",
+        "username": "TargaryenLiu",
+        "verified": true
+      }
+    ]
+  }
+}

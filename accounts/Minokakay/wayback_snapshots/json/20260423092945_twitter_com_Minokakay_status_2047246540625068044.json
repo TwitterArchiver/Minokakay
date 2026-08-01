@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2047161457427804358",
+    "created_at": "2026-04-23T09:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T10:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047246540625068044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1326083094147837952",
+          "start": 0,
+          "username": "UWU_YezOu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047246540625068044",
+    "in_reply_to_user_id": "1326083094147837952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047218681890148585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UWU_YezOu 再努力没过三代也被人骂苏北人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2047161457427804358",
+        "created_at": "2026-04-23T09:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047246540625068044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1326083094147837952",
+              "start": 0,
+              "username": "UWU_YezOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047246540625068044",
+        "in_reply_to_user_id": "1326083094147837952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047218681890148585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWU_YezOu 再努力没过三代也被人骂苏北人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1326083094147837952",
+        "conversation_id": "2047161457427804358",
+        "created_at": "2026-04-23T07:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047218681890148585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047218681890148585",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047161457427804358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 想的应该是自己努力了子孙千秋后代是上海人了吧，不过也挺远的。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "发着光的半平米，胡乱哼唱的旋律，\n但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 78,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 55,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14248,
+          "following_count": 1050,
+          "like_count": 44023,
+          "listed_count": 54,
+          "media_count": 1807,
+          "tweet_count": 25960
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-10T08:43:49.000Z",
+        "description": "Vspo 963fan\n中文／English/日本語』 valorant /雀魂 』进步共和派/ 音楽 撮影 旅行 美食\ninfp 4w5 #しもべに #おれあぽ\n\n日本語を勉強しています  ニンゲン観察員，努力成为人类记录员和创作者",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 70,
+                "tag": "しもべに"
+              },
+              {
+                "end": 81,
+                "start": 76,
+                "tag": "おれあぽ"
+              }
+            ]
+          }
+        },
+        "id": "1326083094147837952",
+        "name": "Hiro",
+        "pinned_tweet_id": "2022008493927194662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978323537799843840/KRy-82sZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 549,
+          "like_count": 5254,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 2296
+        },
+        "username": "UWU_YezOu",
+        "verified": false
+      }
+    ]
+  }
+}

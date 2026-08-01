@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895814714489282561"
+      ],
+      "media_source_tweet_id": [
+        "1895814718813872330"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1895976959232131368",
+    "created_at": "2025-03-01T23:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T00:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895976959232131368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1353169870691549184",
+          "start": 3,
+          "username": "iPaulCanada"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7tWP07CALD",
+          "end": 44,
+          "expanded_url": "https://x.com/iPaulCanada/status/1895814718813872330/photo/1",
+          "media_key": "3_1895814714489282561",
+          "start": 21,
+          "url": "https://t.co/7tWP07CALD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895976959232131368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895814718813872330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iPaulCanada: 呵呵🙂 https://t.co/7tWP07CALD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1852,
+        "media_key": "3_1895814714489282561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk9JcDkXoAEtmv7.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895814714489282561"
+          ],
+          "media_source_tweet_id": [
+            "1895814718813872330"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1895976959232131368",
+        "created_at": "2025-03-01T23:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T00:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895976959232131368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353169870691549184",
+              "start": 3,
+              "username": "iPaulCanada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7tWP07CALD",
+              "end": 44,
+              "expanded_url": "https://x.com/iPaulCanada/status/1895814718813872330/photo/1",
+              "media_key": "3_1895814714489282561",
+              "start": 21,
+              "url": "https://t.co/7tWP07CALD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895976959232131368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895814718813872330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iPaulCanada: 呵呵🙂 https://t.co/7tWP07CALD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895814714489282561"
+          ]
+        },
+        "author_id": "1353169870691549184",
+        "conversation_id": "1895814718813872330",
+        "created_at": "2025-03-01T12:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T13:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895814718813872330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7tWP07CALD",
+              "end": 27,
+              "expanded_url": "https://x.com/iPaulCanada/status/1895814718813872330/photo/1",
+              "media_key": "3_1895814714489282561",
+              "start": 4,
+              "url": "https://t.co/7tWP07CALD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895814718813872330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 108300,
+          "like_count": 1202,
+          "quote_count": 10,
+          "reply_count": 41,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "呵呵🙂 https://t.co/7tWP07CALD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈 https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 99,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 76,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay （日雌泰补色诺",
+        "pinned_tweet_id": "1891554377909010835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5315,
+          "following_count": 815,
+          "like_count": 36960,
+          "listed_count": 26,
+          "media_count": 1029,
+          "tweet_count": 16489
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "Canada",
+        "name": "iPaul🇨🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127199,
+          "following_count": 469,
+          "like_count": 7036,
+          "listed_count": 535,
+          "media_count": 8633,
+          "tweet_count": 14468
+        },
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

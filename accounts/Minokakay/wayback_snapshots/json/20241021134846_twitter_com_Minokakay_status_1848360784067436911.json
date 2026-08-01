@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1848360781437665280"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1848360784067436911",
+    "created_at": "2024-10-21T13:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-21T14:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848360784067436911"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1848360784067436911",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "算命先生說我命裡缺金，最好取一個帶金字的小名或者字，我和我媽想了半天起了錦疏/錦抒。錦字補全了金屬性，也象徵著我家世代的居所：錦城，錦江。疏/抒分別代表著我的兩種個人性格，即喜歡獨處的孤僻和多愁善感的內心。我覺得都挺好的，大家覺得選哪個？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2024-10-22T13:48:45.000Z",
+        "id": "1848360781437665280",
+        "options": [
+          {
+            "label": "錦疏",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "錦抒",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1848360781437665280"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1848360784067436911",
+        "created_at": "2024-10-21T13:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T14:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848360784067436911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1848360784067436911",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算命先生說我命裡缺金，最好取一個帶金字的小名或者字，我和我媽想了半天起了錦疏/錦抒。錦字補全了金屬性，也象徵著我家世代的居所：錦城，錦江。疏/抒分別代表著我的兩種個人性格，即喜歡獨處的孤僻和多愁善感的內心。我覺得都挺好的，大家覺得選哪個？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 909,
+          "like_count": 23097,
+          "listed_count": 3,
+          "tweet_count": 10402
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

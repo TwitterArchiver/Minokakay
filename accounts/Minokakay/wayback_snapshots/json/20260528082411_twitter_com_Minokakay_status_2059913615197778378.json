@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059913588572323840"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059913615197778378",
+    "created_at": "2026-05-28T08:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059913615197778378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WNxmBGAf9D",
+          "end": 31,
+          "expanded_url": "https://x.com/Minokakay/status/2059913615197778378/photo/1",
+          "media_key": "3_2059913588572323840",
+          "start": 8,
+          "url": "https://t.co/WNxmBGAf9D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059913615197778378",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "朱珠霞全家😁😁 https://t.co/WNxmBGAf9D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 831,
+        "media_key": "3_2059913588572323840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZIfrLagAAuND6.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059913588572323840"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059913615197778378",
+        "created_at": "2026-05-28T08:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059913615197778378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WNxmBGAf9D",
+              "end": 31,
+              "expanded_url": "https://x.com/Minokakay/status/2059913615197778378/photo/1",
+              "media_key": "3_2059913588572323840",
+              "start": 8,
+              "url": "https://t.co/WNxmBGAf9D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059913615197778378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朱珠霞全家😁😁 https://t.co/WNxmBGAf9D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14383,
+          "following_count": 1054,
+          "like_count": 43968,
+          "listed_count": 49,
+          "media_count": 1830,
+          "tweet_count": 26166
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

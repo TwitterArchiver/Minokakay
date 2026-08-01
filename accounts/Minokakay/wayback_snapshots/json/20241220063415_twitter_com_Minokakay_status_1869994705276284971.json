@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869579002836664320",
+        "3_1869579002845007873"
+      ],
+      "media_source_tweet_id": [
+        "1869579008582853083",
+        "1869579008582853083"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1869994705276284971",
+    "created_at": "2024-12-20T06:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T07:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869994705276284971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "4273131268",
+          "start": 3,
+          "username": "hitoritabiken"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZpmXzlXukK",
+          "end": 105,
+          "expanded_url": "https://x.com/hitoritabiken/status/1869579008582853083/photo/1",
+          "media_key": "3_1869579002836664320",
+          "start": 82,
+          "url": "https://t.co/ZpmXzlXukK"
+        },
+        {
+          "display_url": "pic.x.com/ZpmXzlXukK",
+          "end": 105,
+          "expanded_url": "https://x.com/hitoritabiken/status/1869579008582853083/photo/1",
+          "media_key": "3_1869579002845007873",
+          "start": 82,
+          "url": "https://t.co/ZpmXzlXukK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869994705276284971",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1870
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869579008582853083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hitoritabiken: 趣味のgoogle map探索してたら、校庭に大木が生えてる学校見つけてにっこりした。\nゴールあるけどサッカーどうやるんだw https://t.co/ZpmXzlXukK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_1869579002836664320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfIUMpebwAAskzK.jpg",
+        "width": 910
+      },
+      {
+        "height": 1592,
+        "media_key": "3_1869579002845007873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfIUMpgbEAEbL_5.jpg",
+        "width": 1131
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869579002836664320",
+            "3_1869579002845007873"
+          ],
+          "media_source_tweet_id": [
+            "1869579008582853083",
+            "1869579008582853083"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1869994705276284971",
+        "created_at": "2024-12-20T06:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T07:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869994705276284971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "4273131268",
+              "start": 3,
+              "username": "hitoritabiken"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpmXzlXukK",
+              "end": 105,
+              "expanded_url": "https://x.com/hitoritabiken/status/1869579008582853083/photo/1",
+              "media_key": "3_1869579002836664320",
+              "start": 82,
+              "url": "https://t.co/ZpmXzlXukK"
+            },
+            {
+              "display_url": "pic.x.com/ZpmXzlXukK",
+              "end": 105,
+              "expanded_url": "https://x.com/hitoritabiken/status/1869579008582853083/photo/1",
+              "media_key": "3_1869579002845007873",
+              "start": 82,
+              "url": "https://t.co/ZpmXzlXukK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869994705276284971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1870
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869579008582853083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hitoritabiken: 趣味のgoogle map探索してたら、校庭に大木が生えてる学校見つけてにっこりした。\nゴールあるけどサッカーどうやるんだw https://t.co/ZpmXzlXukK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869579002836664320",
+            "3_1869579002845007873"
+          ]
+        },
+        "author_id": "4273131268",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1869579008582853083",
+        "created_at": "2024-12-19T03:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T04:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869579008582853083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpmXzlXukK",
+              "end": 86,
+              "expanded_url": "https://x.com/hitoritabiken/status/1869579008582853083/photo/1",
+              "media_key": "3_1869579002836664320",
+              "start": 63,
+              "url": "https://t.co/ZpmXzlXukK"
+            },
+            {
+              "display_url": "pic.x.com/ZpmXzlXukK",
+              "end": 86,
+              "expanded_url": "https://x.com/hitoritabiken/status/1869579008582853083/photo/1",
+              "media_key": "3_1869579002845007873",
+              "start": 63,
+              "url": "https://t.co/ZpmXzlXukK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869579008582853083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2114,
+          "impression_count": 3537415,
+          "like_count": 36335,
+          "quote_count": 485,
+          "reply_count": 152,
+          "retweet_count": 1870
+        },
+        "reply_settings": "everyone",
+        "text": "趣味のgoogle map探索してたら、校庭に大木が生えてる学校見つけてにっこりした。\nゴールあるけどサッカーどうやるんだw https://t.co/ZpmXzlXukK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要内服美白成分/日雌/色普龙/促智药找我超低價",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay（日雌380！！！",
+        "pinned_tweet_id": "1858231079683182919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 712,
+          "like_count": 30734,
+          "listed_count": 6,
+          "media_count": 695,
+          "tweet_count": 13618
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-25T09:36:46.000Z",
+        "description": "旅情・郷愁探訪家。写真集:https://t.co/6VIoNHqDm5 /ｲﾝｽﾀ:https://t.co/pfD6EQpODX /YouTube:https://t.co/AgzI43iFFP /お仕事等:DM又はhitoritabikenkyu@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hitoritabikenkyu.booth.pm",
+                "end": 36,
+                "expanded_url": "http://hitoritabikenkyu.booth.pm",
+                "start": 13,
+                "url": "https://t.co/6VIoNHqDm5"
+              },
+              {
+                "display_url": "instagram.com/hitoritabikenk…",
+                "end": 66,
+                "expanded_url": "http://www.instagram.com/hitoritabikenkyu",
+                "start": 43,
+                "url": "https://t.co/pfD6EQpODX"
+              },
+              {
+                "display_url": "youtube.com/@hitoritabiken…",
+                "end": 99,
+                "expanded_url": "http://youtube.com/@hitoritabikenkyu",
+                "start": 76,
+                "url": "https://t.co/AgzI43iFFP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hitoritabikenkyu.com",
+                "end": 23,
+                "expanded_url": "https://hitoritabikenkyu.com",
+                "start": 0,
+                "url": "https://t.co/emqSgHACJl"
+              }
+            ]
+          }
+        },
+        "id": "4273131268",
+        "location": "千葉県",
+        "name": "一人旅研究会 @12/30 c105月曜東プ40b",
+        "pinned_tweet_id": "1814238802690670779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819207015941787650/knd5GqtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157411,
+          "following_count": 565,
+          "like_count": 1730,
+          "listed_count": 1000,
+          "media_count": 1002,
+          "tweet_count": 1280
+        },
+        "url": "https://t.co/emqSgHACJl",
+        "username": "hitoritabiken",
+        "verified": true
+      }
+    ]
+  }
+}

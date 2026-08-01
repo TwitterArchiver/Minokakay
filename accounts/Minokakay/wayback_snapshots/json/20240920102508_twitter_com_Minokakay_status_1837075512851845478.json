@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1837009867380494497",
+    "created_at": "2024-09-20T10:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T11:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837075512851845478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1733714608500969472",
+          "start": 0,
+          "username": "NE_Bot_Zhaoming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837075512851845478",
+    "in_reply_to_user_id": "1733714608500969472",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837071486856638837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NE_Bot_Zhaoming 😱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1837071486856638837].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1837071486856638837",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1837071486856638837"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1837009867380494497",
+        "created_at": "2024-09-20T10:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T11:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837075512851845478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1733714608500969472",
+              "start": 0,
+              "username": "NE_Bot_Zhaoming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837075512851845478",
+        "in_reply_to_user_id": "1733714608500969472",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837071486856638837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NE_Bot_Zhaoming 😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高三生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 836,
+          "like_count": 15457,
+          "listed_count": 3,
+          "tweet_count": 6529
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T05:05:56.000Z",
+        "description": "喜歡❤️@Nanase_Rika_❤️爱你一万年❤️最最最最喜歡你了！！！是汪座，歡迎互fo，（會很開心！）自認為脾氣很好（）不想惹事情上身，杭州農民，看到幼稚鬼就屏蔽，我是特色穆斯林，一不看豬頭三二不看奶龍，討論歡迎你❤️互罵遠離你🏃‍♀️//如果你已經b我了還要來視奸我,那真沒話說//內容會很情緒化（）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "Nanase_Rika_"
+              }
+            ]
+          }
+        },
+        "id": "1733714608500969472",
+        "location": "江苏省南京市玄武区长江路292号",
+        "name": "國民北伐bot.兆銘醬",
+        "pinned_tweet_id": "1832021705352757578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832018518121807872/NHtd2_g5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 512,
+          "like_count": 10383,
+          "listed_count": 2,
+          "tweet_count": 4634
+        },
+        "username": "NE_Bot_Zhaoming",
+        "verified": false
+      }
+    ]
+  }
+}

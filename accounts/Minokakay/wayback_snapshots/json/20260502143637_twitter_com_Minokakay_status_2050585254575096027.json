@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050504074630692864"
+      ],
+      "media_source_tweet_id": [
+        "2050504417208869189"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050585254575096027",
+    "created_at": "2026-05-02T14:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050585254575096027"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 91,
+          "start": 87,
+          "tag": "胡锦涛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1506291557233999877",
+          "start": 3,
+          "username": "hazuki8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NIMiX8SR1F",
+          "end": 115,
+          "expanded_url": "https://x.com/hazuki8964/status/2050504417208869189/video/1",
+          "media_key": "13_2050504074630692864",
+          "start": 92,
+          "url": "https://t.co/NIMiX8SR1F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050585254575096027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050504417208869189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hazuki8964: 《涛哥我爱你》——雪村\n这首歌神了。。。。\n（这首是唱东北人都是活雷锋的人写的）还有另一首《涛哥你好》也是这位写的，比涛哥我爱你还魔性。。。\n#胡锦涛 https://t.co/NIMiX8SR1F"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 266966,
+        "height": 1080,
+        "media_key": "13_2050504074630692864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050504074630692864/img/rjTLRMxGRCkEsmZT.jpg",
+        "public_metrics": {
+          "view_count": 1165
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050504074630692864/vid/avc1/480x360/p_X7SMvTB3NF1xhZ.mp4?tag=27"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050504074630692864/vid/avc1/360x270/j3Y0CPLR786Zl59D.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050504074630692864/pl/oSzsgr26jKrw6FB1.m3u8?tag=27&v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050504074630692864/vid/avc1/960x720/qMhRwct6LV1i7Krp.mp4?tag=27"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050504074630692864/vid/avc1/1440x1080/TGFzBURix63MXRZQ.mp4?tag=27"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050504074630692864"
+          ],
+          "media_source_tweet_id": [
+            "2050504417208869189"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050585254575096027",
+        "created_at": "2026-05-02T14:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050585254575096027"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "胡锦涛"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1506291557233999877",
+              "start": 3,
+              "username": "hazuki8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NIMiX8SR1F",
+              "end": 115,
+              "expanded_url": "https://x.com/hazuki8964/status/2050504417208869189/video/1",
+              "media_key": "13_2050504074630692864",
+              "start": 92,
+              "url": "https://t.co/NIMiX8SR1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050585254575096027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050504417208869189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hazuki8964: 《涛哥我爱你》——雪村\n这首歌神了。。。。\n（这首是唱东北人都是活雷锋的人写的）还有另一首《涛哥你好》也是这位写的，比涛哥我爱你还魔性。。。\n#胡锦涛 https://t.co/NIMiX8SR1F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050504074630692864"
+          ]
+        },
+        "author_id": "1506291557233999877",
+        "conversation_id": "2050504417208869189",
+        "created_at": "2026-05-02T09:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050504417208869189"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "胡锦涛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NIMiX8SR1F",
+              "end": 99,
+              "expanded_url": "https://x.com/hazuki8964/status/2050504417208869189/video/1",
+              "media_key": "13_2050504074630692864",
+              "start": 76,
+              "url": "https://t.co/NIMiX8SR1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050504417208869189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 3416,
+          "like_count": 112,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "《涛哥我爱你》——雪村\n这首歌神了。。。。\n（这首是唱东北人都是活雷锋的人写的）还有另一首《涛哥你好》也是这位写的，比涛哥我爱你还魔性。。。\n#胡锦涛 https://t.co/NIMiX8SR1F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "发着光的半平米，胡乱哼唱的旋律，\n但是还想拯救你，同时拯救我自己。 \n大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 76,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 53,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14432,
+          "following_count": 1054,
+          "like_count": 43998,
+          "listed_count": 54,
+          "media_count": 1807,
+          "tweet_count": 26004
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-22T15:27:57.000Z",
+        "description": "永遠是深夜有多好。@yoyori_01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "yoyori_01"
+              }
+            ]
+          }
+        },
+        "id": "1506291557233999877",
+        "location": "爱胡TV",
+        "name": "⁺♡hazuki",
+        "pinned_tweet_id": "1959290971318837385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956555816674459648/Nbbrv0Mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7648,
+          "following_count": 632,
+          "like_count": 17762,
+          "listed_count": 13,
+          "media_count": 364,
+          "tweet_count": 2844
+        },
+        "username": "hazuki8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1966831961261174938",
+    "created_at": "2025-09-13T11:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T12:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966831961261174938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aradnekopon/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/aradnekopon/status/1966530323774165036",
+          "start": 13,
+          "url": "https://t.co/dyica9KCSX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966831961261174938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966530323774165036",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个截屏还是华为pad😁 https://t.co/dyica9KCSX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1966529764392660992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0qEZs7bcAAbm0A.jpg",
+        "width": 425
+      },
+      {
+        "height": 680,
+        "media_key": "3_1966530038586851328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0qEpqYawAATfmY.jpg",
+        "width": 425
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1966831961261174938",
+        "created_at": "2025-09-13T11:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T12:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966831961261174938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aradnekopon/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/aradnekopon/status/1966530323774165036",
+              "start": 13,
+              "url": "https://t.co/dyica9KCSX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966831961261174938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966530323774165036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个截屏还是华为pad😁 https://t.co/dyica9KCSX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966529764392660992",
+            "3_1966530038586851328"
+          ]
+        },
+        "author_id": "1179012100334555136",
+        "conversation_id": "1966530323774165036",
+        "created_at": "2025-09-12T15:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T16:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966530323774165036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TuL9OAQVkh",
+              "end": 54,
+              "expanded_url": "https://x.com/aradnekopon/status/1966530323774165036/photo/1",
+              "media_key": "3_1966529764392660992",
+              "start": 31,
+              "url": "https://t.co/TuL9OAQVkh"
+            },
+            {
+              "display_url": "pic.x.com/TuL9OAQVkh",
+              "end": 54,
+              "expanded_url": "https://x.com/aradnekopon/status/1966530323774165036/photo/1",
+              "media_key": "3_1966530038586851328",
+              "start": 31,
+              "url": "https://t.co/TuL9OAQVkh"
+            },
+            {
+              "display_url": "x.com/sanseitoufight…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/sanseitoufight/status/1966311609149902929",
+              "start": 55,
+              "url": "https://t.co/ZDChDsj3yG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966530323774165036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 29579,
+          "like_count": 1216,
+          "quote_count": 16,
+          "reply_count": 21,
+          "retweet_count": 271
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966311609149902929",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "MADE IN CHINAのコレ着て反グロ叫ぶおバカさんか？ https://t.co/TuL9OAQVkh https://t.co/ZDChDsj3yG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复/美白/减肥/促智找 @ChosekiNoraneko，我朋友开的我在做客服。买电子烟找@weita2024。买抗癌药物找@LuciusPharmacy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 86,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "weita2024"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "LuciusPharmacy"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9603,
+          "following_count": 939,
+          "like_count": 44558,
+          "listed_count": 33,
+          "media_count": 1423,
+          "tweet_count": 21006
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-01T12:37:33.000Z",
+        "description": "無党派､時事系毒舌ネコメンテ―ター、浅掘り広域派ちょっとガバい　悪人掘削機\nムカつくと掘り倒します 参政党は1番クソ\nNPO マスゴミ ユニオン MMTアレルギー反ケイジアン、反ハンキン\nマクロ経済シカゴ学科\n党派性の思想強めはNG\nコメント返し間に合ってません\n🍊信者の対応は時間の無駄なので即ブロに変更",
+        "id": "1179012100334555136",
+        "location": "トゥイッタランド",
+        "name": "ねこぽん@プチ休憩放浪中",
+        "pinned_tweet_id": "1934675522979856864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792634035350491138/XADXEY8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11922,
+          "following_count": 1276,
+          "like_count": 188466,
+          "listed_count": 77,
+          "media_count": 10555,
+          "tweet_count": 103953
+        },
+        "username": "aradnekopon",
+        "verified": true
+      }
+    ]
+  }
+}

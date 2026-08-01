@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009192016954183681"
+      ],
+      "media_source_tweet_id": [
+        "2009192033312031016"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2009502123831271765",
+    "created_at": "2026-01-09T05:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T06:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009502123831271765"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "うさにゃーん",
+          "probability": 0.2456,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 22,
+          "tag": "男装カフェ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982824972725964801",
+          "start": 3,
+          "username": "honey__WI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1I6awi187g",
+          "end": 52,
+          "expanded_url": "https://x.com/honey__WI/status/2009192033312031016/photo/1",
+          "media_key": "3_2009192016954183681",
+          "start": 29,
+          "url": "https://t.co/1I6awi187g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009502123831271765",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009192033312031016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @honey__WI: うさにゃーん #男装カフェ https://t.co/1I6awi187g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2009192016954183681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-IVfoga0AE2Uv4.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009192016954183681"
+          ],
+          "media_source_tweet_id": [
+            "2009192033312031016"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2009502123831271765",
+        "created_at": "2026-01-09T05:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009502123831271765"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "うさにゃーん",
+              "probability": 0.2456,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "男装カフェ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982824972725964801",
+              "start": 3,
+              "username": "honey__WI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1I6awi187g",
+              "end": 52,
+              "expanded_url": "https://x.com/honey__WI/status/2009192033312031016/photo/1",
+              "media_key": "3_2009192016954183681",
+              "start": 29,
+              "url": "https://t.co/1I6awi187g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009502123831271765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009192033312031016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @honey__WI: うさにゃーん #男装カフェ https://t.co/1I6awi187g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009192016954183681"
+          ]
+        },
+        "author_id": "1982824972725964801",
+        "conversation_id": "2009192033312031016",
+        "created_at": "2026-01-08T09:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T10:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009192033312031016"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "うさにゃーん",
+              "probability": 0.29,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "男装カフェ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1I6awi187g",
+              "end": 37,
+              "expanded_url": "https://x.com/honey__WI/status/2009192033312031016/photo/1",
+              "media_key": "3_2009192016954183681",
+              "start": 14,
+              "url": "https://t.co/1I6awi187g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009192033312031016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 5490,
+          "like_count": 519,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "うさにゃーん #男装カフェ https://t.co/1I6awi187g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️咨询补色诺凝胶/减肥/促智等先看https://t.co/9scN5m8csf，不回答网站已经回答过的问题",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chosekipharmacy",
+                "end": 81,
+                "expanded_url": "http://linktr.ee/chosekipharmacy",
+                "start": 58,
+                "url": "https://t.co/9scN5m8csf"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2007855045178716540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13789,
+          "following_count": 1025,
+          "like_count": 44981,
+          "listed_count": 49,
+          "media_count": 1830,
+          "tweet_count": 25405
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-27T15:01:42.000Z",
+        "description": "@WhiteIberis 1/4.5.8.9.11.14.15遠隔https://t.co/0Zhro50BEf ご来園の際はdmください📨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "WhiteIberis"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whiteiberis.base.shop",
+                "end": 56,
+                "expanded_url": "https://whiteiberis.base.shop/",
+                "start": 33,
+                "url": "https://t.co/0Zhro50BEf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lnoneymilk?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lnoneymilk?igsh=MXh3YXVrd3Q3MWgycw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/B3vbDN4Ui4"
+              }
+            ]
+          }
+        },
+        "id": "1982824972725964801",
+        "name": "はに@WhiteIberis",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 24,
+          "like_count": 310,
+          "listed_count": 4,
+          "media_count": 33,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/B3vbDN4Ui4",
+        "username": "honey__WI",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1924160624634024143",
+    "created_at": "2025-05-18T17:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T18:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924160624634024143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Zh40Le1ZOOB/st…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/Zh40Le1ZOOB/status/1923940183365517459",
+          "start": 26,
+          "url": "https://t.co/kw7DPikFDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924160624634024143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923940183365517459",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想到早期锤子手机边角能削苹果，是否照样也可以抹脖子 https://t.co/kw7DPikFDF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1923940183365517459].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1923940183365517459",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1923940183365517459"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1924160624634024143",
+        "created_at": "2025-05-18T17:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T18:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924160624634024143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zh40Le1ZOOB/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Zh40Le1ZOOB/status/1923940183365517459",
+              "start": 26,
+              "url": "https://t.co/kw7DPikFDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924160624634024143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923940183365517459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想到早期锤子手机边角能削苹果，是否照样也可以抹脖子 https://t.co/kw7DPikFDF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1916475690863726978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6944,
+          "following_count": 882,
+          "like_count": 42490,
+          "listed_count": 30,
+          "media_count": 981,
+          "tweet_count": 17657
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

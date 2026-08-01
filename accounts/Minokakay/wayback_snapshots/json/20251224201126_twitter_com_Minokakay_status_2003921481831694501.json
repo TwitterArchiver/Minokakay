@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003414836974329856"
+      ],
+      "media_source_tweet_id": [
+        "2003737410635727239"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "2003921481831694501",
+    "created_at": "2025-12-24T20:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T21:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003921481831694501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1282640825025851392",
+          "start": 3,
+          "username": "hutonTatakiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dp7L85fxrc",
+          "end": 59,
+          "expanded_url": "https://x.com/hutonTatakiki/status/2003737410635727239/photo/1",
+          "media_key": "3_2003414836974329856",
+          "start": 36,
+          "url": "https://t.co/dp7L85fxrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003921481831694501",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 237
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003737410635727239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hutonTatakiki: 男の娘サンタのホワイトクリスマス https://t.co/dp7L85fxrc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2003921481831694501].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2003921481831694501",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2003921481831694501"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2003414836974329856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G82PLf-aIAAb5RZ.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003414836974329856"
+          ]
+        },
+        "author_id": "1282640825025851392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2003737410635727239",
+        "created_at": "2025-12-24T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003737410635727239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dp7L85fxrc",
+              "end": 40,
+              "expanded_url": "https://x.com/hutonTatakiki/status/2003737410635727239/photo/1",
+              "media_key": "3_2003414836974329856",
+              "start": 17,
+              "url": "https://t.co/dp7L85fxrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003737410635727239",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 493,
+          "impression_count": 21668,
+          "like_count": 1995,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 237
+        },
+        "reply_settings": "everyone",
+        "text": "男の娘サンタのホワイトクリスマス https://t.co/dp7L85fxrc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，如需癌症/慢病用药，请找@Lucius_Pharma，均是我朋友开的，我担保。如需电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Lucius_Pharma"
+              },
+              {
+                "end": 136,
+                "start": 126,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13414,
+          "following_count": 1018,
+          "like_count": 44950,
+          "listed_count": 51,
+          "media_count": 1802,
+          "tweet_count": 24961
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-13T11:40:32.000Z",
+        "description": "絵を描きます。男の娘大好きです。NSFW\nskeb(https://t.co/y4FMZFHVRa)\npixiv(https://t.co/UKYL0uPEpO)\nDLsite(https://t.co/LUHLw2M7tT)\nエロゲと饗(https://t.co/M5aAsJ3RX2)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hutonTatakiki",
+                "end": 49,
+                "expanded_url": "https://skeb.jp/@hutonTatakiki",
+                "start": 26,
+                "url": "https://t.co/y4FMZFHVRa"
+              },
+              {
+                "display_url": "bit.ly/3tRtzM2",
+                "end": 80,
+                "expanded_url": "http://bit.ly/3tRtzM2",
+                "start": 57,
+                "url": "https://t.co/UKYL0uPEpO"
+              },
+              {
+                "display_url": "bit.ly/48dHlaV",
+                "end": 112,
+                "expanded_url": "http://bit.ly/48dHlaV",
+                "start": 89,
+                "url": "https://t.co/LUHLw2M7tT"
+              },
+              {
+                "display_url": "bit.ly/4aIFoF3",
+                "end": 143,
+                "expanded_url": "http://bit.ly/4aIFoF3",
+                "start": 120,
+                "url": "https://t.co/M5aAsJ3RX2"
+              }
+            ]
+          }
+        },
+        "id": "1282640825025851392",
+        "name": "布団叩き機🔞",
+        "pinned_tweet_id": "1938843383948288394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746136603721191424/qgEQerMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14158,
+          "following_count": 44,
+          "like_count": 563,
+          "listed_count": 78,
+          "media_count": 293,
+          "tweet_count": 551
+        },
+        "username": "hutonTatakiki",
+        "verified": false
+      }
+    ]
+  }
+}

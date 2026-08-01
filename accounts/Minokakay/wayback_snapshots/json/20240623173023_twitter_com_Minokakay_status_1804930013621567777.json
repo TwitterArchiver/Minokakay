@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1804906189823852804",
+    "created_at": "2024-06-23T17:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T18:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804930013621567777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1796218473552728064",
+          "start": 0,
+          "username": "xiangwang164727"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804930013621567777",
+    "in_reply_to_user_id": "1796218473552728064",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804929867282104463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangwang164727 我估计会去图书馆自习室这些地方，因为在家里根本看不进去..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1804906189823852804",
+        "created_at": "2024-06-23T17:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T18:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804930013621567777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796218473552728064",
+              "start": 0,
+              "username": "xiangwang164727"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804930013621567777",
+        "in_reply_to_user_id": "1796218473552728064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804929867282104463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangwang164727 我估计会去图书馆自习室这些地方，因为在家里根本看不进去..."
+      },
+      {
+        "attachments": {},
+        "author_id": "1796218473552728064",
+        "conversation_id": "1804906189823852804",
+        "created_at": "2024-06-23T17:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T18:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804929867282104463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804929867282104463",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804906189823852804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 我高三也在家自学过一段时间……如果成绩不错还很自律的话可以回家自学，不过成绩一般的话最好不要冒险……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "暗い未來だって，\n強くなって運命変えられるかもね  🇹🇼ROC成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 733,
+          "like_count": 2136,
+          "listed_count": 0,
+          "tweet_count": 1040
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T16:34:15.000Z",
+        "description": "05 友跨 不涉政 支持男女平权 @H596627的主人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "H596627"
+              }
+            ]
+          }
+        },
+        "id": "1796218473552728064",
+        "name": "千鹤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804353012632293381/4jtC3cpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 80,
+          "like_count": 608,
+          "listed_count": 0,
+          "tweet_count": 179
+        },
+        "username": "xiangwang164727",
+        "verified": false
+      }
+    ]
+  }
+}

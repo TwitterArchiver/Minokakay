@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2000901276050268446",
+    "created_at": "2025-12-16T14:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T15:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000935897639092607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1577274400700669953",
+          "start": 0,
+          "username": "Box_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000935897639092607",
+    "in_reply_to_user_id": "1577274400700669953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000927120957317520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Box_8964 就算不压汇率 人民币比美元也顶多6.3:1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2000901276050268446",
+        "created_at": "2025-12-16T14:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T15:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000935897639092607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1577274400700669953",
+              "start": 0,
+              "username": "Box_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000935897639092607",
+        "in_reply_to_user_id": "1577274400700669953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000927120957317520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Box_8964 就算不压汇率 人民币比美元也顶多6.3:1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577274400700669953",
+        "conversation_id": "2000901276050268446",
+        "created_at": "2025-12-16T13:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T14:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000927120957317520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000927120957317520",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000901276050268446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 不压汇率呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13025,
+          "following_count": 1006,
+          "like_count": 44986,
+          "listed_count": 50,
+          "media_count": 1751,
+          "tweet_count": 24490
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-04T12:28:40.000Z",
+        "description": "Have I ever been here before?\nStand with Ukraine and Palestine🏳️‍🌈🇺🇦🇵🇸🇦🇶",
+        "id": "1577274400700669953",
+        "name": "Mortis",
+        "pinned_tweet_id": "1690068478924136448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978469696883359744/r2uyi9Qo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 1403,
+          "like_count": 95230,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 1057
+        },
+        "username": "Box_8964",
+        "verified": false
+      }
+    ]
+  }
+}

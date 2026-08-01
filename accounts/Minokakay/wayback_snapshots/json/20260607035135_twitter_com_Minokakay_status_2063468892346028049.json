@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2063468892346028049",
+    "created_at": "2026-06-07T03:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063468892346028049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "112629469",
+          "start": 3,
+          "username": "Vhgkasparov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063468892346028049",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3920
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062902866684112908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vhgkasparov: La izquierda luchó por tus 40 horas laborales.\nLa izquierda conquistó tu derecho a una pensión.\nLa izquierda garantizó tus…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2063468892346028049",
+        "created_at": "2026-06-07T03:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063468892346028049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "112629469",
+              "start": 3,
+              "username": "Vhgkasparov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063468892346028049",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3920
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062902866684112908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vhgkasparov: La izquierda luchó por tus 40 horas laborales.\nLa izquierda conquistó tu derecho a una pensión.\nLa izquierda garantizó tus…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "112629469",
+        "conversation_id": "2062902866684112908",
+        "created_at": "2026-06-05T14:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062902866684112908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062902866684112908",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {},
+          "text": "La izquierda luchó por tus 40 horas laborales.\nLa izquierda conquistó tu derecho a una pensión.\nLa izquierda garantizó tus vacaciones.\nLa izquierda impulsó la salud pública.\nLa izquierda abrió las puertas a la educación accesible.\nLa izquierda aseguró tu cobertura social.\n\n¿Y qué derechos esenciales ha defendido la derecha para ti?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 823,
+          "impression_count": 305542,
+          "like_count": 11985,
+          "quote_count": 137,
+          "reply_count": 380,
+          "retweet_count": 3920
+        },
+        "reply_settings": "everyone",
+        "text": "La izquierda luchó por tus 40 horas laborales.\nLa izquierda conquistó tu derecho a una pensión.\nLa izquierda garantizó tus vacaciones.\nLa izquierda impulsó la salud pública.\nLa izquierda abrió las puertas a la educación accesible.\nLa izquierda aseguró tu cobertura social.\n\n¿Y qué"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14320,
+          "following_count": 1045,
+          "like_count": 43999,
+          "listed_count": 48,
+          "media_count": 1829,
+          "tweet_count": 26167
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2010-02-09T05:16:14.000Z",
+        "description": "Socialdemócrata, Keynesiano Cepalino, Mgtr. en Economía del Desarrollo📊Ing.en Adm de Empresas,Diplomado en Economía Financiera Internacional,Ajedrez,Geminis ♊.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@vhgkasparov",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@vhgkasparov",
+                "start": 0,
+                "url": "https://t.co/YYBKMpSl8T"
+              }
+            ]
+          }
+        },
+        "id": "112629469",
+        "location": "Ecuador",
+        "name": "Victor Guerrero",
+        "pinned_tweet_id": "2048584035140546994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927215820985217024/-UPvqNzG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36102,
+          "following_count": 7832,
+          "like_count": 51303,
+          "listed_count": 89,
+          "media_count": 4076,
+          "tweet_count": 59839
+        },
+        "url": "https://t.co/YYBKMpSl8T",
+        "username": "Vhgkasparov",
+        "verified": true
+      }
+    ]
+  }
+}

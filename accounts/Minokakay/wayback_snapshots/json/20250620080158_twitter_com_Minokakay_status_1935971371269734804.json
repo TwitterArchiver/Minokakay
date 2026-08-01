@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1935969240231952562",
+    "created_at": "2025-06-20T08:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T09:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935971371269734804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1742381695045939200",
+          "start": 0,
+          "username": "mo6ji4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935971371269734804",
+    "in_reply_to_user_id": "1742381695045939200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935971073855832588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mo6ji4 因为我以前吃过挺好吃的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1935971073855832588].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1935971073855832588",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1935971073855832588"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1935969240231952562",
+        "created_at": "2025-06-20T08:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T09:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935971371269734804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1742381695045939200",
+              "start": 0,
+              "username": "mo6ji4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935971371269734804",
+        "in_reply_to_user_id": "1742381695045939200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935971073855832588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo6ji4 因为我以前吃过挺好吃的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1933516848781537400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7750,
+          "following_count": 886,
+          "like_count": 43739,
+          "listed_count": 30,
+          "media_count": 1196,
+          "tweet_count": 18989
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-03T03:06:37.000Z",
+        "description": "头像源：《blacksouls》贞德相爱CG\n防失联小号@m8o9j6i4 亲爱的 @35zf_out @Fiammetta1453  @Bingfei2v2 @azusaROCtw  @mingnaisama\n玻璃心自卑仇富（我是顺男）小狗@GLaDOS8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "m8o9j6i4"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "35zf_out"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "Fiammetta1453"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Bingfei2v2"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "azusaROCtw"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "mingnaisama"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "GLaDOS8964"
+              }
+            ]
+          }
+        },
+        "id": "1742381695045939200",
+        "location": "阿拉斯加美军要塞",
+        "name": "圣骑士贞德（误ban抱歉）（情绪垃圾桶）（推文不完全代表本人立场）性压抑下头男",
+        "pinned_tweet_id": "1891417536954036561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821365773853675521/fOq21twb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2705,
+          "following_count": 1023,
+          "like_count": 120125,
+          "listed_count": 8,
+          "media_count": 2101,
+          "tweet_count": 28532
+        },
+        "username": "mo6ji4",
+        "verified": false
+      }
+    ]
+  }
+}

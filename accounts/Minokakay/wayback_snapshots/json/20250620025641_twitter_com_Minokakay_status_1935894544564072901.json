@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1935894544564072901",
+    "created_at": "2025-06-20T02:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T03:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935894544564072901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Minokakay/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Minokakay/status/1935893402887000345",
+          "start": 18,
+          "url": "https://t.co/bhZ4Sgylej"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935894544564072901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935893402887000345",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "寄日本，香港，基本都可以10天内到 https://t.co/bhZ4Sgylej"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1935894544564072901",
+        "created_at": "2025-06-20T02:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T03:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935894544564072901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minokakay/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Minokakay/status/1935893402887000345",
+              "start": 18,
+              "url": "https://t.co/bhZ4Sgylej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935894544564072901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935893402887000345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "寄日本，香港，基本都可以10天内到 https://t.co/bhZ4Sgylej"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1935893402887000345",
+        "created_at": "2025-06-20T02:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T03:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935893402887000345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935893402887000345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日本 香港是我们发得最多的大陆以外地区，这两个地区我们有自己长期合作的敏感货物专线物流公司，寄日本邮费106元起，寄香港40元起，很方便，还能送货上门，欢迎日本香港客户咨询下单，其他地区也可以咨询，基本全球可发，朝鲜伊朗这些国家除外。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1933516848781537400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7750,
+          "following_count": 886,
+          "like_count": 43732,
+          "listed_count": 30,
+          "media_count": 1193,
+          "tweet_count": 18980
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

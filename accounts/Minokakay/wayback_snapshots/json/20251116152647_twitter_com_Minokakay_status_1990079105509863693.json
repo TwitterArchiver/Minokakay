@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1990077085973356971",
+    "created_at": "2025-11-16T15:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T16:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990079105509863693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "749102728006148099",
+          "start": 0,
+          "username": "guotaiminana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990079105509863693",
+    "in_reply_to_user_id": "749102728006148099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990077085973356971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guotaiminana 去搜下渝州路街道在重庆的位置。再来评价算不算乡下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1990077085973356971",
+        "created_at": "2025-11-16T15:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990079105509863693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "749102728006148099",
+              "start": 0,
+              "username": "guotaiminana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990079105509863693",
+        "in_reply_to_user_id": "749102728006148099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990077085973356971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guotaiminana 去搜下渝州路街道在重庆的位置。再来评价算不算乡下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "749102728006148099",
+        "conversation_id": "1990077085973356971",
+        "created_at": "2025-11-16T15:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990077085973356971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minokakay/stat…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Minokakay/status/1990041367557648740",
+              "start": 36,
+              "url": "https://t.co/Qn2nm6XuHs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990077085973356971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990041367557648740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有可能你就是住在乡下，我在一二线城市看到的繁华商业街早就恢复活力了 https://t.co/Qn2nm6XuHs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12179,
+          "following_count": 1012,
+          "like_count": 45018,
+          "listed_count": 42,
+          "media_count": 1563,
+          "tweet_count": 22947
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-02T04:49:42.000Z",
+        "description": "血压偏高｜轻度颈椎曲变直｜腱鞘炎｜肥胖",
+        "id": "749102728006148099",
+        "location": "Dominica",
+        "name": "老🐶",
+        "pinned_tweet_id": "1587476025146892289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763814374152798208/KSxn5R4m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4503,
+          "following_count": 566,
+          "like_count": 63478,
+          "listed_count": 21,
+          "media_count": 6363,
+          "tweet_count": 37348
+        },
+        "username": "guotaiminana",
+        "verified": false
+      }
+    ]
+  }
+}

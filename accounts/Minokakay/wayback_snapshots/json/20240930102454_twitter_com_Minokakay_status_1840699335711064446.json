@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1840699335711064446",
+    "created_at": "2024-09-30T10:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T11:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840699335711064446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1766858890636120064",
+          "start": 3,
+          "username": "Nuominiang75884"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840699335711064446",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840656681371673073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nuominiang75884: 讲个笑话，我因为参加反戒网瘾学校活动，帮助储存反戒网瘾团队收集的证据，被警察上门， QQ，微博被永久封禁，B站账号再被控制为了防止泄露更多东西被我注销，而储存着目前收集了所有证据，包括公开与非公开的证据的硬盘，被格式化处理，两个备份的u…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1840699335711064446].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1840699335711064446",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1840699335711064446"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840656678594985984"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "1840656681371673073",
+        "created_at": "2024-09-30T07:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T08:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840656681371673073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5mkbkxbvkb",
+              "end": 161,
+              "expanded_url": "https://twitter.com/Nuominiang75884/status/1840656681371673073/photo/1",
+              "media_key": "3_1840656678594985984",
+              "start": 138,
+              "url": "https://t.co/5MKbKXbVKb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840656681371673073",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 664,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "讲个笑话，我因为参加反戒网瘾学校活动，帮助储存反戒网瘾团队收集的证据，被警察上门， QQ，微博被永久封禁，B站账号再被控制为了防止泄露更多东西被我注销，而储存着目前收集了所有证据，包括公开与非公开的证据的硬盘，被格式化处理，两个备份的u盘也被处理了，目前仅在云盘里有部分备份 https://t.co/5MKbKXbVKb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 861,
+          "like_count": 18575,
+          "listed_count": 3,
+          "tweet_count": 8339
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "🏳️‍⚧️/INFP-T /道教徒/摄影爱好者/喜欢和科技有关的东西/ADHD/妈妈🏳️‍⚧️❤️@qiuxue313❤️/一生的亲人❤️@Kietter387803/好闺蜜@Im_Grapefruit27\n/最关心的铃铃姐🏳️‍⚧️@Allenium114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "qiuxue313"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Kietter387803"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Im_Grapefruit27"
+              },
+              {
+                "end": 129,
+                "start": 117,
+                "username": "Allenium114"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "location": "美国 洛杉矶 Echo Park Ave大街2236号",
+        "name": "糯米娘QwQ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1811482660545659044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822939028444098560/Rl5lFpxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2290,
+          "following_count": 378,
+          "like_count": 6853,
+          "listed_count": 4,
+          "tweet_count": 1350
+        },
+        "username": "Nuominiang75884",
+        "verified": false
+      }
+    ]
+  }
+}

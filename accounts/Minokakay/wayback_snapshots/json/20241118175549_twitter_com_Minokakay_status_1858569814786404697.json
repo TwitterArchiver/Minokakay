@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Journalism",
+          "id": "1074755369530880001",
+          "name": "Journalists"
+        }
+      }
+    ],
+    "conversation_id": "1858569814786404697",
+    "created_at": "2024-11-18T17:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T18:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1858569814786404697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rabbubble550W/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Rabbubble550W/status/1858568796237427069",
+          "start": 7,
+          "url": "https://t.co/Eak25d8eli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858569814786404697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858568796237427069",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我當記者後： https://t.co/Eak25d8eli"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          }
+        ],
+        "conversation_id": "1858569814786404697",
+        "created_at": "2024-11-18T17:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T18:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858569814786404697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rabbubble550W/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Rabbubble550W/status/1858568796237427069",
+              "start": 7,
+              "url": "https://t.co/Eak25d8eli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858569814786404697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858568796237427069",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我當記者後： https://t.co/Eak25d8eli"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858568740033658880"
+          ]
+        },
+        "author_id": "1429829081684537345",
+        "conversation_id": "1858568796237427069",
+        "created_at": "2024-11-18T17:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T18:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858568796237427069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mAL0SsSXT",
+              "end": 28,
+              "expanded_url": "https://x.com/Rabbubble550W/status/1858568796237427069/photo/1",
+              "media_key": "3_1858568740033658880",
+              "start": 5,
+              "url": "https://t.co/7mAL0SsSXT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858568796237427069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "言简意赅 https://t.co/7mAL0SsSXT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1858231079683182919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 948,
+          "like_count": 27018,
+          "listed_count": 3,
+          "tweet_count": 12106
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-23T15:33:28.000Z",
+        "description": "常驻深圳，喜欢面基，欢迎私信互fo。喜欢分享日常，段子梗图大多来源于QQ空间与微信群聊，点赞转推梗图梗文不代表本人的意见 ，如有侵权请私信删除。最最最最喜欢对咱最好的人 @vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 85,
+                "username": "vu_yoyo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pocaro…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pocarosa2381.xiaoyaoniang.com",
+                "start": 0,
+                "url": "https://t.co/xUAoJzmKgp"
+              }
+            ]
+          }
+        },
+        "id": "1429829081684537345",
+        "location": "上水",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1849349107871330725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845026694765346817/mJG2NgwD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14676,
+          "following_count": 10826,
+          "like_count": 89041,
+          "listed_count": 45,
+          "tweet_count": 85517
+        },
+        "url": "https://t.co/xUAoJzmKgp",
+        "username": "Rabbubble550W",
+        "verified": true
+      }
+    ]
+  }
+}

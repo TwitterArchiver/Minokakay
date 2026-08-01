@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1963922210239975682",
+    "created_at": "2025-09-05T15:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T16:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963990737533673768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "KagurazaAkira"
+        },
+        {
+          "end": 25,
+          "id": "1919296206381170688",
+          "start": 15,
+          "username": "juhao0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963990737533673768",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963922210239975682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazaAkira @juhao0721 😭😭😭😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1963922210239975682].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1963922210239975682",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1963922210239975682"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1963922210239975682",
+        "created_at": "2025-09-05T15:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T16:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963990737533673768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazaAkira"
+            },
+            {
+              "end": 25,
+              "id": "1919296206381170688",
+              "start": 15,
+              "username": "juhao0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963990737533673768",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963922210239975682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazaAkira @juhao0721 😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复/美白/减肥/促智找 @ChosekiNoraneko，我在做客服 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 86,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9390,
+          "following_count": 935,
+          "like_count": 44606,
+          "listed_count": 33,
+          "media_count": 1397,
+          "tweet_count": 20758
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "我17岁没成年，推特不会给我推送黄色内容，我既不会传播淫秽物品也不可能拍。第二我是顺直男，性取向正常和任何🏳️‍🌈圈子没有任何关系。第三我没有也不会药物滥用，事实上这些年我一直在劝阻大家进行类似行为。第四，我有精神病。第五，我爱党爱国爱社会主义，请不要给我扣上反革命的帽子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/SFZpOvz5Se"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重庆市渝北区红锦大道60号",
+        "name": "翎野 游戳🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963655595862757381/ZQ_ObJTm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7916,
+          "following_count": 1405,
+          "like_count": 45543,
+          "listed_count": 11,
+          "media_count": 3334,
+          "tweet_count": 27110
+        },
+        "url": "https://t.co/SFZpOvz5Se",
+        "username": "KagurazaAkira",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-05T07:42:19.000Z",
+        "description": "全是负能量/对象 @KagurazakaAzure",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "KagurazakaAzure"
+              }
+            ]
+          }
+        },
+        "id": "1919296206381170688",
+        "location": "翎家",
+        "name": "baka_0v0",
+        "pinned_tweet_id": "1958538045520830802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958939031838011392/Dlid9juR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 75,
+          "like_count": 2089,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 811
+        },
+        "username": "juhao0721",
+        "verified": false
+      }
+    ]
+  }
+}

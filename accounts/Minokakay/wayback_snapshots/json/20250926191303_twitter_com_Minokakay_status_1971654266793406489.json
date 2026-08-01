@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1971427678797651969"
+      ],
+      "media_source_tweet_id": [
+        "1971427814852395310"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1971654266793406489",
+    "created_at": "2025-09-26T19:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T20:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971654266793406489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693450364341948416",
+          "start": 3,
+          "username": "igeekbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ySqhF72dBZ",
+          "end": 48,
+          "expanded_url": "https://x.com/igeekbb/status/1971427814852395310/video/1",
+          "media_key": "13_1971427678797651969",
+          "start": 25,
+          "url": "https://t.co/ySqhF72dBZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971654266793406489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971427814852395310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igeekbb: 无人驾驶终于干了件人事 https://t.co/ySqhF72dBZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17866,
+        "height": 1920,
+        "media_key": "13_1971427678797651969",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1971427678797651969/img/53mHE-_Pcx7J8QLq.jpg",
+        "public_metrics": {
+          "view_count": 76551
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971427678797651969/vid/avc1/320x568/8DgO2CEbmiArkDrt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971427678797651969/vid/avc1/720x1280/g_s-L6T0Zo5KmzSO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1971427678797651969/pl/dqZiCK1LUPVwCuKL.m3u8?v=069"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971427678797651969/vid/avc1/480x852/bY0QywV8QBx_euuP.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971427678797651969/vid/avc1/1080x1920/zwdMr4Qo9WlQ3uHa.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971427678797651969"
+          ],
+          "media_source_tweet_id": [
+            "1971427814852395310"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1971654266793406489",
+        "created_at": "2025-09-26T19:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T20:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971654266793406489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693450364341948416",
+              "start": 3,
+              "username": "igeekbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ySqhF72dBZ",
+              "end": 48,
+              "expanded_url": "https://x.com/igeekbb/status/1971427814852395310/video/1",
+              "media_key": "13_1971427678797651969",
+              "start": 25,
+              "url": "https://t.co/ySqhF72dBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971654266793406489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971427814852395310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igeekbb: 无人驾驶终于干了件人事 https://t.co/ySqhF72dBZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971427678797651969"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "1971427814852395310",
+        "created_at": "2025-09-26T04:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T05:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971427814852395310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ySqhF72dBZ",
+              "end": 35,
+              "expanded_url": "https://x.com/igeekbb/status/1971427814852395310/video/1",
+              "media_key": "13_1971427678797651969",
+              "start": 12,
+              "url": "https://t.co/ySqhF72dBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971427814852395310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 157361,
+          "like_count": 495,
+          "quote_count": 7,
+          "reply_count": 37,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "无人驾驶终于干了件人事 https://t.co/ySqhF72dBZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX 长居🇭🇰🇯🇵🇹🇭买HRT补佳乐色普龙诺坤复/减肥/促智找 @ChosekiNoraneko，全球可寄，我朋友开的我在做客服。买电子烟找@weita2024。买抗癌药物找@LuciusPharmacy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "LuciusPharmacy"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10322,
+          "following_count": 943,
+          "like_count": 44674,
+          "listed_count": 34,
+          "media_count": 1429,
+          "tweet_count": 21295
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51848,
+          "following_count": 1,
+          "like_count": 6638,
+          "listed_count": 205,
+          "media_count": 5272,
+          "tweet_count": 8029
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

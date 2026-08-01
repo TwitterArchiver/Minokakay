@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1895465677114490967",
+    "created_at": "2025-02-28T13:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T14:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895467414097367394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843510989964369920",
+          "start": 0,
+          "username": "mylzhichuanggao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895467414097367394",
+    "in_reply_to_user_id": "1843510989964369920",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895465677114490967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mylzhichuanggao 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1895465677114490967",
+        "created_at": "2025-02-28T13:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T14:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895467414097367394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843510989964369920",
+              "start": 0,
+              "username": "mylzhichuanggao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895467414097367394",
+        "in_reply_to_user_id": "1843510989964369920",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895465677114490967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mylzhichuanggao 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843510989964369920",
+        "conversation_id": "1895465677114490967",
+        "created_at": "2025-02-28T13:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T14:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895465677114490967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Caroline_9870/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Caroline_9870/status/1895444861727482158",
+              "start": 16,
+              "url": "https://t.co/JEY8vk2a8x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895465677114490967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895444861727482158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝你的赛博榨菜可能要休学了😭 https://t.co/JEY8vk2a8x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈 https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 99,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 76,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay （日雌泰补色诺",
+        "pinned_tweet_id": "1891554377909010835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5250,
+          "following_count": 812,
+          "like_count": 36708,
+          "listed_count": 26,
+          "media_count": 1023,
+          "tweet_count": 16416
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-08T04:37:47.000Z",
+        "description": "无证含糖mtx，hrt2025.1.11/08捏/新东方小厨娘进修中(゜∇   °)/什么都发一点/酒鬼🥂/中强度赛博碎碎念/事一个一个一个绝望的文盲啊啊啊/喝醉了会乱发推耍酒疯🙏🙏/超大号互联网垃圾桶/偶尔会哈气🥲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaajiancaipifa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaajiancaipifa1",
+                "start": 0,
+                "url": "https://t.co/356g9XFjWy"
+              }
+            ]
+          }
+        },
+        "id": "1843510989964369920",
+        "location": "距离你1.14514km",
+        "name": "byd劳朢天天做菜翻大车♿♿🍥",
+        "pinned_tweet_id": "1895264351667527923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854830853115068416/dQAVE-1F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 164,
+          "like_count": 6851,
+          "listed_count": 2,
+          "media_count": 497,
+          "tweet_count": 3492
+        },
+        "url": "https://t.co/356g9XFjWy",
+        "username": "mylzhichuanggao",
+        "verified": false
+      }
+    ]
+  }
+}

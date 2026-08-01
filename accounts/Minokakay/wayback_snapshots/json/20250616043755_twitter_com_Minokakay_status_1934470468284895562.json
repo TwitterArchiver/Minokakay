@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1934466970067546194",
+    "created_at": "2025-06-16T04:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T05:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934470468284895562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1263250188757426176",
+          "start": 0,
+          "username": "yunyunyunnya"
+        },
+        {
+          "end": 29,
+          "id": "1373755792948531200",
+          "start": 14,
+          "username": "_ASimpleSmile_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934470468284895562",
+    "in_reply_to_user_id": "1263250188757426176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934470037273993327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunyunyunnya @_ASimpleSmile_ 半岛也是岛"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1934470037273993327].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934470037273993327",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1934470037273993327"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1934466970067546194",
+        "created_at": "2025-06-16T04:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T05:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934470468284895562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1263250188757426176",
+              "start": 0,
+              "username": "yunyunyunnya"
+            },
+            {
+              "end": 29,
+              "id": "1373755792948531200",
+              "start": 14,
+              "username": "_ASimpleSmile_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934470468284895562",
+        "in_reply_to_user_id": "1263250188757426176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934470037273993327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunyunyunnya @_ASimpleSmile_ 半岛也是岛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1933516848781537400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7711,
+          "following_count": 879,
+          "like_count": 43524,
+          "listed_count": 30,
+          "media_count": 1167,
+          "tweet_count": 18761
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-20T23:28:22.000Z",
+        "description": "在你眼中的我 是什么颜色的呢",
+        "id": "1263250188757426176",
+        "name": "口腔溃疡！！！！！！",
+        "pinned_tweet_id": "1854636951338631206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925180057993334786/DIfqYJRH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 1216,
+          "like_count": 114457,
+          "listed_count": 3,
+          "media_count": 695,
+          "tweet_count": 8307
+        },
+        "username": "yunyunyunnya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T21:58:06.000Z",
+        "description": "请叫我阿咸！|| 18岁 是在中中国人 || 大概是mtx || 182㎝ 66㎏ || 日常推为主 偶尔会发女装照 || meme享受者 || 颜文字享受者(✪ω✪) || 太鼓の達人 2024夏九段金合格|| 中文/EN || 想要有很多朋友 所以欢迎互fo欢迎互fo❤️ || 分身@ASimpleSmile2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 144,
+                "username": "ASimpleSmile2"
+              }
+            ]
+          }
+        },
+        "id": "1373755792948531200",
+        "location": "卧室",
+        "name": "咸咸的",
+        "pinned_tweet_id": "1833902162956701931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932400929476911104/Ij45JsQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 937,
+          "like_count": 94007,
+          "listed_count": 3,
+          "media_count": 1204,
+          "tweet_count": 6733
+        },
+        "username": "_ASimpleSmile_",
+        "verified": false
+      }
+    ]
+  }
+}

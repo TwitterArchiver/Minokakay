@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012214477576359936"
+      ],
+      "media_source_tweet_id": [
+        "2012214482697916743"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2012632545620561986",
+    "created_at": "2026-01-17T21:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T22:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012632545620561986"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "Twitter",
+          "probability": 0.7989,
+          "start": 11,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1156190547452628994",
+          "start": 3,
+          "username": "rnc1_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1kWEAymrtV",
+          "end": 53,
+          "expanded_url": "https://x.com/rnc1_/status/2012214482697916743/photo/1",
+          "media_key": "3_2012214477576359936",
+          "start": 30,
+          "url": "https://t.co/1kWEAymrtV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012632545620561986",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2446
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012214482697916743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rnc1_: Twitterおかしいから再起動なう https://t.co/1kWEAymrtV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 974,
+        "media_key": "3_2012214477576359936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-zSZ_vWUAAVTB4.jpg",
+        "width": 708
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012214477576359936"
+          ],
+          "media_source_tweet_id": [
+            "2012214482697916743"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2012632545620561986",
+        "created_at": "2026-01-17T21:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T22:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012632545620561986"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Twitter",
+              "probability": 0.7989,
+              "start": 11,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1156190547452628994",
+              "start": 3,
+              "username": "rnc1_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kWEAymrtV",
+              "end": 53,
+              "expanded_url": "https://x.com/rnc1_/status/2012214482697916743/photo/1",
+              "media_key": "3_2012214477576359936",
+              "start": 30,
+              "url": "https://t.co/1kWEAymrtV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012632545620561986",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2446
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012214482697916743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rnc1_: Twitterおかしいから再起動なう https://t.co/1kWEAymrtV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012214477576359936"
+          ]
+        },
+        "author_id": "1156190547452628994",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2012214482697916743",
+        "created_at": "2026-01-16T17:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T18:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012214482697916743"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Twitter",
+              "probability": 0.8382,
+              "start": 0,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kWEAymrtV",
+              "end": 42,
+              "expanded_url": "https://x.com/rnc1_/status/2012214482697916743/photo/1",
+              "media_key": "3_2012214477576359936",
+              "start": 19,
+              "url": "https://t.co/1kWEAymrtV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012214482697916743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2849,
+          "impression_count": 4057683,
+          "like_count": 71103,
+          "quote_count": 225,
+          "reply_count": 338,
+          "retweet_count": 2446
+        },
+        "reply_settings": "everyone",
+        "text": "Twitterおかしいから再起動なう https://t.co/1kWEAymrtV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️咨询补色诺凝胶等看https://t.co/9scN5m8csf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chosekipharmacy",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/chosekipharmacy",
+                "start": 51,
+                "url": "https://t.co/9scN5m8csf"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2007855045178716540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13829,
+          "following_count": 1023,
+          "like_count": 44944,
+          "listed_count": 51,
+          "media_count": 1823,
+          "tweet_count": 25489
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-30T13:11:22.000Z",
+        "description": "最近はずっと全国対戦にいます / チームSnω @teamsn3_kota / 京音3rd（ＹＪ）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "teamsn3_kota"
+              }
+            ]
+          }
+        },
+        "id": "1156190547452628994",
+        "name": "md",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999529317378949120/bVmGtR1Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 249,
+          "like_count": 1573,
+          "listed_count": 0,
+          "media_count": 745,
+          "tweet_count": 1806
+        },
+        "username": "rnc1_",
+        "verified": false
+      }
+    ]
+  }
+}

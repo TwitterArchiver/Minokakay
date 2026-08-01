@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596153057282",
+          "name": "Alcohol - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1060269025026961409",
+          "name": "Horoyoi (ほろよい)"
+        }
+      }
+    ],
+    "conversation_id": "1837004778519609585",
+    "created_at": "2024-09-20T05:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T06:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837008078656655472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1701426110083563520",
+          "start": 0,
+          "username": "wongkong00538"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837008078656655472",
+    "in_reply_to_user_id": "1701426110083563520",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837007207453577340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wongkong00538 只是調製酒，ほろよい这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596153057282",
+              "name": "Alcohol - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1060269025026961409",
+              "name": "Horoyoi (ほろよい)"
+            }
+          }
+        ],
+        "conversation_id": "1837004778519609585",
+        "created_at": "2024-09-20T05:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T06:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837008078656655472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1701426110083563520",
+              "start": 0,
+              "username": "wongkong00538"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837008078656655472",
+        "in_reply_to_user_id": "1701426110083563520",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837007207453577340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wongkong00538 只是調製酒，ほろよい这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701426110083563520",
+        "conversation_id": "1837004778519609585",
+        "created_at": "2024-09-20T05:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T06:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837007207453577340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837007207453577340",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837004778519609585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 喝酒🤒你还喜欢喝酒？什么酒？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高三生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 836,
+          "like_count": 15410,
+          "listed_count": 3,
+          "tweet_count": 6515
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T02:43:02.000Z",
+        "description": "孤独摇滚波奇厨|男|社畜|欢迎互关好友私信😃|支持泽子🇺🇦拷打京子|支黑精日请绕道|上推只为看美图|最喜欢pantyhose😎👍|kingwalker33428|孤独摇滚快快出第二季呀呀😭😡",
+        "id": "1701426110083563520",
+        "location": "西瓜种植基地",
+        "name": "西瓜🍉watermelon",
+        "pinned_tweet_id": "1828801722585936325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833656090073931776/G5f-LZjj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 740,
+          "like_count": 25429,
+          "listed_count": 0,
+          "tweet_count": 10041
+        },
+        "username": "wongkong00538",
+        "verified": false
+      }
+    ]
+  }
+}

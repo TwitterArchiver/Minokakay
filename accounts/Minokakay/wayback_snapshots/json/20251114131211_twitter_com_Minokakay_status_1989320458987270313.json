@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1989174846325182942",
+    "created_at": "2025-11-14T13:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T14:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989320458987270313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1646829104078143494",
+          "start": 0,
+          "username": "8EY3rZMN2k78200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989320458987270313",
+    "in_reply_to_user_id": "1646829104078143494",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989307891292225703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8EY3rZMN2k78200 姓林的都是一家人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1989174846325182942",
+        "created_at": "2025-11-14T13:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T14:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989320458987270313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1646829104078143494",
+              "start": 0,
+              "username": "8EY3rZMN2k78200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989320458987270313",
+        "in_reply_to_user_id": "1646829104078143494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989307891292225703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8EY3rZMN2k78200 姓林的都是一家人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646829104078143494",
+        "conversation_id": "1989174846325182942",
+        "created_at": "2025-11-14T12:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989307891292225703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989307891292225703",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 285,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989174846325182942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 追追族譜說不定還是親戚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12061,
+          "following_count": 1006,
+          "like_count": 45023,
+          "listed_count": 42,
+          "media_count": 1537,
+          "tweet_count": 22792
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-14T10:54:50.000Z",
+        "description": "資工（computer science）大學生，喜歡梗圖、小說、幻想、女裝，喜歡和各種有趣的人聊天，蘿莉控+百合控，intp，不約不線下，都會回跟，會聊政治，但僅限回覆，盡量不吵到不聊政治的人，青鳥眼中的中共同路人，粉紅眼中的台獨，私信非廣告都會回，但不會秒回\n(我不是beautifulsoup的作者，只是拿來當暱稱)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BeautifulSoup8",
+                "end": 23,
+                "expanded_url": "http://t.me/BeautifulSoup8",
+                "start": 0,
+                "url": "https://t.co/07s4Q6MeA8"
+              }
+            ]
+          }
+        },
+        "id": "1646829104078143494",
+        "location": "台灣 台北 Taiwan Taipei ",
+        "name": "湯湯 beautiful soup（求互fo!!）",
+        "pinned_tweet_id": "1864690737667035216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693455888768745472/P3GUay9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2021,
+          "following_count": 4289,
+          "like_count": 99605,
+          "listed_count": 10,
+          "media_count": 791,
+          "tweet_count": 10574
+        },
+        "url": "https://t.co/07s4Q6MeA8",
+        "username": "8EY3rZMN2k78200",
+        "verified": false
+      }
+    ]
+  }
+}

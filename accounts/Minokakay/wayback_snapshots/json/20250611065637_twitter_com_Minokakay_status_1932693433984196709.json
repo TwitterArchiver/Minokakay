@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932605791598690304",
+        "3_1932605791804215296",
+        "3_1932605792009740289",
+        "3_1932605792664104962"
+      ],
+      "media_source_tweet_id": [
+        "1932605795134513290",
+        "1932605795134513290",
+        "1932605795134513290",
+        "1932605795134513290"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1932693433984196709",
+    "created_at": "2025-06-11T06:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T07:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932693433984196709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1798724969695977472",
+          "start": 3,
+          "username": "overdosewiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GxlKWSaDC2",
+          "end": 41,
+          "expanded_url": "https://x.com/overdosewiki/status/1932605795134513290/photo/1",
+          "media_key": "3_1932605791598690304",
+          "start": 18,
+          "url": "https://t.co/GxlKWSaDC2"
+        },
+        {
+          "display_url": "pic.x.com/GxlKWSaDC2",
+          "end": 41,
+          "expanded_url": "https://x.com/overdosewiki/status/1932605795134513290/photo/1",
+          "media_key": "3_1932605791804215296",
+          "start": 18,
+          "url": "https://t.co/GxlKWSaDC2"
+        },
+        {
+          "display_url": "pic.x.com/GxlKWSaDC2",
+          "end": 41,
+          "expanded_url": "https://x.com/overdosewiki/status/1932605795134513290/photo/1",
+          "media_key": "3_1932605792009740289",
+          "start": 18,
+          "url": "https://t.co/GxlKWSaDC2"
+        },
+        {
+          "display_url": "pic.x.com/GxlKWSaDC2",
+          "end": 41,
+          "expanded_url": "https://x.com/overdosewiki/status/1932605795134513290/photo/1",
+          "media_key": "3_1932605792664104962",
+          "start": 18,
+          "url": "https://t.co/GxlKWSaDC2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932693433984196709",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932605795134513290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdosewiki: https://t.co/GxlKWSaDC2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 292,
+        "media_key": "3_1932605791598690304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtH-umMaQAASdj4.jpg",
+        "width": 632
+      },
+      {
+        "height": 282,
+        "media_key": "3_1932605791804215296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtH-um9aUAACyjA.jpg",
+        "width": 622
+      },
+      {
+        "height": 466,
+        "media_key": "3_1932605792009740289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtH-unuaYAEHyls.jpg",
+        "width": 418
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1932605792664104962",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtH-uqKbMAIsoA3.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932605791598690304",
+            "3_1932605791804215296",
+            "3_1932605792009740289",
+            "3_1932605792664104962"
+          ],
+          "media_source_tweet_id": [
+            "1932605795134513290",
+            "1932605795134513290",
+            "1932605795134513290",
+            "1932605795134513290"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1932693433984196709",
+        "created_at": "2025-06-11T06:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T07:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932693433984196709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1798724969695977472",
+              "start": 3,
+              "username": "overdosewiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GxlKWSaDC2",
+              "end": 41,
+              "expanded_url": "https://x.com/overdosewiki/status/1932605795134513290/photo/1",
+              "media_key": "3_1932605791598690304",
+              "start": 18,
+              "url": "https://t.co/GxlKWSaDC2"
+            },
+            {
+              "display_url": "pic.x.com/GxlKWSaDC2",
+              "end": 41,
+              "expanded_url": "https://x.com/overdosewiki/status/1932605795134513290/photo/1",
+              "media_key": "3_1932605791804215296",
+              "start": 18,
+              "url": "https://t.co/GxlKWSaDC2"
+            },
+            {
+              "display_url": "pic.x.com/GxlKWSaDC2",
+              "end": 41,
+              "expanded_url": "https://x.com/overdosewiki/status/1932605795134513290/photo/1",
+              "media_key": "3_1932605792009740289",
+              "start": 18,
+              "url": "https://t.co/GxlKWSaDC2"
+            },
+            {
+              "display_url": "pic.x.com/GxlKWSaDC2",
+              "end": 41,
+              "expanded_url": "https://x.com/overdosewiki/status/1932605795134513290/photo/1",
+              "media_key": "3_1932605792664104962",
+              "start": 18,
+              "url": "https://t.co/GxlKWSaDC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932693433984196709",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932605795134513290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdosewiki: https://t.co/GxlKWSaDC2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932605791598690304",
+            "3_1932605791804215296",
+            "3_1932605792009740289",
+            "3_1932605792664104962"
+          ]
+        },
+        "author_id": "1798724969695977472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1932605795134513290",
+        "created_at": "2025-06-11T01:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T02:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932605795134513290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GxlKWSaDC2",
+              "end": 23,
+              "expanded_url": "https://x.com/overdosewiki/status/1932605795134513290/photo/1",
+              "media_key": "3_1932605791598690304",
+              "start": 0,
+              "url": "https://t.co/GxlKWSaDC2"
+            },
+            {
+              "display_url": "pic.x.com/GxlKWSaDC2",
+              "end": 23,
+              "expanded_url": "https://x.com/overdosewiki/status/1932605795134513290/photo/1",
+              "media_key": "3_1932605791804215296",
+              "start": 0,
+              "url": "https://t.co/GxlKWSaDC2"
+            },
+            {
+              "display_url": "pic.x.com/GxlKWSaDC2",
+              "end": 23,
+              "expanded_url": "https://x.com/overdosewiki/status/1932605795134513290/photo/1",
+              "media_key": "3_1932605792009740289",
+              "start": 0,
+              "url": "https://t.co/GxlKWSaDC2"
+            },
+            {
+              "display_url": "pic.x.com/GxlKWSaDC2",
+              "end": 23,
+              "expanded_url": "https://x.com/overdosewiki/status/1932605795134513290/photo/1",
+              "media_key": "3_1932605792664104962",
+              "start": 0,
+              "url": "https://t.co/GxlKWSaDC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932605795134513290",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1412,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GxlKWSaDC2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1931676572479844795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7583,
+          "following_count": 877,
+          "like_count": 43387,
+          "listed_count": 29,
+          "media_count": 1143,
+          "tweet_count": 18579
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "https://t.co/6fVCD4QQ92官方站点\n有关问题可以联系我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "方生方死 方死方生",
+        "name": "Overdosewiki",
+        "pinned_tweet_id": "1912323001305165928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899860345377665024/_7eudjIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3057,
+          "following_count": 12,
+          "like_count": 365,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 340
+        },
+        "url": "https://t.co/6fVCD4QQ92",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

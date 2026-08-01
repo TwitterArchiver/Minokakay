@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1965830441652687307",
+    "created_at": "2025-09-10T17:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T18:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965830441652687307"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "Lucius Pharmaceutics",
+          "probability": 0.5496,
+          "start": 20,
+          "type": "Other"
+        },
+        {
+          "end": 114,
+          "normalized_text": "Southeast Asia",
+          "probability": 0.9122,
+          "start": 101,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1965812721078972416",
+          "start": 3,
+          "username": "LuciusPharmacy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965830441652687307",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965827852030619682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LuciusPharmacy: Lucius Pharmaceutics produces some of the highest quality generic medications in Southeast Asia at competitive prices.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1321,
+        "media_key": "3_1965827844686454784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0gGAmQboAAy_60.jpg",
+        "width": 1224
+      },
+      {
+        "height": 1299,
+        "media_key": "3_1965827844686356481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0gGAmQaIAE5Ww3.jpg",
+        "width": 1224
+      },
+      {
+        "height": 1306,
+        "media_key": "3_1965827844661260288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0gGAmKbMAAgTya.jpg",
+        "width": 1224
+      },
+      {
+        "height": 1297,
+        "media_key": "3_1965827844661235712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0gGAmKa0AA-Ry2.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1965830441652687307",
+        "created_at": "2025-09-10T17:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T18:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965830441652687307"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "Lucius Pharmaceutics",
+              "probability": 0.5496,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 114,
+              "normalized_text": "Southeast Asia",
+              "probability": 0.9122,
+              "start": 101,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1965812721078972416",
+              "start": 3,
+              "username": "LuciusPharmacy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965830441652687307",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965827852030619682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LuciusPharmacy: Lucius Pharmaceutics produces some of the highest quality generic medications in Southeast Asia at competitive prices.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965827844686454784",
+            "3_1965827844686356481",
+            "3_1965827844661260288",
+            "3_1965827844661235712"
+          ]
+        },
+        "author_id": "1965812721078972416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10039822053",
+              "name": "DHL"
+            }
+          }
+        ],
+        "conversation_id": "1965827852030619682",
+        "created_at": "2025-09-10T17:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T18:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965827852030619682"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Lucius Pharmaceutics",
+              "probability": 0.6565,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 94,
+              "normalized_text": "Southeast Asia",
+              "probability": 0.8835,
+              "start": 81,
+              "type": "Place"
+            },
+            {
+              "end": 143,
+              "normalized_text": "EMS",
+              "probability": 0.4527,
+              "start": 141,
+              "type": "Organization"
+            },
+            {
+              "end": 150,
+              "normalized_text": "DHL",
+              "probability": 0.5885,
+              "start": 148,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LLnAc8IxHM",
+              "end": 292,
+              "expanded_url": "https://x.com/LuciusPharmacy/status/1965827852030619682/photo/1",
+              "media_key": "3_1965827844686454784",
+              "start": 269,
+              "url": "https://t.co/LLnAc8IxHM"
+            },
+            {
+              "display_url": "pic.x.com/LLnAc8IxHM",
+              "end": 292,
+              "expanded_url": "https://x.com/LuciusPharmacy/status/1965827852030619682/photo/1",
+              "media_key": "3_1965827844686356481",
+              "start": 269,
+              "url": "https://t.co/LLnAc8IxHM"
+            },
+            {
+              "display_url": "pic.x.com/LLnAc8IxHM",
+              "end": 292,
+              "expanded_url": "https://x.com/LuciusPharmacy/status/1965827852030619682/photo/1",
+              "media_key": "3_1965827844661260288",
+              "start": 269,
+              "url": "https://t.co/LLnAc8IxHM"
+            },
+            {
+              "display_url": "pic.x.com/LLnAc8IxHM",
+              "end": 292,
+              "expanded_url": "https://x.com/LuciusPharmacy/status/1965827852030619682/photo/1",
+              "media_key": "3_1965827844661235712",
+              "start": 269,
+              "url": "https://t.co/LLnAc8IxHM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965827852030619682",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Lucius Pharmaceutics produces some of the highest quality generic medications in Southeast Asia at competitive prices. We ship worldwide via EMS or DHL.\n\nThis is our product list. If you require any medication, please contact us through X's private messaging function. https://t.co/LLnAc8IxHM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复/美白/减肥/促智找 @ChosekiNoraneko，找我不回复。买电子烟找@weita2024。买抗癌药物找@LuciusPharmacy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 86,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "weita2024"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "LuciusPharmacy"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1965082149155184692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9484,
+          "following_count": 938,
+          "like_count": 44512,
+          "listed_count": 32,
+          "media_count": 1408,
+          "tweet_count": 20851
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-10T16:21:00.000Z",
+        "description": "Lucius Pharmacy is a generic pharmaceutical manufacturer based in Laos. We offer over 150 medications for chronic diseases and cancer. we can ship worldwide.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lucius-pharmaceuticals.com",
+                "end": 23,
+                "expanded_url": "https://lucius-pharmaceuticals.com/",
+                "start": 0,
+                "url": "https://t.co/6CtQjzcbQ7"
+              }
+            ]
+          }
+        },
+        "id": "1965812721078972416",
+        "location": "Hong Kong",
+        "name": "Lucius Pharmacy",
+        "pinned_tweet_id": "1965827852030619682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965813018677379072/KQgrqO7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/6CtQjzcbQ7",
+        "username": "LuciusPharmacy",
+        "verified": false
+      }
+    ]
+  }
+}

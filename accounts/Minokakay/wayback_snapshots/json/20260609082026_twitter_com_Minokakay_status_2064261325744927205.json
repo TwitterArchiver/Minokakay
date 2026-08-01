@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2064026098934120814",
+    "created_at": "2026-06-09T08:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064261325744927205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "90397226",
+          "start": 0,
+          "username": "windtrack_QH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064261325744927205",
+    "in_reply_to_user_id": "90397226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064253264317874245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@windtrack_QH 重建没问题的，别重建些粗制滥造的就行，仿古都仿不好。\n很多古建筑都是各个朝代重新修缮的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2064026098934120814",
+        "created_at": "2026-06-09T08:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064261325744927205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "90397226",
+              "start": 0,
+              "username": "windtrack_QH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064261325744927205",
+        "in_reply_to_user_id": "90397226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064253264317874245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@windtrack_QH 重建没问题的，别重建些粗制滥造的就行，仿古都仿不好。\n很多古建筑都是各个朝代重新修缮的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "90397226",
+        "conversation_id": "2064026098934120814",
+        "created_at": "2026-06-09T07:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064253264317874245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064253264317874245",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064026098934120814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 😂问题是你发这个下鸭神社也是近代重建啊，里面大部分建筑也都是江户时期重建的，国内古建筑群比这个老的不多的是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14351,
+          "following_count": 1044,
+          "like_count": 44001,
+          "listed_count": 48,
+          "media_count": 1835,
+          "tweet_count": 26190
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-16T13:54:48.000Z",
+        "description": "80后北京胖子，中共党员，爱好吃饭、睡觉、电子游戏、动画、电影、历史、古文。推文以爱好为主，常有政治推。特别喜欢喷人和打脸。",
+        "id": "90397226",
+        "location": "Beijing China",
+        "name": "windtrack",
+        "pinned_tweet_id": "1966492904307777992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/787557292115832832/S3ktKpaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2357,
+          "following_count": 769,
+          "like_count": 4561,
+          "listed_count": 49,
+          "media_count": 1751,
+          "tweet_count": 30658
+        },
+        "username": "windtrack_QH",
+        "verified": false
+      }
+    ]
+  }
+}

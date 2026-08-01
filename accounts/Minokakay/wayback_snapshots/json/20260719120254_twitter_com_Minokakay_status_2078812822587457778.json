@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2078802254313005178",
+    "created_at": "2026-07-19T12:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078812822587457778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4223840896",
+          "start": 0,
+          "username": "dreamhawk_cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078812822587457778",
+    "in_reply_to_user_id": "4223840896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078810697845420049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dreamhawk_cn 郑州是这样的，成都就高度依赖飞机了，毕竟去上海都算横贯中国。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2078802254313005178",
+        "created_at": "2026-07-19T12:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078812822587457778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4223840896",
+              "start": 0,
+              "username": "dreamhawk_cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078812822587457778",
+        "in_reply_to_user_id": "4223840896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078810697845420049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreamhawk_cn 郑州是这样的，成都就高度依赖飞机了，毕竟去上海都算横贯中国。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4223840896",
+        "conversation_id": "2078802254313005178",
+        "created_at": "2026-07-19T11:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078810697845420049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078810697845420049",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078809865750012032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 我坐长途高铁次数不多，其实在不赶时间的情况下，我更偏好硬卧下铺或者软卧。\n至于飞机...因为机建燃油总是涨价，且郑州出发总是能出一些价格很实惠的火车票，因此我成年之后到目前为止就没坐过飞机（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14421,
+          "following_count": 1080,
+          "like_count": 43821,
+          "listed_count": 49,
+          "media_count": 1847,
+          "tweet_count": 26295
+        },
+        "url": "",
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2015-11-19T05:00:10.000Z",
+        "description": "Male/INFJ-T/Bi/自立、自强、自由/😘Never lament, stride forever./😑负能里:@dreamhawk_cn_in/✍️匿名提问：https://t.co/tCv3oXISZG\n「立身天邊，安守地緣。守先待後，不激不隨。」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "dreamhawk_cn_in"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/garnetstar_cn",
+                "end": 107,
+                "expanded_url": "https://ngl.link/garnetstar_cn",
+                "start": 84,
+                "url": "https://t.co/tCv3oXISZG"
+              }
+            ]
+          }
+        },
+        "id": "4223840896",
+        "location": "Henan/Canton, P.R.China",
+        "name": "DreamHawk🦅🍭",
+        "pinned_tweet_id": "1933387075707154766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071568238555643904/imzMO2WZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 1062,
+          "like_count": 99765,
+          "listed_count": 6,
+          "media_count": 938,
+          "tweet_count": 12489
+        },
+        "url": "",
+        "username": "dreamhawk_cn",
+        "verified": false
+      }
+    ]
+  }
+}

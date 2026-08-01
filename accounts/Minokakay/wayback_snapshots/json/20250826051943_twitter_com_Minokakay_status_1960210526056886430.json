@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960063498781966336"
+      ],
+      "media_source_tweet_id": [
+        "1960063503550787933"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1960210526056886430",
+    "created_at": "2025-08-26T05:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T06:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960210526056886430"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "镜音连"
+        },
+        {
+          "end": 63,
+          "start": 60,
+          "tag": "正太"
+        },
+        {
+          "end": 69,
+          "start": 64,
+          "tag": "正太弟弟"
+        },
+        {
+          "end": 75,
+          "start": 70,
+          "tag": "可爱正太"
+        },
+        {
+          "end": 83,
+          "start": 76,
+          "tag": "可爱的男孩子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1891503827624615936",
+          "start": 3,
+          "username": "Luheiofficial3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wf3oTFZgOT",
+          "end": 107,
+          "expanded_url": "https://x.com/Luheiofficial3/status/1960063503550787933/photo/1",
+          "media_key": "3_1960063498781966336",
+          "start": 84,
+          "url": "https://t.co/Wf3oTFZgOT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960210526056886430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960063503550787933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Luheiofficial3: 你们之前要的魔爪对比图喵~张嘴，给我完全吃下去\n求求你们转转推吧呜呜\n#镜音连 #正太 #正太弟弟 #可爱正太 #可爱的男孩子 https://t.co/Wf3oTFZgOT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960210526056886430].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960210526056886430",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960210526056886430"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960063498781966336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzOLXgYbwAAv7Uq.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960063498781966336"
+          ]
+        },
+        "author_id": "1891503827624615936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1960063503550787933",
+        "created_at": "2025-08-25T19:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T20:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960063503550787933"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "镜音连"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "正太"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "正太弟弟"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "可爱正太"
+            },
+            {
+              "end": 63,
+              "start": 56,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wf3oTFZgOT",
+              "end": 87,
+              "expanded_url": "https://x.com/Luheiofficial3/status/1960063503550787933/photo/1",
+              "media_key": "3_1960063498781966336",
+              "start": 64,
+              "url": "https://t.co/Wf3oTFZgOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960063503550787933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 4670,
+          "like_count": 196,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "你们之前要的魔爪对比图喵~张嘴，给我完全吃下去\n求求你们转转推吧呜呜\n#镜音连 #正太 #正太弟弟 #可爱正太 #可爱的男孩子 https://t.co/Wf3oTFZgOT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9093,
+          "following_count": 938,
+          "like_count": 44524,
+          "listed_count": 34,
+          "media_count": 1393,
+          "tweet_count": 20604
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-17T15:04:04.000Z",
+        "description": "这里是辘黑，纯内屏舞萌痴星将，绝赞辉将中之大战潘多拉，擦边、直球、舞萌、梗图什么都发\n还是一样的，图包40块需要的话加QQ喵：1375939960 也可以私信要tg链接来买的",
+        "id": "1891503827624615936",
+        "name": "辘黑（五代目）",
+        "pinned_tweet_id": "1932875727806111779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926755087537324032/hTA0Ws4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6568,
+          "following_count": 520,
+          "like_count": 947,
+          "listed_count": 14,
+          "media_count": 221,
+          "tweet_count": 1086
+        },
+        "username": "Luheiofficial3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2065438758946869403",
+    "created_at": "2026-06-12T14:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T15:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065443271640559896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2061673689192779776",
+          "start": 0,
+          "username": "tyoumeisanbanme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065443271640559896",
+    "in_reply_to_user_id": "2061673689192779776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065438758946869403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tyoumeisanbanme 还有绿车牌更丑呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2065438758946869403",
+        "created_at": "2026-06-12T14:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065443271640559896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2061673689192779776",
+              "start": 0,
+              "username": "tyoumeisanbanme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065443271640559896",
+        "in_reply_to_user_id": "2061673689192779776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065438758946869403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tyoumeisanbanme 还有绿车牌更丑呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061673689192779776",
+        "conversation_id": "2065438758946869403",
+        "created_at": "2026-06-12T14:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065438758946869403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065438758946869403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到路上车上贴的「惊鸿体」字体标签（我觉得是一种惊吓）而且今年出现了一堆特别丑的字体\n科普少民语言的短视频把壮侗语「支」打成「之」下面全都是文盲老登大谈令人发笑之事 \n街上所有的海报全都是AI生成的\n那个蓝车牌也很丑\n回呼市了还有一大堆蘑菇飞机头东北逼要外放手机\n我就觉得中国人完蛋了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14364,
+          "following_count": 1050,
+          "like_count": 44023,
+          "listed_count": 49,
+          "media_count": 1837,
+          "tweet_count": 26219
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-02T05:01:47.000Z",
+        "description": "想帶上你私奔",
+        "id": "2061673689192779776",
+        "location": "Mongolia",
+        "name": "長明轉世三回改叫恆明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061676975585132544/tnl-fGmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 266,
+          "like_count": 1500,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 265
+        },
+        "username": "tyoumeisanbanme",
+        "verified": false
+      }
+    ]
+  }
+}

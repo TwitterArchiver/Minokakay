@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062731078067265537",
+        "3_2062731078054617088"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2062731082626425251",
+    "created_at": "2026-06-05T02:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T03:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062731082626425251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PS4V29l2HD",
+          "end": 27,
+          "expanded_url": "https://x.com/Minokakay/status/2062731082626425251/photo/1",
+          "media_key": "3_2062731078067265537",
+          "start": 4,
+          "url": "https://t.co/PS4V29l2HD"
+        },
+        {
+          "display_url": "pic.x.com/PS4V29l2HD",
+          "end": 27,
+          "expanded_url": "https://x.com/Minokakay/status/2062731082626425251/photo/1",
+          "media_key": "3_2062731078054617088",
+          "start": 4,
+          "url": "https://t.co/PS4V29l2HD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062731082626425251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鱼翅窝 https://t.co/PS4V29l2HD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062731078067265537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBK_JdboAE1D65.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2062731078054617088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBK_JaaoAAwbM9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062731078067265537",
+            "3_2062731078054617088"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2062731082626425251",
+        "created_at": "2026-06-05T02:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062731082626425251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PS4V29l2HD",
+              "end": 27,
+              "expanded_url": "https://x.com/Minokakay/status/2062731082626425251/photo/1",
+              "media_key": "3_2062731078067265537",
+              "start": 4,
+              "url": "https://t.co/PS4V29l2HD"
+            },
+            {
+              "display_url": "pic.x.com/PS4V29l2HD",
+              "end": 27,
+              "expanded_url": "https://x.com/Minokakay/status/2062731082626425251/photo/1",
+              "media_key": "3_2062731078054617088",
+              "start": 4,
+              "url": "https://t.co/PS4V29l2HD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062731082626425251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鱼翅窝 https://t.co/PS4V29l2HD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14318,
+          "following_count": 1048,
+          "like_count": 43993,
+          "listed_count": 48,
+          "media_count": 1824,
+          "tweet_count": 26154
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

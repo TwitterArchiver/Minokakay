@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948584775956267008"
+      ],
+      "media_source_tweet_id": [
+        "1948584786156802111"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1950522183257555163",
+    "created_at": "2025-07-30T11:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T12:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950522183257555163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1810940278468964352",
+          "start": 3,
+          "username": "27rainyseason"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qMgacq9f0p",
+          "end": 47,
+          "expanded_url": "https://x.com/27rainyseason/status/1948584786156802111/photo/1",
+          "media_key": "3_1948584775956267008",
+          "start": 24,
+          "url": "https://t.co/qMgacq9f0p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950522183257555163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948584786156802111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @27rainyseason: 无法选中 https://t.co/qMgacq9f0p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2212,
+        "media_key": "3_1948584775956267008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwrDh5mbgAAnMYh.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948584775956267008"
+          ],
+          "media_source_tweet_id": [
+            "1948584786156802111"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1950522183257555163",
+        "created_at": "2025-07-30T11:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T12:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950522183257555163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1810940278468964352",
+              "start": 3,
+              "username": "27rainyseason"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qMgacq9f0p",
+              "end": 47,
+              "expanded_url": "https://x.com/27rainyseason/status/1948584786156802111/photo/1",
+              "media_key": "3_1948584775956267008",
+              "start": 24,
+              "url": "https://t.co/qMgacq9f0p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950522183257555163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948584786156802111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @27rainyseason: 无法选中 https://t.co/qMgacq9f0p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948584775956267008"
+          ]
+        },
+        "author_id": "1810940278468964352",
+        "conversation_id": "1948584786156802111",
+        "created_at": "2025-07-25T03:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T04:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948584786156802111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qMgacq9f0p",
+              "end": 28,
+              "expanded_url": "https://x.com/27rainyseason/status/1948584786156802111/photo/1",
+              "media_key": "3_1948584775956267008",
+              "start": 5,
+              "url": "https://t.co/qMgacq9f0p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948584786156802111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 80946,
+          "like_count": 593,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "无法选中 https://t.co/qMgacq9f0p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1940009083995873344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8317,
+          "following_count": 909,
+          "like_count": 44421,
+          "listed_count": 32,
+          "media_count": 1340,
+          "tweet_count": 19883
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T07:33:14.000Z",
+        "description": "［我没把握说自己真的是生物、真的在生存什么的］\n\n提问箱https://t.co/xQun8GlnPU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/27rainyseason",
+                "end": 51,
+                "expanded_url": "https://ngl.link/27rainyseason",
+                "start": 28,
+                "url": "https://t.co/xQun8GlnPU"
+              }
+            ]
+          }
+        },
+        "id": "1810940278468964352",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "骑士小鱼🐟",
+        "pinned_tweet_id": "1933049247592857793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950516498772144128/QLGL6VVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 490,
+          "like_count": 8278,
+          "listed_count": 3,
+          "media_count": 384,
+          "tweet_count": 5673
+        },
+        "username": "27rainyseason",
+        "verified": false
+      }
+    ]
+  }
+}

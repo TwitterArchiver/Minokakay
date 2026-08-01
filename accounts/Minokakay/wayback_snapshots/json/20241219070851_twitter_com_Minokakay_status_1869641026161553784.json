@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431391913815408642",
+          "name": "Chiikawa"
+        }
+      }
+    ],
+    "conversation_id": "1869641026161553784",
+    "created_at": "2024-12-19T07:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T08:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869641026161553784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1016552943774920704",
+          "start": 3,
+          "username": "Akinoyo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869641026161553784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869396248660443594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Akinoyo_: 200fo了……想搞一个抽奖，但是由于主播现在穷的叮当响所以决定抽一些主播的小物件\n一等奖：罗技k380键盘或者gpw一代 x1\n二等奖：日版chiikawa小八玩偶 x1\n三等奖：10r x 3\n实体物品邮费自理\n呜呜呜主播目前只有这点能力希望不要…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "1869641026161553784",
+        "created_at": "2024-12-19T07:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T08:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869641026161553784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1016552943774920704",
+              "start": 3,
+              "username": "Akinoyo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869641026161553784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869396248660443594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Akinoyo_: 200fo了……想搞一个抽奖，但是由于主播现在穷的叮当响所以决定抽一些主播的小物件\n一等奖：罗技k380键盘或者gpw一代 x1\n二等奖：日版chiikawa小八玩偶 x1\n三等奖：10r x 3\n实体物品邮费自理\n呜呜呜主播目前只有这点能力希望不要…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1016552943774920704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431391913815408642",
+              "name": "Chiikawa"
+            }
+          }
+        ],
+        "conversation_id": "1869396248660443594",
+        "created_at": "2024-12-18T14:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T15:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869396248660443594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869396248660443594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 487,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "200fo了……想搞一个抽奖，但是由于主播现在穷的叮当响所以决定抽一些主播的小物件\n一等奖：罗技k380键盘或者gpw一代 x1\n二等奖：日版chiikawa小八玩偶 x1\n三等奖：10r x 3\n实体物品邮费自理\n呜呜呜主播目前只有这点能力希望不要嫌弃\n转+关+评参与\n2025.1.1中午开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要内服美白成分/日雌/色普龙/促智药找我超低價",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay（日雌390！",
+        "pinned_tweet_id": "1858231079683182919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 707,
+          "like_count": 30619,
+          "listed_count": 6,
+          "media_count": 690,
+          "tweet_count": 13552
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-10T05:21:23.000Z",
+        "description": "🏳️‍⚧️",
+        "id": "1016552943774920704",
+        "location": "天國",
+        "name": "仿生喹硫平🍥",
+        "pinned_tweet_id": "1858824781954773040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790297318358646784/_0D02grC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 1086,
+          "like_count": 1355,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 689
+        },
+        "username": "Akinoyo_",
+        "verified": false
+      }
+    ]
+  }
+}

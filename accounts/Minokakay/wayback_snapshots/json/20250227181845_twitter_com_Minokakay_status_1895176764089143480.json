@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895062852446363650",
+        "3_1895062852601356288"
+      ],
+      "media_source_tweet_id": [
+        "1895062860327510520",
+        "1895062860327510520"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026377943",
+          "name": "Subaru"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026377943",
+          "name": "Subaru"
+        }
+      }
+    ],
+    "conversation_id": "1895176764089143480",
+    "created_at": "2025-02-27T18:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T19:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895176764089143480"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "スバル",
+          "probability": 0.6333,
+          "start": 41,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 15,
+          "tag": "GirlsBandCry"
+        },
+        {
+          "end": 38,
+          "start": 31,
+          "tag": "SUBARU"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "957914394586882048",
+          "start": 3,
+          "username": "komoshuai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/17S9ipBWGs",
+          "end": 80,
+          "expanded_url": "https://x.com/komoshuai/status/1895062860327510520/photo/1",
+          "media_key": "3_1895062852446363650",
+          "start": 57,
+          "url": "https://t.co/17S9ipBWGs"
+        },
+        {
+          "display_url": "pic.x.com/17S9ipBWGs",
+          "end": 80,
+          "expanded_url": "https://x.com/komoshuai/status/1895062860327510520/photo/1",
+          "media_key": "3_1895062852601356288",
+          "start": 57,
+          "url": "https://t.co/17S9ipBWGs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895176764089143480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 800
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895062860327510520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @komoshuai: #GirlsBandCry   #SUBARU \n\nスバルとSUBARUです～✌️ https://t.co/17S9ipBWGs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1895062852446363650",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkydn7MaoAIHYES.jpg",
+        "width": 1333
+      },
+      {
+        "height": 2000,
+        "media_key": "3_1895062852601356288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkydn7xXoAAvQYO.jpg",
+        "width": 1333
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895062852446363650",
+            "3_1895062852601356288"
+          ],
+          "media_source_tweet_id": [
+            "1895062860327510520",
+            "1895062860327510520"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026377943",
+              "name": "Subaru"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026377943",
+              "name": "Subaru"
+            }
+          }
+        ],
+        "conversation_id": "1895176764089143480",
+        "created_at": "2025-02-27T18:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T19:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895176764089143480"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "スバル",
+              "probability": 0.6333,
+              "start": 41,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 15,
+              "tag": "GirlsBandCry"
+            },
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "SUBARU"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "957914394586882048",
+              "start": 3,
+              "username": "komoshuai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/17S9ipBWGs",
+              "end": 80,
+              "expanded_url": "https://x.com/komoshuai/status/1895062860327510520/photo/1",
+              "media_key": "3_1895062852446363650",
+              "start": 57,
+              "url": "https://t.co/17S9ipBWGs"
+            },
+            {
+              "display_url": "pic.x.com/17S9ipBWGs",
+              "end": 80,
+              "expanded_url": "https://x.com/komoshuai/status/1895062860327510520/photo/1",
+              "media_key": "3_1895062852601356288",
+              "start": 57,
+              "url": "https://t.co/17S9ipBWGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895176764089143480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 800
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895062860327510520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @komoshuai: #GirlsBandCry   #SUBARU \n\nスバルとSUBARUです～✌️ https://t.co/17S9ipBWGs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895062852446363650",
+            "3_1895062852601356288"
+          ]
+        },
+        "author_id": "957914394586882048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026377943",
+              "name": "Subaru"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026377943",
+              "name": "Subaru"
+            }
+          }
+        ],
+        "conversation_id": "1895062860327510520",
+        "created_at": "2025-02-27T10:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T11:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895062860327510520"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "スバル",
+              "probability": 0.5478,
+              "start": 26,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "GirlsBandCry"
+            },
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "SUBARU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/17S9ipBWGs",
+              "end": 65,
+              "expanded_url": "https://x.com/komoshuai/status/1895062860327510520/photo/1",
+              "media_key": "3_1895062852446363650",
+              "start": 42,
+              "url": "https://t.co/17S9ipBWGs"
+            },
+            {
+              "display_url": "pic.x.com/17S9ipBWGs",
+              "end": 65,
+              "expanded_url": "https://x.com/komoshuai/status/1895062860327510520/photo/1",
+              "media_key": "3_1895062852601356288",
+              "start": 42,
+              "url": "https://t.co/17S9ipBWGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895062860327510520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 630,
+          "impression_count": 136525,
+          "like_count": 8178,
+          "quote_count": 17,
+          "reply_count": 60,
+          "retweet_count": 800
+        },
+        "reply_settings": "everyone",
+        "text": "#GirlsBandCry   #SUBARU \n\nスバルとSUBARUです～✌️ https://t.co/17S9ipBWGs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈 https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 99,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 76,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay （日雌泰补色诺",
+        "pinned_tweet_id": "1891554377909010835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5214,
+          "following_count": 809,
+          "like_count": 36544,
+          "listed_count": 26,
+          "media_count": 1022,
+          "tweet_count": 16377
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-29T09:52:43.000Z",
+        "description": "😸 📮: komoshuai@yeah.net",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/komoshuai",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/komoshuai",
+                "start": 0,
+                "url": "https://t.co/OWECq5hFCk"
+              }
+            ]
+          }
+        },
+        "id": "957914394586882048",
+        "name": "帅嘤嘤",
+        "pinned_tweet_id": "1210942569560993794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1045707217092075521/RWU3Zzvp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512766,
+          "following_count": 140,
+          "like_count": 1886,
+          "listed_count": 2423,
+          "media_count": 546,
+          "tweet_count": 1047
+        },
+        "url": "https://t.co/OWECq5hFCk",
+        "username": "komoshuai",
+        "verified": false
+      }
+    ]
+  }
+}

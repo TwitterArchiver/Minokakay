@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2002014440238281002",
+    "created_at": "2025-12-20T07:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T08:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002287635214340587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1424988200552919042",
+          "start": 0,
+          "username": "ericiapple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002287635214340587",
+    "in_reply_to_user_id": "1424988200552919042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002286548805693730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ericiapple 汇丰不是中国公司 就这么简单"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2002014440238281002",
+        "created_at": "2025-12-20T07:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T08:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002287635214340587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1424988200552919042",
+              "start": 0,
+              "username": "ericiapple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002287635214340587",
+        "in_reply_to_user_id": "1424988200552919042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002286548805693730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ericiapple 汇丰不是中国公司 就这么简单"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424988200552919042",
+        "conversation_id": "2002014440238281002",
+        "created_at": "2025-12-20T07:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T08:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002286548805693730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002286548805693730",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002014440238281002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 汇丰的global view比这个更早.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13080,
+          "following_count": 1006,
+          "like_count": 44957,
+          "listed_count": 50,
+          "media_count": 1771,
+          "tweet_count": 24671
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-10T06:57:34.000Z",
+        "description": "",
+        "id": "1424988200552919042",
+        "name": "ERICIAPPLE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809197373765419008/vWd7I_kg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 673,
+          "like_count": 7082,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 250
+        },
+        "username": "ericiapple",
+        "verified": false
+      }
+    ]
+  }
+}

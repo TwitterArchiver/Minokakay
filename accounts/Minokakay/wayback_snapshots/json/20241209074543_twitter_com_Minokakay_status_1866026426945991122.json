@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10052344251",
+          "name": "ヴァイオレット・エヴァーガーデン"
+        }
+      },
+      {
+        "domain": {
+          "description": "A film like Rogue One: A Star Wars Story",
+          "id": "86",
+          "name": "Movie"
+        },
+        "entity": {
+          "id": "1599901058418888704",
+          "name": "Violet Evergarden: Recollections (Netflix)"
+        }
+      }
+    ],
+    "conversation_id": "1866026426945991122",
+    "created_at": "2024-12-09T07:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T08:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1866026426945991122"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anime_twits/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/anime_twits/status/1866026338437468266",
+          "start": 4,
+          "url": "https://t.co/LRbQhxYwNP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866026426945991122",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866026338437468266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭😭😭 https://t.co/LRbQhxYwNP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10052344251",
+              "name": "ヴァイオレット・エヴァーガーデン"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "id": "1599901058418888704",
+              "name": "Violet Evergarden: Recollections (Netflix)"
+            }
+          }
+        ],
+        "conversation_id": "1866026426945991122",
+        "created_at": "2024-12-09T07:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T08:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866026426945991122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anime_twits/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/anime_twits/status/1866026338437468266",
+              "start": 4,
+              "url": "https://t.co/LRbQhxYwNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866026426945991122",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866026338437468266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭😭😭 https://t.co/LRbQhxYwNP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866026335333691392"
+          ]
+        },
+        "author_id": "1370466691940036609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10052344251",
+              "name": "ヴァイオレット・エヴァーガーデン"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "id": "1599901058418888704",
+              "name": "Violet Evergarden: Recollections (Netflix)"
+            }
+          }
+        ],
+        "conversation_id": "1866026338437468266",
+        "created_at": "2024-12-09T07:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T08:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866026338437468266"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Violet Evergarden",
+              "probability": 0.6849,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h7vnwaXous",
+              "end": 44,
+              "expanded_url": "https://x.com/anime_twits/status/1866026338437468266/photo/1",
+              "media_key": "3_1866026335333691392",
+              "start": 21,
+              "url": "https://t.co/h7vnwaXous"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866026338437468266",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Violet Evergarden  ✨ https://t.co/h7vnwaXous"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要内服美白成分/日雌/色普龙/促智药找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay（藥物版",
+        "pinned_tweet_id": "1858231079683182919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2033,
+          "following_count": 683,
+          "like_count": 29830,
+          "listed_count": 5,
+          "media_count": 659,
+          "tweet_count": 13220
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T20:08:48.000Z",
+        "description": "daily anime aesthetics ♡",
+        "id": "1370466691940036609",
+        "name": "Anime Aesthetics",
+        "pinned_tweet_id": "1845445704333836434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831749570419687424/lw1z9jm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579005,
+          "following_count": 62,
+          "like_count": 2914,
+          "listed_count": 2112,
+          "media_count": 6181,
+          "tweet_count": 6446
+        },
+        "username": "anime_twits",
+        "verified": true
+      }
+    ]
+  }
+}

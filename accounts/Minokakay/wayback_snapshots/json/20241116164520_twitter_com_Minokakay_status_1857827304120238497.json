@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1855183420391092224"
+      ],
+      "media_source_tweet_id": [
+        "1855183432290283937"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1857827304120238497",
+    "created_at": "2024-11-16T16:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T17:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857827304120238497"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "bl"
+        },
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "boy"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "正太"
+        },
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "ショタ"
+        },
+        {
+          "end": 42,
+          "start": 36,
+          "tag": "AIart"
+        },
+        {
+          "end": 50,
+          "start": 43,
+          "tag": "AIイラスト"
+        },
+        {
+          "end": 54,
+          "start": 51,
+          "tag": "調教"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1720408556267270144",
+          "start": 3,
+          "username": "buta_manUS99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TKg5ooGB8d",
+          "end": 78,
+          "expanded_url": "https://x.com/buta_manUS99/status/1855183432290283937/photo/1",
+          "media_key": "3_1855183420391092224",
+          "start": 55,
+          "url": "https://t.co/TKg5ooGB8d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857827304120238497",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855183432290283937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @buta_manUS99: #bl #boy #正太 #ショタ #AIart #AIイラスト #調教 https://t.co/TKg5ooGB8d"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1857827304120238497].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1857827304120238497",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1857827304120238497"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1854,
+        "media_key": "3_1855183420391092224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb7vfd2a8AA3kIV.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855183420391092224"
+          ]
+        },
+        "author_id": "1720408556267270144",
+        "conversation_id": "1855183432290283937",
+        "created_at": "2024-11-09T09:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T10:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855183432290283937"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "bl"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "boy"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "正太"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "ショタ"
+            },
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "AIart"
+            },
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "調教"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TKg5ooGB8d",
+              "end": 60,
+              "expanded_url": "https://x.com/buta_manUS99/status/1855183432290283937/photo/1",
+              "media_key": "3_1855183420391092224",
+              "start": 37,
+              "url": "https://t.co/TKg5ooGB8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855183432290283937",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 17409,
+          "like_count": 226,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "#bl #boy #正太 #ショタ #AIart #AIイラスト #調教 https://t.co/TKg5ooGB8d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1850583794224635904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1848,
+          "following_count": 946,
+          "like_count": 26728,
+          "listed_count": 3,
+          "tweet_count": 11987
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T11:52:56.000Z",
+        "description": "AI artist, mainly creating portraits with shota protagonists using AI. Subscribe to get access to all my works👉 https://t.co/AcMAq2Jg7g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/BUTAman",
+                "end": 135,
+                "expanded_url": "https://linktr.ee/BUTAman",
+                "start": 112,
+                "url": "https://t.co/AcMAq2Jg7g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/100094250",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/100094250",
+                "start": 0,
+                "url": "https://t.co/a3Bwieg6SA"
+              }
+            ]
+          }
+        },
+        "id": "1720408556267270144",
+        "name": "BUTAman",
+        "pinned_tweet_id": "1856216104986902658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796540804745609217/i2UEVEzt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3577,
+          "following_count": 33,
+          "like_count": 316,
+          "listed_count": 8,
+          "tweet_count": 176
+        },
+        "url": "https://t.co/a3Bwieg6SA",
+        "username": "buta_manUS99",
+        "verified": false
+      }
+    ]
+  }
+}

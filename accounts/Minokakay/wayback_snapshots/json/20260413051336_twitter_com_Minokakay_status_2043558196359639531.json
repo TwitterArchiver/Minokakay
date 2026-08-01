@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043350632795668480",
+        "13_2043350632778936320"
+      ],
+      "media_source_tweet_id": [
+        "2043350693969543277",
+        "2043350693969543277"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043558196359639531",
+    "created_at": "2026-04-13T05:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T06:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043558196359639531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1998983271640870913",
+          "start": 3,
+          "username": "blueicesamaOwO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9bmFtuRx8O",
+          "end": 61,
+          "expanded_url": "https://x.com/blueicesamaOwO/status/2043350693969543277/video/1",
+          "media_key": "3_2043350632795668480",
+          "start": 38,
+          "url": "https://t.co/9bmFtuRx8O"
+        },
+        {
+          "display_url": "pic.x.com/9bmFtuRx8O",
+          "end": 61,
+          "expanded_url": "https://x.com/blueicesamaOwO/status/2043350693969543277/video/1",
+          "media_key": "13_2043350632778936320",
+          "start": 38,
+          "url": "https://t.co/9bmFtuRx8O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043558196359639531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043350693969543277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blueicesamaOwO: 更加切身感受到\n人类对自然的改变了 https://t.co/9bmFtuRx8O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1544,
+        "media_key": "3_2043350632795668480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtwkwtbAAANqUh.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 6216,
+        "height": 1280,
+        "media_key": "13_2043350632778936320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043350632778936320/img/ZkabkGIGTkL2mVaN.jpg",
+        "public_metrics": {
+          "view_count": 1484
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043350632778936320/vid/avc1/320x694/bflPvfJOLQAGrc3Y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043350632778936320/vid/avc1/480x1040/76G6abXch9bmrK71.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043350632778936320/vid/avc1/590x1280/xqJktmeYwS1BXoIv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043350632778936320/pl/SUiEpDv7NsKNoeDm.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043350632795668480",
+            "13_2043350632778936320"
+          ],
+          "media_source_tweet_id": [
+            "2043350693969543277",
+            "2043350693969543277"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043558196359639531",
+        "created_at": "2026-04-13T05:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043558196359639531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1998983271640870913",
+              "start": 3,
+              "username": "blueicesamaOwO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bmFtuRx8O",
+              "end": 61,
+              "expanded_url": "https://x.com/blueicesamaOwO/status/2043350693969543277/video/1",
+              "media_key": "3_2043350632795668480",
+              "start": 38,
+              "url": "https://t.co/9bmFtuRx8O"
+            },
+            {
+              "display_url": "pic.x.com/9bmFtuRx8O",
+              "end": 61,
+              "expanded_url": "https://x.com/blueicesamaOwO/status/2043350693969543277/video/1",
+              "media_key": "13_2043350632778936320",
+              "start": 38,
+              "url": "https://t.co/9bmFtuRx8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043558196359639531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043350693969543277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blueicesamaOwO: 更加切身感受到\n人类对自然的改变了 https://t.co/9bmFtuRx8O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043350632795668480",
+            "13_2043350632778936320"
+          ]
+        },
+        "author_id": "1998983271640870913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043350693969543277",
+        "created_at": "2026-04-12T15:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043350693969543277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9bmFtuRx8O",
+              "end": 41,
+              "expanded_url": "https://x.com/blueicesamaOwO/status/2043350693969543277/video/1",
+              "media_key": "3_2043350632795668480",
+              "start": 18,
+              "url": "https://t.co/9bmFtuRx8O"
+            },
+            {
+              "display_url": "pic.x.com/9bmFtuRx8O",
+              "end": 41,
+              "expanded_url": "https://x.com/blueicesamaOwO/status/2043350693969543277/video/1",
+              "media_key": "13_2043350632778936320",
+              "start": 18,
+              "url": "https://t.co/9bmFtuRx8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043350693969543277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4215,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "更加切身感受到\n人类对自然的改变了 https://t.co/9bmFtuRx8O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "命に嫌われている。 mtx 正找寻着生命意义的人，成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 68,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 45,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14119,
+          "following_count": 1050,
+          "like_count": 44015,
+          "listed_count": 53,
+          "media_count": 1785,
+          "tweet_count": 25787
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T05:08:57.000Z",
+        "description": "🏳️‍🌈男同/furry/INFJ-T/Apple全肯定bot/中文·日本語·ENG/ᛠ/网蓝/杂学分享·碎碎念·生活账/三倍厚袜/不涉政/里@blueicesamaQWQ/手帐狐🦊@ri_si16512/好哥哥👾@subt_0928/本号关注不代表本人立场 推止于推/反AI滥用 本号内容均未经AI生成货润色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 72,
+                "username": "blueicesamaQWQ"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "ri_si16512"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "subt_0928"
+              }
+            ]
+          }
+        },
+        "id": "1998983271640870913",
+        "location": "「落し水  岐れて細き  川生る」",
+        "name": "蓝冰冰冰蓝蓝（二代目）",
+        "pinned_tweet_id": "2030637705080803659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998983393892274176/RtE8BagF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2705,
+          "following_count": 1575,
+          "like_count": 5716,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 1101
+        },
+        "username": "blueicesamaOwO",
+        "verified": false
+      }
+    ]
+  }
+}

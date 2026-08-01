@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1928531713606455757",
+    "created_at": "2025-05-30T19:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T20:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928531713606455757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KagurazakaAzur…",
+          "end": 113,
+          "expanded_url": "https://twitter.com/KagurazakaAzure/status/1928443866140619011",
+          "start": 90,
+          "url": "https://t.co/I30pSHk40M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928531713606455757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928443866140619011",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "她们那代人是真的会信这些的，因为以前长期都在气功这类伪科学的熏陶下，导致他们尊重科学，但并不是很懂科学（ 另外他们真的见过日全食这种天文奇观，我们这代人几乎没怎么见到过这种大事件 https://t.co/I30pSHk40M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 770,
+        "media_key": "3_1928443851364257792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsM1dynaUAAoDuA.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1928531713606455757",
+        "created_at": "2025-05-30T19:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T20:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928531713606455757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KagurazakaAzur…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/KagurazakaAzure/status/1928443866140619011",
+              "start": 90,
+              "url": "https://t.co/I30pSHk40M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928531713606455757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928443866140619011",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她们那代人是真的会信这些的，因为以前长期都在气功这类伪科学的熏陶下，导致他们尊重科学，但并不是很懂科学（ 另外他们真的见过日全食这种天文奇观，我们这代人几乎没怎么见到过这种大事件 https://t.co/I30pSHk40M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928443851364257792"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1928443866140619011",
+        "created_at": "2025-05-30T13:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T14:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928443866140619011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xcdJGc9b7V",
+              "end": 40,
+              "expanded_url": "https://x.com/KagurazakaAzure/status/1928443866140619011/photo/1",
+              "media_key": "3_1928443851364257792",
+              "start": 17,
+              "url": "https://t.co/xcdJGc9b7V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928443866140619011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 295,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我外婆到底看了些什么把她变成这样 https://t.co/xcdJGc9b7V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1925566748516024652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7258,
+          "following_count": 883,
+          "like_count": 42868,
+          "listed_count": 30,
+          "media_count": 1075,
+          "tweet_count": 18115
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "喜多郁代同志 🏳️‍🌈MtX 2008年生 神奈川县横滨市人 2022年加入纽带乐队 担任主唱吉他手 maimaiでらっくす 2022年乐队登顶日本音乐榜 被授头衔归去来兮女士 曾列席特朗普马斯克对谈会 买雌二醇找后藤一里 @minokakay谢谢喵 对象@juhao0721是山田凉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 112,
+                "username": "minokakay"
+              },
+              {
+                "end": 138,
+                "start": 128,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "Λzure色號の水彩翎.",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921288349119373312/6m5iNDhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6746,
+          "following_count": 976,
+          "like_count": 23750,
+          "listed_count": 7,
+          "media_count": 1573,
+          "tweet_count": 12033
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

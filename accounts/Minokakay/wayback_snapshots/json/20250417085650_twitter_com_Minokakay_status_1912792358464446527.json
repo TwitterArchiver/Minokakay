@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1912408144590041235",
+    "created_at": "2025-04-17T08:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T09:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912792358464446527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553666352497303552",
+          "start": 0,
+          "username": "CountToLink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912792358464446527",
+    "in_reply_to_user_id": "1553666352497303552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912783983555014859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CountToLink 舍不得打车爬上来的，也就20分钟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1912408144590041235",
+        "created_at": "2025-04-17T08:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T09:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912792358464446527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553666352497303552",
+              "start": 0,
+              "username": "CountToLink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912792358464446527",
+        "in_reply_to_user_id": "1553666352497303552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912783983555014859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CountToLink 舍不得打车爬上来的，也就20分钟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553666352497303552",
+        "conversation_id": "1912408144590041235",
+        "created_at": "2025-04-17T08:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T09:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912783983555014859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912783983555014859",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912408144590041235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 这个地方，你跟的士司机说天文台自己的名字他大概认不得，但你一说“君の名前”他就知道去哪了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1911284276345405679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6387,
+          "following_count": 865,
+          "like_count": 40625,
+          "listed_count": 31,
+          "media_count": 796,
+          "tweet_count": 16224
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-31T08:59:09.000Z",
+        "description": "咱找着你啦！｜福建籍MtF｜无证含糖🍥HRT2024.10.8｜24届河南洛阳医学生一枚｜INFP｜Fan｜轨道交通迷｜飞友｜中文/English/日本語",
+        "id": "1553666352497303552",
+        "name": "CirnoRyn🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859980850328408064/TmkY8UY1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 151,
+          "like_count": 770,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 467
+        },
+        "username": "CountToLink",
+        "verified": false
+      }
+    ]
+  }
+}

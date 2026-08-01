@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886772647683592192"
+      ],
+      "media_source_tweet_id": [
+        "1886772656088998266"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1886776859670839489",
+    "created_at": "2025-02-04T14:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T15:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886776859670839489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1807107145756008448",
+          "start": 3,
+          "username": "Allenium114"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pdgMewMdH9",
+          "end": 46,
+          "expanded_url": "https://x.com/Allenium114/status/1886772656088998266/photo/1",
+          "media_key": "3_1886772647683592192",
+          "start": 23,
+          "url": "https://t.co/pdgMewMdH9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886776859670839489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886772656088998266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Allenium114: 发一遍肚子 https://t.co/pdgMewMdH9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1886776859670839489].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1886776859670839489",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1886776859670839489"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1886772647683592192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi8puf0akAA9d4F.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886772647683592192"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1886772656088998266",
+        "created_at": "2025-02-04T13:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T14:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886772656088998266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pdgMewMdH9",
+              "end": 29,
+              "expanded_url": "https://x.com/Allenium114/status/1886772656088998266/photo/1",
+              "media_key": "3_1886772647683592192",
+              "start": 6,
+              "url": "https://t.co/pdgMewMdH9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886772656088998266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "发一遍肚子 https://t.co/pdgMewMdH9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日380色320泰210",
+        "pinned_tweet_id": "1881268152111440138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3947,
+          "following_count": 798,
+          "like_count": 34410,
+          "listed_count": 18,
+          "media_count": 946,
+          "tweet_count": 15628
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "🏳️‍⚧️🍥hrt2024.4.20/持“證”ADHD&ASD💯/常驻川渝/小证持有⁉️/178cm57kg/A-Level🇭🇰/🔞08 年 16 岁♿️/前osw编辑/需要促智/美白/减肥/HRT等药物找@Minokakay喵 /舞萌w3神人/Sis:@beijieyoufengle💤💤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 103,
+                "username": "Minokakay"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "beijieyoufengle"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "Tsuen Wan District, Hong Kong",
+        "name": "封号斗罗翎酱🍥（5kfo 前世被封）",
+        "pinned_tweet_id": "1842819783219376461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886660585905119234/rTIIEgUt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 246,
+          "like_count": 2413,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 391
+        },
+        "username": "Allenium114",
+        "verified": false
+      }
+    ]
+  }
+}

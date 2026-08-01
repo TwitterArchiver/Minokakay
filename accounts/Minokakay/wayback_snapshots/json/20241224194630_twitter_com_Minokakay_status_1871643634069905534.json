@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1870794451679088640"
+      ],
+      "media_source_tweet_id": [
+        "1870794455403651474"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1240049426959196160",
+          "name": "Kuzuha"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1240049426959196160",
+          "name": "Kuzuha"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240049426959196160",
+          "name": "Kuzuha"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1871643634069905534",
+    "created_at": "2024-12-24T19:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T20:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871643634069905534"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 11,
+          "tag": "KuzuArt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1660206259340206080",
+          "start": 3,
+          "username": "7pea7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rodfZAsiB5",
+          "end": 43,
+          "expanded_url": "https://x.com/7pea7/status/1870794455403651474/photo/1",
+          "media_key": "3_1870794451679088640",
+          "start": 20,
+          "url": "https://t.co/rodfZAsiB5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871643634069905534",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1018
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870794455403651474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7pea7: #KuzuArt https://t.co/rodfZAsiB5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1870794451679088640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfZlpFQakAAjQKc.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870794451679088640"
+          ],
+          "media_source_tweet_id": [
+            "1870794455403651474"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240049426959196160",
+              "name": "Kuzuha"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240049426959196160",
+              "name": "Kuzuha"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240049426959196160",
+              "name": "Kuzuha"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1871643634069905534",
+        "created_at": "2024-12-24T19:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T20:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871643634069905534"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 11,
+              "tag": "KuzuArt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1660206259340206080",
+              "start": 3,
+              "username": "7pea7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rodfZAsiB5",
+              "end": 43,
+              "expanded_url": "https://x.com/7pea7/status/1870794455403651474/photo/1",
+              "media_key": "3_1870794451679088640",
+              "start": 20,
+              "url": "https://t.co/rodfZAsiB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871643634069905534",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1018
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870794455403651474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7pea7: #KuzuArt https://t.co/rodfZAsiB5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870794451679088640"
+          ]
+        },
+        "author_id": "1660206259340206080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240049426959196160",
+              "name": "Kuzuha"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240049426959196160",
+              "name": "Kuzuha"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240049426959196160",
+              "name": "Kuzuha"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1870794455403651474",
+        "created_at": "2024-12-22T11:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T12:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870794455403651474"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "KuzuArt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rodfZAsiB5",
+              "end": 32,
+              "expanded_url": "https://x.com/7pea7/status/1870794455403651474/photo/1",
+              "media_key": "3_1870794451679088640",
+              "start": 9,
+              "url": "https://t.co/rodfZAsiB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870794455403651474",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1652,
+          "impression_count": 299886,
+          "like_count": 25895,
+          "quote_count": 13,
+          "reply_count": 3,
+          "retweet_count": 1018
+        },
+        "reply_settings": "everyone",
+        "text": "#KuzuArt https://t.co/rodfZAsiB5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要内服美白成分/日雌/色普龙/促智药找我超低價",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay（日雌380！！！",
+        "pinned_tweet_id": "1858231079683182919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2476,
+          "following_count": 723,
+          "like_count": 30987,
+          "listed_count": 7,
+          "media_count": 726,
+          "tweet_count": 13793
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T08:50:04.000Z",
+        "description": "🌈🕒・V垢 / 低浮 / 捏造、妄想多め/  お別れはブロ解で/使用はご本人様のみ",
+        "id": "1660206259340206080",
+        "location": "無断転載・自作発言・AI学習❌️/",
+        "name": "ずけ",
+        "pinned_tweet_id": "1820811797047161118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818334386175328257/I2wu6LNh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 82,
+          "like_count": 2650,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 181
+        },
+        "username": "7pea7",
+        "verified": false
+      }
+    ]
+  }
+}

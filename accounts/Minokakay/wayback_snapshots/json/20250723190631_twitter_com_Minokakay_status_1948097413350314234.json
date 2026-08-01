@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Geology",
+          "id": "847897009281355776",
+          "name": "Geology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1352693397153222656",
+          "name": "Volcanology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1352693397153222656",
+          "name": "Volcanology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1352693397153222656",
+          "name": "Volcanology"
+        }
+      }
+    ],
+    "conversation_id": "1948097413350314234",
+    "created_at": "2025-07-23T19:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T20:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948097413350314234"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minokakay/stat…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/minokakay/status/1948095875621814551",
+          "start": 141,
+          "url": "https://t.co/r3kJrBuKT4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948097413350314234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我回想到我中學時最喜歡的是地理課和國文課，地理給我帶來的財富，是當我有一天站在瀨戶內海的郵輪上，我分得清那雨那晴那風那靜背後的原因和規律，我知道愛媛會產出日本最好的柑橘，富士山的美麗背後是世界最壯觀錐狀火山的稱號，而國文課能讓我隨時閉上眼，去代入古人的角色，體驗那相同的憂愁，莫名其妙了，不過我這人就這樣，想到什麼就在推特上發什麼。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948095875621814551",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我回想到我中學時最喜歡的是地理課和國文課，地理給我帶來的財富，是當我有一天站在瀨戶內海的郵輪上，我分得清那雨那晴那風那靜背後的原因和規律，我知道愛媛會產出日本最好的柑橘，富士山的美麗背後是世界最壯觀錐狀火山的稱號，而國文課能讓我隨時閉上眼，去代入古人的角色，體驗那相同的憂愁，莫名 https://t.co/r3kJrBuKT4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Geology",
+              "id": "847897009281355776",
+              "name": "Geology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          }
+        ],
+        "conversation_id": "1948097413350314234",
+        "created_at": "2025-07-23T19:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T20:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948097413350314234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/minokakay/status/1948095875621814551",
+              "start": 141,
+              "url": "https://t.co/r3kJrBuKT4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948097413350314234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我回想到我中學時最喜歡的是地理課和國文課，地理給我帶來的財富，是當我有一天站在瀨戶內海的郵輪上，我分得清那雨那晴那風那靜背後的原因和規律，我知道愛媛會產出日本最好的柑橘，富士山的美麗背後是世界最壯觀錐狀火山的稱號，而國文課能讓我隨時閉上眼，去代入古人的角色，體驗那相同的憂愁，莫名其妙了，不過我這人就這樣，想到什麼就在推特上發什麼。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948095875621814551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我回想到我中學時最喜歡的是地理課和國文課，地理給我帶來的財富，是當我有一天站在瀨戶內海的郵輪上，我分得清那雨那晴那風那靜背後的原因和規律，我知道愛媛會產出日本最好的柑橘，富士山的美麗背後是世界最壯觀錐狀火山的稱號，而國文課能讓我隨時閉上眼，去代入古人的角色，體驗那相同的憂愁，莫名 https://t.co/r3kJrBuKT4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1948095875621814551",
+        "created_at": "2025-07-23T19:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T20:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948095875621814551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948095875621814551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高一下的時候我買了人生中的第一盒國補和螺內酯，從那時開始到現在已經快兩年了，我得到了我想要的東西了嗎？我不知道，但我不能假定另一個時間線的我的人生是幸福而美好的，於是我傾向於認為這都是注定的，上天講我置於此地，必然也在冥冥之中跟我指了一條明路，我要做的不過是往前走，去計算出那密碼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1940009083995873344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8272,
+          "following_count": 896,
+          "like_count": 44380,
+          "listed_count": 31,
+          "media_count": 1321,
+          "tweet_count": 19742
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

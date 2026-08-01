@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1861124742016835588"
+      ],
+      "media_source_tweet_id": [
+        "1861124764221481346"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1861129064880447997",
+    "created_at": "2024-11-25T19:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T20:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861129064880447997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "613474927",
+          "start": 3,
+          "username": "PunchingCat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k7WNmYTxwZ",
+          "end": 40,
+          "expanded_url": "https://x.com/PunchingCat/status/1861124764221481346/video/1",
+          "media_key": "7_1861124742016835588",
+          "start": 17,
+          "url": "https://t.co/k7WNmYTxwZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861129064880447997",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861124764221481346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PunchingCat: https://t.co/k7WNmYTxwZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26563,
+        "height": 1280,
+        "media_key": "7_1861124742016835588",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1861124742016835588/pu/img/lrDMcsJ7_k-zvNIB.jpg",
+        "public_metrics": {
+          "view_count": 1839
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861124742016835588/pu/vid/avc1/320x568/jETrE1zkydbzIj8P.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861124742016835588/pu/vid/avc1/480x852/oL9PmWd7-MGJdnG-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861124742016835588/pu/vid/avc1/720x1280/Am8A83BPQkfvTfUd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1861124742016835588/pu/pl/KdQ_smXqFGwp07ci.m3u8?tag=12&v=312"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1861124742016835588"
+          ],
+          "media_source_tweet_id": [
+            "1861124764221481346"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1861129064880447997",
+        "created_at": "2024-11-25T19:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T20:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861129064880447997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "613474927",
+              "start": 3,
+              "username": "PunchingCat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k7WNmYTxwZ",
+              "end": 40,
+              "expanded_url": "https://x.com/PunchingCat/status/1861124764221481346/video/1",
+              "media_key": "7_1861124742016835588",
+              "start": 17,
+              "url": "https://t.co/k7WNmYTxwZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861129064880447997",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861124764221481346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PunchingCat: https://t.co/k7WNmYTxwZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1861124742016835588"
+          ]
+        },
+        "author_id": "613474927",
+        "conversation_id": "1861124764221481346",
+        "created_at": "2024-11-25T19:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T20:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861124764221481346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k7WNmYTxwZ",
+              "end": 23,
+              "expanded_url": "https://x.com/PunchingCat/status/1861124764221481346/video/1",
+              "media_key": "7_1861124742016835588",
+              "start": 0,
+              "url": "https://t.co/k7WNmYTxwZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861124764221481346",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5369,
+          "like_count": 89,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/k7WNmYTxwZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1858231079683182919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 638,
+          "like_count": 27843,
+          "listed_count": 4,
+          "tweet_count": 12443
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-20T14:15:13.000Z",
+        "description": "random cats from my camera roll to your 𝕏 feed :3 | dm for credit/removal • *i own no content posted*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "punchingcat.com",
+                "end": 23,
+                "expanded_url": "http://punchingcat.com",
+                "start": 0,
+                "url": "https://t.co/v4U8STUOKB"
+              }
+            ]
+          }
+        },
+        "id": "613474927",
+        "location": "litter box",
+        "name": "Punch Cat",
+        "pinned_tweet_id": "1860746207125189116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828145724963561472/CzV0LTLP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076513,
+          "following_count": 135,
+          "like_count": 3904,
+          "listed_count": 2089,
+          "tweet_count": 57390
+        },
+        "url": "https://t.co/v4U8STUOKB",
+        "username": "PunchingCat",
+        "verified": true
+      }
+    ]
+  }
+}

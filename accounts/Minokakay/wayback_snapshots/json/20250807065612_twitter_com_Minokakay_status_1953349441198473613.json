@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Horoscope",
+          "id": "1068226612380889088",
+          "name": "Horoscope"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Astrology",
+          "id": "1102600979491381248",
+          "name": "Astrology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "1953349441198473613",
+    "created_at": "2025-08-07T06:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T07:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953349441198473613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xue_zhi2008/st…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/xue_zhi2008/status/1953312964695507422",
+          "start": 143,
+          "url": "https://t.co/2R90CKQo8m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953349441198473613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953312964695507422",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小时候手机玩的多的小孩，初高中智商会比同等先天智力基线而不玩手机的小孩高，因为信息摄入量跟其他小孩基本不是一个量级的，读书和看报看新闻也是同理，信息摄入和处理，最好还有表达（多发post多聊天），会显著提升一个人的后天智力（受教育后智力）\n但这样做风险也很大，毕竟中国网络内容不分级。 https://t.co/2R90CKQo8m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1953349441198473613",
+        "created_at": "2025-08-07T06:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T07:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953349441198473613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xue_zhi2008/st…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/xue_zhi2008/status/1953312964695507422",
+              "start": 143,
+              "url": "https://t.co/2R90CKQo8m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953349441198473613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953312964695507422",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小时候手机玩的多的小孩，初高中智商会比同等先天智力基线而不玩手机的小孩高，因为信息摄入量跟其他小孩基本不是一个量级的，读书和看报看新闻也是同理，信息摄入和处理，最好还有表达（多发post多聊天），会显著提升一个人的后天智力（受教育后智力）\n但这样做风险也很大，毕竟中国网络内容不分级。 https://t.co/2R90CKQo8m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703297947121901568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1953312964695507422",
+        "created_at": "2025-08-07T04:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T05:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953312964695507422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MikuLoverr_/st…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/MikuLoverr_/status/1953114827921985884",
+              "start": 139,
+              "url": "https://t.co/tUpGkbhcRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953312964695507422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953114827921985884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冷知识，有人做过一个研究\n结论大概是星座带来的微小差异在宏观上，常体现为入学的绝对年龄差异导致的智力（注意不是智商）绝对值差异，上半年乃至8月出生的孩子有更大概率比9月及以后几个月的孩子小一岁入学，由于平均更低的绝对智力水平会带来挫败感、压力的整体上升，所以有时会产生统计差异 https://t.co/tUpGkbhcRS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8637,
+          "following_count": 920,
+          "like_count": 44516,
+          "listed_count": 33,
+          "media_count": 1363,
+          "tweet_count": 20137
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "一般路过女高||\n在读物化生高中生/MtF/退役CChOer/高三||\n目标是临床医学(真的还能吗？)||\n业余爱好:声乐(女高音也是女高)\n明日方舟干员收集度98%",
+        "id": "1703297947121901568",
+        "location": "重庆市",
+        "name": "织不唧",
+        "pinned_tweet_id": "1907327813289730421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887703881578389506/l5PxO2Co_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 474,
+          "like_count": 7092,
+          "listed_count": 3,
+          "media_count": 628,
+          "tweet_count": 2137
+        },
+        "username": "xue_zhi2008",
+        "verified": false
+      }
+    ]
+  }
+}

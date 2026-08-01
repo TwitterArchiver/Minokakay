@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1834784772771721216"
+      ],
+      "media_source_tweet_id": [
+        "1834784790878601600"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1834826084342546901",
+    "created_at": "2024-09-14T05:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-14T06:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834826084342546901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1305844679284457473",
+          "start": 3,
+          "username": "ritsutofujiwara"
+        },
+        {
+          "end": 33,
+          "id": "1714894056986460160",
+          "start": 21,
+          "username": "89JinPing64"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/euqe0vdpsv",
+          "end": 63,
+          "expanded_url": "https://twitter.com/ritsutofujiwara/status/1834784790878601600/photo/1",
+          "media_key": "3_1834784772771721216",
+          "start": 40,
+          "url": "https://t.co/EuqE0vdpSV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834826084342546901",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834784790878601600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ritsutofujiwara: @89JinPing64 不如玩原神 https://t.co/EuqE0vdpSV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1834784772771721216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXZ3B5xasAAcHxn.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834784772771721216"
+          ],
+          "media_source_tweet_id": [
+            "1834784790878601600"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1834826084342546901",
+        "created_at": "2024-09-14T05:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T06:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834826084342546901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1305844679284457473",
+              "start": 3,
+              "username": "ritsutofujiwara"
+            },
+            {
+              "end": 33,
+              "id": "1714894056986460160",
+              "start": 21,
+              "username": "89JinPing64"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/euqe0vdpsv",
+              "end": 63,
+              "expanded_url": "https://twitter.com/ritsutofujiwara/status/1834784790878601600/photo/1",
+              "media_key": "3_1834784772771721216",
+              "start": 40,
+              "url": "https://t.co/EuqE0vdpSV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834826084342546901",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834784790878601600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ritsutofujiwara: @89JinPing64 不如玩原神 https://t.co/EuqE0vdpSV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834784772771721216"
+          ]
+        },
+        "author_id": "1305844679284457473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1834553021503885478",
+        "created_at": "2024-09-14T02:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T03:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834784790878601600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714894056986460160",
+              "start": 0,
+              "username": "89JinPing64"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/euqe0vdpsv",
+              "end": 42,
+              "expanded_url": "https://twitter.com/ritsutofujiwara/status/1834784790878601600/photo/1",
+              "media_key": "3_1834784772771721216",
+              "start": 19,
+              "url": "https://t.co/EuqE0vdpSV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834784790878601600",
+        "in_reply_to_user_id": "1714894056986460160",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 685,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834553021503885478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@89JinPing64 不如玩原神 https://t.co/EuqE0vdpSV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 819,
+          "like_count": 14014,
+          "listed_count": 3,
+          "tweet_count": 5872
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-15T12:23:37.000Z",
+        "description": "非国民／天上天下唯我独尊／鍵垢 @Unnamed_RF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Unnamed_RF"
+              }
+            ]
+          }
+        },
+        "id": "1305844679284457473",
+        "location": "大稲妻帝国",
+        "name": "律",
+        "pinned_tweet_id": "1831684223490834749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831495892291219458/mJ3w8dIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 855,
+          "like_count": 4067,
+          "listed_count": 15,
+          "tweet_count": 39501
+        },
+        "username": "ritsutofujiwara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T06:40:00.000Z",
+        "description": "頭冷やしたほうがいいよっ、XXの人は。民主の女神:@Liyu0109 優しい元カノ:@Suyutong 会いたい人:@wakeup_arrow 🚪：One share of Nvidia stock. 只要你主动，我们就会有故事。 博客 https://t.co/ZZsthj06Du",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Liyu0109"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "Suyutong"
+              },
+              {
+                "end": 71,
+                "start": 58,
+                "username": "wakeup_arrow"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jyajyananalee.blogspot.com",
+                "end": 142,
+                "expanded_url": "https://jyajyananalee.blogspot.com",
+                "start": 119,
+                "url": "https://t.co/ZZsthj06Du"
+              }
+            ]
+          }
+        },
+        "id": "1714894056986460160",
+        "location": "Carp Entertainment Co., Ltd",
+        "name": "李奈々です",
+        "pinned_tweet_id": "1714895367370866803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718640683857448960/lYs7DLuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 801,
+          "like_count": 65982,
+          "listed_count": 27,
+          "tweet_count": 13184
+        },
+        "username": "89JinPing64",
+        "verified": false
+      }
+    ]
+  }
+}

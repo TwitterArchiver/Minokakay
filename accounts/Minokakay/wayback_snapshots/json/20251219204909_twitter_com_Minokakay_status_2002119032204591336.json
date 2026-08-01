@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984741850012663813"
+      ],
+      "media_source_tweet_id": [
+        "1984741861140152572"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2002119032204591336",
+    "created_at": "2025-12-19T20:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T21:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002119032204591336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1969746051042312192",
+          "start": 3,
+          "username": "MiaOmia0mao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/afToPEeOKm",
+          "end": 43,
+          "expanded_url": "https://x.com/MiaOmia0mao/status/1984741861140152572/photo/1",
+          "media_key": "3_1984741850012663813",
+          "start": 20,
+          "url": "https://t.co/afToPEeOKm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002119032204591336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984741861140152572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MiaOmia0mao: 喵？ https://t.co/afToPEeOKm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2002119032204591336].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2002119032204591336",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2002119032204591336"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984741850012663813",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4s4MmzbQAUWFY5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984741850012663813"
+          ]
+        },
+        "author_id": "1969746051042312192",
+        "conversation_id": "1984741861140152572",
+        "created_at": "2025-11-01T21:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T22:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984741861140152572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/afToPEeOKm",
+              "end": 26,
+              "expanded_url": "https://x.com/MiaOmia0mao/status/1984741861140152572/photo/1",
+              "media_key": "3_1984741850012663813",
+              "start": 3,
+              "url": "https://t.co/afToPEeOKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984741861140152572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 25889,
+          "like_count": 1071,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "喵？ https://t.co/afToPEeOKm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13066,
+          "following_count": 1006,
+          "like_count": 44954,
+          "listed_count": 50,
+          "media_count": 1765,
+          "tweet_count": 24638
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-21T12:50:42.000Z",
+        "description": "要和我一直在一起哦",
+        "id": "1969746051042312192",
+        "name": "猫",
+        "pinned_tweet_id": "1986818197098836124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969746226586505216/aa1eL60__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6328,
+          "following_count": 1,
+          "like_count": 3,
+          "listed_count": 12,
+          "media_count": 29,
+          "tweet_count": 47
+        },
+        "username": "MiaOmia0mao",
+        "verified": false
+      }
+    ]
+  }
+}

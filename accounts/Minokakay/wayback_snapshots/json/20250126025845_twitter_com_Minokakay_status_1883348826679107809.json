@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1883164021911904256"
+      ],
+      "media_source_tweet_id": [
+        "1883164135787307110"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1883348826679107809",
+    "created_at": "2025-01-26T02:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T03:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883348826679107809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1634407469777825792",
+          "start": 3,
+          "username": "UsystemO_HsienY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5lzFwgJzoc",
+          "end": 59,
+          "expanded_url": "https://x.com/UsystemO_HsienY/status/1883164135787307110/video/1",
+          "media_key": "13_1883164021911904256",
+          "start": 36,
+          "url": "https://t.co/5lzFwgJzoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883348826679107809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883164135787307110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UsystemO_HsienY: 辛灝年先生的發言震撼到了我。 https://t.co/5lzFwgJzoc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1883348826679107809].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1883348826679107809",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1883348826679107809"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 320953,
+        "height": 1024,
+        "media_key": "13_1883164021911904256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1883164021911904256/img/EzINOcF0wZNcmIiO.jpg",
+        "public_metrics": {
+          "view_count": 692
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1883164021911904256/vid/avc1/320x568/5hzAE6We_75m9bPN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1883164021911904256/vid/avc1/480x852/NoY907pL6eDg9Y_V.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1883164021911904256/vid/avc1/576x1024/6VuiLi8rx2hdbMOD.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1883164021911904256/pl/FdQYeJSgxKsaftOv.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1883164021911904256"
+          ]
+        },
+        "author_id": "1634407469777825792",
+        "conversation_id": "1883164135787307110",
+        "created_at": "2025-01-25T14:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T15:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883164135787307110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5lzFwgJzoc",
+              "end": 38,
+              "expanded_url": "https://x.com/UsystemO_HsienY/status/1883164135787307110/video/1",
+              "media_key": "13_1883164021911904256",
+              "start": 15,
+              "url": "https://t.co/5lzFwgJzoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883164135787307110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2591,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "辛灝年先生的發言震撼到了我。 https://t.co/5lzFwgJzoc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日380色320泰210",
+        "pinned_tweet_id": "1881268152111440138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3151,
+          "following_count": 781,
+          "like_count": 33385,
+          "listed_count": 14,
+          "media_count": 901,
+          "tweet_count": 15160
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T04:14:51.000Z",
+        "description": "❂ 🇹🇼中華民國，國之存亡，民之存亡也。 ❤️❤️@smzhytyzhg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "smzhytyzhg"
+              }
+            ]
+          }
+        },
+        "id": "1634407469777825792",
+        "location": "Republic of China",
+        "name": "𝐘𝐮-𝐇𝐬𝐢𝐞𝐧 𝐂𝐡𝐞𝐧❂陳裕弦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774859891129376770/uxAnZdXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2754,
+          "following_count": 928,
+          "like_count": 17537,
+          "listed_count": 1,
+          "media_count": 479,
+          "tweet_count": 6612
+        },
+        "username": "UsystemO_HsienY",
+        "verified": false
+      }
+    ]
+  }
+}

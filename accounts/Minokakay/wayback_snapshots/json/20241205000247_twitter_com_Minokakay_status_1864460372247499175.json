@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864330117750857729"
+      ],
+      "media_source_tweet_id": [
+        "1864459671769370976"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1864460372247499175",
+    "created_at": "2024-12-05T00:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T01:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864460372247499175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1243945571796295681",
+          "start": 3,
+          "username": "yqua_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OvQBigEFNr",
+          "end": 45,
+          "expanded_url": "https://x.com/yqua_/status/1864459671769370976/photo/1",
+          "media_key": "3_1864330117750857729",
+          "start": 22,
+          "url": "https://t.co/OvQBigEFNr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864460372247499175",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864459671769370976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yqua_: 《assassin》 https://t.co/OvQBigEFNr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1160,
+        "media_key": "3_1864330117750857729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd9uXUyaIAEsIX2.jpg",
+        "width": 812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864330117750857729"
+          ],
+          "media_source_tweet_id": [
+            "1864459671769370976"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1864460372247499175",
+        "created_at": "2024-12-05T00:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T01:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864460372247499175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1243945571796295681",
+              "start": 3,
+              "username": "yqua_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OvQBigEFNr",
+              "end": 45,
+              "expanded_url": "https://x.com/yqua_/status/1864459671769370976/photo/1",
+              "media_key": "3_1864330117750857729",
+              "start": 22,
+              "url": "https://t.co/OvQBigEFNr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864460372247499175",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864459671769370976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yqua_: 《assassin》 https://t.co/OvQBigEFNr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864330117750857729"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "conversation_id": "1864459671769370976",
+        "created_at": "2024-12-05T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864459671769370976"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "assassin",
+              "probability": 0.3481,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OvQBigEFNr",
+              "end": 34,
+              "expanded_url": "https://x.com/yqua_/status/1864459671769370976/photo/1",
+              "media_key": "3_1864330117750857729",
+              "start": 11,
+              "url": "https://t.co/OvQBigEFNr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864459671769370976",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "《assassin》 https://t.co/OvQBigEFNr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay（藥物版",
+        "pinned_tweet_id": "1858231079683182919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 659,
+          "like_count": 29086,
+          "listed_count": 5,
+          "media_count": 627,
+          "tweet_count": 12897
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "断糖MtX🏳️‍⚧️🍥｜@PUBGMOBILE WoW Author｜Language：CN/EN/JP/ID｜Life：@4cyun｜日本語/Game：@ryq59｜锁推小号：@hereisryq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "PUBGMOBILE"
+              },
+              {
+                "end": 67,
+                "start": 61,
+                "username": "4cyun"
+              },
+              {
+                "end": 83,
+                "start": 77,
+                "username": "ryq59"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "hereisryq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.759.dk",
+                "end": 23,
+                "expanded_url": "http://link.759.dk",
+                "start": 0,
+                "url": "https://t.co/e7DkaTgiTR"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "天泰路",
+        "name": "铨🍥",
+        "pinned_tweet_id": "1863553708816261124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13757,
+          "following_count": 4203,
+          "like_count": 160855,
+          "listed_count": 60,
+          "media_count": 3784,
+          "tweet_count": 18772
+        },
+        "url": "https://t.co/e7DkaTgiTR",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

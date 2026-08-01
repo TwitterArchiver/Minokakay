@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "1836758354112438619",
+    "created_at": "2024-09-19T13:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T14:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1836758354112438619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Strv_122_B_PLS…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/Strv_122_B_PLSS/status/1836758001505411390",
+          "start": 66,
+          "url": "https://t.co/y4UJ3TiYuG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836758354112438619",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836758001505411390",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要我说这类事情联合国就该管管，要求各个成员国实行对中国的经济和进出口贸易封锁，禁止原料和资金的供给，直到中国彻底解决所有的人权问题 https://t.co/y4UJ3TiYuG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "1836758354112438619",
+        "created_at": "2024-09-19T13:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T14:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836758354112438619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Strv_122_B_PLS…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/Strv_122_B_PLSS/status/1836758001505411390",
+              "start": 66,
+              "url": "https://t.co/y4UJ3TiYuG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836758354112438619",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836758001505411390",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要我说这类事情联合国就该管管，要求各个成员国实行对中国的经济和进出口贸易封锁，禁止原料和资金的供给，直到中国彻底解决所有的人权问题 https://t.co/y4UJ3TiYuG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836757996216434688"
+          ]
+        },
+        "author_id": "1652757998995927043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "1836758001505411390",
+        "created_at": "2024-09-19T13:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T14:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836758001505411390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0i2rrqdrsi",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Strv_122_B_PLSS/status/1836758001505411390/photo/1",
+              "media_key": "3_1836757996216434688",
+              "start": 12,
+              "url": "https://t.co/0i2RRQDRsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836758001505411390",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最支持 BBC 的一集 https://t.co/0i2RRQDRsi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高三生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 831,
+          "like_count": 15271,
+          "listed_count": 3,
+          "tweet_count": 6427
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T19:33:16.000Z",
+        "description": "Strv 122主战坦克（Stridsvagn 122）是瑞典的主战坦克，与德国豹2A5一样，以德国豹2改进型为基础，运用了指挥、控制和火控系统和强化装甲等新技术。从外观上看，该车与豹2A5的区别在于法制GALIX烟雾弹发射器、不同的储物箱和较厚的乘员舱口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se",
+                "start": 0,
+                "url": "https://t.co/QNeewOQ6E2"
+              }
+            ]
+          }
+        },
+        "id": "1652757998995927043",
+        "location": "［战区控制］瑞典 D 点",
+        "name": "Stridsvagn 122 Panoramautsikt Låg Signature System",
+        "pinned_tweet_id": "1825885805073805631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824048793278705664/gjVV_jOu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231,
+          "following_count": 4475,
+          "like_count": 124426,
+          "listed_count": 3,
+          "tweet_count": 2837
+        },
+        "url": "https://t.co/QNeewOQ6E2",
+        "username": "Strv_122_B_PLSS",
+        "verified": false
+      }
+    ]
+  }
+}

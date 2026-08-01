@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1897212656760868864"
+      ],
+      "media_source_tweet_id": [
+        "1897212717540499703"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "North Korean supreme leader Kim Jong-un",
+          "id": "852770154656047104",
+          "name": "Kim Jong-un"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "North Korean supreme leader Kim Jong-un",
+          "id": "852770154656047104",
+          "name": "Kim Jong-un"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "North Korean supreme leader Kim Jong-un",
+          "id": "852770154656047104",
+          "name": "Kim Jong-un"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1897372731852853666",
+    "created_at": "2025-03-05T19:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T20:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897372731852853666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1736242476095283201",
+          "start": 3,
+          "username": "yorokobiodi3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IMmNbEszDL",
+          "end": 54,
+          "expanded_url": "https://x.com/yorokobiodi3/status/1897212717540499703/video/1",
+          "media_key": "7_1897212656760868864",
+          "start": 31,
+          "url": "https://t.co/IMmNbEszDL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897372731852853666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3647
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897212717540499703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yorokobiodi3: 金正恩が黄金比になったら https://t.co/IMmNbEszDL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49066,
+        "height": 1024,
+        "media_key": "7_1897212656760868864",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1897212656760868864/pu/img/r948UKlSdxgx7Ox7.jpg",
+        "public_metrics": {
+          "view_count": 3645709
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1897212656760868864/pu/vid/avc1/320x568/uBIKvFu3RAN3x3W-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1897212656760868864/pu/vid/avc1/480x852/2nSr70RjpS5C75kH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1897212656760868864/pu/vid/avc1/576x1024/OoEzZLH4iKqBv5Mr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1897212656760868864/pu/pl/zDQ2GJtYhaTDnJaC.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1897212656760868864"
+          ],
+          "media_source_tweet_id": [
+            "1897212717540499703"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1897372731852853666",
+        "created_at": "2025-03-05T19:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T20:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897372731852853666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1736242476095283201",
+              "start": 3,
+              "username": "yorokobiodi3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IMmNbEszDL",
+              "end": 54,
+              "expanded_url": "https://x.com/yorokobiodi3/status/1897212717540499703/video/1",
+              "media_key": "7_1897212656760868864",
+              "start": 31,
+              "url": "https://t.co/IMmNbEszDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897372731852853666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3647
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897212717540499703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yorokobiodi3: 金正恩が黄金比になったら https://t.co/IMmNbEszDL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1897212656760868864"
+          ]
+        },
+        "author_id": "1736242476095283201",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1897212717540499703",
+        "created_at": "2025-03-05T09:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T10:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897212717540499703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IMmNbEszDL",
+              "end": 36,
+              "expanded_url": "https://x.com/yorokobiodi3/status/1897212717540499703/video/1",
+              "media_key": "7_1897212656760868864",
+              "start": 13,
+              "url": "https://t.co/IMmNbEszDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897212717540499703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2878,
+          "impression_count": 8059583,
+          "like_count": 19785,
+          "quote_count": 1111,
+          "reply_count": 319,
+          "retweet_count": 3647
+        },
+        "reply_settings": "everyone",
+        "text": "金正恩が黄金比になったら https://t.co/IMmNbEszDL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈 https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 99,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 76,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay （日雌泰补色诺",
+        "pinned_tweet_id": "1891554377909010835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5476,
+          "following_count": 823,
+          "like_count": 37234,
+          "listed_count": 27,
+          "media_count": 1035,
+          "tweet_count": 16559
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-17T04:30:56.000Z",
+        "description": "面白動画を投稿するので是非フォローお願いします！！\n※動画は全て引用です",
+        "id": "1736242476095283201",
+        "location": "削除依頼はdmで対応致します",
+        "name": "忘れられない図鑑",
+        "pinned_tweet_id": "1895177767983161527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747586927900114944/Hn9ttvNW_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42308,
+          "following_count": 151,
+          "like_count": 321,
+          "listed_count": 26,
+          "media_count": 340,
+          "tweet_count": 539
+        },
+        "username": "yorokobiodi3",
+        "verified": false
+      }
+    ]
+  }
+}

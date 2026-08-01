@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1837103986522083343",
+    "created_at": "2024-09-20T12:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T13:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837105733684666730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1702290376894152704",
+          "start": 0,
+          "username": "Bocchi520_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837105733684666730",
+    "in_reply_to_user_id": "1702290376894152704",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837104776078839943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bocchi520_ 😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1837104776078839943].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1837104776078839943",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1837104776078839943"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1837103986522083343",
+        "created_at": "2024-09-20T12:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T13:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837105733684666730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1702290376894152704",
+              "start": 0,
+              "username": "Bocchi520_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837105733684666730",
+        "in_reply_to_user_id": "1702290376894152704",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837104776078839943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bocchi520_ 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高三生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 836,
+          "like_count": 15521,
+          "listed_count": 3,
+          "tweet_count": 6589
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T11:57:16.000Z",
+        "description": "傻子@onikawaeisa|快去fo新號→@Hitori_Gotoh520\n己死有事私訊或Discord",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "onikawaeisa"
+              },
+              {
+                "end": 38,
+                "start": 22,
+                "username": "Hitori_Gotoh520"
+              }
+            ]
+          }
+        },
+        "id": "1702290376894152704",
+        "location": "自由之鄉＿自由之土🇹🇼",
+        "name": "抱歉BOT",
+        "pinned_tweet_id": "1830580300570923418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814192894468915200/ce8g9NaG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 1194,
+          "like_count": 32062,
+          "listed_count": 2,
+          "tweet_count": 15011
+        },
+        "username": "Bocchi520_",
+        "verified": false
+      }
+    ]
+  }
+}

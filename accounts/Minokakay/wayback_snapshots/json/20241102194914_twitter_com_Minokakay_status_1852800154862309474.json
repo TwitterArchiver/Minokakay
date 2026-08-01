@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1852800152542859264"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1852800154862309474",
+    "created_at": "2024-11-02T19:49:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T20:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1852800154862309474"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rF1TpFYDeY",
+          "end": 45,
+          "expanded_url": "https://x.com/Minokakay/status/1852800154862309474/photo/1",
+          "media_key": "3_1852800152542859264",
+          "start": 22,
+          "url": "https://t.co/rF1TpFYDeY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852800154862309474",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "當你不吃複合維生素而選擇藥用規格的維生素時 https://t.co/rF1TpFYDeY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1852800152542859264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbZ37BQbUAALoEO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852800152542859264"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1852800154862309474",
+        "created_at": "2024-11-02T19:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T20:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852800154862309474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rF1TpFYDeY",
+              "end": 45,
+              "expanded_url": "https://x.com/Minokakay/status/1852800154862309474/photo/1",
+              "media_key": "3_1852800152542859264",
+              "start": 22,
+              "url": "https://t.co/rF1TpFYDeY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852800154862309474",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "當你不吃複合維生素而選擇藥用規格的維生素時 https://t.co/rF1TpFYDeY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1850583794224635904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 928,
+          "like_count": 24710,
+          "listed_count": 3,
+          "tweet_count": 11278
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

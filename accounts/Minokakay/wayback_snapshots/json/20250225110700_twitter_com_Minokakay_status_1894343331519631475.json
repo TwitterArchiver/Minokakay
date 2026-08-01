@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893985500433702912"
+      ],
+      "media_source_tweet_id": [
+        "1893985504229814379"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1894343331519631475",
+    "created_at": "2025-02-25T11:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T12:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894343331519631475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1406774049737297922",
+          "start": 3,
+          "username": "Kugo_eya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9iVwr6mSBv",
+          "end": 37,
+          "expanded_url": "https://x.com/Kugo_eya/status/1893985504229814379/photo/1",
+          "media_key": "3_1893985500433702912",
+          "start": 14,
+          "url": "https://t.co/9iVwr6mSBv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894343331519631475",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2028
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893985504229814379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kugo_eya: https://t.co/9iVwr6mSBv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1893985500433702912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkjJxyMXYAAsHef.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893985500433702912"
+          ],
+          "media_source_tweet_id": [
+            "1893985504229814379"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1894343331519631475",
+        "created_at": "2025-02-25T11:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T12:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894343331519631475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1406774049737297922",
+              "start": 3,
+              "username": "Kugo_eya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9iVwr6mSBv",
+              "end": 37,
+              "expanded_url": "https://x.com/Kugo_eya/status/1893985504229814379/photo/1",
+              "media_key": "3_1893985500433702912",
+              "start": 14,
+              "url": "https://t.co/9iVwr6mSBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894343331519631475",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2028
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893985504229814379",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kugo_eya: https://t.co/9iVwr6mSBv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893985500433702912"
+          ]
+        },
+        "author_id": "1406774049737297922",
+        "conversation_id": "1893985504229814379",
+        "created_at": "2025-02-24T11:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T12:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893985504229814379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9iVwr6mSBv",
+              "end": 23,
+              "expanded_url": "https://x.com/Kugo_eya/status/1893985504229814379/photo/1",
+              "media_key": "3_1893985500433702912",
+              "start": 0,
+              "url": "https://t.co/9iVwr6mSBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893985504229814379",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1935,
+          "impression_count": 238958,
+          "like_count": 22662,
+          "quote_count": 12,
+          "reply_count": 7,
+          "retweet_count": 2028
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9iVwr6mSBv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈 https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 99,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 76,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay （日雌泰补色诺",
+        "pinned_tweet_id": "1891554377909010835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5157,
+          "following_count": 810,
+          "like_count": 36142,
+          "listed_count": 26,
+          "media_count": 1014,
+          "tweet_count": 16258
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-21T00:41:02.000Z",
+        "description": "さなだくご┊FAタグ▶ #九五に替刃あげる 推しタグ▶ #真田九五に救済を求めます ｻﾌﾞ▶(@Kugo_sub95)鍵▶(@Kugo_hasu)Skeb▶(https://t.co/XH8sbqnYKS)BOOTH▶(https://t.co/Hrvgn6rKKj)AI学習禁止",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 12,
+                "tag": "九五に替刃あげる"
+              },
+              {
+                "end": 41,
+                "start": 28,
+                "tag": "真田九五に救済を求めます"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "Kugo_sub95"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Kugo_hasu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Kugo_eya",
+                "end": 102,
+                "expanded_url": "https://skeb.jp/@Kugo_eya",
+                "start": 79,
+                "url": "https://t.co/XH8sbqnYKS"
+              },
+              {
+                "display_url": "sanadakugo.booth.pm",
+                "end": 133,
+                "expanded_url": "https://sanadakugo.booth.pm/",
+                "start": 110,
+                "url": "https://t.co/Hrvgn6rKKj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sanadakugo",
+                "end": 23,
+                "expanded_url": "https://lit.link/sanadakugo",
+                "start": 0,
+                "url": "https://t.co/gUnTsxI8YX"
+              }
+            ]
+          }
+        },
+        "id": "1406774049737297922",
+        "location": "ご依頼の際はlitlinkをご一読ください",
+        "name": "真田 九五",
+        "pinned_tweet_id": "1893709656880812312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853378365023240193/DTCmwJ7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25286,
+          "following_count": 95,
+          "like_count": 25813,
+          "listed_count": 66,
+          "media_count": 395,
+          "tweet_count": 5891
+        },
+        "url": "https://t.co/gUnTsxI8YX",
+        "username": "Kugo_eya",
+        "verified": false
+      }
+    ]
+  }
+}

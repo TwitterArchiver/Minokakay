@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2004149958321360898"
+      ],
+      "media_source_tweet_id": [
+        "2004149979259326730"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2004276084251283763",
+    "created_at": "2025-12-25T19:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T20:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004276084251283763"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "足控"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1592172867189293057",
+          "start": 3,
+          "username": "cxszb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zxn0J1tSEX",
+          "end": 52,
+          "expanded_url": "https://x.com/cxszb/status/2004149979259326730/video/1",
+          "media_key": "7_2004149958321360898",
+          "start": 29,
+          "url": "https://t.co/zxn0J1tSEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004276084251283763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004149979259326730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cxszb: 听说你们想看我的脚 ，嗯？\n#足控 https://t.co/zxn0J1tSEX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004276084251283763].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004276084251283763",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004276084251283763"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4083,
+        "height": 1280,
+        "media_key": "7_2004149958321360898",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2004149958321360898/pu/img/gh1rTB_DKAhnAZVe.jpg",
+        "public_metrics": {
+          "view_count": 143
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004149958321360898/pu/vid/avc1/320x568/8gfpwGh5yvIlwGC8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004149958321360898/pu/vid/avc1/480x852/_OLMBND2G2MW1pIP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004149958321360898/pu/vid/avc1/720x1280/8EDRy9rvIG57qXi8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2004149958321360898/pu/pl/rJN9SqkfsTcuEI-k.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2004149958321360898"
+          ]
+        },
+        "author_id": "1592172867189293057",
+        "conversation_id": "2004149979259326730",
+        "created_at": "2025-12-25T11:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T12:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004149979259326730"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "足控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zxn0J1tSEX",
+              "end": 41,
+              "expanded_url": "https://x.com/cxszb/status/2004149979259326730/video/1",
+              "media_key": "7_2004149958321360898",
+              "start": 18,
+              "url": "https://t.co/zxn0J1tSEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004149979259326730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "听说你们想看我的脚 ，嗯？\n#足控 https://t.co/zxn0J1tSEX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，如需癌症/慢病用药，请找@Lucius_Pharma，均是我朋友开的，我担保。如需电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Lucius_Pharma"
+              },
+              {
+                "end": 136,
+                "start": 126,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13415,
+          "following_count": 1015,
+          "like_count": 44944,
+          "listed_count": 51,
+          "media_count": 1810,
+          "tweet_count": 25055
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-14T15:09:37.000Z",
+        "description": "03/非二元MTX药娘🍥/性冷淡/抖s👿/收ATM🤑/毒舌/水仙/阴暗/负能量警告⚠️/现居北京/已拆蛋/随缘发",
+        "id": "1592172867189293057",
+        "location": "🚪好友位88",
+        "name": "直花今天不嘴臭",
+        "pinned_tweet_id": "1836806921233617051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914757234996994056/9DnzxE3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6037,
+          "following_count": 298,
+          "like_count": 13795,
+          "listed_count": 19,
+          "media_count": 208,
+          "tweet_count": 17957
+        },
+        "username": "cxszb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1829466113190818108",
+    "created_at": "2024-08-30T10:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T11:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829467147002843408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1786694173883871232",
+          "start": 0,
+          "username": "2022Fxs"
+        },
+        {
+          "end": 21,
+          "id": "1764149440133447680",
+          "start": 9,
+          "username": "sabulin8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829467147002843408",
+    "in_reply_to_user_id": "1786694173883871232",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829466641228525984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2022Fxs @sabulin8964 被家长断药也自己想办法买来吃吧（\n精神药物能不断就不断"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1829466641228525984].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1829466641228525984",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1829466641228525984"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1829466113190818108",
+        "created_at": "2024-08-30T10:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T11:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829467147002843408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1786694173883871232",
+              "start": 0,
+              "username": "2022Fxs"
+            },
+            {
+              "end": 21,
+              "id": "1764149440133447680",
+              "start": 9,
+              "username": "sabulin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829467147002843408",
+        "in_reply_to_user_id": "1786694173883871232",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829466641228525984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2022Fxs @sabulin8964 被家长断药也自己想办法买来吃吧（\n精神药物能不断就不断"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 792,
+          "like_count": 11866,
+          "listed_count": 3,
+          "tweet_count": 4587
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T09:47:51.000Z",
+        "description": "08年mtf hrt:2024.5.19 /药娘，生理性别男/自由意志社会主义/政治立场不同也能正常交流/ 精神状态很良好（坚信）/重度焦虑/高中二年级（半休学）/阴暗逼/ 里推@8964liuguang,只过熟人，放点图什么的/同学少来视奸我/ 老公@sabulin8964/一场寂寞凭谁诉。算前言，总轻负",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 89,
+                "username": "8964liuguang"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "sabulin8964"
+              }
+            ]
+          }
+        },
+        "id": "1786694173883871232",
+        "location": "警戒号",
+        "name": "野田流光🍥",
+        "pinned_tweet_id": "1827023951744364683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819243129423515648/OcxK0fXt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 235,
+          "like_count": 6536,
+          "listed_count": 1,
+          "tweet_count": 3618
+        },
+        "username": "2022Fxs",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T04:43:06.000Z",
+        "description": "|左翼毛派｜造反有理革命无罪｜没及时回复就是在睡觉|革命同志@lerosase8964|除了键政还偶尔发些日常|里推@sntt1919已经成为小男娘看黄男滚出我的里推｜🏳️‍⚧️🏳️‍🌈友好｜老婆@2022fxs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "lerosase8964"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "sntt1919"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "username": "2022fxs"
+              }
+            ]
+          }
+        },
+        "id": "1764149440133447680",
+        "location": "在野田流光宝贝的心里",
+        "name": "萨布林📕（降低见证强度）",
+        "pinned_tweet_id": "1822103426907640204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776202402041053184/vGGC_iuN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 94,
+          "like_count": 10263,
+          "listed_count": 1,
+          "tweet_count": 1683
+        },
+        "username": "sabulin8964",
+        "verified": false
+      }
+    ]
+  }
+}

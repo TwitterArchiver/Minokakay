@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994780214556270592"
+      ],
+      "media_source_tweet_id": [
+        "1994780217756586357"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1994809383164023262",
+    "created_at": "2025-11-29T16:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T17:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994809383164023262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VSvYmZC5GS",
+          "end": 43,
+          "expanded_url": "https://x.com/anblk984/status/1994780217756586357/photo/1",
+          "media_key": "3_1994780214556270592",
+          "start": 20,
+          "url": "https://t.co/VSvYmZC5GS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994809383164023262",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994780217756586357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: 推特害人😁 https://t.co/VSvYmZC5GS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_1994780214556270592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G67iCU2aoAAo4a7.jpg",
+        "width": 771
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994780214556270592"
+          ],
+          "media_source_tweet_id": [
+            "1994780217756586357"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1994809383164023262",
+        "created_at": "2025-11-29T16:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T17:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994809383164023262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VSvYmZC5GS",
+              "end": 43,
+              "expanded_url": "https://x.com/anblk984/status/1994780217756586357/photo/1",
+              "media_key": "3_1994780214556270592",
+              "start": 20,
+              "url": "https://t.co/VSvYmZC5GS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994809383164023262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994780217756586357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: 推特害人😁 https://t.co/VSvYmZC5GS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994780214556270592"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "1994780217756586357",
+        "created_at": "2025-11-29T14:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994780217756586357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VSvYmZC5GS",
+              "end": 29,
+              "expanded_url": "https://x.com/anblk984/status/1994780217756586357/photo/1",
+              "media_key": "3_1994780214556270592",
+              "start": 6,
+              "url": "https://t.co/VSvYmZC5GS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994780217756586357",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2468,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "推特害人😁 https://t.co/VSvYmZC5GS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。  阿斯ADHD精分抑鬱焦慮MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智/靶向药请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12575,
+          "following_count": 1010,
+          "like_count": 45018,
+          "listed_count": 47,
+          "media_count": 1659,
+          "tweet_count": 23762
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人   劳保爱习楠                                                                   \n狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anblk984",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anblk984",
+                "start": 0,
+                "url": "https://t.co/lbrp9vzziV"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是匿名问题",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1991346530033496380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806502873544671232/5QMKRtxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8526,
+          "following_count": 925,
+          "like_count": 99379,
+          "listed_count": 52,
+          "media_count": 1634,
+          "tweet_count": 23123
+        },
+        "url": "https://t.co/lbrp9vzziV",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

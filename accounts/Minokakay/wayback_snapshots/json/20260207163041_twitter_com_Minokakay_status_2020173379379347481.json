@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2019876177381585224",
+    "created_at": "2026-02-07T16:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T17:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020173379379347481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1983516341400420352",
+          "start": 0,
+          "username": "astykxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020173379379347481",
+    "in_reply_to_user_id": "1983516341400420352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020166214337917089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@astykxs 卖四百多的一直都是四百多啊，哪家是320涨到四百多的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2019876177381585224",
+        "created_at": "2026-02-07T16:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T17:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020173379379347481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1983516341400420352",
+              "start": 0,
+              "username": "astykxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020173379379347481",
+        "in_reply_to_user_id": "1983516341400420352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020166214337917089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@astykxs 卖四百多的一直都是四百多啊，哪家是320涨到四百多的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983516341400420352",
+        "conversation_id": "2019876177381585224",
+        "created_at": "2026-02-07T16:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T17:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020166214337917089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020166214337917089",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020141082474872962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 因为他们卖450不是不想卷价格了而是被二道贩子抬价了而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 51,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14022,
+          "following_count": 1042,
+          "like_count": 44098,
+          "listed_count": 52,
+          "media_count": 1719,
+          "tweet_count": 25082
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-29T12:49:03.000Z",
+        "description": "（呲牙）（轻咬）（舔舔）",
+        "id": "1983516341400420352",
+        "location": "North Korea",
+        "name": "软fufu猫卷uwu呜呜呜喵贴贴抱抱亲亲揉揉捏捏拍拍qwq",
+        "pinned_tweet_id": "2008291844200034551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007678253998452741/LtqBYLrt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 180,
+          "like_count": 160,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 612
+        },
+        "username": "astykxs",
+        "verified": false
+      }
+    ]
+  }
+}

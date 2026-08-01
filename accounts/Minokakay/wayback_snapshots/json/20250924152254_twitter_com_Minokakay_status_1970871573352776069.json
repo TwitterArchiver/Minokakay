@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1970780312058958286",
+    "created_at": "2025-09-24T15:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T16:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970871573352776069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1570466382365728771",
+          "start": 0,
+          "username": "m8o9j6i4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970871573352776069",
+    "in_reply_to_user_id": "1570466382365728771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970780312058958286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m8o9j6i4 胎里素胖宝宝"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1970780312058958286].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1970780312058958286",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1970780312058958286"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1970780312058958286",
+        "created_at": "2025-09-24T15:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970871573352776069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1570466382365728771",
+              "start": 0,
+              "username": "m8o9j6i4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970871573352776069",
+        "in_reply_to_user_id": "1570466382365728771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970780312058958286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m8o9j6i4 胎里素胖宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX 长居🇭🇰🇯🇵🇹🇭买HRT补佳乐色普龙诺坤复/减肥/促智找 @ChosekiNoraneko，全球可寄，我朋友开的我在做客服。买电子烟找@weita2024。买抗癌药物找@LuciusPharmacy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "LuciusPharmacy"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10221,
+          "following_count": 939,
+          "like_count": 44634,
+          "listed_count": 34,
+          "media_count": 1423,
+          "tweet_count": 21239
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-15T17:35:48.000Z",
+        "description": "@mo6ji4 \n最好最善良最可爱的好厚米：@BigFreshShrimp @miku_suki393939\nemmmmmmmmm🚪14000000\n开放私信所以fo之前请私信说明，私密账号所以不认识的人不过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "mo6ji4"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "BigFreshShrimp"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "miku_suki393939"
+              }
+            ]
+          }
+        },
+        "id": "1570466382365728771",
+        "location": "厄普西隆南极总部",
+        "name": "Big青蛙姬",
+        "pinned_tweet_id": "1903068922070565313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869701810270961664/P39j1RK6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 351,
+          "like_count": 32442,
+          "listed_count": 0,
+          "media_count": 1263,
+          "tweet_count": 9540
+        },
+        "username": "m8o9j6i4",
+        "verified": false
+      }
+    ]
+  }
+}

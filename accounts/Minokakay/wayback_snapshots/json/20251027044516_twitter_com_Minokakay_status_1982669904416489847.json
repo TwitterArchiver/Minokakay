@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1982415671427317760"
+      ],
+      "media_source_tweet_id": [
+        "1982415841636618262"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1982669904416489847",
+    "created_at": "2025-10-27T04:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T05:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982669904416489847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1489203021536198657",
+          "start": 3,
+          "username": "AmeAlways"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SGTNYw0ZMU",
+          "end": 44,
+          "expanded_url": "https://x.com/AmeAlways/status/1982415841636618262/video/1",
+          "media_key": "7_1982415671427317760",
+          "start": 21,
+          "url": "https://t.co/SGTNYw0ZMU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982669904416489847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982415841636618262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmeAlways: 玩这么大吗 https://t.co/SGTNYw0ZMU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1982669904416489847].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1982669904416489847",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1982669904416489847"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10870,
+        "height": 1280,
+        "media_key": "7_1982415671427317760",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1982415671427317760/pu/img/C-wUszQSYkj7PJYK.jpg",
+        "public_metrics": {
+          "view_count": 6007
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982415671427317760/pu/vid/avc1/320x568/6iAuNYcbPCnBUeUu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982415671427317760/pu/vid/avc1/480x852/JQ150kNhaF6DskJf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982415671427317760/pu/vid/avc1/720x1280/3kiyhYcxhkjZx2s_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1982415671427317760/pu/pl/_V5pVYiSmT2vuI8S.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1982415671427317760"
+          ]
+        },
+        "author_id": "1489203021536198657",
+        "conversation_id": "1982415841636618262",
+        "created_at": "2025-10-26T11:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T12:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982415841636618262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SGTNYw0ZMU",
+              "end": 29,
+              "expanded_url": "https://x.com/AmeAlways/status/1982415841636618262/video/1",
+              "media_key": "7_1982415671427317760",
+              "start": 6,
+              "url": "https://t.co/SGTNYw0ZMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982415841636618262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 967,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "玩这么大吗 https://t.co/SGTNYw0ZMU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11854,
+          "following_count": 991,
+          "like_count": 44953,
+          "listed_count": 41,
+          "media_count": 1484,
+          "tweet_count": 22156
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-03T11:44:35.000Z",
+        "description": "猫人无限恒久，永远激推！！！\n💞女嘉宾@42lzmr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 19,
+                "username": "42lzmr"
+              }
+            ]
+          }
+        },
+        "id": "1489203021536198657",
+        "name": "AmeAlways",
+        "pinned_tweet_id": "1806727271971242361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858672462478929920/5n4-NoGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 331,
+          "like_count": 3410,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 1127
+        },
+        "username": "AmeAlways",
+        "verified": false
+      }
+    ]
+  }
+}

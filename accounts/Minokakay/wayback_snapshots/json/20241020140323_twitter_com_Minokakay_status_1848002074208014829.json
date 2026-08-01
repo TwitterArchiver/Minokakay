@@ -1,0 +1,147 @@
+{
+  "data": {
+    "author_id": "1597257668313260033",
+    "conversation_id": "1848002074208014829",
+    "created_at": "2024-10-20T14:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T15:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848002074208014829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1335525326932209666",
+          "start": 3,
+          "username": "iceypillow0"
+        }
+      ]
+    },
+    "id": "1848002074208014829",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 320
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847457319912894575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iceypillow0: 提醒下大家这些年\n马斯克是怎么一步步毁掉推特的\n\n1 小蓝鸟logo换成奇丑无比的X\n2 认证蓝标换成付费会员\n3 付费会员分等级并和流量绑定\n4 主页的广告量翻数倍\n5 限制或关闭编程API\n6 增加冗余功能如Jobs\n7 随意修改机制，如点…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1597257668313260033",
+        "conversation_id": "1848002074208014829",
+        "created_at": "2024-10-20T14:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T15:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848002074208014829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1335525326932209666",
+              "start": 3,
+              "username": "iceypillow0"
+            }
+          ]
+        },
+        "id": "1848002074208014829",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 320
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847457319912894575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iceypillow0: 提醒下大家这些年\n马斯克是怎么一步步毁掉推特的\n\n1 小蓝鸟logo换成奇丑无比的X\n2 认证蓝标换成付费会员\n3 付费会员分等级并和流量绑定\n4 主页的广告量翻数倍\n5 限制或关闭编程API\n6 增加冗余功能如Jobs\n7 随意修改机制，如点…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要内服美白成分/日雌/色普龙/促智药找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay（藥物版",
+        "pinned_tweet_id": "1858231079683182919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 667,
+          "like_count": 29450,
+          "listed_count": 5,
+          "media_count": 637,
+          "tweet_count": 13058
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-06T10:03:55.000Z",
+        "description": "",
+        "id": "1335525326932209666",
+        "name": "Pillow0: IDisposable",
+        "pinned_tweet_id": "1860032591702949906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849251998694334464/UeYNsJwT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 1818,
+          "like_count": 41058,
+          "listed_count": 7,
+          "media_count": 119,
+          "tweet_count": 1123
+        },
+        "username": "iceypillow0",
+        "verified": false
+      }
+    ]
+  }
+}

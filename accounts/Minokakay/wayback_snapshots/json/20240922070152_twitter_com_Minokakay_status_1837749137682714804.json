@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1837749137682714804",
+    "created_at": "2024-09-22T07:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T08:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1837749137682714804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shenlebanyueyi…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/shenlebanyueyin/status/1837748219973194146",
+          "start": 8,
+          "url": "https://t.co/RQqrhE91uc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837749137682714804",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837748219973194146",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主人，我饿了😿 https://t.co/RQqrhE91uc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1837748219973194146].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1837748219973194146",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1837748219973194146"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1837749137682714804",
+        "created_at": "2024-09-22T07:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T08:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837749137682714804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shenlebanyueyi…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/shenlebanyueyin/status/1837748219973194146",
+              "start": 8,
+              "url": "https://t.co/RQqrhE91uc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837749137682714804",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837748219973194146",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主人，我饿了😿 https://t.co/RQqrhE91uc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  成渝 半休学陰暗比男高三生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 152,
+                "start": 136,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 837,
+          "like_count": 15969,
+          "listed_count": 3,
+          "tweet_count": 6811
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

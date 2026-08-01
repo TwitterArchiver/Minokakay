@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922937635770667008"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1922937639092568557",
+    "created_at": "2025-05-15T08:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T09:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922937639092568557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RbZkYal7Ot",
+          "end": 31,
+          "expanded_url": "https://x.com/Minokakay/status/1922937639092568557/photo/1",
+          "media_key": "3_1922937635770667008",
+          "start": 8,
+          "url": "https://t.co/RbZkYal7Ot"
+        },
+        {
+          "display_url": "x.com/YuXi520_Sugar/…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/YuXi520_Sugar/status/1922932399756697770",
+          "start": 32,
+          "url": "https://t.co/nFHsQK8jDc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922937639092568557",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922932399756697770",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不是二次元（ https://t.co/RbZkYal7Ot https://t.co/nFHsQK8jDc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1489,
+        "media_key": "3_1922937635770667008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq-ll3FXEAAQtoR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1489,
+        "media_key": "3_1922932387543121921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq-g0X6aAAEOd--.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922937635770667008"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1922937639092568557",
+        "created_at": "2025-05-15T08:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T09:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922937639092568557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RbZkYal7Ot",
+              "end": 31,
+              "expanded_url": "https://x.com/Minokakay/status/1922937639092568557/photo/1",
+              "media_key": "3_1922937635770667008",
+              "start": 8,
+              "url": "https://t.co/RbZkYal7Ot"
+            },
+            {
+              "display_url": "x.com/YuXi520_Sugar/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/YuXi520_Sugar/status/1922932399756697770",
+              "start": 32,
+              "url": "https://t.co/nFHsQK8jDc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922937639092568557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922932399756697770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不是二次元（ https://t.co/RbZkYal7Ot https://t.co/nFHsQK8jDc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922932387543121921"
+          ]
+        },
+        "author_id": "1246386071010553857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1922932399756697770",
+        "created_at": "2025-05-15T08:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T09:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922932399756697770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xbw3AHl5Pl",
+              "end": 23,
+              "expanded_url": "https://x.com/YuXi520_Sugar/status/1922932399756697770/photo/1",
+              "media_key": "3_1922932387543121921",
+              "start": 0,
+              "url": "https://t.co/xbw3AHl5Pl"
+            },
+            {
+              "display_url": "x.com/qixiaogonyiyi/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/qixiaogonyiyi/status/1922851920173060600",
+              "start": 24,
+              "url": "https://t.co/XyfqDrXGWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922932399756697770",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922851920173060600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/xbw3AHl5Pl https://t.co/XyfqDrXGWG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1916475690863726978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6901,
+          "following_count": 882,
+          "like_count": 42284,
+          "listed_count": 30,
+          "media_count": 958,
+          "tweet_count": 17511
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-04T10:36:20.000Z",
+        "description": "含糖mtf🍥/Le⭐/INTP/05老阿姨/HRT 2021.10.12~地下党/185 70kg天空树🌲/ADHD/CS在读/maimai新手/梦想是光明正大成为女孩子/蓄发中/欢迎扩列/键政❎/#mtf  #美少女 #m属性 #xyn #CS #Computer_Science #Cpp /欢迎找我聊天↓↓↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 99,
+                "tag": "mtf"
+              },
+              {
+                "end": 109,
+                "start": 105,
+                "tag": "美少女"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "m属性"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "xyn"
+              },
+              {
+                "end": 123,
+                "start": 120,
+                "tag": "CS"
+              },
+              {
+                "end": 141,
+                "start": 124,
+                "tag": "Computer_Science"
+              },
+              {
+                "end": 146,
+                "start": 142,
+                "tag": "Cpp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Yuxi_sugar",
+                "end": 23,
+                "expanded_url": "http://t.me/Yuxi_sugar",
+                "start": 0,
+                "url": "https://t.co/ub1O9vRonY"
+              }
+            ]
+          }
+        },
+        "id": "1246386071010553857",
+        "name": "辛熙羽🍥",
+        "pinned_tweet_id": "1870111993119556068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863423188761489408/LdBG2Qpx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 1639,
+          "like_count": 16206,
+          "listed_count": 5,
+          "media_count": 217,
+          "tweet_count": 5562
+        },
+        "url": "https://t.co/ub1O9vRonY",
+        "username": "YuXi520_Sugar",
+        "verified": false
+      }
+    ]
+  }
+}

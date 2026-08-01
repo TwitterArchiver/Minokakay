@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1935301824069951694",
+    "created_at": "2025-06-18T11:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T12:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935301824069951694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1710946461629001728",
+          "start": 3,
+          "username": "AromaticNyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935301824069951694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935286398753690008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AromaticNyan: 不是哥们你怎么贩冰冰了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1935301824069951694",
+        "created_at": "2025-06-18T11:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T12:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935301824069951694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1710946461629001728",
+              "start": 3,
+              "username": "AromaticNyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935301824069951694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935286398753690008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AromaticNyan: 不是哥们你怎么贩冰冰了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710946461629001728",
+        "conversation_id": "1935286398753690008",
+        "created_at": "2025-06-18T10:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T11:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935286398753690008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuKi520521/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/YuKi520521/status/1934843389398405552",
+              "start": 12,
+              "url": "https://t.co/dqg2UXXdLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935286398753690008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934843389398405552",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是哥们你怎么贩冰冰了 https://t.co/dqg2UXXdLx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko Alipay微信/FPS/USDT支付均可",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1933516848781537400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7729,
+          "following_count": 885,
+          "like_count": 43634,
+          "listed_count": 30,
+          "media_count": 1189,
+          "tweet_count": 18884
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-08T09:13:24.000Z",
+        "description": "iambic",
+        "id": "1710946461629001728",
+        "name": "Aromatic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710949867139534848/yCssD5EM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 133,
+          "like_count": 2986,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1760
+        },
+        "username": "AromaticNyan",
+        "verified": false
+      }
+    ]
+  }
+}

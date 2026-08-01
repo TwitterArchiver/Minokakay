@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1832497184409108770",
+    "created_at": "2024-09-07T19:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T20:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832500666541207895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1742381695045939200",
+          "start": 0,
+          "username": "mo6ji4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832500666541207895",
+    "in_reply_to_user_id": "1742381695045939200",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832500407790346326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mo6ji4 除了调料什么都没有"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1832500407790346326].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1832500407790346326",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1832500407790346326"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1832497184409108770",
+        "created_at": "2024-09-07T19:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T20:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832500666541207895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1742381695045939200",
+              "start": 0,
+              "username": "mo6ji4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832500666541207895",
+        "in_reply_to_user_id": "1742381695045939200",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832500407790346326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo6ji4 除了调料什么都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 812,
+          "like_count": 13238,
+          "listed_count": 3,
+          "tweet_count": 5485
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T03:06:37.000Z",
+        "description": "头像源：《blacksouls》贞德相爱CG\n是公用肉便器 是@mingnaisama 的飞机杯好厚米@zhao_remake \n防失联小号@m8o9j6i4 妈妈@cang_lan3667 妈妈@azusaROCtw 亲爱的@miku_suki393939 主人@35zf_out \n严重玻璃心自卑仇富",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "mingnaisama"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "zhao_remake"
+              },
+              {
+                "end": 79,
+                "start": 70,
+                "username": "m8o9j6i4"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "cang_lan3667"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "azusaROCtw"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 141,
+                "start": 132,
+                "username": "35zf_out"
+              }
+            ]
+          }
+        },
+        "id": "1742381695045939200",
+        "location": "阿拉斯加",
+        "name": "圣骑士贞德",
+        "pinned_tweet_id": "1830710426562372033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821365773853675521/fOq21twb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 817,
+          "like_count": 78687,
+          "listed_count": 2,
+          "tweet_count": 13371
+        },
+        "username": "mo6ji4",
+        "verified": false
+      }
+    ]
+  }
+}

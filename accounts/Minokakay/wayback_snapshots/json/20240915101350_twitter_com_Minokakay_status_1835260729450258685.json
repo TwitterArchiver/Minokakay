@@ -1,0 +1,440 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597222604800",
+          "name": "Beauty/Hygiene - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026370929",
+          "name": "Dove"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      }
+    ],
+    "conversation_id": "1835260729450258685",
+    "created_at": "2024-09-15T10:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T11:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1835260729450258685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minamininarita…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/minamininaritai/status/1828733686692651078",
+          "start": 25,
+          "url": "https://t.co/nsU5DsHTOz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835260729450258685",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828733686692651078",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个东西有点好用我买了两盒一个椰子味的一个石榴的 https://t.co/nsU5DsHTOz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222604800",
+              "name": "Beauty/Hygiene - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026370929",
+              "name": "Dove"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          }
+        ],
+        "conversation_id": "1835260729450258685",
+        "created_at": "2024-09-15T10:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T11:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835260729450258685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minamininarita…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/minamininaritai/status/1828733686692651078",
+              "start": 25,
+              "url": "https://t.co/nsU5DsHTOz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835260729450258685",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828733686692651078",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个东西有点好用我买了两盒一个椰子味的一个石榴的 https://t.co/nsU5DsHTOz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828733681646915584",
+            "3_1828733681684672512",
+            "3_1828733681642643456"
+          ]
+        },
+        "author_id": "1013686872269250561",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222604800",
+              "name": "Beauty/Hygiene - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026370929",
+              "name": "Dove"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          }
+        ],
+        "conversation_id": "1828733686692651078",
+        "created_at": "2024-08-28T09:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T10:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828733686692651078"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "PR"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "ダヴ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sq6nc34lzm",
+              "end": 164,
+              "expanded_url": "https://twitter.com/minamininaritai/status/1828733686692651078/photo/1",
+              "media_key": "3_1828733681646915584",
+              "start": 141,
+              "url": "https://t.co/sQ6Nc34LZM"
+            },
+            {
+              "display_url": "pic.x.com/sq6nc34lzm",
+              "end": 164,
+              "expanded_url": "https://twitter.com/minamininaritai/status/1828733686692651078/photo/1",
+              "media_key": "3_1828733681684672512",
+              "start": 141,
+              "url": "https://t.co/sQ6Nc34LZM"
+            },
+            {
+              "display_url": "pic.x.com/sq6nc34lzm",
+              "end": 164,
+              "expanded_url": "https://twitter.com/minamininaritai/status/1828733686692651078/photo/1",
+              "media_key": "3_1828733681642643456",
+              "start": 141,
+              "url": "https://t.co/sQ6Nc34LZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828733686692651078",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 305,
+          "impression_count": 34807,
+          "like_count": 1069,
+          "quote_count": 24,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "去年バズってたダヴのスクラブからついに！数量限定でキンモクセイの香りがでたから裏技も教えちゃう🫶🏻ダヴ泡ボディウォッシュと併用すると元々刺激少なめなのに、スクラブ入りもこもこ泡になって肌を優しく洗いながらつるもち肌になれるの👶🏻 秋の香りに包まれて最高だから是非🍂 #PR #ダヴ https://t.co/sQ6Nc34LZM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 822,
+          "like_count": 14393,
+          "listed_count": 3,
+          "tweet_count": 6051
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-02T07:32:38.000Z",
+        "description": "田中みな実様になりたいアラサーOLの美容アカウント🤍更新度高めのサブ垢→@olchan_sub_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "olchan_sub_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/minamininarita…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/minamininaritaiol?igsh=MTd5cDIzcnF2dWN6NA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/5VwpagpPN5"
+              }
+            ]
+          }
+        },
+        "id": "1013686872269250561",
+        "location": "Instagramやってます🤍Amazonアソシエイト参加",
+        "name": "OLちゃん/美容オタク",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1336572146835865600/O_tCcBxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186216,
+          "following_count": 434,
+          "like_count": 2850,
+          "listed_count": 1174,
+          "tweet_count": 3975
+        },
+        "url": "https://t.co/5VwpagpPN5",
+        "username": "minamininaritai",
+        "verified": true
+      }
+    ]
+  }
+}

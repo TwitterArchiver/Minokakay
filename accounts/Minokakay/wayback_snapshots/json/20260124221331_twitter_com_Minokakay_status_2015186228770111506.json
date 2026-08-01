@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2015185827018789289",
+    "created_at": "2026-01-24T22:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T23:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015186228770111506"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015186228770111506",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015185827018789289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以我如果综合考虑服务态度和可玩性 那肯定不去香港了 直接去日本吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2015185827018789289",
+        "created_at": "2026-01-24T22:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T23:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015186228770111506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015186228770111506",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015185827018789289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我如果综合考虑服务态度和可玩性 那肯定不去香港了 直接去日本吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2015185827018789289",
+        "created_at": "2026-01-24T22:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T23:11:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015185639843725698",
+          "2015185827018789289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/myrawang0/stat…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/myrawang0/status/2014969227313127448",
+              "start": 79,
+              "url": "https://t.co/NRnKZkurKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015185827018789289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014969227313127448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去香港都讲的日语+英语，酒店押金也给的日元，对我态度挺好。第二次去讲普通话就感觉服务业态度挺差了，只有高档一点的地方才会对我态度好一点，越小的店态度越差。 https://t.co/NRnKZkurKa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️咨询补色诺凝胶等看https://t.co/9scN5m8csf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chosekipharmacy",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/chosekipharmacy",
+                "start": 51,
+                "url": "https://t.co/9scN5m8csf"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2013945809042350395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13983,
+          "following_count": 1029,
+          "like_count": 44879,
+          "listed_count": 50,
+          "media_count": 1824,
+          "tweet_count": 25615
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1897890936249856111",
+    "created_at": "2025-03-07T09:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T10:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897947184563101747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        },
+        {
+          "end": 20,
+          "id": "1176535991454064640",
+          "start": 11,
+          "username": "lumigj02"
+        },
+        {
+          "end": 31,
+          "id": "1885806264766373888",
+          "start": 21,
+          "username": "tomoe_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897947184563101747",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897945844306874470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ @lumigj02 @tomoe_QAQ 成年不用，未成年眼熟了不用"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1897945844306874470].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1897945844306874470",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1897945844306874470"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1897890936249856111",
+        "created_at": "2025-03-07T09:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T10:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897947184563101747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            },
+            {
+              "end": 20,
+              "id": "1176535991454064640",
+              "start": 11,
+              "username": "lumigj02"
+            },
+            {
+              "end": 31,
+              "id": "1885806264766373888",
+              "start": 21,
+              "username": "tomoe_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897947184563101747",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897945844306874470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ @lumigj02 @tomoe_QAQ 成年不用，未成年眼熟了不用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈 https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 99,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 76,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay （日雌泰补色诺",
+        "pinned_tweet_id": "1891554377909010835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5521,
+          "following_count": 825,
+          "like_count": 37412,
+          "listed_count": 27,
+          "media_count": 1041,
+          "tweet_count": 16611
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "生于虚无，走向虚无/ 我只会躲在墙角，看着别人的成就和未来自己什么都做不了 垃圾桶@chunhuiyuyin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "chunhuiyuyin"
+              }
+            ]
+          }
+        },
+        "id": "1709376564713127936",
+        "name": "管脚🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881272842882580480/gJJ3sZdS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 1100,
+          "like_count": 53700,
+          "listed_count": 3,
+          "media_count": 1283,
+          "tweet_count": 10330
+        },
+        "username": "guanjiao_",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "R6 duo 💖 @HobartR6 / 日雌380泰补200 / NSFW不打码恕不回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/xnU7yfJnaD"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "location": "Singapore",
+        "name": "ؘ",
+        "pinned_tweet_id": "1897828472992809276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896123259126464512/fyCo0Gji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 843,
+          "like_count": 25461,
+          "listed_count": 11,
+          "media_count": 928,
+          "tweet_count": 10339
+        },
+        "url": "https://t.co/xnU7yfJnaD",
+        "username": "lumigj02",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T21:43:53.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈主账@tomoe_QVQ｜07｜mtf｜持证含糖🍥｜hrt2025.1.31🏳️‍⚧️｜les🏳️‍🌈｜🇭🇰女友@eri_QvQ｜🇨🇦男友@aya_the_raven｜🇯🇵闺蜜@oilyNaCl｜坐标📍🇯🇵東京🇨🇳成都🇭🇰香港🇨🇳上海🇰🇷首尔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "tomoe_QVQ"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "username": "eri_QvQ"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "aya_the_raven"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "oilyNaCl"
+              }
+            ]
+          }
+        },
+        "id": "1885806264766373888",
+        "name": "ともえ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1885818431234363607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885807280144490496/u0MVs6DT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 156,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 246
+        },
+        "username": "tomoe_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

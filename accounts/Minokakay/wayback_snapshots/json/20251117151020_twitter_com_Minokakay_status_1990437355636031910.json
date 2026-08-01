@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1990437355636031910",
+    "created_at": "2025-11-17T15:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T16:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990437355636031910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "147786784",
+          "start": 3,
+          "username": "yetone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990437355636031910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989939775311417837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yetone: 中国人真的是全星球最适合资本主义的民族，在资本主义下简直如鱼得水，结果偏偏被共产主义夯了一下，这真的挺朋克的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1990437355636031910",
+        "created_at": "2025-11-17T15:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990437355636031910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "147786784",
+              "start": 3,
+              "username": "yetone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990437355636031910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989939775311417837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yetone: 中国人真的是全星球最适合资本主义的民族，在资本主义下简直如鱼得水，结果偏偏被共产主义夯了一下，这真的挺朋克的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "147786784",
+        "conversation_id": "1989939775311417837",
+        "created_at": "2025-11-16T06:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T07:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989939775311417837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989939775311417837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 449823,
+          "like_count": 1400,
+          "quote_count": 20,
+          "reply_count": 192,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "中国人真的是全星球最适合资本主义的民族，在资本主义下简直如鱼得水，结果偏偏被共产主义夯了一下，这真的挺朋克的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12270,
+          "following_count": 1013,
+          "like_count": 45015,
+          "listed_count": 43,
+          "media_count": 1567,
+          "tweet_count": 23059
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-25T01:52:30.000Z",
+        "description": "I built a Cursor-like experience plugin for Neovim: avante.nvim",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/yetone",
+                "end": 23,
+                "expanded_url": "https://github.com/yetone",
+                "start": 0,
+                "url": "https://t.co/KfyoeaqTKV"
+              }
+            ]
+          }
+        },
+        "id": "147786784",
+        "location": "无",
+        "name": "yetone",
+        "pinned_tweet_id": "1962108306614612091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62240,
+          "following_count": 4449,
+          "like_count": 17546,
+          "listed_count": 599,
+          "media_count": 1919,
+          "tweet_count": 16820
+        },
+        "url": "https://t.co/KfyoeaqTKV",
+        "username": "yetone",
+        "verified": true
+      }
+    ]
+  }
+}

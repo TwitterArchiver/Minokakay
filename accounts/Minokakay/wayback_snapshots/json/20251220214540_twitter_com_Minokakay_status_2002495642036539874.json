@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999798557029826560"
+      ],
+      "media_source_tweet_id": [
+        "1999798814186848744"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2002495642036539874",
+    "created_at": "2025-12-20T21:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T22:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002495642036539874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "994848945942749185",
+          "start": 3,
+          "username": "pixiv_wachiwo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kjr6fKzGiH",
+          "end": 54,
+          "expanded_url": "https://x.com/pixiv_wachiwo/status/1999798814186848744/photo/1",
+          "media_key": "3_1999798557029826560",
+          "start": 31,
+          "url": "https://t.co/Kjr6fKzGiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002495642036539874",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2589
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999798814186848744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pixiv_wachiwo: 男の娘はみんな試した説 https://t.co/Kjr6fKzGiH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2002495642036539874].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2002495642036539874",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2002495642036539874"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1999798557029826560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8C2MTYaAAAPG_R.png",
+        "width": 453
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999798557029826560"
+          ]
+        },
+        "author_id": "994848945942749185",
+        "conversation_id": "1999798814186848744",
+        "created_at": "2025-12-13T11:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T12:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999798814186848744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kjr6fKzGiH",
+              "end": 35,
+              "expanded_url": "https://x.com/pixiv_wachiwo/status/1999798814186848744/photo/1",
+              "media_key": "3_1999798557029826560",
+              "start": 12,
+              "url": "https://t.co/Kjr6fKzGiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999798814186848744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 7169,
+          "impression_count": 469864,
+          "like_count": 28714,
+          "quote_count": 91,
+          "reply_count": 36,
+          "retweet_count": 2589
+        },
+        "reply_settings": "everyone",
+        "text": "男の娘はみんな試した説 https://t.co/Kjr6fKzGiH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13122,
+          "following_count": 1013,
+          "like_count": 44947,
+          "listed_count": 50,
+          "media_count": 1784,
+          "tweet_count": 24764
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-11T07:57:26.000Z",
+        "description": "R-18の男の娘絵を描いて活動してます。\nここではエッチな絵を投稿したり告知していけたらと思います。\n\n下記ではニオイ（臭い）フェチ全開で描いてます！\npixivFANBOX：https://t.co/ktqRJ7GNRL\nFANTIA：https://t.co/FGkB2USkUD\n避難所：@wachiwo_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 147,
+                "username": "wachiwo_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/nKMi8",
+                "end": 111,
+                "expanded_url": "https://x.gd/nKMi8",
+                "start": 88,
+                "url": "https://t.co/ktqRJ7GNRL"
+              },
+              {
+                "display_url": "x.gd/TlNPs",
+                "end": 142,
+                "expanded_url": "https://x.gd/TlNPs",
+                "start": 119,
+                "url": "https://t.co/FGkB2USkUD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/2677057",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/2677057",
+                "start": 0,
+                "url": "https://t.co/scX49kj4qX"
+              }
+            ]
+          }
+        },
+        "id": "994848945942749185",
+        "location": "Japan",
+        "name": "わちを",
+        "pinned_tweet_id": "1999798814186848744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1459917107278520320/bDWhQWdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25718,
+          "following_count": 112,
+          "like_count": 1153,
+          "listed_count": 197,
+          "media_count": 197,
+          "tweet_count": 1264
+        },
+        "url": "https://t.co/scX49kj4qX",
+        "username": "pixiv_wachiwo",
+        "verified": false
+      }
+    ]
+  }
+}

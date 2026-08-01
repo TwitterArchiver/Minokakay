@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1825814677903020273",
+    "created_at": "2024-08-20T13:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T14:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825882742908994015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "Kagurazaka_Lynn"
+        },
+        {
+          "end": 29,
+          "id": "1683441735144439808",
+          "start": 17,
+          "username": "Allenium114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825882742908994015",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825881962483167504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagurazaka_Lynn @Allenium114 数字没有用，实际看着就是又矮又胖又黑😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1825881962483167504].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1825881962483167504",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1825881962483167504"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1825814677903020273",
+        "created_at": "2024-08-20T13:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T14:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825882742908994015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "Kagurazaka_Lynn"
+            },
+            {
+              "end": 29,
+              "id": "1683441735144439808",
+              "start": 17,
+              "username": "Allenium114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825882742908994015",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825881962483167504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagurazaka_Lynn @Allenium114 数字没有用，实际看着就是又矮又胖又黑😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 付费裡推：@Minokakaysex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Minokakaysex"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 911,
+          "like_count": 9268,
+          "listed_count": 3,
+          "tweet_count": 3232
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "@Allenium114 的里推偏黄推 |药娘の涩涩日常| 充斥着发情 涩涩 抽象内容 | 门🚪：35 ¥ 同类熟人免🚪|这些钱将会被用来买糖和小玩具😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "Allenium114"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重庆",
+        "name": "翎（里推）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807107246037585922/B8ZRdSL__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 23,
+          "like_count": 438,
+          "listed_count": 0,
+          "tweet_count": 90
+        },
+        "username": "Kagurazaka_Lynn",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:39:28.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈MtF 🍥 HRT2024.4.20 |持证 ADHD | 愈发健全❤️| 半出柜半家长党| 小证 2024.8.5丨178cm 57kg | 重度 Apex | 准高二08 年物化生😭| 🏳️‍⚧️麻麻@xue_zhi2008 |涩涩里推@kagurazaka_lynn🥵门🚪35 ¥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "xue_zhi2008"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "kagurazaka_lynn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/AG5sVAiJgj"
+              }
+            ]
+          }
+        },
+        "id": "1683441735144439808",
+        "location": "重庆 渝北",
+        "name": "铃屋翎🍥",
+        "pinned_tweet_id": "1825814677903020273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789540383489449984/g9zaDvGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 651,
+          "like_count": 32615,
+          "listed_count": 7,
+          "tweet_count": 8131
+        },
+        "url": "https://t.co/AG5sVAiJgj",
+        "username": "Allenium114",
+        "verified": false
+      }
+    ]
+  }
+}

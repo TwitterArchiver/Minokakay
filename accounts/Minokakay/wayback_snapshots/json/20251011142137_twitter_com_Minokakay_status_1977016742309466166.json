@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1976967565697335616",
+    "created_at": "2025-10-11T14:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T15:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977016742309466166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1573863666000224256",
+          "start": 0,
+          "username": "Futuristic2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977016742309466166",
+    "in_reply_to_user_id": "1573863666000224256",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976967565697335616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Futuristic2007 ？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1976967565697335616].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1976967565697335616",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1976967565697335616"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1976967565697335616",
+        "created_at": "2025-10-11T14:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T15:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977016742309466166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1573863666000224256",
+              "start": 0,
+              "username": "Futuristic2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977016742309466166",
+        "in_reply_to_user_id": "1573863666000224256",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976967565697335616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Futuristic2007 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，长居🇭🇰🇯🇵。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我在做客服。买电子烟找@weita2024。买抗癌药物找@LuciusPharmacy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "weita2024"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "LuciusPharmacy"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10920,
+          "following_count": 955,
+          "like_count": 44807,
+          "listed_count": 37,
+          "media_count": 1459,
+          "tweet_count": 21685
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-25T02:36:14.000Z",
+        "description": "26届高三牲😭/dser/最近很幸福✨/希望大家也都可以找到自己热爱的事情并过上充实的生活哦❤️/永远是中推圈的过客🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/i/communities/1950931607126409236",
+                "start": 0,
+                "url": "https://t.co/cyq7oi76TX"
+              }
+            ]
+          }
+        },
+        "id": "1573863666000224256",
+        "location": "People's Republic of China",
+        "name": "过客·Futuristic History",
+        "pinned_tweet_id": "1964654555926528085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915598098606546945/Hm_FVz3k_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1808,
+          "following_count": 640,
+          "like_count": 130053,
+          "listed_count": 4,
+          "media_count": 1068,
+          "tweet_count": 24334
+        },
+        "url": "https://t.co/cyq7oi76TX",
+        "username": "Futuristic2007",
+        "verified": true
+      }
+    ]
+  }
+}

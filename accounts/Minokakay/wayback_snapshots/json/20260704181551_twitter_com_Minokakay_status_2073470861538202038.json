@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2073470861538202038",
+    "created_at": "2026-07-04T18:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T19:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073470861538202038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hhdd8964/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/hhdd8964/status/2073221157533393116",
+          "start": 12,
+          "url": "https://t.co/mLla5ytAlS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073470861538202038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073221157533393116",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "疑似世界上最早的生化战 https://t.co/mLla5ytAlS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2073470861538202038",
+        "created_at": "2026-07-04T18:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073470861538202038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hhdd8964/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hhdd8964/status/2073221157533393116",
+              "start": 12,
+              "url": "https://t.co/mLla5ytAlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073470861538202038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073221157533393116",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "疑似世界上最早的生化战 https://t.co/mLla5ytAlS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799961465044258816",
+        "conversation_id": "2073221157533393116",
+        "created_at": "2026-07-04T01:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073221157533393116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/historianopain…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/historianopaint/status/2073170992256487706",
+              "start": 48,
+              "url": "https://t.co/i2X70ctr6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073221157533393116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 913,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073170992256487706",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想想还真可笑，蒙古人之所以能征服欧洲，只是因为他们太不干净了，带来了黑死病，让欧洲人死了一半。 https://t.co/i2X70ctr6i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新，较少看/发推特",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14427,
+          "following_count": 1051,
+          "like_count": 43793,
+          "listed_count": 49,
+          "media_count": 1849,
+          "tweet_count": 26255
+        },
+        "url": "",
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-10T00:27:26.000Z",
+        "description": "中国スパイ N1 /漢奸 6级/ MAGA 8.0/勃学家🔰/當你開始抽象，這個世界就不再抽象/當你開始支持習主席，坦克就不曾存在/",
+        "id": "1799961465044258816",
+        "location": "臺北市",
+        "name": "習門金瓶大官人👿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810996792278069248/eqd0nY8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 200,
+          "like_count": 80693,
+          "listed_count": 20,
+          "media_count": 1190,
+          "tweet_count": 17932
+        },
+        "url": "",
+        "username": "hHDD8964",
+        "verified": true
+      }
+    ]
+  }
+}

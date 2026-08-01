@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2003921987899675075",
+    "created_at": "2025-12-24T20:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T21:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003921987899675075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gomes_808/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/gomes_808/status/2003799041394786514",
+          "start": 5,
+          "url": "https://t.co/cCFJXESwR3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003921987899675075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003799041394786514",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样 https://t.co/cCFJXESwR3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2003798881813856256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87sd2fXAAAzeBZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2003921987899675075",
+        "created_at": "2025-12-24T20:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T21:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003921987899675075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gomes_808/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/gomes_808/status/2003799041394786514",
+              "start": 5,
+              "url": "https://t.co/cCFJXESwR3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003921987899675075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003799041394786514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样 https://t.co/cCFJXESwR3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003798881813856256"
+          ]
+        },
+        "author_id": "1592778858469670912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2003799041394786514",
+        "created_at": "2025-12-24T12:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T13:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003799041394786514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pBklXWEXzh",
+              "end": 48,
+              "expanded_url": "https://x.com/Gomes_808/status/2003799041394786514/photo/1",
+              "media_key": "3_2003798881813856256",
+              "start": 25,
+              "url": "https://t.co/pBklXWEXzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003799041394786514",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 3949,
+          "like_count": 541,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "Happy Holidays everyone! https://t.co/pBklXWEXzh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，如需癌症/慢病用药，请找@Lucius_Pharma，均是我朋友开的，我担保。如需电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Lucius_Pharma"
+              },
+              {
+                "end": 136,
+                "start": 126,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13414,
+          "following_count": 1018,
+          "like_count": 44951,
+          "listed_count": 51,
+          "media_count": 1802,
+          "tweet_count": 24965
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-16T07:17:37.000Z",
+        "description": "NSFW 🔞\nAll characters are 18+\nFemboy Connoisseur ❤️\ncommissions and exclusive content:\nUnifans→ https://t.co/JpxfVQQh0j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "app.unifans.io/c/gomesx",
+                "end": 119,
+                "expanded_url": "https://app.unifans.io/c/gomesx",
+                "start": 96,
+                "url": "https://t.co/JpxfVQQh0j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/gomes_808",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/gomes_808",
+                "start": 0,
+                "url": "https://t.co/UHCNykgOku"
+              }
+            ]
+          }
+        },
+        "id": "1592778858469670912",
+        "name": "Gomes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889483223131901952/b6r7hDkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18862,
+          "following_count": 545,
+          "like_count": 4919,
+          "listed_count": 165,
+          "media_count": 234,
+          "tweet_count": 935
+        },
+        "url": "https://t.co/UHCNykgOku",
+        "username": "Gomes_808",
+        "verified": false
+      }
+    ]
+  }
+}

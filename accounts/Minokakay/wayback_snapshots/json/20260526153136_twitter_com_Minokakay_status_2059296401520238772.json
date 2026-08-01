@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059296319248965632"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2059296401520238772",
+    "created_at": "2026-05-26T15:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059296401520238772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3RGrOe11fy",
+          "end": 29,
+          "expanded_url": "https://x.com/Minokakay/status/2059296401520238772/photo/1",
+          "media_key": "3_2059296319248965632",
+          "start": 6,
+          "url": "https://t.co/3RGrOe11fy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059296401520238772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "飞猪旅行（ https://t.co/3RGrOe11fy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2059296319248965632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQXF3waoAAD39Z.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059296319248965632"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2059296401520238772",
+        "created_at": "2026-05-26T15:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059296401520238772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3RGrOe11fy",
+              "end": 29,
+              "expanded_url": "https://x.com/Minokakay/status/2059296401520238772/photo/1",
+              "media_key": "3_2059296319248965632",
+              "start": 6,
+              "url": "https://t.co/3RGrOe11fy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059296401520238772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "飞猪旅行（ https://t.co/3RGrOe11fy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "发着光的半平米，胡乱哼唱的旋律，\n但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬🍥找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 79,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 56,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14397,
+          "following_count": 1060,
+          "like_count": 43967,
+          "listed_count": 49,
+          "media_count": 1829,
+          "tweet_count": 26171
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2044784119494893811",
+    "created_at": "2026-04-16T18:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T19:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044847683291222135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "144114422",
+          "start": 0,
+          "username": "YoshirouTakeda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044847683291222135",
+    "in_reply_to_user_id": "144114422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044826570825851264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YoshirouTakeda 我不用但有中国人在用啊😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2044784119494893811",
+        "created_at": "2026-04-16T18:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T19:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044847683291222135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "144114422",
+              "start": 0,
+              "username": "YoshirouTakeda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044847683291222135",
+        "in_reply_to_user_id": "144114422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044826570825851264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YoshirouTakeda 我不用但有中国人在用啊😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "144114422",
+        "conversation_id": "2044784119494893811",
+        "created_at": "2026-04-16T17:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044826570825851264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044826570825851264",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044784119494893811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 你为什么要在国外用高德？\n纯找罪受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "发着光的半平米，胡乱哼唱的旋律，但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 77,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 54,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14162,
+          "following_count": 1049,
+          "like_count": 44029,
+          "listed_count": 53,
+          "media_count": 1790,
+          "tweet_count": 25878
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-15T10:06:41.000Z",
+        "description": "适用于110kV及以下电压等级变电站，装置集成合并单元和智能终端功能，实现电流、电压模拟量采集、合并及输出，可实现三相断路器、隔刀及地刀的位置采集和控制，具有开关量位置采集和接收间隔层装置保护跳闸和控制命令功能。",
+        "id": "144114422",
+        "location": "110kV白塔变",
+        "name": "UDM-502 型合并单元智能终端装置",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023148548691476480/PpLmkt11_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 79
+        },
+        "username": "YoshirouTakeda",
+        "verified": false
+      }
+    ]
+  }
+}

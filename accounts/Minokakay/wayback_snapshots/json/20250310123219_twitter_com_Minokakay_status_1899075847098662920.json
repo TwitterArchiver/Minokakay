@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1899037087376293925",
+    "created_at": "2025-03-10T12:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T13:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899075847098662920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678627921500700674",
+          "start": 0,
+          "username": "VRchatID_baozhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899075847098662920",
+    "in_reply_to_user_id": "1678627921500700674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899041076264177847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VRchatID_baozhi 会发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1899037087376293925",
+        "created_at": "2025-03-10T12:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T13:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899075847098662920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678627921500700674",
+              "start": 0,
+              "username": "VRchatID_baozhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899075847098662920",
+        "in_reply_to_user_id": "1678627921500700674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899041076264177847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VRchatID_baozhi 会发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678627921500700674",
+        "conversation_id": "1899037087376293925",
+        "created_at": "2025-03-10T10:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T11:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899041076264177847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899041076264177847",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899037087376293925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 那已经付款了的还能发货吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 101,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 78,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1898368888385274191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5588,
+          "following_count": 834,
+          "like_count": 37650,
+          "listed_count": 27,
+          "media_count": 566,
+          "tweet_count": 14697
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T04:51:07.000Z",
+        "description": "玩vrc的小南梁加我",
+        "id": "1678627921500700674",
+        "name": "baozhi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847563184737308676/jlRiaHNJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 54,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 181
+        },
+        "username": "VRchatID_baozhi",
+        "verified": false
+      }
+    ]
+  }
+}

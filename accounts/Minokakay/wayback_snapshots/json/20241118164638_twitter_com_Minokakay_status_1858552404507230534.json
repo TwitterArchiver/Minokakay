@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1858483090836115922",
+    "created_at": "2024-11-18T16:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T17:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858552404507230534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1829878525714915328",
+          "start": 0,
+          "username": "mantianxing_fly"
+        },
+        {
+          "end": 30,
+          "id": "1683441735144439808",
+          "start": 17,
+          "username": "TheSoutaLynn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858552404507230534",
+    "in_reply_to_user_id": "1829878525714915328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858549830026666487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mantianxing_fly @TheSoutaLynn 一玩原神就死機，我要換小米手機，可是沒錢要分期"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1858483090836115922",
+        "created_at": "2024-11-18T16:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T17:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858552404507230534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1829878525714915328",
+              "start": 0,
+              "username": "mantianxing_fly"
+            },
+            {
+              "end": 30,
+              "id": "1683441735144439808",
+              "start": 17,
+              "username": "TheSoutaLynn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858552404507230534",
+        "in_reply_to_user_id": "1829878525714915328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858549830026666487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mantianxing_fly @TheSoutaLynn 一玩原神就死機，我要換小米手機，可是沒錢要分期"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829878525714915328",
+        "conversation_id": "1858483090836115922",
+        "created_at": "2024-11-18T16:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T17:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858549830026666487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683441735144439808",
+              "start": 0,
+              "username": "TheSoutaLynn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858549830026666487",
+        "in_reply_to_user_id": "1683441735144439808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858483090836115922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheSoutaLynn 手机配置低。。。一玩。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1858231079683182919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 949,
+          "like_count": 26998,
+          "listed_count": 3,
+          "tweet_count": 12092
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:46:59.000Z",
+        "description": "I06I舞萌新手I超级无敌缺爱I无糖跨女I泛性恋I最爱的好朋友 @AiharaShizuku  @akui1121 l🌕︎ @fly_me2_themoon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "AiharaShizuku"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "akui1121"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "fly_me2_themoon"
+              }
+            ]
+          }
+        },
+        "id": "1829878525714915328",
+        "name": "满天star🍥",
+        "pinned_tweet_id": "1849170387009192214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829879212741967878/fDoMQGsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 150,
+          "like_count": 1554,
+          "listed_count": 1,
+          "tweet_count": 1205
+        },
+        "username": "mantianxing_fly",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:39:28.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈/🍥2024.4.20/小证/ADHD/178cm57kg/ A-Level to HongKong🇭🇰/2008.5.6/ 少数民族 /Apex22 赛季手把钻石💎坏姐姐@beijieyoufengle🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "beijieyoufengle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/AG5sVAiJgj"
+              }
+            ]
+          }
+        },
+        "id": "1683441735144439808",
+        "location": "距离你 3.7km",
+        "name": ".翎 SoutaWashuu🍥",
+        "pinned_tweet_id": "1841737663013118000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853450549901062144/m1aAp43-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3279,
+          "following_count": 1349,
+          "like_count": 65491,
+          "listed_count": 8,
+          "tweet_count": 15604
+        },
+        "url": "https://t.co/AG5sVAiJgj",
+        "username": "TheSoutaLynn",
+        "verified": false
+      }
+    ]
+  }
+}

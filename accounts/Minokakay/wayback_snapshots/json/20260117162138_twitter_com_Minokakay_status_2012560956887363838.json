@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2012518406545949183",
+    "created_at": "2026-01-17T16:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T17:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012560956887363838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1879526590188859392",
+          "start": 0,
+          "username": "ZaixaiBuPang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012560956887363838",
+    "in_reply_to_user_id": "1879526590188859392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012529456972255352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaixaiBuPang 千元左右不都有2K+一般的拍照水平吗（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2012518406545949183",
+        "created_at": "2026-01-17T16:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012560956887363838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879526590188859392",
+              "start": 0,
+              "username": "ZaixaiBuPang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012560956887363838",
+        "in_reply_to_user_id": "1879526590188859392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012529456972255352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaixaiBuPang 千元左右不都有2K+一般的拍照水平吗（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879526590188859392",
+        "conversation_id": "2012518406545949183",
+        "created_at": "2026-01-17T14:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012529456972255352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012529456972255352",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012518406545949183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 问问索尼手机怎么样，想买一台千元作业可以拍照和可以看2K视频的有没有推荐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️咨询补色诺凝胶/减肥/促智等看https://t.co/9scN5m8csf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chosekipharmacy",
+                "end": 80,
+                "expanded_url": "http://linktr.ee/chosekipharmacy",
+                "start": 57,
+                "url": "https://t.co/9scN5m8csf"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2007855045178716540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13822,
+          "following_count": 1023,
+          "like_count": 44942,
+          "listed_count": 50,
+          "media_count": 1822,
+          "tweet_count": 25451
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T13:51:14.000Z",
+        "description": "好きなアニメ: 中二病でも恋がしたい ! \n葬送のフリーレン、ぼっち・ざ・ろっく!、\nRe:ゼロから始める異世界生活、五等分の花嫁\n-\n遊んでいるゲーム：『アークナイツ』『UNDERTALE』『OSU!』\n-\n避けたい行動：民族主義を煽ること、過激なネット政治議論、みだりに下品な冗談を言うことです",
+        "id": "1879526590188859392",
+        "location": "ちきゅう",
+        "name": "ちきゅう大爆発",
+        "pinned_tweet_id": "1904443366143557870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009946615256367104/qexxcv1m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 414,
+          "like_count": 5409,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 1554
+        },
+        "username": "ZaixaiBuPang",
+        "verified": false
+      }
+    ]
+  }
+}

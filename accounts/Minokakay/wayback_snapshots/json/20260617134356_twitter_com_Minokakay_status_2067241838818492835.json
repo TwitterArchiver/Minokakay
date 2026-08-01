@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067241828458659840"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2067241838818492835",
+    "created_at": "2026-06-17T13:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067241838818492835"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vSd69r8yKJ",
+          "end": 32,
+          "expanded_url": "https://x.com/Minokakay/status/2067241838818492835/photo/1",
+          "media_key": "3_2067241828458659840",
+          "start": 9,
+          "url": "https://t.co/vSd69r8yKJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067241838818492835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可爱捏 想带回家 https://t.co/vSd69r8yKJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067241828458659840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBRfYIbgAAoYlC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067241828458659840"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2067241838818492835",
+        "created_at": "2026-06-17T13:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067241838818492835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vSd69r8yKJ",
+              "end": 32,
+              "expanded_url": "https://x.com/Minokakay/status/2067241838818492835/photo/1",
+              "media_key": "3_2067241828458659840",
+              "start": 9,
+              "url": "https://t.co/vSd69r8yKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067241838818492835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可爱捏 想带回家 https://t.co/vSd69r8yKJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14426,
+          "following_count": 1056,
+          "like_count": 44000,
+          "listed_count": 49,
+          "media_count": 1846,
+          "tweet_count": 26267
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

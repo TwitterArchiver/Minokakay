@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1840641216289063326",
+    "created_at": "2024-09-30T06:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T07:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840641734000382152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1548876654843674624",
+          "start": 0,
+          "username": "1h22min_114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840641734000382152",
+    "in_reply_to_user_id": "1548876654843674624",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840641216289063326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1h22min_114514 🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1840641216289063326",
+        "created_at": "2024-09-30T06:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T07:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840641734000382152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1548876654843674624",
+              "start": 0,
+              "username": "1h22min_114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840641734000382152",
+        "in_reply_to_user_id": "1548876654843674624",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840641216289063326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1h22min_114514 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840641201558732800",
+            "3_1840641202414395392",
+            "3_1840641202376605696"
+          ]
+        },
+        "author_id": "1548876654843674624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1840641216289063326",
+        "created_at": "2024-09-30T06:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T07:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840641216289063326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fynpm3wj7j",
+              "end": 49,
+              "expanded_url": "https://twitter.com/1h22min_114514/status/1840641216289063326/photo/1",
+              "media_key": "3_1840641201558732800",
+              "start": 26,
+              "url": "https://t.co/FyNPm3WJ7j"
+            },
+            {
+              "display_url": "pic.x.com/fynpm3wj7j",
+              "end": 49,
+              "expanded_url": "https://twitter.com/1h22min_114514/status/1840641216289063326/photo/1",
+              "media_key": "3_1840641202414395392",
+              "start": 26,
+              "url": "https://t.co/FyNPm3WJ7j"
+            },
+            {
+              "display_url": "pic.x.com/fynpm3wj7j",
+              "end": 49,
+              "expanded_url": "https://twitter.com/1h22min_114514/status/1840641216289063326/photo/1",
+              "media_key": "3_1840641202376605696",
+              "start": 26,
+              "url": "https://t.co/FyNPm3WJ7j"
+            },
+            {
+              "display_url": "x.com/1h22min_114514…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/1h22min_114514/status/1840628851170521578",
+              "start": 50,
+              "url": "https://t.co/pZjmJ7HxXy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840641216289063326",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840628851170521578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "整点烂活，搬运一下开战初网上流传的乌贼恶俗聊天记录 https://t.co/FyNPm3WJ7j https://t.co/pZjmJ7HxXy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 862,
+          "like_count": 18471,
+          "listed_count": 3,
+          "tweet_count": 8295
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T03:46:01.000Z",
+        "description": "Слава России! слава україні!（RDK/UKR）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KKI15H67kSxiZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KKI15H67kSxiZjE",
+                "start": 0,
+                "url": "https://t.co/thlW7ObiKF"
+              }
+            ]
+          }
+        },
+        "id": "1548876654843674624",
+        "location": "阿芙蒂夫卡焦化厂",
+        "name": "Клетка",
+        "pinned_tweet_id": "1837871824002339089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835019694082080773/w82devuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2012,
+          "following_count": 966,
+          "like_count": 53307,
+          "listed_count": 15,
+          "tweet_count": 9112
+        },
+        "url": "https://t.co/thlW7ObiKF",
+        "username": "1h22min_114514",
+        "verified": false
+      }
+    ]
+  }
+}

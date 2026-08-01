@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1817572933222756562",
+    "created_at": "2024-07-28T14:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T15:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817572933222756562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1316207577949061120",
+          "start": 3,
+          "username": "muxefafa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817572933222756562",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817294444380688413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @muxefafa: 有些人：我不歧视LGBT+ 前提是你得在我看不见的角落待着 出现在我面前就是强行让我接受 就是恶心\n\n不知道这跟歧视有啥区别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1817572933222756562",
+        "created_at": "2024-07-28T14:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T15:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817572933222756562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1316207577949061120",
+              "start": 3,
+              "username": "muxefafa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817572933222756562",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817294444380688413",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @muxefafa: 有些人：我不歧视LGBT+ 前提是你得在我看不见的角落待着 出现在我面前就是强行让我接受 就是恶心\n\n不知道这跟歧视有啥区别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1316207577949061120",
+        "conversation_id": "1817294444380688413",
+        "created_at": "2024-07-27T20:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T21:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817294444380688413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1817294444380688413",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 31283,
+          "like_count": 358,
+          "quote_count": 13,
+          "reply_count": 75,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "有些人：我不歧视LGBT+ 前提是你得在我看不见的角落待着 出现在我面前就是强行让我接受 就是恶心\n\n不知道这跟歧视有啥区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome\n遇到傻逼会直接block，见谅，不和非人类交流",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 776,
+          "like_count": 2974,
+          "listed_count": 1,
+          "tweet_count": 1372
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-14T02:42:26.000Z",
+        "description": "",
+        "id": "1316207577949061120",
+        "name": "母小鹅花花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1316210434509213697/kIpL9j9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 365,
+          "like_count": 2033,
+          "listed_count": 10,
+          "tweet_count": 13256
+        },
+        "username": "muxefafa",
+        "verified": false
+      }
+    ]
+  }
+}

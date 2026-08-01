@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966820186872225792"
+      ],
+      "media_source_tweet_id": [
+        "1966820189510525375"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1967286614763426208",
+    "created_at": "2025-09-14T17:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T18:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967286614763426208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1499725647861665796",
+          "start": 3,
+          "username": "aki_himeko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iV8E3dgCoS",
+          "end": 47,
+          "expanded_url": "https://x.com/aki_himeko/status/1966820189510525375/photo/1",
+          "media_key": "3_1966820186872225792",
+          "start": 24,
+          "url": "https://t.co/iV8E3dgCoS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967286614763426208",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 186
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966820189510525375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aki_himeko: Wataa 💦 https://t.co/iV8E3dgCoS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1967286614763426208].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1967286614763426208",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1967286614763426208"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966820186872225792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uMig-WIAAJIss.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966820186872225792"
+          ]
+        },
+        "author_id": "1499725647861665796",
+        "conversation_id": "1966820189510525375",
+        "created_at": "2025-09-13T11:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T12:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966820189510525375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iV8E3dgCoS",
+              "end": 31,
+              "expanded_url": "https://x.com/aki_himeko/status/1966820189510525375/photo/1",
+              "media_key": "3_1966820186872225792",
+              "start": 8,
+              "url": "https://t.co/iV8E3dgCoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966820189510525375",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 69288,
+          "like_count": 2238,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": "Wataa 💦 https://t.co/iV8E3dgCoS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX 长居🇭🇰🇯🇵🇹🇭买HRT补佳乐色普龙诺坤复/减肥/促智找 @ChosekiNoraneko，全球可寄，我朋友开的我在做客服。买电子烟找@weita2024。买抗癌药物找@LuciusPharmacy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "LuciusPharmacy"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9673,
+          "following_count": 938,
+          "like_count": 44579,
+          "listed_count": 34,
+          "media_count": 1431,
+          "tweet_count": 21050
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-04T12:37:20.000Z",
+        "description": "18+ lewd 🇬🇧 hung femboy 🥺👉👈 \n\n~0nlyF@ns~ {30% Sale!}\n👇\n🌸spicy exclusive videos 💦\n🌸slide into my DMs on OF 💬\n🌸customs and exclusive content 🥵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onlyfans.com/aki_himeko/c2",
+                "end": 23,
+                "expanded_url": "https://onlyfans.com/aki_himeko/c2",
+                "start": 0,
+                "url": "https://t.co/VwDwCStp3z"
+              }
+            ]
+          }
+        },
+        "id": "1499725647861665796",
+        "location": "https://fansly.com/aki_himeko",
+        "name": "🔞Aki Himeko🌸",
+        "pinned_tweet_id": "1966820189510525375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1499725989043179520/oFHLaEg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140860,
+          "following_count": 410,
+          "like_count": 17089,
+          "listed_count": 618,
+          "media_count": 432,
+          "tweet_count": 25592
+        },
+        "url": "https://t.co/VwDwCStp3z",
+        "username": "aki_himeko",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

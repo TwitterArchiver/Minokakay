@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1962460528833654812",
+    "created_at": "2025-09-01T18:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T19:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962586965863473587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810962908987396096",
+          "start": 0,
+          "username": "SakurazakiAiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962586965863473587",
+    "in_reply_to_user_id": "1810962908987396096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962460528833654812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurazakiAiko 我喜欢这个歌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3604,
+        "height": 1280,
+        "media_key": "7_1962460505718890496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1962460505718890496/pu/img/rH9iwCKhw3nKcOQf.jpg",
+        "public_metrics": {
+          "view_count": 53
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962460505718890496/pu/vid/avc1/320x568/VFwTjizk-xLDU4HJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962460505718890496/pu/vid/avc1/480x852/cMdEIURrWkP3QI67.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962460505718890496/pu/vid/avc1/720x1280/PGMPkiOWFkkD4T_n.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1962460505718890496/pu/pl/TOtoKdUYqPdUTpW6.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1962460528833654812",
+        "created_at": "2025-09-01T18:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T19:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962586965863473587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810962908987396096",
+              "start": 0,
+              "username": "SakurazakiAiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962586965863473587",
+        "in_reply_to_user_id": "1810962908987396096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962460528833654812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurazakiAiko 我喜欢这个歌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1962460505718890496"
+          ]
+        },
+        "author_id": "1810962908987396096",
+        "conversation_id": "1962460528833654812",
+        "created_at": "2025-09-01T10:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T11:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962460528833654812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BDH5AFMzV8",
+              "end": 86,
+              "expanded_url": "https://x.com/SakurazakiAiko/status/1962460528833654812/video/1",
+              "media_key": "7_1962460505718890496",
+              "start": 63,
+              "url": "https://t.co/BDH5AFMzV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962460528833654812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "亞東開化中華早，\n揖美追歐，\n舊邦新造。\n\n飄揚五色旗，\n民國榮光，\n錦繡河山普照。\n\n吾同胞，\n鼓舞文明，\n世界和平永保。 https://t.co/BDH5AFMzV8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9300,
+          "following_count": 932,
+          "like_count": 44576,
+          "listed_count": 32,
+          "media_count": 1387,
+          "tweet_count": 20679
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T09:03:21.000Z",
+        "description": "主人：@Poetry_Luna 妹妹： @HuliCaijia\n持證HRT🏳️‍⚧️重鬱中焦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Poetry_Luna"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "HuliCaijia"
+              }
+            ]
+          }
+        },
+        "id": "1810962908987396096",
+        "location": "Silverymoon",
+        "name": "SakurazakiAiko🌸詩月🍥",
+        "pinned_tweet_id": "1880247872270283012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884631668998430720/mMIX9fqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 89,
+          "like_count": 8743,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 2703
+        },
+        "username": "SakurazakiAiko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1560343340867932160",
+          "name": "IShowSpeed"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1560343340867932160",
+          "name": "IShowSpeed"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1560343340867932160",
+          "name": "IShowSpeed"
+        }
+      }
+    ],
+    "conversation_id": "1907810915107635430",
+    "created_at": "2025-04-03T15:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T16:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907810915107635430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "14330008",
+          "start": 3,
+          "username": "tihu"
+        },
+        {
+          "end": 27,
+          "id": "1040214455525797888",
+          "start": 13,
+          "username": "ishowspeedsui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907810915107635430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907700239378551255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tihu: 甲亢哥@ishowspeedsui 在成都同仁堂中医馆体验针灸这一段，在一旁充当翻译的这位女士是知名科幻小说译者罗妍莉，这个月有本美国科幻作家罗伯特·谢克里的集子上市，就是她翻译的。神奇的是，她目前真的是一位中医大夫。之所以说目前，是因为四五年前她还从业于汽…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1340,
+        "media_key": "3_1907697226174050307",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnmAhREaMAM9F-x.jpg",
+        "width": 2582
+      },
+      {
+        "height": 1482,
+        "media_key": "3_1907698526123077633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnmBs7waMAEJZdJ.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1637,
+        "media_key": "3_1907700225088827394",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnmDP05aMAIILZA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          }
+        ],
+        "conversation_id": "1907810915107635430",
+        "created_at": "2025-04-03T15:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T16:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907810915107635430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "14330008",
+              "start": 3,
+              "username": "tihu"
+            },
+            {
+              "end": 27,
+              "id": "1040214455525797888",
+              "start": 13,
+              "username": "ishowspeedsui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907810915107635430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907700239378551255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tihu: 甲亢哥@ishowspeedsui 在成都同仁堂中医馆体验针灸这一段，在一旁充当翻译的这位女士是知名科幻小说译者罗妍莉，这个月有本美国科幻作家罗伯特·谢克里的集子上市，就是她翻译的。神奇的是，她目前真的是一位中医大夫。之所以说目前，是因为四五年前她还从业于汽…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907697226174050307",
+            "3_1907698526123077633",
+            "3_1907700225088827394"
+          ]
+        },
+        "author_id": "14330008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560343340867932160",
+              "name": "IShowSpeed"
+            }
+          }
+        ],
+        "conversation_id": "1907700239378551255",
+        "created_at": "2025-04-03T07:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T08:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907700239378551255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1040214455525797888",
+              "start": 3,
+              "username": "ishowspeedsui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ksx2UToPj3",
+              "end": 157,
+              "expanded_url": "https://x.com/tihu/status/1907700239378551255/photo/1",
+              "media_key": "3_1907697226174050307",
+              "start": 134,
+              "url": "https://t.co/Ksx2UToPj3"
+            },
+            {
+              "display_url": "pic.x.com/Ksx2UToPj3",
+              "end": 157,
+              "expanded_url": "https://x.com/tihu/status/1907700239378551255/photo/1",
+              "media_key": "3_1907698526123077633",
+              "start": 134,
+              "url": "https://t.co/Ksx2UToPj3"
+            },
+            {
+              "display_url": "pic.x.com/Ksx2UToPj3",
+              "end": 157,
+              "expanded_url": "https://x.com/tihu/status/1907700239378551255/photo/1",
+              "media_key": "3_1907700225088827394",
+              "start": 134,
+              "url": "https://t.co/Ksx2UToPj3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907700239378551255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 107833,
+          "like_count": 649,
+          "quote_count": 21,
+          "reply_count": 49,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "甲亢哥@ishowspeedsui 在成都同仁堂中医馆体验针灸这一段，在一旁充当翻译的这位女士是知名科幻小说译者罗妍莉，这个月有本美国科幻作家罗伯特·谢克里的集子上市，就是她翻译的。神奇的是，她目前真的是一位中医大夫。之所以说目前，是因为四五年前她还从业于汽车行业。 https://t.co/Ksx2UToPj3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 101,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 78,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1899298005330899355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6251,
+          "following_count": 854,
+          "like_count": 39867,
+          "listed_count": 28,
+          "media_count": 732,
+          "tweet_count": 15714
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2008-04-08T06:04:16.000Z",
+        "description": "持续性阅读，碎片式写作。 \n播客：2082ALT。本人会B一切蛋头，请谨慎FO。",
+        "id": "14330008",
+        "location": "People's Republic of China",
+        "name": "醍醐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641009593005539329/QgKPc1NT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4098,
+          "following_count": 345,
+          "like_count": 1863,
+          "listed_count": 92,
+          "media_count": 622,
+          "tweet_count": 10460
+        },
+        "username": "tihu",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-13T12:23:47.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@IShowSpeed?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@IShowSpeed?si=IeG64CdHu85oTEYG",
+                "start": 0,
+                "url": "https://t.co/GaDsGMHLlz"
+              }
+            ]
+          }
+        },
+        "id": "1040214455525797888",
+        "location": "Tokyo ",
+        "name": "Speed⭐️",
+        "pinned_tweet_id": "1410059307454959618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1362579425804644353/8L3BctZn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3566205,
+          "following_count": 170,
+          "like_count": 747,
+          "listed_count": 762,
+          "media_count": 182,
+          "tweet_count": 528
+        },
+        "url": "https://t.co/GaDsGMHLlz",
+        "username": "ishowspeedsui",
+        "verified": true
+      }
+    ]
+  }
+}

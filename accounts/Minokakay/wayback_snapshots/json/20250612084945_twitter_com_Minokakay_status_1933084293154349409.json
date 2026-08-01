@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1933062238644105592",
+    "created_at": "2025-06-12T08:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T09:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933084293154349409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910137141570740225",
+          "start": 0,
+          "username": "AsabaLazy233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933084293154349409",
+    "in_reply_to_user_id": "1910137141570740225",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933062238644105592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsabaLazy233 7"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1933062238644105592].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1933062238644105592",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1933062238644105592"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1933062238644105592",
+        "created_at": "2025-06-12T08:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T09:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933084293154349409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910137141570740225",
+              "start": 0,
+              "username": "AsabaLazy233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933084293154349409",
+        "in_reply_to_user_id": "1910137141570740225",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933062238644105592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsabaLazy233 7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1931676572479844795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7630,
+          "following_count": 877,
+          "like_count": 43402,
+          "listed_count": 29,
+          "media_count": 1148,
+          "tweet_count": 18599
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-10T01:06:09.000Z",
+        "description": "这里是洛洛｜长存不灭的过去、逐渐消逝的未来",
+        "id": "1910137141570740225",
+        "location": "地球",
+        "name": "AsabaLazy⭐️",
+        "pinned_tweet_id": "1928500024671089032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929406731278589952/R_xVLztV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 178,
+          "like_count": 8259,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1351
+        },
+        "username": "AsabaLazy233",
+        "verified": false
+      }
+    ]
+  }
+}

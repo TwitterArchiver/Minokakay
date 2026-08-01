@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2065080640090071116",
+    "created_at": "2026-06-11T14:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065080640090071116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kfk_ai/status/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/kfk_ai/status/2064521933127852065",
+          "start": 18,
+          "url": "https://t.co/u9iwypYEu5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065080640090071116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064521933127852065",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "寿衣也要人大附中 冥纸也得海淀区产 https://t.co/u9iwypYEu5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2065080640090071116",
+        "created_at": "2026-06-11T14:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065080640090071116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kfk_ai/status/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/kfk_ai/status/2064521933127852065",
+              "start": 18,
+              "url": "https://t.co/u9iwypYEu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065080640090071116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064521933127852065",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "寿衣也要人大附中 冥纸也得海淀区产 https://t.co/u9iwypYEu5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580767946179194882",
+        "conversation_id": "2064521933127852065",
+        "created_at": "2026-06-10T01:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064521933127852065"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064521933127852065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 570049,
+          "like_count": 3478,
+          "quote_count": 26,
+          "reply_count": 516,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "人大附中真 tm 是全世界最装逼的一群优绩主义者\n\n恨不得死了还要把校服带到地底下天天穿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14354,
+          "following_count": 1047,
+          "like_count": 44011,
+          "listed_count": 49,
+          "media_count": 1837,
+          "tweet_count": 26206
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-14T03:50:34.000Z",
+        "description": "🇺🇸 美国八年｜💻 CS 科班 \n🤖 AI Builder｜Build in Public\n🌱 记录从 0 开始做自媒体\n🌊 深度大于速度 \n🍺 精酿爱好者\n👇 咨询合作注明来意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/yGdKyTsZp",
+                "end": 23,
+                "expanded_url": "https://discord.gg/yGdKyTsZp",
+                "start": 0,
+                "url": "https://t.co/OEFumiBsHU"
+              }
+            ]
+          }
+        },
+        "id": "1580767946179194882",
+        "location": "wechat: int_65535",
+        "name": "Kafka",
+        "pinned_tweet_id": "2054840791584133551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047190090401939456/aEcmSiyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7570,
+          "following_count": 339,
+          "like_count": 10544,
+          "listed_count": 39,
+          "media_count": 309,
+          "tweet_count": 4762
+        },
+        "url": "https://t.co/OEFumiBsHU",
+        "username": "kfk_ai",
+        "verified": true
+      }
+    ]
+  }
+}

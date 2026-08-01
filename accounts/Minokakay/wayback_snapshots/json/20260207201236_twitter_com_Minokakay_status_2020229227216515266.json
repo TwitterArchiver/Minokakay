@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2020228709840716154",
+    "created_at": "2026-02-07T20:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T21:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020229227216515266"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2020229227216515266",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020228709840716154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我长这么大，还没见过一个本地人是那种长相的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2020228709840716154",
+        "created_at": "2026-02-07T20:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T21:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020229227216515266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020229227216515266",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020228709840716154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我长这么大，还没见过一个本地人是那种长相的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2020228709840716154",
+        "created_at": "2026-02-07T20:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T21:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020228709840716154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ebc8xl70s/stat…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/ebc8xl70s/status/2012584214756311312",
+              "start": 43,
+              "url": "https://t.co/1w55hn26B7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020228709840716154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012584214756311312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "造成刻板印象的圆脸络腮胡可都是你们那来的😁什么时候你们省gdp能超过我们市再来叫唤吧 https://t.co/1w55hn26B7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 51,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14022,
+          "following_count": 1044,
+          "like_count": 44098,
+          "listed_count": 52,
+          "media_count": 1719,
+          "tweet_count": 25086
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

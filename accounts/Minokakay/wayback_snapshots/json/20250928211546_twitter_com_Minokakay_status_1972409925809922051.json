@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1494702873564758024",
+          "name": "Pinterest"
+        }
+      }
+    ],
+    "conversation_id": "1972409925809922051",
+    "created_at": "2025-09-28T21:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T22:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972409925809922051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/apparatchika/s…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/apparatchika/status/1972112142574014853",
+          "start": 53,
+          "url": "https://t.co/GmnQSffi10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972409925809922051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972112142574014853",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有这种好东西我就一辈子不出门了，这样你们电脑里面的Minokakay就会变得很可爱，我也会觉得自己很可爱 https://t.co/GmnQSffi10"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13237,
+        "height": 1024,
+        "media_key": "13_1972112073858732032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1972112073858732032/img/W7QzgyUndQSsf9rK.jpg",
+        "public_metrics": {
+          "view_count": 2882865
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972112073858732032/vid/avc1/320x568/rcOD3clFT_IHdAyY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972112073858732032/vid/avc1/480x852/FuJyH2yGEo_Y1lXu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972112073858732032/vid/avc1/576x1024/mLf0sQe1MtR0Kv0e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1972112073858732032/pl/TemAEKccw01iG-rE.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1494702873564758024",
+              "name": "Pinterest"
+            }
+          }
+        ],
+        "conversation_id": "1972409925809922051",
+        "created_at": "2025-09-28T21:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T22:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972409925809922051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/apparatchika/s…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/apparatchika/status/1972112142574014853",
+              "start": 53,
+              "url": "https://t.co/GmnQSffi10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972409925809922051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972112142574014853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有这种好东西我就一辈子不出门了，这样你们电脑里面的Minokakay就会变得很可爱，我也会觉得自己很可爱 https://t.co/GmnQSffi10"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972112073858732032"
+          ]
+        },
+        "author_id": "1620390672779055104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1494702873564758024",
+              "name": "Pinterest"
+            }
+          }
+        ],
+        "conversation_id": "1972112142574014853",
+        "created_at": "2025-09-28T01:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T02:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972112142574014853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQUmP5fK2T",
+              "end": 121,
+              "expanded_url": "https://x.com/apparatchika/status/1972112142574014853/video/1",
+              "media_key": "13_1972112073858732032",
+              "start": 98,
+              "url": "https://t.co/IQUmP5fK2T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972112142574014853",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17503,
+          "impression_count": 6487960,
+          "like_count": 97427,
+          "quote_count": 1814,
+          "reply_count": 598,
+          "retweet_count": 4765
+        },
+        "reply_settings": "everyone",
+        "text": "the future is full of indonesian streamers skin walking random japanese pinterest girls .. tragic https://t.co/IQUmP5fK2T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX 长居🇭🇰🇯🇵🇹🇭买HRT补佳乐色普龙诺坤复/减肥/促智找 @ChosekiNoraneko，全球可寄，我朋友开的我在做客服。买电子烟找@weita2024。买抗癌药物找@LuciusPharmacy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "LuciusPharmacy"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10497,
+          "following_count": 944,
+          "like_count": 44715,
+          "listed_count": 35,
+          "media_count": 1434,
+          "tweet_count": 21383
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T11:57:10.000Z",
+        "description": "i sell the finest post soviet korean carrot salad in madina bazaar bishkek kyrgyzstan former idlib saladist foreign fighter, proficient w/ kornet fagot malyutka",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/morkovcha",
+                "end": 23,
+                "expanded_url": "https://ngl.link/morkovcha",
+                "start": 0,
+                "url": "https://t.co/e8pNEvU68S"
+              }
+            ]
+          }
+        },
+        "id": "1620390672779055104",
+        "location": "Madina Bazaar, Bishkek ",
+        "name": "68 year old dungan morkovcha vendor",
+        "pinned_tweet_id": "1940978690210635922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918735432327831552/B4WQlhJ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 632,
+          "like_count": 10359,
+          "listed_count": 3,
+          "media_count": 1062,
+          "tweet_count": 9060
+        },
+        "url": "https://t.co/e8pNEvU68S",
+        "username": "apparatchika",
+        "verified": false
+      }
+    ]
+  }
+}

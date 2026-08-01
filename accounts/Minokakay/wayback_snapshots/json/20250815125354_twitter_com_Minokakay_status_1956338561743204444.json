@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956317874966163456"
+      ],
+      "media_source_tweet_id": [
+        "1956317880489848984"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1956338561743204444",
+    "created_at": "2025-08-15T12:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T13:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956338561743204444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1601893417549967360",
+          "start": 3,
+          "username": "AcboxLiu"
+        },
+        {
+          "end": 29,
+          "id": "1597257668313260033",
+          "start": 19,
+          "username": "Minokakay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lkL91z1XHk",
+          "end": 55,
+          "expanded_url": "https://x.com/AcboxLiu/status/1956317880489848984/photo/1",
+          "media_key": "3_1956317874966163456",
+          "start": 32,
+          "url": "https://t.co/lkL91z1XHk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956338561743204444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956317880489848984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcboxLiu: 支持一下 @Minokakay ～ https://t.co/lkL91z1XHk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1956317874966163456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyY8vgUa8AAizHP.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956317874966163456"
+          ],
+          "media_source_tweet_id": [
+            "1956317880489848984"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1956338561743204444",
+        "created_at": "2025-08-15T12:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T13:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956338561743204444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1601893417549967360",
+              "start": 3,
+              "username": "AcboxLiu"
+            },
+            {
+              "end": 29,
+              "id": "1597257668313260033",
+              "start": 19,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lkL91z1XHk",
+              "end": 55,
+              "expanded_url": "https://x.com/AcboxLiu/status/1956317880489848984/photo/1",
+              "media_key": "3_1956317874966163456",
+              "start": 32,
+              "url": "https://t.co/lkL91z1XHk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956338561743204444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956317880489848984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcboxLiu: 支持一下 @Minokakay ～ https://t.co/lkL91z1XHk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956317874966163456"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "1956317880489848984",
+        "created_at": "2025-08-15T11:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T12:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956317880489848984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1597257668313260033",
+              "start": 5,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lkL91z1XHk",
+              "end": 41,
+              "expanded_url": "https://x.com/AcboxLiu/status/1956317880489848984/photo/1",
+              "media_key": "3_1956317874966163456",
+              "start": 18,
+              "url": "https://t.co/lkL91z1XHk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956317880489848984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "支持一下 @Minokakay ～ https://t.co/lkL91z1XHk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8905,
+          "following_count": 922,
+          "like_count": 44470,
+          "listed_count": 33,
+          "media_count": 1375,
+          "tweet_count": 20327
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦可以叫我小箱子/💻开源开发/全栈&LLM&UI&UX/EN: @acbox_lol/写代码的小女孩/想要成为人类的小阿斯/大湾区移民/Building EchoAI and @sciuxkit /Founder of @bijon_ai/🐱Github: sheepbox8646/🚇轨道交通/🎨平面设计",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "acbox_lol"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "username": "sciuxkit"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "bijon_ai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳-廣州-香港",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1948992558572433831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926469991936733184/Y4W4X94i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5394,
+          "following_count": 2999,
+          "like_count": 2548,
+          "listed_count": 18,
+          "media_count": 877,
+          "tweet_count": 4510
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1881260252685123664",
+    "created_at": "2025-01-20T08:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T09:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881260252685123664"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 85,
+          "normalized_text": "Apple Music",
+          "probability": 0.3372,
+          "start": 75,
+          "type": "Product"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 33,
+          "tag": "神聖かまってちゃん"
+        },
+        {
+          "end": 54,
+          "start": 48,
+          "tag": "団地テーゼ"
+        },
+        {
+          "end": 70,
+          "start": 61,
+          "tag": "死にたいひまわり"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2820246343",
+          "start": 3,
+          "username": "kamattechaninfo"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Playlist · 199 Songs",
+          "display_url": "music.apple.com/us/playlist/ne…",
+          "end": 139,
+          "expanded_url": "https://music.apple.com/us/playlist/new-in-j-pop/pl.32a7205ba49f4543b37e53477015dfed",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/1881259283473682432/tCsgy7KD?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1881259283473682432/tCsgy7KD?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 116,
+          "status": 200,
+          "title": "New in J-Pop on Apple Music",
+          "unwound_url": "https://music.apple.com/us/playlist/new-in-j-pop/pl.32a7205ba49f4543b37e53477015dfed",
+          "url": "https://t.co/XqtsC3KDCX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881260252685123664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881259235235021259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @kamattechaninfo: 📱プレイリストイン📲\n\n#神聖かまってちゃん \nAL「#団地テーゼ」収録曲より\"#死にたいひまわり\"  Apple Music の \n\n\"New in J-Pop\" \nにプレイリストイン！\nhttps://t.co/XqtsC3KDCX…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1881260252685123664",
+        "created_at": "2025-01-20T08:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T09:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881260252685123664"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 85,
+              "normalized_text": "Apple Music",
+              "probability": 0.3372,
+              "start": 75,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 33,
+              "tag": "神聖かまってちゃん"
+            },
+            {
+              "end": 54,
+              "start": 48,
+              "tag": "団地テーゼ"
+            },
+            {
+              "end": 70,
+              "start": 61,
+              "tag": "死にたいひまわり"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2820246343",
+              "start": 3,
+              "username": "kamattechaninfo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Playlist · 199 Songs",
+              "display_url": "music.apple.com/us/playlist/ne…",
+              "end": 139,
+              "expanded_url": "https://music.apple.com/us/playlist/new-in-j-pop/pl.32a7205ba49f4543b37e53477015dfed",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1881259283473682432/tCsgy7KD?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1881259283473682432/tCsgy7KD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 116,
+              "status": 200,
+              "title": "New in J-Pop on Apple Music",
+              "unwound_url": "https://music.apple.com/us/playlist/new-in-j-pop/pl.32a7205ba49f4543b37e53477015dfed",
+              "url": "https://t.co/XqtsC3KDCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881260252685123664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881259235235021259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @kamattechaninfo: 📱プレイリストイン📲\n\n#神聖かまってちゃん \nAL「#団地テーゼ」収録曲より\"#死にたいひまわり\"  Apple Music の \n\n\"New in J-Pop\" \nにプレイリストイン！\nhttps://t.co/XqtsC3KDCX…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2820246343",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040276682",
+              "name": "Apple Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10046538538",
+              "name": "iTunes"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040276682",
+              "name": "Apple Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          }
+        ],
+        "conversation_id": "1881259235235021259",
+        "created_at": "2025-01-20T08:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T09:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881259235235021259"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 12,
+              "tag": "神聖かまってちゃん"
+            },
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "団地テーゼ"
+            },
+            {
+              "end": 49,
+              "start": 40,
+              "tag": "死にたいひまわり"
+            },
+            {
+              "end": 216,
+              "start": 210,
+              "tag": "Apple"
+            },
+            {
+              "end": 228,
+              "start": 217,
+              "tag": "AppleMusic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 193,
+              "id": "3156009252",
+              "start": 177,
+              "username": "AppleMusicJapan"
+            },
+            {
+              "end": 208,
+              "id": "85285932",
+              "start": 196,
+              "username": "iTunesJapan"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Playlist · 199 Songs",
+              "display_url": "music.apple.com/us/playlist/ne…",
+              "end": 118,
+              "expanded_url": "https://music.apple.com/us/playlist/new-in-j-pop/pl.32a7205ba49f4543b37e53477015dfed",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1881259283473682432/tCsgy7KD?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1881259283473682432/tCsgy7KD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 95,
+              "status": 200,
+              "title": "New in J-Pop on Apple Music",
+              "unwound_url": "https://music.apple.com/us/playlist/new-in-j-pop/pl.32a7205ba49f4543b37e53477015dfed",
+              "url": "https://t.co/XqtsC3KDCX"
+            },
+            {
+              "description": "Listen to content by 神聖かまってちゃん.",
+              "display_url": "lnk.to/danchithesis",
+              "end": 145,
+              "expanded_url": "https://lnk.to/danchithesis",
+              "images": [
+                {
+                  "height": 220,
+                  "url": "https://pbs.twimg.com/news_img/1879186563609001985/J6khk68V?format=jpg&name=orig",
+                  "width": 440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1879186563609001985/J6khk68V?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 122,
+              "status": 200,
+              "title": "神聖かまってちゃん - 団地テーゼ",
+              "unwound_url": "https://lnk.to/danchithesis",
+              "url": "https://t.co/DCBzEhKeOG"
+            },
+            {
+              "description": "神聖かまってちゃん 11th Album「団地テーゼ」収録曲「死にたいひまわり」Music Video を1/15 21:30よりプレミア公開!!01.15.2025 Digital Release!!🎧Streaming / DL (Pre-add/Pre-saveはこちら)https://lnk.to/da...",
+              "display_url": "youtu.be/staQ0DR6oaY",
+              "end": 174,
+              "expanded_url": "https://youtu.be/staQ0DR6oaY",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1879088302030274560/3XaxYina?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1879088302030274560/3XaxYina?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 151,
+              "status": 200,
+              "title": "神聖かまってちゃん「死にたいひまわり」Music Video",
+              "unwound_url": "https://www.youtube.com/watch?v=staQ0DR6oaY&feature=youtu.be",
+              "url": "https://t.co/sAgj1RvuR6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881259235235021259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "following",
+        "text": "📱プレイリストイン📲\n\n#神聖かまってちゃん \nAL「#団地テーゼ」収録曲より\"#死にたいひまわり\"  Apple Music の \n\n\"New in J-Pop\" \nにプレイリストイン！\nhttps://t.co/XqtsC3KDCX \n\n🎧https://t.co/DCBzEhKeOG \n MV https://t.co/sAgj1RvuR6 \n\n@AppleMusicJapan \n @iTunesJapan\n\n#Apple\n#AppleMusic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay 日雌380土色320",
+        "pinned_tweet_id": "1872051766805840215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3020,
+          "following_count": 779,
+          "like_count": 32549,
+          "listed_count": 12,
+          "media_count": 861,
+          "tweet_count": 14738
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-19T16:52:18.000Z",
+        "description": "神聖かまってちゃん公式 Vo,Gt の子@0u0HaNako666 Key mono @tombomono1 Drみさこ@SKCmisako Ba ユウノスケ @Yu_nosuke_w ▶︎▶︎🆕 2025/1/15 📱 & 1/22 💿 AL「団地テーゼ」発売!! 1/19 〜全国ツアー開始！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "0u0HaNako666"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "tombomono1"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "SKCmisako"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "Yu_nosuke_w"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shinseikamatte…",
+                "end": 23,
+                "expanded_url": "https://lit.link/shinseikamattechan",
+                "start": 0,
+                "url": "https://t.co/4lX22pKHMz"
+              }
+            ]
+          }
+        },
+        "id": "2820246343",
+        "name": "神聖かまってちゃん",
+        "pinned_tweet_id": "1879181719661887645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656523562927407104/hYD3Xji5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68074,
+          "following_count": 13,
+          "like_count": 1215,
+          "listed_count": 568,
+          "media_count": 2471,
+          "tweet_count": 6347
+        },
+        "url": "https://t.co/4lX22pKHMz",
+        "username": "kamattechaninfo",
+        "verified": false
+      }
+    ]
+  }
+}

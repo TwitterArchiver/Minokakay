@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1903087797843693766",
+    "created_at": "2025-03-21T14:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T15:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903087935672480000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1860300292967006208",
+          "start": 0,
+          "username": "mzhngmng380569"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903087935672480000",
+    "in_reply_to_user_id": "1860300292967006208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903087797843693766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzhngmng380569 羡慕"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1903087797843693766].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1903087797843693766",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1903087797843693766"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1903087797843693766",
+        "created_at": "2025-03-21T14:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T15:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903087935672480000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1860300292967006208",
+              "start": 0,
+              "username": "mzhngmng380569"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903087935672480000",
+        "in_reply_to_user_id": "1860300292967006208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903087797843693766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzhngmng380569 羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 101,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 78,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1899298005330899355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5872,
+          "following_count": 840,
+          "like_count": 38595,
+          "listed_count": 27,
+          "media_count": 650,
+          "tweet_count": 15142
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-23T12:32:20.000Z",
+        "description": "長明的備用號，裡推，小男孩的黑暗之地",
+        "id": "1860300292967006208",
+        "name": "常明（長明備用號）永安之庭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860320309959884803/QI3gPCc-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 76,
+          "like_count": 1463,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 373
+        },
+        "username": "mzhngmng380569",
+        "verified": false
+      }
+    ]
+  }
+}

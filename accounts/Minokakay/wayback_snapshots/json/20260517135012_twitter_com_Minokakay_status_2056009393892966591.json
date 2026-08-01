@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2056009393892966591",
+    "created_at": "2026-05-17T13:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056009393892966591"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056009393892966591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从太空望向地球，这是一个蓝绿相间的美丽星球，没看到黄色，也没看到黑色和白色，没看到男性，也没看到女性，没看到十字架，也没看到新月，一个蓝绿色的星球，仅此而已。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2056009393892966591",
+        "created_at": "2026-05-17T13:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056009393892966591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056009393892966591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从太空望向地球，这是一个蓝绿相间的美丽星球，没看到黄色，也没看到黑色和白色，没看到男性，也没看到女性，没看到十字架，也没看到新月，一个蓝绿色的星球，仅此而已。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "发着光的半平米，胡乱哼唱的旋律，\n但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬🍥找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 79,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 56,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14462,
+          "following_count": 1065,
+          "like_count": 44006,
+          "listed_count": 51,
+          "media_count": 1823,
+          "tweet_count": 26139
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2079423800719089893",
+    "created_at": "2026-07-21T07:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079475772721684846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "110120915",
+          "start": 0,
+          "username": "asdonqual"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079475772721684846",
+    "in_reply_to_user_id": "110120915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079474215666037093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asdonqual 这个车漆面质量比很多小轿车好得多，不会发黄，勤洗也是不会脏的，黄脏旧是日常维护问题，不是设计问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2079423800719089893",
+        "created_at": "2026-07-21T07:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079475772721684846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "110120915",
+              "start": 0,
+              "username": "asdonqual"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079475772721684846",
+        "in_reply_to_user_id": "110120915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079474215666037093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asdonqual 这个车漆面质量比很多小轿车好得多，不会发黄，勤洗也是不会脏的，黄脏旧是日常维护问题，不是设计问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "110120915",
+        "conversation_id": "2079423800719089893",
+        "created_at": "2026-07-21T07:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079474215666037093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079474215666037093",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079423800719089893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 但是和谐号白车身很容易黄脏旧，那三个楷体也是比较辣眼睛。为啥这么多年了还不搞点宽体车身呢，加个20cm也好啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14428,
+          "following_count": 1081,
+          "like_count": 43818,
+          "listed_count": 49,
+          "media_count": 1850,
+          "tweet_count": 26295
+        },
+        "url": "",
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-31T12:09:20.000Z",
+        "description": "graphics design instructor",
+        "id": "110120915",
+        "location": "moon",
+        "name": "QG_accelerator",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1285620814591614976/vfn9gZNB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 830,
+          "like_count": 1065,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 4556
+        },
+        "url": "",
+        "username": "asdonqual",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1794785335123349884",
+    "created_at": "2024-05-27T05:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T06:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794966077547434444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1491568506898649088",
+          "start": 0,
+          "username": "a2013bc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794966077547434444",
+    "in_reply_to_user_id": "1491568506898649088",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794785335123349884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a2013bc 中国年轻人就是傻逼居多，正常又敢说话的都被封号了，B站大概算粉红大本营了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1794785335123349884",
+        "created_at": "2024-05-27T05:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T06:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794966077547434444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1491568506898649088",
+              "start": 0,
+              "username": "a2013bc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794966077547434444",
+        "in_reply_to_user_id": "1491568506898649088",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794785335123349884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a2013bc 中国年轻人就是傻逼居多，正常又敢说话的都被封号了，B站大概算粉红大本营了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1491568506898649088",
+        "conversation_id": "1794785335123349884",
+        "created_at": "2024-05-26T17:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T18:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794785335123349884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794785335123349884",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 46814,
+          "like_count": 268,
+          "quote_count": 17,
+          "reply_count": 246,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "话说b站作为一个年轻人比较多的平台，为什么会偏保守威权?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "暗い未來だって，\n強くなって運命変えられるかもね  🇹🇼ROC成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome",
+        "id": "1597257668313260033",
+        "location": "Tokyo-to, Japan",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 688,
+          "like_count": 1457,
+          "listed_count": 0,
+          "tweet_count": 717
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T00:24:05.000Z",
+        "description": "😇liberal",
+        "id": "1491568506898649088",
+        "location": "宿舍",
+        "name": "完美的大魔术师（本体）🇺🇦🗽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792227665946324992/gALv1WXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 669,
+          "like_count": 2732,
+          "listed_count": 2,
+          "tweet_count": 7641
+        },
+        "username": "a2013bc",
+        "verified": false
+      }
+    ]
+  }
+}

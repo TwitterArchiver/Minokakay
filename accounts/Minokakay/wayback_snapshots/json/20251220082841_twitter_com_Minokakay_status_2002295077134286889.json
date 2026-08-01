@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2002230120099295235"
+      ],
+      "media_source_tweet_id": [
+        "2002230269785616618"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2002295077134286889",
+    "created_at": "2025-12-20T08:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T09:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002295077134286889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "940183452753608705",
+          "start": 3,
+          "username": "finch0023"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9vsXiOHqOD",
+          "end": 53,
+          "expanded_url": "https://x.com/finch0023/status/2002230269785616618/video/1",
+          "media_key": "13_2002230120099295235",
+          "start": 30,
+          "url": "https://t.co/9vsXiOHqOD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002295077134286889",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002230269785616618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @finch0023: Time-lapse✍️✍️ https://t.co/9vsXiOHqOD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2002295077134286889].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2002295077134286889",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2002295077134286889"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 58366,
+        "height": 1280,
+        "media_key": "13_2002230120099295235",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002230120099295235/img/UugZFArPoh-eH8_M.jpg",
+        "public_metrics": {
+          "view_count": 2048
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002230120099295235/vid/avc1/320x372/nI6MYFXhCkutDVGY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002230120099295235/pl/tEYgY4wwRPNjfoQf.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002230120099295235/vid/avc1/720x840/sySswnXbWJcDDQM4.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002230120099295235/vid/avc1/1096x1280/IaB-usHnSGROVV0V.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002230120099295235/vid/avc1/480x560/TboX1CSkbjhwu9on.mp4"
+          }
+        ],
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002230120099295235"
+          ]
+        },
+        "author_id": "940183452753608705",
+        "conversation_id": "2002230269785616618",
+        "created_at": "2025-12-20T04:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T05:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002230269785616618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9vsXiOHqOD",
+              "end": 38,
+              "expanded_url": "https://x.com/finch0023/status/2002230269785616618/video/1",
+              "media_key": "13_2002230120099295235",
+              "start": 15,
+              "url": "https://t.co/9vsXiOHqOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002230269785616618",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 5204,
+          "like_count": 608,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "Time-lapse✍️✍️ https://t.co/9vsXiOHqOD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13083,
+          "following_count": 1006,
+          "like_count": 44959,
+          "listed_count": 50,
+          "media_count": 1771,
+          "tweet_count": 24677
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-11T11:36:17.000Z",
+        "description": "⚠R18+/NSFW \nEnglish // 中国語 //日本語ok \nhttps://t.co/ccvlhAobpD\nhttps://t.co/waLOPir1oC\nhttps://t.co/TkbK4LXS0N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "app.unifans.io/c/finch0023",
+                "end": 59,
+                "expanded_url": "https://app.unifans.io/c/finch0023",
+                "start": 36,
+                "url": "https://t.co/ccvlhAobpD"
+              },
+              {
+                "display_url": "finch0023.fanbox.cc",
+                "end": 83,
+                "expanded_url": "https://finch0023.fanbox.cc/",
+                "start": 60,
+                "url": "https://t.co/waLOPir1oC"
+              },
+              {
+                "display_url": "patreon.com/finch",
+                "end": 107,
+                "expanded_url": "https://patreon.com/finch",
+                "start": 84,
+                "url": "https://t.co/TkbK4LXS0N"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/18770097",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/18770097",
+                "start": 0,
+                "url": "https://t.co/1PYfyPhntM"
+              }
+            ]
+          }
+        },
+        "id": "940183452753608705",
+        "location": "Taipei City, Taiwan",
+        "name": "Finch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951040595742564352/pCSKDVnZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70995,
+          "following_count": 144,
+          "like_count": 414,
+          "listed_count": 193,
+          "media_count": 223,
+          "tweet_count": 416
+        },
+        "url": "https://t.co/1PYfyPhntM",
+        "username": "finch0023",
+        "verified": true
+      }
+    ]
+  }
+}

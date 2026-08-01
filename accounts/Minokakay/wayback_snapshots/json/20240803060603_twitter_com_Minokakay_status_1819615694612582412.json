@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1819601441348374892",
+    "created_at": "2024-08-03T06:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T07:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819615694612582412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1671137058742763520",
+          "start": 0,
+          "username": "Kita__ikuyo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819615694612582412",
+    "in_reply_to_user_id": "1671137058742763520",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819615405708923138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kita__ikuyo_ 🥵出门突然发情了喵😣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1819601441348374892",
+        "created_at": "2024-08-03T06:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T07:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819615694612582412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1671137058742763520",
+              "start": 0,
+              "username": "Kita__ikuyo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819615694612582412",
+        "in_reply_to_user_id": "1671137058742763520",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819615405708923138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kita__ikuyo_ 🥵出门突然发情了喵😣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671137058742763520",
+        "conversation_id": "1819601441348374892",
+        "created_at": "2024-08-03T06:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T07:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819615405708923138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819615405708923138",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819601441348374892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 这是干嘛😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 790,
+          "like_count": 3729,
+          "listed_count": 1,
+          "tweet_count": 1649
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T12:45:07.000Z",
+        "description": "不善与人交流 望理解 | 梦想逃避一切 安静死去",
+        "id": "1671137058742763520",
+        "location": "精神内耗",
+        "name": "喜多_下北突击手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809537922624028672/mRAVghRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 430,
+          "like_count": 2443,
+          "listed_count": 0,
+          "tweet_count": 324
+        },
+        "username": "Kita__ikuyo_",
+        "verified": false
+      }
+    ]
+  }
+}

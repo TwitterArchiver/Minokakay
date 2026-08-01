@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1838875801833644378",
+    "created_at": "2024-09-25T09:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T10:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1838875801833644378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yue_0404/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Yue_0404/status/1838862683581333823",
+          "start": 9,
+          "url": "https://t.co/LJEbzrnHzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838875801833644378",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838862683581333823",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有點地獄笑話了🥲 https://t.co/LJEbzrnHzy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1838875801833644378",
+        "created_at": "2024-09-25T09:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T10:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838875801833644378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yue_0404/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Yue_0404/status/1838862683581333823",
+              "start": 9,
+              "url": "https://t.co/LJEbzrnHzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838875801833644378",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838862683581333823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有點地獄笑話了🥲 https://t.co/LJEbzrnHzy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521276666689261568",
+        "conversation_id": "1838793360276099112",
+        "created_at": "2024-09-25T08:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T09:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838862683581333823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838862683581333823",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 494,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838793360276099112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 至少和易性症在一块，显得你很长寿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比男高三生 阿斯ADHD Pansexual INFP 🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 847,
+          "like_count": 17037,
+          "listed_count": 3,
+          "tweet_count": 7439
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T23:53:27.000Z",
+        "description": "Yuèyue：“因为有自知之明，所以我包容万事万物；因为曾历经黑暗，所以我可以同情同理。”\n===\n现在站在你面前的是4000h+且556预购文明7的CivFans！",
+        "id": "1521276666689261568",
+        "name": "钥钥",
+        "pinned_tweet_id": "1838185307952615661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827259873094217728/Egy3bzp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 12,
+          "like_count": 3870,
+          "listed_count": 0,
+          "tweet_count": 4012
+        },
+        "username": "Yue_0404",
+        "verified": false
+      }
+    ]
+  }
+}

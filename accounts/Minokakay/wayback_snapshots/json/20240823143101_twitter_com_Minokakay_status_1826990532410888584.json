@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1826989445356327382",
+    "created_at": "2024-08-23T14:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T15:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826990532410888584"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1826990532410888584",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826989445356327382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推特发成人内容就会被封吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1826989445356327382",
+        "created_at": "2024-08-23T14:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T15:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826990532410888584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1826990532410888584",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826989445356327382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特发成人内容就会被封吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826989413525749760"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1826989445356327382",
+        "created_at": "2024-08-23T14:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T15:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826989445356327382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tskfnhracn",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Minokakay/status/1826989445356327382/photo/1",
+              "media_key": "3_1826989413525749760",
+              "start": 8,
+              "url": "https://t.co/TSKfnhRACN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826989445356327382",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈封我里推 https://t.co/TSKfnhRACN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 付费裡推：@Minokakaysex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Minokakaysex"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 925,
+          "like_count": 10151,
+          "listed_count": 3,
+          "tweet_count": 3754
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

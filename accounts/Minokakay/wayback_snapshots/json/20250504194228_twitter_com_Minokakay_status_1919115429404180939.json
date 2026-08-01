@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1919115429404180939",
+    "created_at": "2025-05-04T19:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T20:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919115429404180939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Fector_21/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Fector_21/status/1918488569657667932",
+          "start": 4,
+          "url": "https://t.co/mHmJ0Blfw4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919115429404180939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918488569657667932",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我 https://t.co/mHmJ0Blfw4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45633,
+        "height": 960,
+        "media_key": "7_1918488492952158209",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1918488492952158209/pu/img/0jy7MZ_CMhHTP3lM.jpg",
+        "public_metrics": {
+          "view_count": 201384
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918488492952158209/pu/vid/avc1/320x426/_zQrp5_cGi1U2SF-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918488492952158209/pu/vid/avc1/480x640/Lp_TSCBfo-nWSS8U.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918488492952158209/pu/vid/avc1/720x960/9-eyxMcaX_yd-Y-g.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1918488492952158209/pu/pl/1htSRhRDjBZJ0QmI.m3u8?tag=12&v=96a"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1919115429404180939",
+        "created_at": "2025-05-04T19:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T20:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919115429404180939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fector_21/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Fector_21/status/1918488569657667932",
+              "start": 4,
+              "url": "https://t.co/mHmJ0Blfw4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919115429404180939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918488569657667932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我 https://t.co/mHmJ0Blfw4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1918488492952158209"
+          ]
+        },
+        "author_id": "1309172079959445504",
+        "conversation_id": "1918488569657667932",
+        "created_at": "2025-05-03T02:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T03:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918488569657667932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h4PxZAAmB5",
+              "end": 43,
+              "expanded_url": "https://x.com/Fector_21/status/1918488569657667932/video/1",
+              "media_key": "7_1918488492952158209",
+              "start": 20,
+              "url": "https://t.co/h4PxZAAmB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918488569657667932",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3090,
+          "impression_count": 61545,
+          "like_count": 14686,
+          "quote_count": 36,
+          "reply_count": 44,
+          "retweet_count": 1283
+        },
+        "reply_settings": "everyone",
+        "text": "¡Buenas noches! 🌙✨️ https://t.co/h4PxZAAmB5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1916475690863726978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6705,
+          "following_count": 875,
+          "like_count": 41729,
+          "listed_count": 28,
+          "media_count": 914,
+          "tweet_count": 17097
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-24T16:45:31.000Z",
+        "description": "|𝐅𝐚𝐧𝐭𝐚𝐬𝐦𝐚 𝐝𝐞 𝐩𝐫𝐨𝐟𝐞𝐬𝐢ó𝐧| \nSectario de Link Click, Steins;Gate, Kaguya sama y 86. Hago hilos y hablo de lo que me gusta ✨️\n𝐒𝐢𝐝𝐞: @Ishitorft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 127,
+                "username": "Ishitorft"
+              }
+            ]
+          }
+        },
+        "id": "1309172079959445504",
+        "name": "Fector",
+        "pinned_tweet_id": "1890173447386575072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885061569635102720/groX5lue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 551,
+          "like_count": 28476,
+          "listed_count": 1,
+          "media_count": 8235,
+          "tweet_count": 18349
+        },
+        "username": "Fector_21",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "President of Russia Vladimir Putin",
+          "id": "864931126132985856",
+          "name": "Vladimir Putin"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "President of Russia Vladimir Putin",
+          "id": "864931126132985856",
+          "name": "Vladimir Putin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "President of Russia Vladimir Putin",
+          "id": "864931126132985856",
+          "name": "Vladimir Putin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1542094279727652864",
+          "name": "Russian political figures"
+        }
+      }
+    ],
+    "conversation_id": "1970943810428695016",
+    "created_at": "2025-09-24T20:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T21:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970943810428695016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nobinobinobino…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/nobinobinobino/status/1970733019670691843",
+          "start": 25,
+          "url": "https://t.co/fztllXmP3m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970943810428695016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970733019670691843",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又是猫又是Putin（普京），你到底在隐喻什么😡 https://t.co/fztllXmP3m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542094279727652864",
+              "name": "Russian political figures"
+            }
+          }
+        ],
+        "conversation_id": "1970943810428695016",
+        "created_at": "2025-09-24T20:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T21:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970943810428695016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nobinobinobino…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/nobinobinobino/status/1970733019670691843",
+              "start": 25,
+              "url": "https://t.co/fztllXmP3m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970943810428695016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970733019670691843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又是猫又是Putin（普京），你到底在隐喻什么😡 https://t.co/fztllXmP3m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3317179594",
+        "conversation_id": "1970733019670691843",
+        "created_at": "2025-09-24T06:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T07:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970733019670691843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970733019670691843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 727,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这个头像是不是会让人联想到有什么政治隐喻\n\n其实完全没有哇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX 长居🇭🇰🇯🇵🇹🇭买HRT补佳乐色普龙诺坤复/减肥/促智找 @ChosekiNoraneko，全球可寄，我朋友开的我在做客服。买电子烟找@weita2024。买抗癌药物找@LuciusPharmacy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "LuciusPharmacy"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10244,
+          "following_count": 940,
+          "like_count": 44640,
+          "listed_count": 34,
+          "media_count": 1422,
+          "tweet_count": 21248
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-10T10:37:27.000Z",
+        "description": "你好 我是nobi🐱aka 猫儿(mer)｜閒聊頻道｜蜀(母語岷赤)漢粵閩日英蘭獨 想學韓藏仏｜不正經語言學頻道(修訂蜀語辭書中，推文70%蜀語)｜相對可能比較專業的交通🚙頻道｜亞歐古建築攝影📷頻道｜宗教(禪)民俗文化頻道｜歡迎各位follow 我們會成為好朋友的",
+        "id": "3317179594",
+        "location": "🌏貓星的某個角落",
+        "name": "nobiにゃ🎐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799549816541761537/lzMgAK3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 1038,
+          "like_count": 27878,
+          "listed_count": 6,
+          "media_count": 1400,
+          "tweet_count": 9255
+        },
+        "username": "nobinobinobino",
+        "verified": false
+      }
+    ]
+  }
+}

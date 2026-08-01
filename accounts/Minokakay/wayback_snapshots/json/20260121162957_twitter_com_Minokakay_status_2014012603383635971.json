@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2013916778930528256"
+      ],
+      "media_source_tweet_id": [
+        "2013931579400487172"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2014012603383635971",
+    "created_at": "2026-01-21T16:29:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T17:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014012603383635971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1520784045021724672",
+          "start": 3,
+          "username": "akutan_bot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rD7jGbTi6f",
+          "end": 55,
+          "expanded_url": "https://x.com/akutan_bot/status/2013931579400487172/video/1",
+          "media_key": "13_2013916778930528256",
+          "start": 32,
+          "url": "https://t.co/rD7jGbTi6f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014012603383635971",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 756
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013931579400487172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akutan_bot: 涙かと思ったら鼻血なのマジで草 https://t.co/rD7jGbTi6f"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31880,
+        "height": 1080,
+        "media_key": "13_2013916778930528256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013916778930528256/img/FNTQPkPKg_8cn_r1.jpg",
+        "public_metrics": {
+          "view_count": 1316061
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013916778930528256/vid/avc1/1920x1080/qPTWTkNbnwHyYCtP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013916778930528256/vid/avc1/1280x720/MUYwLIoFeLmh7LSL.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013916778930528256/vid/avc1/480x270/ICSFg2QgdITd_kqR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013916778930528256/pl/mIiwVEbbmW-uBNw2.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013916778930528256/vid/avc1/640x360/g1hH6I8ngZO99Bjh.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013916778930528256"
+          ],
+          "media_source_tweet_id": [
+            "2013931579400487172"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014012603383635971",
+        "created_at": "2026-01-21T16:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014012603383635971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1520784045021724672",
+              "start": 3,
+              "username": "akutan_bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rD7jGbTi6f",
+              "end": 55,
+              "expanded_url": "https://x.com/akutan_bot/status/2013931579400487172/video/1",
+              "media_key": "13_2013916778930528256",
+              "start": 32,
+              "url": "https://t.co/rD7jGbTi6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014012603383635971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 756
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013931579400487172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akutan_bot: 涙かと思ったら鼻血なのマジで草 https://t.co/rD7jGbTi6f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013916778930528256"
+          ]
+        },
+        "author_id": "1520784045021724672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2013931579400487172",
+        "created_at": "2026-01-21T11:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013931579400487172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rD7jGbTi6f",
+              "end": 39,
+              "expanded_url": "https://x.com/akutan_bot/status/2013931579400487172/video/1",
+              "media_key": "13_2013916778930528256",
+              "start": 16,
+              "url": "https://t.co/rD7jGbTi6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013931579400487172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4779,
+          "impression_count": 2090671,
+          "like_count": 16752,
+          "quote_count": 189,
+          "reply_count": 183,
+          "retweet_count": 756
+        },
+        "reply_settings": "everyone",
+        "text": "涙かと思ったら鼻血なのマジで草 https://t.co/rD7jGbTi6f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️咨询补色诺凝胶等看https://t.co/9scN5m8csf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chosekipharmacy",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/chosekipharmacy",
+                "start": 51,
+                "url": "https://t.co/9scN5m8csf"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2013945809042350395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13981,
+          "following_count": 1026,
+          "like_count": 44882,
+          "listed_count": 51,
+          "media_count": 1822,
+          "tweet_count": 25549
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-01T15:15:54.000Z",
+        "description": "■アニメAnime■イラストillustration■ネタツイ■ツイ廃界隈■サブ@mco_az ■分身 @a_bkro■251 @114514Maaa■アニメ垢 @5kn_3 ■bot @3ev34 @f6kof @enjobot @3h3sn■管理 @forlosedays■鍵@akukinbot■YouTube↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 40,
+                "username": "mco_az"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "a_bkro"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "114514Maaa"
+              },
+              {
+                "end": 87,
+                "start": 81,
+                "username": "5kn_3"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "username": "3ev34"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "username": "f6kof"
+              },
+              {
+                "end": 115,
+                "start": 107,
+                "username": "enjobot"
+              },
+              {
+                "end": 122,
+                "start": 116,
+                "username": "3h3sn"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "forlosedays"
+              },
+              {
+                "end": 150,
+                "start": 140,
+                "username": "akukinbot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yzkrb",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@yzkrb",
+                "start": 0,
+                "url": "https://t.co/FuguaoDTJy"
+              }
+            ]
+          }
+        },
+        "id": "1520784045021724672",
+        "location": "絡んでくれる人フォロバします",
+        "name": "夜桜🌸",
+        "pinned_tweet_id": "1983131003607814461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953395257430929408/Rryg0qv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34388,
+          "following_count": 1111,
+          "like_count": 33066,
+          "listed_count": 90,
+          "media_count": 3523,
+          "tweet_count": 16509
+        },
+        "url": "https://t.co/FuguaoDTJy",
+        "username": "akutan_bot",
+        "verified": true
+      }
+    ]
+  }
+}

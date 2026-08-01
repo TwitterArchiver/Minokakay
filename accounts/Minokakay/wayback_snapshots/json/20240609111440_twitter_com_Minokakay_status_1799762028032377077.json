@@ -1,0 +1,161 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1799762028032377077",
+    "created_at": "2024-06-09T11:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T12:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799762028032377077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1677252589182943232",
+          "start": 3,
+          "username": "Hikari2304"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799762028032377077",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799736468866494532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hikari2304: 好奇你们患那么多精神疾病是怎么考上985 211的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1799762028032377077",
+        "created_at": "2024-06-09T11:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T12:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799762028032377077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1677252589182943232",
+              "start": 3,
+              "username": "Hikari2304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799762028032377077",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799736468866494532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hikari2304: 好奇你们患那么多精神疾病是怎么考上985 211的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1677252589182943232",
+        "conversation_id": "1799736468866494532",
+        "created_at": "2024-06-09T09:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T10:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799736468866494532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799736468866494532",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 564,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "好奇你们患那么多精神疾病是怎么考上985 211的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "暗い未來だって，\n強くなって運命変えられるかもね  🇹🇼ROC成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 690,
+          "like_count": 1700,
+          "listed_count": 0,
+          "tweet_count": 797
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T09:46:02.000Z",
+        "description": "一个飞舞",
+        "id": "1677252589182943232",
+        "name": ".",
+        "pinned_tweet_id": "1788856385775849606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787009372402642944/UMAFm3QY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 602,
+          "like_count": 23066,
+          "listed_count": 5,
+          "tweet_count": 5402
+        },
+        "username": "Hikari2304",
+        "verified": false
+      }
+    ]
+  }
+}

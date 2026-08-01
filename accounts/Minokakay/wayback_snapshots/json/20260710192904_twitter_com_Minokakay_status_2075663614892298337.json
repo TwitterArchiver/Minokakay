@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2075568478891970867",
+    "created_at": "2026-07-10T19:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T20:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075663614892298337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362960365055668225",
+          "start": 0,
+          "username": "POI74103174"
+        },
+        {
+          "end": 29,
+          "id": "1923516127562563584",
+          "start": 13,
+          "username": "penguinmomentjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075663614892298337",
+    "in_reply_to_user_id": "1362960365055668225",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075578797903262053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@POI74103174 @penguinmomentjp xm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2075568478891970867",
+        "created_at": "2026-07-10T19:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T20:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075663614892298337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362960365055668225",
+              "start": 0,
+              "username": "POI74103174"
+            },
+            {
+              "end": 29,
+              "id": "1923516127562563584",
+              "start": 13,
+              "username": "penguinmomentjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075663614892298337",
+        "in_reply_to_user_id": "1362960365055668225",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075578797903262053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@POI74103174 @penguinmomentjp xm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362960365055668225",
+        "conversation_id": "2075568478891970867",
+        "created_at": "2026-07-10T13:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075578797903262053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1923516127562563584",
+              "start": 0,
+              "username": "penguinmomentjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075578797903262053",
+        "in_reply_to_user_id": "1923516127562563584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 547,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075568478891970867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penguinmomentjp 你给我删了啊啊啊啊啊啊啊啊啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新，较少看/发推特",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14420,
+          "following_count": 1061,
+          "like_count": 43810,
+          "listed_count": 49,
+          "media_count": 1849,
+          "tweet_count": 26267
+        },
+        "url": "",
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "大变活🐧了（\n饲养员@penguinmomentjp\n日常/小市民；不友也不厌任何群体，\n爱具体的人。\n小号@POI74103175\n照片是高p本人长这样➡️🗿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "penguinmomentjp"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "POI74103175"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "penguinvisual.jp/zh",
+                "end": 23,
+                "expanded_url": "http://penguinvisual.jp/zh",
+                "start": 0,
+                "url": "https://t.co/XlV7pWwsvr"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "name": "優杏@Poi🍧",
+        "pinned_tweet_id": "1786390162064433658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045474696750321664/K_i_d53j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4648,
+          "following_count": 335,
+          "like_count": 69715,
+          "listed_count": 17,
+          "media_count": 3203,
+          "tweet_count": 26452
+        },
+        "url": "https://t.co/XlV7pWwsvr",
+        "username": "POI74103174",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T23:09:30.000Z",
+        "description": "ポンコツ\nうちの🐧:@POI74103174",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "POI74103174"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "penguinvisual.jp/lily",
+                "end": 23,
+                "expanded_url": "http://penguinvisual.jp/lily",
+                "start": 0,
+                "url": "https://t.co/ij0RsdmMjW"
+              }
+            ]
+          }
+        },
+        "id": "1923516127562563584",
+        "name": "ﾌﾗｯｼｭｽﾊﾟｰｸｽ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041656571034488832/9jzbafnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 71,
+          "like_count": 399,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 627
+        },
+        "url": "https://t.co/ij0RsdmMjW",
+        "username": "penguinmomentjp",
+        "verified": false
+      }
+    ]
+  }
+}

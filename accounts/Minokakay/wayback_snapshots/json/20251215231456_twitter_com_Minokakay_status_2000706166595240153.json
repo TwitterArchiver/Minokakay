@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000492545999241216"
+      ],
+      "media_source_tweet_id": [
+        "2000492590681186529"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2000706166595240153",
+    "created_at": "2025-12-15T23:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T00:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000706166595240153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "706746472050458624",
+          "start": 3,
+          "username": "artistryhere"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1xnE7GadgQ",
+          "end": 41,
+          "expanded_url": "https://x.com/artistryhere/status/2000492590681186529/photo/1",
+          "media_key": "3_2000492545999241216",
+          "start": 18,
+          "url": "https://t.co/1xnE7GadgQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000706166595240153",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3051
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000492590681186529",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @artistryhere: https://t.co/1xnE7GadgQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000492545999241216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MtXxwaAAAhjeu.jpg",
+        "width": 1792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000492545999241216"
+          ],
+          "media_source_tweet_id": [
+            "2000492590681186529"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2000706166595240153",
+        "created_at": "2025-12-15T23:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T00:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000706166595240153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "706746472050458624",
+              "start": 3,
+              "username": "artistryhere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xnE7GadgQ",
+              "end": 41,
+              "expanded_url": "https://x.com/artistryhere/status/2000492590681186529/photo/1",
+              "media_key": "3_2000492545999241216",
+              "start": 18,
+              "url": "https://t.co/1xnE7GadgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000706166595240153",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3051
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000492590681186529",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @artistryhere: https://t.co/1xnE7GadgQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000492545999241216"
+          ]
+        },
+        "author_id": "706746472050458624",
+        "conversation_id": "2000492590681186529",
+        "created_at": "2025-12-15T09:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T10:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000492590681186529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xnE7GadgQ",
+              "end": 23,
+              "expanded_url": "https://x.com/artistryhere/status/2000492590681186529/photo/1",
+              "media_key": "3_2000492545999241216",
+              "start": 0,
+              "url": "https://t.co/1xnE7GadgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000492590681186529",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 682,
+          "impression_count": 307855,
+          "like_count": 25721,
+          "quote_count": 183,
+          "reply_count": 75,
+          "retweet_count": 3051
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1xnE7GadgQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13024,
+          "following_count": 1006,
+          "like_count": 44984,
+          "listed_count": 50,
+          "media_count": 1747,
+          "tweet_count": 24463
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-07T07:41:04.000Z",
+        "description": "🦋🐋 art, life, music.",
+        "id": "706746472050458624",
+        "name": "Novelle art.",
+        "pinned_tweet_id": "1998333386298216497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965623834540699648/-pXk0UU1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757445,
+          "following_count": 732,
+          "like_count": 104924,
+          "listed_count": 1928,
+          "media_count": 21122,
+          "tweet_count": 61666
+        },
+        "username": "artistryhere",
+        "verified": true
+      }
+    ]
+  }
+}

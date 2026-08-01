@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1829114395215237183",
+    "created_at": "2024-08-29T11:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T12:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829119639223448051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1733714608500969472",
+          "start": 0,
+          "username": "Wangzm1939"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829119639223448051",
+    "in_reply_to_user_id": "1733714608500969472",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829118419876434338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wangzm1939 沒事知道就知道大家應該都知道了1"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1829118419876434338].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1829118419876434338",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1829118419876434338"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1829114395215237183",
+        "created_at": "2024-08-29T11:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T12:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829119639223448051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1733714608500969472",
+              "start": 0,
+              "username": "Wangzm1939"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829119639223448051",
+        "in_reply_to_user_id": "1733714608500969472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829118419876434338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wangzm1939 沒事知道就知道大家應該都知道了1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 794,
+          "like_count": 11554,
+          "listed_count": 3,
+          "tweet_count": 4446
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-10T05:05:56.000Z",
+        "description": "喜歡❤️@Nanase_Rika_❤️愛你一萬年❤️是汪座，歡迎互fo，（會很開心！）自認為脾氣很好（）不想惹事情上身，有時候會刪帖。看到幼稚鬼就屏蔽，我是國民特色穆斯林，一不看豬頭三二不看奶龍，討論歡迎你❤️互罵遠離你🏃‍♀️//如果你已經b我了還要來視奸我,那真沒話說//內容會很情緒化（）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "Nanase_Rika_"
+              }
+            ]
+          }
+        },
+        "id": "1733714608500969472",
+        "location": "江苏省南京市玄武区长江路292号",
+        "name": "國民北伐bot.兆銘醬",
+        "pinned_tweet_id": "1828344790276047137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826788008898822146/Fs96ykUk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 457,
+          "like_count": 8974,
+          "listed_count": 1,
+          "tweet_count": 3815
+        },
+        "username": "Wangzm1939",
+        "verified": false
+      }
+    ]
+  }
+}

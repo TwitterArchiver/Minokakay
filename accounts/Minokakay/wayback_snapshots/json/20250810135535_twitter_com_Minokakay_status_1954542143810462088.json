@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954525794124087296",
+        "3_1954525794161864704",
+        "3_1954525794115747840"
+      ],
+      "media_source_tweet_id": [
+        "1954525819080167460",
+        "1954525819080167460",
+        "1954525819080167460"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1954542143810462088",
+    "created_at": "2025-08-10T13:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T14:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954542143810462088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1882581716235362304",
+          "start": 3,
+          "username": "helpmekuromi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tMwMHXsZxW",
+          "end": 41,
+          "expanded_url": "https://x.com/helpmekuromi/status/1954525819080167460/photo/1",
+          "media_key": "3_1954525794124087296",
+          "start": 18,
+          "url": "https://t.co/tMwMHXsZxW"
+        },
+        {
+          "display_url": "pic.x.com/tMwMHXsZxW",
+          "end": 41,
+          "expanded_url": "https://x.com/helpmekuromi/status/1954525819080167460/photo/1",
+          "media_key": "3_1954525794161864704",
+          "start": 18,
+          "url": "https://t.co/tMwMHXsZxW"
+        },
+        {
+          "display_url": "pic.x.com/tMwMHXsZxW",
+          "end": 41,
+          "expanded_url": "https://x.com/helpmekuromi/status/1954525819080167460/photo/1",
+          "media_key": "3_1954525794115747840",
+          "start": 18,
+          "url": "https://t.co/tMwMHXsZxW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954542143810462088",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954525819080167460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @helpmekuromi: https://t.co/tMwMHXsZxW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954542143810462088].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954542143810462088",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954542143810462088"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1954525794124087296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_e2q8awAAP37p.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3840,
+        "media_key": "3_1954525794161864704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_e2rFbMAAANEm.jpg",
+        "width": 2880
+      },
+      {
+        "height": 4000,
+        "media_key": "3_1954525794115747840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_e2q6bgAAbo7v.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954525794124087296",
+            "3_1954525794161864704",
+            "3_1954525794115747840"
+          ]
+        },
+        "author_id": "1882581716235362304",
+        "conversation_id": "1954525819080167460",
+        "created_at": "2025-08-10T12:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T13:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954525819080167460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tMwMHXsZxW",
+              "end": 23,
+              "expanded_url": "https://x.com/helpmekuromi/status/1954525819080167460/photo/1",
+              "media_key": "3_1954525794124087296",
+              "start": 0,
+              "url": "https://t.co/tMwMHXsZxW"
+            },
+            {
+              "display_url": "pic.x.com/tMwMHXsZxW",
+              "end": 23,
+              "expanded_url": "https://x.com/helpmekuromi/status/1954525819080167460/photo/1",
+              "media_key": "3_1954525794161864704",
+              "start": 0,
+              "url": "https://t.co/tMwMHXsZxW"
+            },
+            {
+              "display_url": "pic.x.com/tMwMHXsZxW",
+              "end": 23,
+              "expanded_url": "https://x.com/helpmekuromi/status/1954525819080167460/photo/1",
+              "media_key": "3_1954525794115747840",
+              "start": 0,
+              "url": "https://t.co/tMwMHXsZxW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954525819080167460",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 6631,
+          "like_count": 517,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tMwMHXsZxW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8697,
+          "following_count": 923,
+          "like_count": 44477,
+          "listed_count": 33,
+          "media_count": 1369,
+          "tweet_count": 20264
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T00:10:48.000Z",
+        "description": "업 사진 등등",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kuromigurls",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kuromigurls",
+                "start": 0,
+                "url": "https://t.co/3VSTRxpXb7"
+              }
+            ]
+          }
+        },
+        "id": "1882581716235362304",
+        "location": "Ekaterinburg, Russia",
+        "name": "소녀방앗간",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887081327633260545/iOIkzHxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88955,
+          "following_count": 808,
+          "like_count": 2697,
+          "listed_count": 450,
+          "media_count": 329,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/3VSTRxpXb7",
+        "username": "helpmekuromi",
+        "verified": true
+      }
+    ]
+  }
+}

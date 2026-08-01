@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1929407385849995748",
+    "created_at": "2025-06-02T05:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T06:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929410175418400837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1494669485214633984",
+          "start": 0,
+          "username": "57crz3oA"
+        },
+        {
+          "end": 26,
+          "id": "1856322437144817667",
+          "start": 10,
+          "username": "ChosekiNoraneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929410175418400837",
+    "in_reply_to_user_id": "1494669485214633984",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929410022855090561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@57crz3oA @ChosekiNoraneko 1"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1929410022855090561].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1929410022855090561",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1929410022855090561"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1929407385849995748",
+        "created_at": "2025-06-02T05:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T06:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929410175418400837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "57crz3oA"
+            },
+            {
+              "end": 26,
+              "id": "1856322437144817667",
+              "start": 10,
+              "username": "ChosekiNoraneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929410175418400837",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929410022855090561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@57crz3oA @ChosekiNoraneko 1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1928280801998787060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7328,
+          "following_count": 883,
+          "like_count": 42944,
+          "listed_count": 30,
+          "media_count": 1100,
+          "tweet_count": 18222
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "Any pronoun|Left Accelerationist|Hard scifi enthusiast|Astronomy|Touhou|Rhythm game",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/stcr2304",
+                "end": 23,
+                "expanded_url": "https://ngl.link/stcr2304",
+                "start": 0,
+                "url": "https://t.co/u1lxDXQeX0"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "name": "𝕤𝕥𝕔𝕣𝟚𝟛𝟘𝟜 - L/acc",
+        "pinned_tweet_id": "1911817289294590074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867608972427243525/1nu0neCA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 933,
+          "like_count": 41017,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 2114
+        },
+        "url": "https://t.co/u1lxDXQeX0",
+        "username": "57crz3oA",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T13:05:46.000Z",
+        "description": "潮汐工作室的官方賬號，提供色普龙/补佳乐/日雌/减肥/美白/促智供大家购买，Choseki是一家真正专业正规的药物工作室，不售卖兽药/假药/伪劣药品，经营多国正规进口药品，并提供质量保证。\n\n此店铺由@Minokakay 担保并提供客服服务，欢迎私信本账号下单！ Worldwide delivery available",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 100,
+                "username": "Minokakay"
+              }
+            ]
+          }
+        },
+        "id": "1856322437144817667",
+        "location": "Macau",
+        "name": "Choseki Pharmacy",
+        "pinned_tweet_id": "1926685599676645458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856322922924912640/-kfTtOYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 18,
+          "like_count": 36,
+          "listed_count": 4,
+          "media_count": 5,
+          "tweet_count": 43
+        },
+        "username": "ChosekiNoraneko",
+        "verified": false
+      }
+    ]
+  }
+}

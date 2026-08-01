@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1904575937234034716",
+    "created_at": "2025-03-25T16:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T17:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904576553553715281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840055457756610560",
+          "start": 0,
+          "username": "hood8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904576553553715281",
+    "in_reply_to_user_id": "1840055457756610560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904575937234034716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hood8964 好可惜，我在重庆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1904575937234034716",
+        "created_at": "2025-03-25T16:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T17:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904576553553715281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840055457756610560",
+              "start": 0,
+              "username": "hood8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904576553553715281",
+        "in_reply_to_user_id": "1840055457756610560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904575937234034716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hood8964 好可惜，我在重庆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840055457756610560",
+        "conversation_id": "1904575937234034716",
+        "created_at": "2025-03-25T16:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T17:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904575937234034716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wanjunxie/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/wanjunxie/status/1904575485348037046",
+              "start": 12,
+              "url": "https://t.co/EFWp8Gi7lD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904575937234034716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904575485348037046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "👍三峡大坝塌了你是这个 https://t.co/EFWp8Gi7lD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 101,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 78,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1899298005330899355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6020,
+          "following_count": 849,
+          "like_count": 39152,
+          "listed_count": 29,
+          "media_count": 683,
+          "tweet_count": 15449
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-28T15:46:52.000Z",
+        "description": "",
+        "id": "1840055457756610560",
+        "location": "Mexico, MO",
+        "name": "坂下壹佰叁拾捌的红移",
+        "pinned_tweet_id": "1903469115878101042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903172144369995776/Kd2-qZLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 1260,
+          "like_count": 34930,
+          "listed_count": 4,
+          "media_count": 531,
+          "tweet_count": 8706
+        },
+        "username": "hood8964",
+        "verified": false
+      }
+    ]
+  }
+}

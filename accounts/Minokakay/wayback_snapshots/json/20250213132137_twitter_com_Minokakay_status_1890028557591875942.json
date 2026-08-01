@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1890003383068893293",
+    "created_at": "2025-02-13T13:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T14:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890028557591875942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1577816015840296960",
+          "start": 0,
+          "username": "yangaaa111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890028557591875942",
+    "in_reply_to_user_id": "1577816015840296960",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890028494664646777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangaaa111 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1890003383068893293",
+        "created_at": "2025-02-13T13:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T14:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890028557591875942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1577816015840296960",
+              "start": 0,
+              "username": "yangaaa111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890028557591875942",
+        "in_reply_to_user_id": "1577816015840296960",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890028494664646777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangaaa111 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577816015840296960",
+        "conversation_id": "1890003383068893293",
+        "created_at": "2025-02-13T13:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T14:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890028494664646777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890028494664646777",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890003383068893293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 左上角同款"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日雌泰補色諾",
+        "pinned_tweet_id": "1887195421598257202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4560,
+          "following_count": 800,
+          "like_count": 34895,
+          "listed_count": 22,
+          "media_count": 971,
+          "tweet_count": 15904
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-06T00:20:49.000Z",
+        "description": "一个无趣的人\n永远的爱人@Bocchi0221520\n里推@yangeee555（只过熟人）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "Bocchi0221520"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "yangeee555"
+              }
+            ]
+          }
+        },
+        "id": "1577816015840296960",
+        "location": "「結束バンド」",
+        "name": "yang",
+        "pinned_tweet_id": "1821150161479069831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836073477641768960/UW7mPXZy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 521,
+          "like_count": 45411,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 8331
+        },
+        "username": "yangaaa111",
+        "verified": false
+      }
+    ]
+  }
+}

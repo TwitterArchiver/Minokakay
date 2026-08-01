@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1883812150654959924",
+    "created_at": "2025-01-27T09:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T10:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883816095737622910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1487651724810723332",
+          "start": 0,
+          "username": "kage_papuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883816095737622910",
+    "in_reply_to_user_id": "1487651724810723332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883812150654959924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kage_papuki 重慶精衛易性證兩次就給開證明，你不如在精衛開了得了，如果只是單純想要個大證的話"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1883812150654959924",
+        "created_at": "2025-01-27T09:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T10:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883816095737622910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1487651724810723332",
+              "start": 0,
+              "username": "kage_papuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883816095737622910",
+        "in_reply_to_user_id": "1487651724810723332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883812150654959924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kage_papuki 重慶精衛易性證兩次就給開證明，你不如在精衛開了得了，如果只是單純想要個大證的話"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883812143323332608"
+          ]
+        },
+        "author_id": "1487651724810723332",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "1883812150654959924",
+        "created_at": "2025-01-27T09:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T10:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883812150654959924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JOP5FbOmNK",
+              "end": 61,
+              "expanded_url": "https://x.com/kage_papuki/status/1883812150654959924/photo/1",
+              "media_key": "3_1883812143323332608",
+              "start": 38,
+              "url": "https://t.co/JOP5FbOmNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883812150654959924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "决定了！\n总归是要面对的，\n2.9从杭州直接去重庆\n给家长带两份新年礼物😋 https://t.co/JOP5FbOmNK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日380色320泰210",
+        "pinned_tweet_id": "1881268152111440138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3189,
+          "following_count": 782,
+          "like_count": 33627,
+          "listed_count": 14,
+          "media_count": 901,
+          "tweet_count": 15234
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-30T04:59:55.000Z",
+        "description": "Hi~这里是Papuki的表推/友跨🍥友同🌈/是不是顺你猜😋/社恐(不擅长聊天抱歉🥺)/逃避社交/回避型人格😭/无性恋/酷儿/大一/神道教⛩️/很少键政/互fo私信哦/应该也没什么好写了的吧",
+        "id": "1487651724810723332",
+        "location": "🌏    🚀    🌕",
+        "name": "Papuki🍜⛩️🦊🌕😇",
+        "pinned_tweet_id": "1877299640988504269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813495486697082881/h_tsmK8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 755,
+          "like_count": 21365,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 2609
+        },
+        "username": "kage_papuki",
+        "verified": false
+      }
+    ]
+  }
+}

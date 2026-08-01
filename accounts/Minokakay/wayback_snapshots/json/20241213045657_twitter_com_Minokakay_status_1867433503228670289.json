@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1867206829249552469",
+    "created_at": "2024-12-13T04:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T05:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867433503228670289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609619970811482112",
+          "start": 0,
+          "username": "3ch4O1H"
+        },
+        {
+          "end": 23,
+          "id": "1552238688590958592",
+          "start": 9,
+          "username": "Coccus_Swamer"
+        },
+        {
+          "end": 34,
+          "id": "1808535836247609347",
+          "start": 24,
+          "username": "KMT198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867433503228670289",
+    "in_reply_to_user_id": "1609619970811482112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867217420466917756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ch4O1H @Coccus_Swamer @KMT198964 还真是"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1867217420466917756].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1867217420466917756",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1867217420466917756"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1867206829249552469",
+        "created_at": "2024-12-13T04:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T05:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867433503228670289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609619970811482112",
+              "start": 0,
+              "username": "3ch4O1H"
+            },
+            {
+              "end": 23,
+              "id": "1552238688590958592",
+              "start": 9,
+              "username": "Coccus_Swamer"
+            },
+            {
+              "end": 34,
+              "id": "1808535836247609347",
+              "start": 24,
+              "username": "KMT198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867433503228670289",
+        "in_reply_to_user_id": "1609619970811482112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867217420466917756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ch4O1H @Coccus_Swamer @KMT198964 还真是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要内服美白成分/日雌/色普龙/促智药找我超低價",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay（日雌390！",
+        "pinned_tweet_id": "1858231079683182919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 694,
+          "like_count": 30110,
+          "listed_count": 6,
+          "media_count": 665,
+          "tweet_count": 13320
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "爱在当下\n顺男 弗雷尔卓德人\n最爱的伴侣@LixdH5jzYx99195",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "LixdH5jzYx99195"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1854585828779212968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866505553809399808/QxXxe0XS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 2066,
+          "like_count": 28315,
+          "listed_count": 1,
+          "media_count": 465,
+          "tweet_count": 15771
+        },
+        "username": "3ch4O1H",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\n\nu･ω･u\n\nMTX/恋血慕残/失明biid/od/日常学习/互关慎重",
+        "id": "1552238688590958592",
+        "name": "是一只小浆狗呀u･ω･u",
+        "pinned_tweet_id": "1866942556237598971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864559546192285696/Ng5n-cDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1328,
+          "like_count": 6372,
+          "listed_count": 0,
+          "media_count": 347,
+          "tweet_count": 2178
+        },
+        "username": "Coccus_Swamer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T16:18:45.000Z",
+        "description": "炸柜 健全逼，Now i am living in Chong'Qing welcome to meeting  but i am a longtime  live in HongKong！ Chinese/English /Japanese/ MTF/民國派🇹🇼/重度抑鬱 精神分裂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MiSaKaMiKoTo89…",
+                "end": 23,
+                "expanded_url": "http://t.me/MiSaKaMiKoTo8964",
+                "start": 0,
+                "url": "https://t.co/z1PTBbfj5q"
+              }
+            ]
+          }
+        },
+        "id": "1808535836247609347",
+        "location": "Tainan City, Taiwan",
+        "name": "御坂美琴🍥（努力學習）",
+        "pinned_tweet_id": "1866442071600775651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813777446837358592/Za4SEy3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 654,
+          "like_count": 2940,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 567
+        },
+        "url": "https://t.co/z1PTBbfj5q",
+        "username": "KMT198964",
+        "verified": false
+      }
+    ]
+  }
+}

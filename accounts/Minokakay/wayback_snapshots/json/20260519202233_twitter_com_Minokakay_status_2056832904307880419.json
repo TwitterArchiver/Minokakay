@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2056832904307880419",
+    "created_at": "2026-05-19T20:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T21:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056832904307880419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ikheatherwang/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/ikheatherwang/status/2056400591317045367",
+          "start": 27,
+          "url": "https://t.co/SggLI9BILp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056832904307880419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056400591317045367",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "个人感觉比中国很多地区安全得多，至少吃烧烤不会被打。 https://t.co/SggLI9BILp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2056832904307880419",
+        "created_at": "2026-05-19T20:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T21:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056832904307880419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ikheatherwang/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/ikheatherwang/status/2056400591317045367",
+              "start": 27,
+              "url": "https://t.co/SggLI9BILp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056832904307880419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056400591317045367",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "个人感觉比中国很多地区安全得多，至少吃烧烤不会被打。 https://t.co/SggLI9BILp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772690783067660288",
+        "conversation_id": "2056400591317045367",
+        "created_at": "2026-05-18T15:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056400591317045367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056400591317045367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 12311,
+          "like_count": 105,
+          "quote_count": 4,
+          "reply_count": 101,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家有没有暑假想去日本的呀😭我想去玩但我爹妈因为日中关系比较差担心我一个人去会不安全之类的…😭我真的好想去日本玩呀😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "发着光的半平米，胡乱哼唱的旋律，\n但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬🍥找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 79,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 56,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14451,
+          "following_count": 1065,
+          "like_count": 44011,
+          "listed_count": 51,
+          "media_count": 1823,
+          "tweet_count": 26149
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-26T18:23:22.000Z",
+        "description": "Haven Sent Hell Bent @Heather159328 Affection is steady unless I’m treated otherwise so it becomes a quiet ending. ⬮ ₓ ⬮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "Heather159328"
+              }
+            ]
+          }
+        },
+        "id": "1772690783067660288",
+        "location": "Beijing ",
+        "name": "Heather",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030687495399337985/maXK_khc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 150,
+          "like_count": 7876,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 2038
+        },
+        "username": "IkHeatherWang",
+        "verified": false
+      }
+    ]
+  }
+}

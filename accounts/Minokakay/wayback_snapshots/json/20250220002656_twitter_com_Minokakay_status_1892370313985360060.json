@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892234160103956480"
+      ],
+      "media_source_tweet_id": [
+        "1892234162800673101"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1892370313985360060",
+    "created_at": "2025-02-20T00:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T01:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892370313985360060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1325720943948300290",
+          "start": 3,
+          "username": "puyoyama_puyux2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ts2y9MwDa3",
+          "end": 49,
+          "expanded_url": "https://x.com/puyoyama_puyux2/status/1892234162800673101/photo/1",
+          "media_key": "3_1892234160103956480",
+          "start": 26,
+          "url": "https://t.co/Ts2y9MwDa3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892370313985360060",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892234162800673101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @puyoyama_puyux2: あと一歩 https://t.co/Ts2y9MwDa3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1892234160103956480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkKQ8XDbIAAd3BL.jpg",
+        "width": 725
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892234160103956480"
+          ],
+          "media_source_tweet_id": [
+            "1892234162800673101"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1892370313985360060",
+        "created_at": "2025-02-20T00:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T01:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892370313985360060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1325720943948300290",
+              "start": 3,
+              "username": "puyoyama_puyux2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ts2y9MwDa3",
+              "end": 49,
+              "expanded_url": "https://x.com/puyoyama_puyux2/status/1892234162800673101/photo/1",
+              "media_key": "3_1892234160103956480",
+              "start": 26,
+              "url": "https://t.co/Ts2y9MwDa3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892370313985360060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892234162800673101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @puyoyama_puyux2: あと一歩 https://t.co/Ts2y9MwDa3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892234160103956480"
+          ]
+        },
+        "author_id": "1325720943948300290",
+        "conversation_id": "1892234162800673101",
+        "created_at": "2025-02-19T15:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T16:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892234162800673101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ts2y9MwDa3",
+              "end": 28,
+              "expanded_url": "https://x.com/puyoyama_puyux2/status/1892234162800673101/photo/1",
+              "media_key": "3_1892234160103956480",
+              "start": 5,
+              "url": "https://t.co/Ts2y9MwDa3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892234162800673101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 2957,
+          "like_count": 406,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "あと一歩 https://t.co/Ts2y9MwDa3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈 备用@Minokakay2nd 裡推@Minokakaysex2nd TG同名 需要内服美白/HRT/减肥/促智找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 78,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 110,
+                "start": 94,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay （日雌泰补色诺",
+        "pinned_tweet_id": "1891554377909010835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4850,
+          "following_count": 806,
+          "like_count": 35503,
+          "listed_count": 25,
+          "media_count": 999,
+          "tweet_count": 16244
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-09T08:45:08.000Z",
+        "description": "はい、さようなら",
+        "id": "1325720943948300290",
+        "name": "ドブ",
+        "pinned_tweet_id": "1840424908045811761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626998346023067648/Z0m9tLpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9763,
+          "following_count": 319,
+          "like_count": 33227,
+          "listed_count": 83,
+          "media_count": 311,
+          "tweet_count": 3134
+        },
+        "username": "puyoyama_puyux2",
+        "verified": false
+      }
+    ]
+  }
+}

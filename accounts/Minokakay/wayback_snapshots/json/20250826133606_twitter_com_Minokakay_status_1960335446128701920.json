@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960249576725913600",
+        "3_1960249578940518400"
+      ],
+      "media_source_tweet_id": [
+        "1960249584606990810",
+        "1960249584606990810"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1960335446128701920",
+    "created_at": "2025-08-26T13:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T14:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960335446128701920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1946833270668410880",
+          "start": 3,
+          "username": "KEMONO_musume"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V3u09JLWye",
+          "end": 49,
+          "expanded_url": "https://x.com/KEMONO_musume/status/1960249584606990810/photo/1",
+          "media_key": "3_1960249576725913600",
+          "start": 26,
+          "url": "https://t.co/V3u09JLWye"
+        },
+        {
+          "display_url": "pic.x.com/V3u09JLWye",
+          "end": 49,
+          "expanded_url": "https://x.com/KEMONO_musume/status/1960249584606990810/photo/1",
+          "media_key": "3_1960249578940518400",
+          "start": 26,
+          "url": "https://t.co/V3u09JLWye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960335446128701920",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 290
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960249584606990810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KEMONO_musume: Wataa… https://t.co/V3u09JLWye"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960335446128701920].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960335446128701920",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960335446128701920"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1960249576725913600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzQ0mqvboAAAEgU.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1960249578940518400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzQ0my_b0AAuha5.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960249576725913600",
+            "3_1960249578940518400"
+          ]
+        },
+        "author_id": "1946833270668410880",
+        "conversation_id": "1960249584606990810",
+        "created_at": "2025-08-26T07:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T08:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960249584606990810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V3u09JLWye",
+              "end": 30,
+              "expanded_url": "https://x.com/KEMONO_musume/status/1960249584606990810/photo/1",
+              "media_key": "3_1960249576725913600",
+              "start": 7,
+              "url": "https://t.co/V3u09JLWye"
+            },
+            {
+              "display_url": "pic.x.com/V3u09JLWye",
+              "end": 30,
+              "expanded_url": "https://x.com/KEMONO_musume/status/1960249584606990810/photo/1",
+              "media_key": "3_1960249578940518400",
+              "start": 7,
+              "url": "https://t.co/V3u09JLWye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960249584606990810",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1085,
+          "impression_count": 41494,
+          "like_count": 3515,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 290
+        },
+        "reply_settings": "everyone",
+        "text": "Wataa… https://t.co/V3u09JLWye"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9108,
+          "following_count": 940,
+          "like_count": 44530,
+          "listed_count": 34,
+          "media_count": 1393,
+          "tweet_count": 20616
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-20T07:23:27.000Z",
+        "description": "🔞NSFW (18+Up) 🔞 \nI Post Adult Content Main-Hentai & All on to your Feed. You have been ‼️Warned‼️",
+        "id": "1946833270668410880",
+        "name": "KEMONO MUSUME ケモノ娘",
+        "pinned_tweet_id": "1953002648728420856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956762496980901888/yfmn1mEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44000,
+          "following_count": 43,
+          "like_count": 2,
+          "listed_count": 99,
+          "media_count": 208,
+          "tweet_count": 6517
+        },
+        "username": "KEMONO_musume",
+        "verified": false
+      }
+    ]
+  }
+}

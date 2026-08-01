@@ -1,0 +1,110 @@
+{
+  "data": {
+    "author_id": "1597257668313260033",
+    "conversation_id": "1848379555503116436",
+    "created_at": "2024-10-21T15:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-21T16:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848380300365283514"
+    ],
+    "id": "1848380300365283514",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 74,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848380267809194000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SoutaWashuuYuki 你是不是o了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1597257668313260033",
+        "conversation_id": "1848379555503116436",
+        "created_at": "2024-10-21T15:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T16:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848380300365283514"
+        ],
+        "id": "1848380300365283514",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848380267809194000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SoutaWashuuYuki 你是不是o了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要内服美白成分/日雌/色普龙/促智药找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay（藥物版",
+        "pinned_tweet_id": "1858231079683182919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 664,
+          "like_count": 29343,
+          "listed_count": 5,
+          "media_count": 636,
+          "tweet_count": 13013
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

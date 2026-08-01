@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892617196922404864"
+      ],
+      "media_source_tweet_id": [
+        "1892617206166364301"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1892617493593915749",
+    "created_at": "2025-02-20T16:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T17:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892617493593915749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1892598727820349440",
+          "start": 3,
+          "username": "BocchiTheCorp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0GRniilKEZ",
+          "end": 55,
+          "expanded_url": "https://x.com/BocchiTheCorp/status/1892617206166364301/photo/1",
+          "media_key": "3_1892617196922404864",
+          "start": 32,
+          "url": "https://t.co/0GRniilKEZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892617493593915749",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892617206166364301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BocchiTheCorp: Working hard https://t.co/0GRniilKEZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 464,
+        "media_key": "3_1892617196922404864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkPtUCZbAAA-7SG.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892617196922404864"
+          ],
+          "media_source_tweet_id": [
+            "1892617206166364301"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1892617493593915749",
+        "created_at": "2025-02-20T16:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T17:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892617493593915749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1892598727820349440",
+              "start": 3,
+              "username": "BocchiTheCorp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0GRniilKEZ",
+              "end": 55,
+              "expanded_url": "https://x.com/BocchiTheCorp/status/1892617206166364301/photo/1",
+              "media_key": "3_1892617196922404864",
+              "start": 32,
+              "url": "https://t.co/0GRniilKEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892617493593915749",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892617206166364301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BocchiTheCorp: Working hard https://t.co/0GRniilKEZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892617196922404864"
+          ]
+        },
+        "author_id": "1892598727820349440",
+        "conversation_id": "1892617206166364301",
+        "created_at": "2025-02-20T16:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T17:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892617206166364301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0GRniilKEZ",
+              "end": 36,
+              "expanded_url": "https://x.com/BocchiTheCorp/status/1892617206166364301/photo/1",
+              "media_key": "3_1892617196922404864",
+              "start": 13,
+              "url": "https://t.co/0GRniilKEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892617206166364301",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Working hard https://t.co/0GRniilKEZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈 备用@Minokakay2nd 裡推@Minokakaysex2nd TG同名 需要内服美白/HRT/减肥/促智找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 78,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 110,
+                "start": 94,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay （日雌泰补色诺",
+        "pinned_tweet_id": "1891554377909010835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4873,
+          "following_count": 810,
+          "like_count": 35655,
+          "listed_count": 25,
+          "media_count": 1004,
+          "tweet_count": 16305
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T15:34:43.000Z",
+        "description": "Totally official Corporation of Bocchi ✨ Invest in Bocchi!",
+        "id": "1892598727820349440",
+        "location": "Bocchi & Co.",
+        "name": "Bocchi & Co.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892609168693186560/XNJeRqKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 8,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "BocchiTheCorp",
+        "verified": false
+      }
+    ]
+  }
+}

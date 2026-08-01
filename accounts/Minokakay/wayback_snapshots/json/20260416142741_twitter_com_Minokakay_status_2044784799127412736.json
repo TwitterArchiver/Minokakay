@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2044784119494893811",
+    "created_at": "2026-04-16T14:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T15:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044784799127412736"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044784799127412736",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044784119494893811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "比如你在国内用高德导航天府机场到成都南站，或者重庆10号线，他都不会有任何对快速车的适配，数据库里面没有快速车车次，更别谈规划国铁路线了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 654,
+        "media_key": "3_2044784110313635841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCIUImbgAEuN3-.jpg",
+        "width": 637
+      },
+      {
+        "height": 468,
+        "media_key": "3_2044784110322036736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCIUIobsAAJniR.jpg",
+        "width": 475
+      },
+      {
+        "height": 432,
+        "media_key": "3_2044784110150066176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCIUH_boAAhEqN.jpg",
+        "width": 416
+      },
+      {
+        "height": 646,
+        "media_key": "3_2044784109978050560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCIUHWa4AASKIl.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2044784119494893811",
+        "created_at": "2026-04-16T14:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044784799127412736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044784799127412736",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044784119494893811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比如你在国内用高德导航天府机场到成都南站，或者重庆10号线，他都不会有任何对快速车的适配，数据库里面没有快速车车次，更别谈规划国铁路线了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044784110313635841",
+            "3_2044784110322036736",
+            "3_2044784110150066176",
+            "3_2044784109978050560"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2044784119494893811",
+        "created_at": "2026-04-16T14:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044784119494893811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WKvMpYf65b",
+              "end": 139,
+              "expanded_url": "https://x.com/Minokakay/status/2044784119494893811/photo/1",
+              "media_key": "3_2044784110313635841",
+              "start": 116,
+              "url": "https://t.co/WKvMpYf65b"
+            },
+            {
+              "display_url": "pic.x.com/WKvMpYf65b",
+              "end": 139,
+              "expanded_url": "https://x.com/Minokakay/status/2044784119494893811/photo/1",
+              "media_key": "3_2044784110322036736",
+              "start": 116,
+              "url": "https://t.co/WKvMpYf65b"
+            },
+            {
+              "display_url": "pic.x.com/WKvMpYf65b",
+              "end": 139,
+              "expanded_url": "https://x.com/Minokakay/status/2044784119494893811/photo/1",
+              "media_key": "3_2044784110150066176",
+              "start": 116,
+              "url": "https://t.co/WKvMpYf65b"
+            },
+            {
+              "display_url": "pic.x.com/WKvMpYf65b",
+              "end": 139,
+              "expanded_url": "https://x.com/Minokakay/status/2044784119494893811/photo/1",
+              "media_key": "3_2044784109978050560",
+              "start": 116,
+              "url": "https://t.co/WKvMpYf65b"
+            },
+            {
+              "display_url": "x.com/tourslinecn/st…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/tourslinecn/status/2044743604116296129",
+              "start": 140,
+              "url": "https://t.co/xpXZ7ydUck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044784119494893811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "高德最搞笑的是他们公司找不出一个能分清车次 等级 和线路的人。他们在日本的线路图里，把nozomi haruka kuroshio 特急这类等级名称全部标注在了线路上，因为他们以为一条线路只跑两种车次，即特急和普通（Local）。\n所以你导航反而搜不出来最常见的新快速，去小站他只会显示【东海道山阳本线】不显示该坐什么类型的车。去大站他就只显示【遙/飞驒】。并且压根没有发车时间和站台这类信息，因为高德的人看不懂。\n话说买两张机票送俩人出国看看很难吗？怎么都在做别的国家的地图了思维惯性还停留在国内地铁是地铁国铁是国铁，国铁只有高铁和绿皮车这种概念上。\n也是，他们连中国的都弄不懂🫠怎么可能搞得懂日本的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044743604116296129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高德最搞笑的是他们公司找不出一个能分清车次 等级 和线路的人。他们在日本的线路图里，把nozomi haruka kuroshio 特急这类等级名称全部标注在了线路上，因为他们以为一条线路只跑两种车次，即特急和普通（Local）。 https://t.co/WKvMpYf65b https://t.co/xpXZ7ydUck"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "发着光的半平米，胡乱哼唱的旋律，但是还想拯救你，同时拯救我自己。 \n成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 77,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 54,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14164,
+          "following_count": 1051,
+          "like_count": 44029,
+          "listed_count": 52,
+          "media_count": 1790,
+          "tweet_count": 25872
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

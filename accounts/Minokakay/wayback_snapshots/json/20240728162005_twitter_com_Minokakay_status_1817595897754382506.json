@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1817231138026668032"
+      ],
+      "media_source_tweet_id": [
+        "1817231196390371618"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1817595897754382506",
+    "created_at": "2024-07-28T16:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T17:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817595897754382506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1507723638249713664",
+          "start": 3,
+          "username": "yuebanzhu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/exBWsbNCxd",
+          "end": 48,
+          "expanded_url": "https://twitter.com/yuebanzhu/status/1817231196390371618/video/1",
+          "media_key": "7_1817231138026668032",
+          "start": 25,
+          "url": "https://t.co/exBWsbNCxd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817595897754382506",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817231196390371618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuebanzhu: 经典回顾安倍马里奥 https://t.co/exBWsbNCxd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 124366,
+        "height": 720,
+        "media_key": "7_1817231138026668032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1817231138026668032/pu/img/ofJs21ChkNUDz92r.jpg",
+        "public_metrics": {
+          "view_count": 16579
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1817231138026668032/pu/vid/avc1/476x270/Zyrx3R4bnmQt1qir.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1817231138026668032/pu/vid/avc1/634x360/SyliVe1cJuNJUqnP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1817231138026668032/pu/vid/avc1/1270x720/UtHgAi0ovRdr9ZIw.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1817231138026668032/pu/pl/uMpNVz1e_XeObVPg.m3u8?tag=12"
+          }
+        ],
+        "width": 1270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1817231138026668032"
+          ],
+          "media_source_tweet_id": [
+            "1817231196390371618"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1817595897754382506",
+        "created_at": "2024-07-28T16:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T17:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817595897754382506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1507723638249713664",
+              "start": 3,
+              "username": "yuebanzhu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/exBWsbNCxd",
+              "end": 48,
+              "expanded_url": "https://twitter.com/yuebanzhu/status/1817231196390371618/video/1",
+              "media_key": "7_1817231138026668032",
+              "start": 25,
+              "url": "https://t.co/exBWsbNCxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817595897754382506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817231196390371618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuebanzhu: 经典回顾安倍马里奥 https://t.co/exBWsbNCxd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1817231138026668032"
+          ]
+        },
+        "author_id": "1507723638249713664",
+        "conversation_id": "1817231196390371618",
+        "created_at": "2024-07-27T16:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T17:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817231196390371618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/exBWsbNCxd",
+              "end": 33,
+              "expanded_url": "https://twitter.com/yuebanzhu/status/1817231196390371618/video/1",
+              "media_key": "7_1817231138026668032",
+              "start": 10,
+              "url": "https://t.co/exBWsbNCxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817231196390371618",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 35216,
+          "like_count": 304,
+          "quote_count": 6,
+          "reply_count": 28,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "经典回顾安倍马里奥 https://t.co/exBWsbNCxd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome\n遇到傻逼会直接block，见谅，不和非人类交流",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 779,
+          "like_count": 3002,
+          "listed_count": 1,
+          "tweet_count": 1391
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T14:18:40.000Z",
+        "description": "一直在日本。似乎是一名法律工作者。右翼，非典型自由主义。政治面貌境外势力汉奸叛徒反革命分子。荒川商学院🥱创始人。https://t.co/zwDurJQwha宫司🥳私信回复较慢（一般周三周六晚上回复）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "runjinja.jp",
+                "end": 79,
+                "expanded_url": "http://runjinja.jp",
+                "start": 56,
+                "url": "https://t.co/zwDurJQwha"
+              }
+            ]
+          }
+        },
+        "id": "1507723638249713664",
+        "location": "日本东京",
+        "name": "月半",
+        "pinned_tweet_id": "1759587368640667866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529606141545545728/ufDWA7bY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11488,
+          "following_count": 4009,
+          "like_count": 175810,
+          "listed_count": 71,
+          "tweet_count": 34330
+        },
+        "username": "yuebanzhu",
+        "verified": true
+      }
+    ]
+  }
+}

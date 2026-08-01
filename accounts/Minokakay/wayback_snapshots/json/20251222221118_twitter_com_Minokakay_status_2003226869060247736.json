@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2003226869060247736",
+    "created_at": "2025-12-22T22:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T23:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003226869060247736"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 75,
+          "normalized_text": "Lucius Pharmaceuticals",
+          "probability": 0.5616,
+          "start": 54,
+          "type": "Organization"
+        },
+        {
+          "end": 88,
+          "normalized_text": "Big Bear",
+          "probability": 0.4375,
+          "start": 81,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1965812721078972416",
+          "start": 3,
+          "username": "Lucius_Pharma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003226869060247736",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003226160000635079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lucius_Pharma: We are a authorized distributor of Lucius Pharmaceuticals and Big Bear Pharmaceuticals. Our company is registered in Hon…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003226149766438912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8zjkdWaIAA2ETZ.jpg",
+        "width": 1449
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2003226869060247736",
+        "created_at": "2025-12-22T22:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T23:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003226869060247736"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 75,
+              "normalized_text": "Lucius Pharmaceuticals",
+              "probability": 0.5616,
+              "start": 54,
+              "type": "Organization"
+            },
+            {
+              "end": 88,
+              "normalized_text": "Big Bear",
+              "probability": 0.4375,
+              "start": 81,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1965812721078972416",
+              "start": 3,
+              "username": "Lucius_Pharma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003226869060247736",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003226160000635079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lucius_Pharma: We are a authorized distributor of Lucius Pharmaceuticals and Big Bear Pharmaceuticals. Our company is registered in Hon…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003226149766438912"
+          ]
+        },
+        "author_id": "1965812721078972416",
+        "conversation_id": "2003226160000635079",
+        "created_at": "2025-12-22T22:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T23:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003226160000635079"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "Lucius Pharmaceuticals",
+              "probability": 0.5684,
+              "start": 35,
+              "type": "Organization"
+            },
+            {
+              "end": 85,
+              "normalized_text": "Big Bear Pharmaceuticals",
+              "probability": 0.4411,
+              "start": 62,
+              "type": "Other"
+            },
+            {
+              "end": 125,
+              "normalized_text": "Hong Kong",
+              "probability": 0.9853,
+              "start": 117,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CqwkBEPUXT",
+              "end": 272,
+              "expanded_url": "https://x.com/Lucius_Pharma/status/2003226160000635079/photo/1",
+              "media_key": "3_2003226149766438912",
+              "start": 249,
+              "url": "https://t.co/CqwkBEPUXT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003226160000635079",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "We are a authorized distributor of Lucius Pharmaceuticals and Big Bear Pharmaceuticals. Our company is registered in Hong Kong and holds a medicines dealer license. And we can export worldwide.\nIf you have any needs, please feel free to contact us. https://t.co/CqwkBEPUXT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13298,
+          "following_count": 1014,
+          "like_count": 44944,
+          "listed_count": 50,
+          "media_count": 1788,
+          "tweet_count": 24839
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-10T16:21:00.000Z",
+        "description": "Lucius is a generic pharmaceutical manufacturer based in Laos. We offer over 150 medications for chronic diseases and cancer and can ship worldwide.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lucius-pharmaceuticals.com",
+                "end": 23,
+                "expanded_url": "https://lucius-pharmaceuticals.com/",
+                "start": 0,
+                "url": "https://t.co/6CtQjzbE0z"
+              }
+            ]
+          }
+        },
+        "id": "1965812721078972416",
+        "location": "Hong Kong",
+        "name": "Lucius Pharmaceuticals (Hong Kong)",
+        "pinned_tweet_id": "2003226160000635079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965813018677379072/KQgrqO7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/6CtQjzbE0z",
+        "username": "Lucius_Pharma",
+        "verified": false
+      }
+    ]
+  }
+}

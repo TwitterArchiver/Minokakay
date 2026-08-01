@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999422059970199554"
+      ],
+      "media_source_tweet_id": [
+        "1999422065745756637"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1332265012266631169",
+          "name": "Tsunamis"
+        }
+      },
+      {
+        "domain": {
+          "description": "Weather-related topics like Boston weather or Earthquakes",
+          "id": "155",
+          "name": "Weather"
+        },
+        "entity": {
+          "id": "1332265012266631169",
+          "name": "Tsunamis"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "175",
+          "name": "Emergency Events"
+        },
+        "entity": {
+          "id": "1332265012266631169",
+          "name": "Tsunamis"
+        }
+      }
+    ],
+    "conversation_id": "1999477703272202563",
+    "created_at": "2025-12-12T13:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T14:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999477703272202563"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 14,
+          "tag": "筑波大学は核実験をやめろ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1684444311868563457",
+          "start": 3,
+          "username": "koma_6th"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2j0MkhmXID",
+          "end": 51,
+          "expanded_url": "https://x.com/koma_6th/status/1999422065745756637/photo/1",
+          "media_key": "3_1999422059970199554",
+          "start": 28,
+          "url": "https://t.co/2j0MkhmXID"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999477703272202563",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 280
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999422065745756637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koma_6th: #筑波大学は核実験をやめろ https://t.co/2j0MkhmXID"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 837,
+        "media_key": "3_1999422059970199554",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79fxSiagAI46y-.jpg",
+        "width": 1085
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999422059970199554"
+          ],
+          "media_source_tweet_id": [
+            "1999422065745756637"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "175",
+              "name": "Emergency Events"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          }
+        ],
+        "conversation_id": "1999477703272202563",
+        "created_at": "2025-12-12T13:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T14:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999477703272202563"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 14,
+              "tag": "筑波大学は核実験をやめろ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1684444311868563457",
+              "start": 3,
+              "username": "koma_6th"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2j0MkhmXID",
+              "end": 51,
+              "expanded_url": "https://x.com/koma_6th/status/1999422065745756637/photo/1",
+              "media_key": "3_1999422059970199554",
+              "start": 28,
+              "url": "https://t.co/2j0MkhmXID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999477703272202563",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 280
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999422065745756637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koma_6th: #筑波大学は核実験をやめろ https://t.co/2j0MkhmXID"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999422059970199554"
+          ]
+        },
+        "author_id": "1684444311868563457",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "175",
+              "name": "Emergency Events"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          }
+        ],
+        "conversation_id": "1999422065745756637",
+        "created_at": "2025-12-12T10:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999422065745756637"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "筑波大学は核実験をやめろ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2j0MkhmXID",
+              "end": 37,
+              "expanded_url": "https://x.com/koma_6th/status/1999422065745756637/photo/1",
+              "media_key": "3_1999422059970199554",
+              "start": 14,
+              "url": "https://t.co/2j0MkhmXID"
+            },
+            {
+              "display_url": "x.com/un_nerv/status…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/un_nerv/status/1999421049667223606",
+              "start": 38,
+              "url": "https://t.co/iDjA1e9bPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999422065745756637",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 182655,
+          "like_count": 3255,
+          "quote_count": 43,
+          "reply_count": 16,
+          "retweet_count": 280
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999421049667223606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#筑波大学は核実験をやめろ https://t.co/2j0MkhmXID https://t.co/iDjA1e9bPa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 阿斯ADHD精分抑鬱焦慮MtX，成都大阪随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智/靶向药请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13028,
+          "following_count": 1006,
+          "like_count": 44984,
+          "listed_count": 50,
+          "media_count": 1739,
+          "tweet_count": 24286
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T06:03:23.000Z",
+        "description": "6度目の会釈 君と介錯 ただのキモオタク 鍵@Aeglesee_key あいこん:＠僕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "Aeglesee_key"
+              }
+            ]
+          }
+        },
+        "id": "1684444311868563457",
+        "name": "こまぽっぷこーん",
+        "pinned_tweet_id": "1932005718531682452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954204648061169664/kLTwDz6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5966,
+          "following_count": 1018,
+          "like_count": 30533,
+          "listed_count": 26,
+          "media_count": 2085,
+          "tweet_count": 31811
+        },
+        "username": "koma_6th",
+        "verified": false
+      }
+    ]
+  }
+}

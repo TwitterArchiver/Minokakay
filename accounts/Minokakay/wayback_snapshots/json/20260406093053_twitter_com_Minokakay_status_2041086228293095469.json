@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      }
+    ],
+    "conversation_id": "2041082087915274512",
+    "created_at": "2026-04-06T09:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T10:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041086228293095469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1734402802234105856",
+          "start": 0,
+          "username": "PelerinInExile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041086228293095469",
+    "in_reply_to_user_id": "1734402802234105856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041085798880305252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PelerinInExile 京都到伊丹就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "2041082087915274512",
+        "created_at": "2026-04-06T09:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041086228293095469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1734402802234105856",
+              "start": 0,
+              "username": "PelerinInExile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041086228293095469",
+        "in_reply_to_user_id": "1734402802234105856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041085798880305252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PelerinInExile 京都到伊丹就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734402802234105856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "2041082087915274512",
+        "created_at": "2026-04-06T09:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041085798880305252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041085798880305252",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041082087915274512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 京都和苏州更像，没有机场"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "命に嫌われている。 mtx 正找寻着生命意义的人，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp，私信不回，打不开换梯子换浏览器",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 67,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 44,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14270,
+          "following_count": 1053,
+          "like_count": 44012,
+          "listed_count": 53,
+          "media_count": 1798,
+          "tweet_count": 25811
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-12T02:40:38.000Z",
+        "description": "自称夜鹭，实际上是智人|生命科学专业大学生，被“21世纪是生物的世纪”骗进天坑|业余文史哲爱好者，涉政内容警告|动漫，观鸟，赛车，铁道，胶圈都沾一点的小白|綾波レイ推し|日本語/English/中文OK|Stand with Ukraine🇺🇦",
+        "id": "1734402802234105856",
+        "location": "苏州河夜鹭繁育基地，上海，中国",
+        "name": "夜鹭酱ゴイサギちゃん🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936636763763515392/Rm0uGjDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 1845,
+          "like_count": 32163,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 2384
+        },
+        "username": "PelerinInExile",
+        "verified": false
+      }
+    ]
+  }
+}

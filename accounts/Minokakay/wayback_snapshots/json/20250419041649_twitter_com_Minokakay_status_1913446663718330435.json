@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1913446663718330435",
+    "created_at": "2025-04-19T04:16:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T05:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913446663718330435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1451001299873325064",
+          "start": 3,
+          "username": "creeperwhite2"
+        },
+        {
+          "end": 34,
+          "id": "1490675894238986251",
+          "start": 19,
+          "username": "SyndicalismCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913446663718330435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913291330262093953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @creeperwhite2: @SyndicalismCat 人类的赞歌是勇气的赞歌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1913446663718330435",
+        "created_at": "2025-04-19T04:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T05:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913446663718330435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1451001299873325064",
+              "start": 3,
+              "username": "creeperwhite2"
+            },
+            {
+              "end": 34,
+              "id": "1490675894238986251",
+              "start": 19,
+              "username": "SyndicalismCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913446663718330435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913291330262093953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @creeperwhite2: @SyndicalismCat 人类的赞歌是勇气的赞歌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451001299873325064",
+        "conversation_id": "1913247647193845805",
+        "created_at": "2025-04-18T17:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T18:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913291330262093953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1490675894238986251",
+              "start": 0,
+              "username": "SyndicalismCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913291330262093953",
+        "in_reply_to_user_id": "1490675894238986251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2808,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913247647193845805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyndicalismCat 人类的赞歌是勇气的赞歌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1911284276345405679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6439,
+          "following_count": 865,
+          "like_count": 40712,
+          "listed_count": 30,
+          "media_count": 800,
+          "tweet_count": 16277
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-21T01:44:23.000Z",
+        "description": "梦里写诗，醒时眼红。\n花眼里看见，花满楼。\n @_9D3CE_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "_9D3CE_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Internet.Overdo.se",
+                "end": 23,
+                "expanded_url": "http://Internet.Overdo.se",
+                "start": 0,
+                "url": "https://t.co/J9PBSEcAuX"
+              }
+            ]
+          }
+        },
+        "id": "1451001299873325064",
+        "location": "距你0.5公里",
+        "name": "蓟野菁菁",
+        "pinned_tweet_id": "1894294576115913060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800584797217058816/8kuPANQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 685,
+          "like_count": 7006,
+          "listed_count": 8,
+          "media_count": 630,
+          "tweet_count": 8927
+        },
+        "url": "https://t.co/J9PBSEcAuX",
+        "username": "creeperwhite2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "非二元/she her/含键政/民主社会主义/对政治人物态度不代表赞同其立场或意识形态/ 哈基汪@Nekomimiawa @A5tr41",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "Nekomimiawa"
+              },
+              {
+                "end": 68,
+                "start": 61,
+                "username": "A5tr41"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://www.whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/pWZx2Vbika"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 马哈顿",
+        "name": "🎻哈基米",
+        "pinned_tweet_id": "1888584972245909717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912750102479048704/H54iMSqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2679,
+          "following_count": 1204,
+          "like_count": 127335,
+          "listed_count": 9,
+          "media_count": 1484,
+          "tweet_count": 18598
+        },
+        "url": "https://t.co/pWZx2Vbika",
+        "username": "SyndicalismCat",
+        "verified": false
+      }
+    ]
+  }
+}

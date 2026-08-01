@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1825463190060400640"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1825454337134571830",
+    "created_at": "2024-08-19T09:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T10:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825463204816044365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1683441735144439808",
+          "start": 0,
+          "username": "Allenium114"
+        },
+        {
+          "end": 26,
+          "id": "1821174261148770304",
+          "start": 13,
+          "username": "Minokakaysex"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hhyw9vxquu",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Minokakay/status/1825463204816044365/video/1",
+          "media_key": "7_1825463190060400640",
+          "start": 31,
+          "url": "https://t.co/HHYw9VXQuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825463204816044365",
+    "in_reply_to_user_id": "1683441735144439808",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825462866218205268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allenium114 @Minokakaysex 软软的 https://t.co/HHYw9VXQuu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1825463204816044365].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1825463204816044365",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1825463204816044365"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1568,
+        "height": 1280,
+        "media_key": "7_1825463190060400640",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1825463190060400640/pu/img/4xX3nw2uNhvtbGik.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1825463190060400640/pu/vid/avc1/320x568/DFaQvPrfKOR1A5Vb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1825463190060400640/pu/vid/avc1/480x852/wejI5pGUksqex5BR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1825463190060400640/pu/vid/avc1/720x1280/dUj_dnKZpQi5Pdc6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1825463190060400640/pu/pl/Hc1ibxkr-nhPaDAn.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683441735144439808",
+        "conversation_id": "1825454337134571830",
+        "created_at": "2024-08-19T09:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T10:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825462866218205268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            },
+            {
+              "end": 24,
+              "id": "1821174261148770304",
+              "start": 11,
+              "username": "Minokakaysex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825462866218205268",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825462768587481490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay @Minokakaysex 😋😋😋看看废物唧唧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 付费裡推：@Minokakaysex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Minokakaysex"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 904,
+          "like_count": 8861,
+          "listed_count": 3,
+          "tweet_count": 3094
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:39:28.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈MtF 🍥 HRT2024.4.20 |持证 ADHD | 愈发健全❤️| 半出柜半家长党| 小证 2024.8.5丨178cm 57kg | 重度 Apex | 准高二08 年物化生😭| 🏳️‍⚧️麻麻@xue_zhi2008",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "xue_zhi2008"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/AG5sVAiJgj"
+              }
+            ]
+          }
+        },
+        "id": "1683441735144439808",
+        "location": "重庆 渝北",
+        "name": "铃屋翎🍥",
+        "pinned_tweet_id": "1820034386240352449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789540383489449984/g9zaDvGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 646,
+          "like_count": 32116,
+          "listed_count": 6,
+          "tweet_count": 8011
+        },
+        "url": "https://t.co/AG5sVAiJgj",
+        "username": "Allenium114",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T13:19:22.000Z",
+        "description": "06/168/52kg 高中生 這裡是@Minokakay 的裡推賬號，挂铃铛的好朋友和熟人免費！其餘推友暫時收29.9🚪（應該不過分吧？估計會經常更新，發一些自慰和露出的實況記錄，需要的請聯繫主賬號支付！我是男的！（也许是xnh？不確定",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "Minokakay"
+              }
+            ]
+          }
+        },
+        "id": "1821174261148770304",
+        "name": "Minokakay（澀澀版",
+        "pinned_tweet_id": "1821174865984110868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821174333487902721/cyNtCwk9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 30,
+          "like_count": 370,
+          "listed_count": 0,
+          "tweet_count": 74
+        },
+        "username": "Minokakaysex",
+        "verified": false
+      }
+    ]
+  }
+}

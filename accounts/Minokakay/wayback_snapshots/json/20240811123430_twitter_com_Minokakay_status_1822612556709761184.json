@@ -1,0 +1,557 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1822447437556195328",
+        "7_1822447436721422336",
+        "7_1822447437552009216",
+        "7_1822447436713066496"
+      ],
+      "media_source_tweet_id": [
+        "1822447553885143343",
+        "1822447553885143343",
+        "1822447553885143343",
+        "1822447553885143343"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      }
+    ],
+    "conversation_id": "1822612556709761184",
+    "created_at": "2024-08-11T12:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T13:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822612556709761184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1678752278243864576",
+          "start": 3,
+          "username": "hopsydxv29705g"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wn6ovfu3wu",
+          "end": 90,
+          "expanded_url": "https://twitter.com/hopsydxv29705g/status/1822447553885143343/video/1",
+          "media_key": "7_1822447437556195328",
+          "start": 67,
+          "url": "https://t.co/Wn6oVFu3wU"
+        },
+        {
+          "display_url": "pic.x.com/wn6ovfu3wu",
+          "end": 90,
+          "expanded_url": "https://twitter.com/hopsydxv29705g/status/1822447553885143343/video/1",
+          "media_key": "7_1822447436721422336",
+          "start": 67,
+          "url": "https://t.co/Wn6oVFu3wU"
+        },
+        {
+          "display_url": "pic.x.com/wn6ovfu3wu",
+          "end": 90,
+          "expanded_url": "https://twitter.com/hopsydxv29705g/status/1822447553885143343/video/1",
+          "media_key": "7_1822447437552009216",
+          "start": 67,
+          "url": "https://t.co/Wn6oVFu3wU"
+        },
+        {
+          "display_url": "pic.x.com/wn6ovfu3wu",
+          "end": 90,
+          "expanded_url": "https://twitter.com/hopsydxv29705g/status/1822447553885143343/video/1",
+          "media_key": "7_1822447436713066496",
+          "start": 67,
+          "url": "https://t.co/Wn6oVFu3wU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822612556709761184",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 220
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822447553885143343",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hopsydxv29705g: 贵州省贵阳市花果园偷人事件，30楼徒手爬下来，震惊好莱坞，成龙都不敢干\n\n什么贵阳超凡蜘蛛侠 https://t.co/Wn6oVFu3wU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5687,
+        "height": 1280,
+        "media_key": "7_1822447437556195328",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1822447437556195328/pu/img/Cootj79IwLof3mpq.jpg",
+        "public_metrics": {
+          "view_count": 186308
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822447437556195328/pu/vid/avc1/320x568/EL7Lv150fEbSKjvC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822447437556195328/pu/vid/avc1/480x852/GYBrl9Wn6l8zrc_K.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822447437556195328/pu/vid/avc1/720x1280/JIyzw3HmuzsJDhK3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1822447437556195328/pu/pl/TnCB6aIZCVDKfinM.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 30229,
+        "height": 960,
+        "media_key": "7_1822447436721422336",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1822447436721422336/pu/img/NMZ9cbPPoUlWfgVB.jpg",
+        "public_metrics": {
+          "view_count": 60666
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822447436721422336/pu/vid/avc1/320x684/1Now-JzaPF9pKNdL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822447436721422336/pu/vid/avc1/448x960/JqRub30sWD2ebBuZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1822447436721422336/pu/pl/FPrIepz5M6MEG1oa.m3u8?tag=12"
+          }
+        ],
+        "width": 448
+      },
+      {
+        "duration_ms": 17300,
+        "height": 1280,
+        "media_key": "7_1822447437552009216",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1822447437552009216/pu/img/Jptf0NqJo1OuKMiv.jpg",
+        "public_metrics": {
+          "view_count": 34946
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822447437552009216/pu/vid/avc1/320x568/YHTesvzt7lW57CtN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822447437552009216/pu/vid/avc1/480x852/E0IDyORLniRpc4bG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822447437552009216/pu/vid/avc1/720x1280/zDy9w4QkVvdNS3Z0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1822447437552009216/pu/pl/mJEBuuCy5_aDAgoG.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 30035,
+        "height": 1280,
+        "media_key": "7_1822447436713066496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1822447436713066496/pu/img/ZaDz7z0ypR2ptqcQ.jpg",
+        "public_metrics": {
+          "view_count": 38573
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822447436713066496/pu/vid/avc1/320x568/a0BEztccoPgBeyCi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822447436713066496/pu/vid/avc1/480x852/XiNJQU0LRVy8zouS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822447436713066496/pu/vid/avc1/720x1280/5bLeSKxLBwecoRbV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1822447436713066496/pu/pl/jJyZeUv4gnjjDSvp.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1822447437556195328",
+            "7_1822447436721422336",
+            "7_1822447437552009216",
+            "7_1822447436713066496"
+          ],
+          "media_source_tweet_id": [
+            "1822447553885143343",
+            "1822447553885143343",
+            "1822447553885143343",
+            "1822447553885143343"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          }
+        ],
+        "conversation_id": "1822612556709761184",
+        "created_at": "2024-08-11T12:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T13:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822612556709761184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1678752278243864576",
+              "start": 3,
+              "username": "hopsydxv29705g"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wn6ovfu3wu",
+              "end": 90,
+              "expanded_url": "https://twitter.com/hopsydxv29705g/status/1822447553885143343/video/1",
+              "media_key": "7_1822447437556195328",
+              "start": 67,
+              "url": "https://t.co/Wn6oVFu3wU"
+            },
+            {
+              "display_url": "pic.x.com/wn6ovfu3wu",
+              "end": 90,
+              "expanded_url": "https://twitter.com/hopsydxv29705g/status/1822447553885143343/video/1",
+              "media_key": "7_1822447436721422336",
+              "start": 67,
+              "url": "https://t.co/Wn6oVFu3wU"
+            },
+            {
+              "display_url": "pic.x.com/wn6ovfu3wu",
+              "end": 90,
+              "expanded_url": "https://twitter.com/hopsydxv29705g/status/1822447553885143343/video/1",
+              "media_key": "7_1822447437552009216",
+              "start": 67,
+              "url": "https://t.co/Wn6oVFu3wU"
+            },
+            {
+              "display_url": "pic.x.com/wn6ovfu3wu",
+              "end": 90,
+              "expanded_url": "https://twitter.com/hopsydxv29705g/status/1822447553885143343/video/1",
+              "media_key": "7_1822447436713066496",
+              "start": 67,
+              "url": "https://t.co/Wn6oVFu3wU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822612556709761184",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 220
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822447553885143343",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hopsydxv29705g: 贵州省贵阳市花果园偷人事件，30楼徒手爬下来，震惊好莱坞，成龙都不敢干\n\n什么贵阳超凡蜘蛛侠 https://t.co/Wn6oVFu3wU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1822447437556195328",
+            "7_1822447436721422336",
+            "7_1822447437552009216",
+            "7_1822447436713066496"
+          ]
+        },
+        "author_id": "1678752278243864576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          }
+        ],
+        "conversation_id": "1822447553885143343",
+        "created_at": "2024-08-11T01:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T02:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822447553885143343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wn6ovfu3wu",
+              "end": 70,
+              "expanded_url": "https://twitter.com/hopsydxv29705g/status/1822447553885143343/video/1",
+              "media_key": "7_1822447437556195328",
+              "start": 47,
+              "url": "https://t.co/Wn6oVFu3wU"
+            },
+            {
+              "display_url": "pic.x.com/wn6ovfu3wu",
+              "end": 70,
+              "expanded_url": "https://twitter.com/hopsydxv29705g/status/1822447553885143343/video/1",
+              "media_key": "7_1822447436721422336",
+              "start": 47,
+              "url": "https://t.co/Wn6oVFu3wU"
+            },
+            {
+              "display_url": "pic.x.com/wn6ovfu3wu",
+              "end": 70,
+              "expanded_url": "https://twitter.com/hopsydxv29705g/status/1822447553885143343/video/1",
+              "media_key": "7_1822447437552009216",
+              "start": 47,
+              "url": "https://t.co/Wn6oVFu3wU"
+            },
+            {
+              "display_url": "pic.x.com/wn6ovfu3wu",
+              "end": 70,
+              "expanded_url": "https://twitter.com/hopsydxv29705g/status/1822447553885143343/video/1",
+              "media_key": "7_1822447436713066496",
+              "start": 47,
+              "url": "https://t.co/Wn6oVFu3wU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822447553885143343",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 332,
+          "impression_count": 446919,
+          "like_count": 1527,
+          "quote_count": 47,
+          "reply_count": 274,
+          "retweet_count": 220
+        },
+        "reply_settings": "everyone",
+        "text": "贵州省贵阳市花果园偷人事件，30楼徒手爬下来，震惊好莱坞，成龙都不敢干\n\n什么贵阳超凡蜘蛛侠 https://t.co/Wn6oVFu3wU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome 友跨🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Minokakaysex"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 875,
+          "like_count": 6580,
+          "listed_count": 1,
+          "tweet_count": 2383
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T13:05:37.000Z",
+        "description": "非必要不鉴证人，有时候会分享一些阅读的医学文献（没回fo可能是没看到，请私信）",
+        "id": "1678752278243864576",
+        "location": "哈猫快乐窝",
+        "name": "最🍐指示",
+        "pinned_tweet_id": "1727275999728136393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791622911423627265/QrpRY68d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7925,
+          "following_count": 668,
+          "like_count": 11116,
+          "listed_count": 16,
+          "tweet_count": 6193
+        },
+        "username": "hopsydxv29705g",
+        "verified": false
+      }
+    ]
+  }
+}

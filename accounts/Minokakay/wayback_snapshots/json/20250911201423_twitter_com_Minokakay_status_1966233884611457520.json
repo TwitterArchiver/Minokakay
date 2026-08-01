@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1966233884611457520",
+    "created_at": "2025-09-11T20:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T21:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966233884611457520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/orangefish_ste…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/orangefish_stew/status/1965403991975886943",
+          "start": 5,
+          "url": "https://t.co/aTVXZe0taC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966233884611457520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965403991975886943",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想吃家教 https://t.co/aTVXZe0taC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1966233884611457520",
+        "created_at": "2025-09-11T20:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T21:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966233884611457520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/orangefish_ste…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/orangefish_stew/status/1965403991975886943",
+              "start": 5,
+              "url": "https://t.co/aTVXZe0taC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966233884611457520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965403991975886943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想吃家教 https://t.co/aTVXZe0taC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503516796493590530",
+        "conversation_id": "1965403991975886943",
+        "created_at": "2025-09-09T13:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T14:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965403991975886943"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965403991975886943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 195326,
+          "like_count": 844,
+          "quote_count": 2,
+          "reply_count": 58,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "太狼狈了刚射出来家教就敲门了我只能快速吃掉然后硬着开门😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复/美白/减肥/促智找 @ChosekiNoraneko，我朋友开的我在做客服。买电子烟找@weita2024。买抗癌药物找@LuciusPharmacy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 86,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "weita2024"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "LuciusPharmacy"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1965082149155184692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9542,
+          "following_count": 939,
+          "like_count": 44531,
+          "listed_count": 32,
+          "media_count": 1417,
+          "tweet_count": 20909
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-14T23:42:07.000Z",
+        "description": "17在校高中牲｜INFP｜代词随意｜🏳️‍🌈🏳️‍⚧️喜欢男的｜汤力水@aliii67285114 最好的🧊@blueicesama 超可爱的🍑@meforeverme1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "aliii67285114"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "blueicesama"
+              },
+              {
+                "end": 85,
+                "start": 72,
+                "username": "meforeverme1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangefish_ste…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/orangefish_stew2",
+                "start": 0,
+                "url": "https://t.co/CnV3d7HHBn"
+              }
+            ]
+          }
+        },
+        "id": "1503516796493590530",
+        "location": "青岛",
+        "name": "橙汁烩鱼",
+        "pinned_tweet_id": "1951227998113579191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867818610703339520/TcGpAQTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6840,
+          "following_count": 1644,
+          "like_count": 32095,
+          "listed_count": 3,
+          "media_count": 296,
+          "tweet_count": 5924
+        },
+        "url": "https://t.co/CnV3d7HHBn",
+        "username": "orangefish_stew",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1984486277350375700",
+    "created_at": "2025-11-01T05:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T06:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984486277350375700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1524947194997903360",
+          "start": 3,
+          "username": "E2Blackhole"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984486277350375700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984320434746319173",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @E2Blackhole: 绷不住了果然有人跳脚说阿里健康天猫方舟能买，都不肯往下拉一点看看。\n这时请问⬇️\n医保报销名录里有这个药，但是三级医院没有正常吗？\n电商渠道价格比正常售价还高，这也正常？\n选择性遗忘2022年禁售令？\n要是正常用药不受阻碍，价格正常，各地医院里…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1323,
+        "media_key": "3_1984320425103671299",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4m46crbQAMKDJL.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1984486277350375700",
+        "created_at": "2025-11-01T05:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T06:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984486277350375700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1524947194997903360",
+              "start": 3,
+              "username": "E2Blackhole"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984486277350375700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984320434746319173",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @E2Blackhole: 绷不住了果然有人跳脚说阿里健康天猫方舟能买，都不肯往下拉一点看看。\n这时请问⬇️\n医保报销名录里有这个药，但是三级医院没有正常吗？\n电商渠道价格比正常售价还高，这也正常？\n选择性遗忘2022年禁售令？\n要是正常用药不受阻碍，价格正常，各地医院里…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984320425103671299"
+          ]
+        },
+        "author_id": "1524947194997903360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1984320434746319173",
+        "created_at": "2025-10-31T18:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T19:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984320434746319173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UqEdrCP7Mt",
+              "end": 167,
+              "expanded_url": "https://x.com/E2Blackhole/status/1984320434746319173/photo/1",
+              "media_key": "3_1984320425103671299",
+              "start": 144,
+              "url": "https://t.co/UqEdrCP7Mt"
+            },
+            {
+              "display_url": "x.com/e2blackhole/st…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/e2blackhole/status/1984078086011572300",
+              "start": 168,
+              "url": "https://t.co/It6qMsU1zM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984320434746319173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4138,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984078086011572300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绷不住了果然有人跳脚说阿里健康天猫方舟能买，都不肯往下拉一点看看。\n这时请问⬇️\n医保报销名录里有这个药，但是三级医院没有正常吗？\n电商渠道价格比正常售价还高，这也正常？\n选择性遗忘2022年禁售令？\n要是正常用药不受阻碍，价格正常，各地医院里有这个东西，还有人去费劲找进口渠道找药商？ https://t.co/UqEdrCP7Mt https://t.co/It6qMsU1zM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11937,
+          "following_count": 998,
+          "like_count": 45012,
+          "listed_count": 41,
+          "media_count": 1493,
+          "tweet_count": 22350
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-13T02:58:46.000Z",
+        "description": "Classical Lolita爱好者//过气JK//百合//本体是黑洞//名为黑洞的观测者//Cpa致Pituitary tumor//这里是我的墓碑，埋葬了我的过去//⭐️请像星星一样，再闪耀一次吧！⭐️",
+        "id": "1524947194997903360",
+        "location": "人马座 A*//Sagittarius A*//Sgr A*",
+        "name": "E2-BlackHole Prototype.A IV",
+        "pinned_tweet_id": "1711887310550364186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589991598921682945/mGlOFQDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31578,
+          "following_count": 668,
+          "like_count": 7998,
+          "listed_count": 32,
+          "media_count": 1010,
+          "tweet_count": 6771
+        },
+        "username": "E2Blackhole",
+        "verified": false
+      }
+    ]
+  }
+}

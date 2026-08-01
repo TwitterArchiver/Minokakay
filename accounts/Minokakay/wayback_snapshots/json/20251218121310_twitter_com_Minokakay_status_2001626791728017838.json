@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001626085969231872"
+      ],
+      "media_source_tweet_id": [
+        "2001626092084621636"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "2001626791728017838",
+    "created_at": "2025-12-18T12:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T13:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001626791728017838"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 18,
+          "tag": "AIart"
+        },
+        {
+          "end": 33,
+          "start": 25,
+          "tag": "AIイラスト︎"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "898812005192146944",
+          "start": 3,
+          "username": "Kuro_wolfboy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pJiA7t7hwW",
+          "end": 57,
+          "expanded_url": "https://x.com/Kuro_wolfboy/status/2001626092084621636/photo/1",
+          "media_key": "3_2001626085969231872",
+          "start": 34,
+          "url": "https://t.co/pJiA7t7hwW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001626791728017838",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001626092084621636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kuro_wolfboy: #AIart #AIイラスト︎ https://t.co/pJiA7t7hwW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2001626085969231872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8c0UfNaAAA-hxS.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001626085969231872"
+          ],
+          "media_source_tweet_id": [
+            "2001626092084621636"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2001626791728017838",
+        "created_at": "2025-12-18T12:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T13:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001626791728017838"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "AIart"
+            },
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "AIイラスト︎"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "898812005192146944",
+              "start": 3,
+              "username": "Kuro_wolfboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJiA7t7hwW",
+              "end": 57,
+              "expanded_url": "https://x.com/Kuro_wolfboy/status/2001626092084621636/photo/1",
+              "media_key": "3_2001626085969231872",
+              "start": 34,
+              "url": "https://t.co/pJiA7t7hwW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001626791728017838",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001626092084621636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kuro_wolfboy: #AIart #AIイラスト︎ https://t.co/pJiA7t7hwW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001626085969231872"
+          ]
+        },
+        "author_id": "898812005192146944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2001626092084621636",
+        "created_at": "2025-12-18T12:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T13:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001626092084621636"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "AIart"
+            },
+            {
+              "end": 15,
+              "start": 7,
+              "tag": "AIイラスト︎"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJiA7t7hwW",
+              "end": 39,
+              "expanded_url": "https://x.com/Kuro_wolfboy/status/2001626092084621636/photo/1",
+              "media_key": "3_2001626085969231872",
+              "start": 16,
+              "url": "https://t.co/pJiA7t7hwW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001626092084621636",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#AIart #AIイラスト︎ https://t.co/pJiA7t7hwW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13043,
+          "following_count": 1008,
+          "like_count": 44977,
+          "listed_count": 50,
+          "media_count": 1758,
+          "tweet_count": 24544
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-19T07:40:55.000Z",
+        "description": "イラスト生成AIを使用して、自己満で制作しています。 イラストは勝手に使わないでね💦",
+        "id": "898812005192146944",
+        "name": "ウルフ男子・女子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995375809918586880/ATgUYDot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 4,
+          "like_count": 554,
+          "listed_count": 7,
+          "media_count": 188,
+          "tweet_count": 300
+        },
+        "username": "Kuro_wolfboy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892212550747725824"
+      ],
+      "media_source_tweet_id": [
+        "1892212569688899702"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1892328620783214906",
+    "created_at": "2025-02-19T21:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T22:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892328620783214906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1720819011057840128",
+          "start": 3,
+          "username": "Pissenlit_AH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oej1Qut2nT",
+          "end": 67,
+          "expanded_url": "https://x.com/Pissenlit_AH/status/1892212569688899702/photo/1",
+          "media_key": "3_1892212550747725824",
+          "start": 44,
+          "url": "https://t.co/Oej1Qut2nT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892328620783214906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892212569688899702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pissenlit_AH: 大家先别去冲哪吒了，先冲冲这个，我们争取超过瑞士😋 https://t.co/Oej1Qut2nT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1892328620783214906].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1892328620783214906",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1892328620783214906"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1681,
+        "media_key": "3_1892212550747725824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkJ9Sh7aoAAv3I2.jpg",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892212550747725824"
+          ]
+        },
+        "author_id": "1720819011057840128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1892212569688899702",
+        "created_at": "2025-02-19T14:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T15:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892212569688899702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oej1Qut2nT",
+              "end": 49,
+              "expanded_url": "https://x.com/Pissenlit_AH/status/1892212569688899702/photo/1",
+              "media_key": "3_1892212550747725824",
+              "start": 26,
+              "url": "https://t.co/Oej1Qut2nT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892212569688899702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家先别去冲哪吒了，先冲冲这个，我们争取超过瑞士😋 https://t.co/Oej1Qut2nT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈 备用@Minokakay2nd 裡推@Minokakaysex2nd TG同名 需要内服美白/HRT/减肥/促智找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 78,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 110,
+                "start": 94,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay （日雌泰补色诺",
+        "pinned_tweet_id": "1891554377909010835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4847,
+          "following_count": 805,
+          "like_count": 35482,
+          "listed_count": 25,
+          "media_count": 998,
+          "tweet_count": 16222
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T15:03:25.000Z",
+        "description": "MTF/哲逼\n食我者@sayonara149也",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "sayonara149"
+              }
+            ]
+          }
+        },
+        "id": "1720819011057840128",
+        "location": "辩证法的每个环节",
+        "name": "AH",
+        "pinned_tweet_id": "1856146280483102878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796466737287954433/1kBjJj9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 223,
+          "like_count": 8176,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 2301
+        },
+        "username": "Pissenlit_AH",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596144668673",
+          "name": "Airline - Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "All Nippon Airways (ANA)",
+          "id": "1038081294150774785",
+          "name": "All Nippon Airways"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Air travel",
+          "id": "849076200261603328",
+          "name": "Air travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Air travel",
+          "id": "849076200261603328",
+          "name": "Air travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "All Nippon Airways (ANA)",
+          "id": "1038081294150774785",
+          "name": "All Nippon Airways"
+        }
+      }
+    ],
+    "conversation_id": "2040762818669293709",
+    "created_at": "2026-04-05T12:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T13:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040762818669293709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minokakay/stat…",
+          "end": 157,
+          "expanded_url": "https://twitter.com/minokakay/status/2040760921522602137",
+          "start": 134,
+          "url": "https://t.co/a38YNWrcCT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040762818669293709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "职业体验或者对某个职业的研学/初步了解，有利于青少年尽早确认自己的兴趣爱好与目标。\n\n日本有非常多这样的场所，无论是关于铁道，航空，还是消防等等。交通文化也早已渗透进了这个极度依赖公共交通且公共交通极度发达的国家的方方面面，以前有部铁胆火车侠，不知道大家有没有看过？\n\n国内更常见的是乐园式职业体验场所，比如以前成都和上海都有的星期八小镇，重庆的宝贝梦想城，而像展望台之类的设施，一般不太向不乘机的公众开放，或者干脆没有（这点表扬广州T3 展望台在安检前并对公众开放 只是需要预约）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040760921522602137",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "职业体验或者对某个职业的研学/初步了解，有利于青少年尽早确认自己的兴趣爱好与目标。\n\n日本有非常多这样的场所，无论是关于铁道，航空，还是消防等等。交通文化也早已渗透进了这个极度依赖公共交通且公共交通极度发达的国家的方方面面，以前有部铁胆火车侠，不知道大家有没有看过？ https://t.co/a38YNWrcCT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2040760914140672000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFI9PS7bMAArGKI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2040760914186760192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFI9PTGacAAf-u1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2040760914136444928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFI9PS6asAAU4VC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144668673",
+              "name": "Airline - Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "All Nippon Airways (ANA)",
+              "id": "1038081294150774785",
+              "name": "All Nippon Airways"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Air travel",
+              "id": "849076200261603328",
+              "name": "Air travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Air travel",
+              "id": "849076200261603328",
+              "name": "Air travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "All Nippon Airways (ANA)",
+              "id": "1038081294150774785",
+              "name": "All Nippon Airways"
+            }
+          }
+        ],
+        "conversation_id": "2040762818669293709",
+        "created_at": "2026-04-05T12:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040762818669293709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/minokakay/status/2040760921522602137",
+              "start": 134,
+              "url": "https://t.co/a38YNWrcCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040762818669293709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "职业体验或者对某个职业的研学/初步了解，有利于青少年尽早确认自己的兴趣爱好与目标。\n\n日本有非常多这样的场所，无论是关于铁道，航空，还是消防等等。交通文化也早已渗透进了这个极度依赖公共交通且公共交通极度发达的国家的方方面面，以前有部铁胆火车侠，不知道大家有没有看过？\n\n国内更常见的是乐园式职业体验场所，比如以前成都和上海都有的星期八小镇，重庆的宝贝梦想城，而像展望台之类的设施，一般不太向不乘机的公众开放，或者干脆没有（这点表扬广州T3 展望台在安检前并对公众开放 只是需要预约）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040760921522602137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "职业体验或者对某个职业的研学/初步了解，有利于青少年尽早确认自己的兴趣爱好与目标。\n\n日本有非常多这样的场所，无论是关于铁道，航空，还是消防等等。交通文化也早已渗透进了这个极度依赖公共交通且公共交通极度发达的国家的方方面面，以前有部铁胆火车侠，不知道大家有没有看过？ https://t.co/a38YNWrcCT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040760914140672000",
+            "3_2040760914186760192",
+            "3_2040760914136444928"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144668673",
+              "name": "Airline - Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "All Nippon Airways (ANA)",
+              "id": "1038081294150774785",
+              "name": "All Nippon Airways"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Air travel",
+              "id": "849076200261603328",
+              "name": "Air travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Air travel",
+              "id": "849076200261603328",
+              "name": "Air travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "All Nippon Airways (ANA)",
+              "id": "1038081294150774785",
+              "name": "All Nippon Airways"
+            }
+          }
+        ],
+        "conversation_id": "2040760921522602137",
+        "created_at": "2026-04-05T11:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040760921522602137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qyuOXuKQC0",
+              "end": 180,
+              "expanded_url": "https://x.com/Minokakay/status/2040760921522602137/photo/1",
+              "media_key": "3_2040760914140672000",
+              "start": 157,
+              "url": "https://t.co/qyuOXuKQC0"
+            },
+            {
+              "display_url": "pic.x.com/qyuOXuKQC0",
+              "end": 180,
+              "expanded_url": "https://x.com/Minokakay/status/2040760921522602137/photo/1",
+              "media_key": "3_2040760914186760192",
+              "start": 157,
+              "url": "https://t.co/qyuOXuKQC0"
+            },
+            {
+              "display_url": "pic.x.com/qyuOXuKQC0",
+              "end": 180,
+              "expanded_url": "https://x.com/Minokakay/status/2040760921522602137/photo/1",
+              "media_key": "3_2040760914136444928",
+              "start": 157,
+              "url": "https://t.co/qyuOXuKQC0"
+            },
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 204,
+              "expanded_url": "https://twitter.com/minokakay/status/2040717373070864866",
+              "start": 181,
+              "url": "https://t.co/iDzRhkEPGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040760921522602137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040717373070864866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "P1 787-10与远处大阪城区的高楼群\nP3 ANA Star Alliance涂装\n\n不得不说日本的航空文化真的很好，每个机场基本都有个展望台，且不买票也能进，展望台上有很多带着小孩来看飞机的家庭，也有铺着野餐垫一边野餐一边看飞机的，这样的文化氛围会在他们的心中埋下一颗种子，兴许某个孩子以后就会成为飞行员。 https://t.co/qyuOXuKQC0 https://t.co/iDzRhkEPGW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "命に嫌われている。 mtx 正找寻着生命意义的人，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp，私信不回，打不开换梯子换浏览器",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 67,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 44,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14275,
+          "following_count": 1055,
+          "like_count": 44023,
+          "listed_count": 53,
+          "media_count": 1796,
+          "tweet_count": 25789
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

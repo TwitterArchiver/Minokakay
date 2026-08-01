@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2021474062514651415",
+    "created_at": "2026-02-11T19:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T20:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021664619245482157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1277178782520995840",
+          "start": 0,
+          "username": "okengnauhzM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021664619245482157",
+    "in_reply_to_user_id": "1277178782520995840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021663783450816823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@okengnauhzM 因为在中国貌似都是合资公司在运营，合资公司有地域差别，比如某个合资公司只负责江浙沪，某个只负责四川重庆，某个只负责中南。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2021474062514651415",
+        "created_at": "2026-02-11T19:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T20:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021664619245482157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1277178782520995840",
+              "start": 0,
+              "username": "okengnauhzM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021664619245482157",
+        "in_reply_to_user_id": "1277178782520995840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021663783450816823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@okengnauhzM 因为在中国貌似都是合资公司在运营，合资公司有地域差别，比如某个合资公司只负责江浙沪，某个只负责四川重庆，某个只负责中南。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277178782520995840",
+        "conversation_id": "2021474062514651415",
+        "created_at": "2026-02-11T19:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T20:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021663783450816823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021663783450816823",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021474062514651415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 711沿着武广铁路，罗森沿着长江流域🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 51,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14053,
+          "following_count": 1057,
+          "like_count": 44123,
+          "listed_count": 51,
+          "media_count": 1724,
+          "tweet_count": 25163
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-28T09:55:56.000Z",
+        "description": "黑夜的點點星光，無盡的夢// 無性 //",
+        "id": "1277178782520995840",
+        "name": "全自动家庭闯祸机",
+        "pinned_tweet_id": "1749878180570333188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894990810749521920/VKBvNsJZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 225,
+          "like_count": 23673,
+          "listed_count": 4,
+          "media_count": 470,
+          "tweet_count": 4604
+        },
+        "username": "okengnauhzM",
+        "verified": false
+      }
+    ]
+  }
+}

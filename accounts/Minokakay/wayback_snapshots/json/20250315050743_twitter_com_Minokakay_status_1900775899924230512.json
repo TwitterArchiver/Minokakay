@@ -1,0 +1,537 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "1900775899924230512",
+    "created_at": "2025-03-15T05:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T06:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900775899924230512"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "专注达"
+        },
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "哌甲酯"
+        },
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "利他林"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1272405078683430913",
+          "start": 3,
+          "username": "PaitangOfficial"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "m.psychonautwiki.org/w/index.php?ti…",
+          "end": 134,
+          "expanded_url": "https://m.psychonautwiki.org/w/index.php?title=Isopropylphenidate&_=",
+          "start": 111,
+          "unwound_url": "https://m.psychonautwiki.org/w/index.php?title=Isopropylphenidate&_=",
+          "url": "https://t.co/rkK2NpJcyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900775899924230512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900775727508976094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PaitangOfficial: #专注达 #哌甲酯 #利他林\n\n这是哌丙酯 效果比哌甲酯稍长并更少紧张焦虑感\n\n该化合物 在全球合法\n20粒*10mg 一瓶 27元/粒\n\n支持微信/支付宝支付（代付usdt）\n\nhttps://t.co/rkK2NpJcyo http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1900775700782829568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmDpbdra0AAACNJ.jpg",
+        "width": 795
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1900775899924230512",
+        "created_at": "2025-03-15T05:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T06:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900775899924230512"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "专注达"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "哌甲酯"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "利他林"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1272405078683430913",
+              "start": 3,
+              "username": "PaitangOfficial"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "m.psychonautwiki.org/w/index.php?ti…",
+              "end": 134,
+              "expanded_url": "https://m.psychonautwiki.org/w/index.php?title=Isopropylphenidate&_=",
+              "start": 111,
+              "unwound_url": "https://m.psychonautwiki.org/w/index.php?title=Isopropylphenidate&_=",
+              "url": "https://t.co/rkK2NpJcyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900775899924230512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900775727508976094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PaitangOfficial: #专注达 #哌甲酯 #利他林\n\n这是哌丙酯 效果比哌甲酯稍长并更少紧张焦虑感\n\n该化合物 在全球合法\n20粒*10mg 一瓶 27元/粒\n\n支持微信/支付宝支付（代付usdt）\n\nhttps://t.co/rkK2NpJcyo http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900775700782829568"
+          ]
+        },
+        "author_id": "1272405078683430913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1900775727508976094",
+        "created_at": "2025-03-15T05:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T06:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900775727508976094"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "专注达"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "哌甲酯"
+            },
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "利他林"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "m.psychonautwiki.org/w/index.php?ti…",
+              "end": 113,
+              "expanded_url": "https://m.psychonautwiki.org/w/index.php?title=Isopropylphenidate&_=",
+              "start": 90,
+              "unwound_url": "https://m.psychonautwiki.org/w/index.php?title=Isopropylphenidate&_=",
+              "url": "https://t.co/rkK2NpJcyo"
+            },
+            {
+              "display_url": "pic.x.com/MLEQpoLMeQ",
+              "end": 137,
+              "expanded_url": "https://x.com/PaitangOfficial/status/1900775727508976094/photo/1",
+              "media_key": "3_1900775700782829568",
+              "start": 114,
+              "url": "https://t.co/MLEQpoLMeQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900775727508976094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#专注达 #哌甲酯 #利他林\n\n这是哌丙酯 效果比哌甲酯稍长并更少紧张焦虑感\n\n该化合物 在全球合法\n20粒*10mg 一瓶 27元/粒\n\n支持微信/支付宝支付（代付usdt）\n\nhttps://t.co/rkK2NpJcyo https://t.co/MLEQpoLMeQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 101,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 78,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1899298005330899355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5735,
+          "following_count": 835,
+          "like_count": 38094,
+          "listed_count": 27,
+          "media_count": 597,
+          "tweet_count": 14877
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "ASD+ADHD+INTP｜东方生物黑客｜合法过检利他林替代品｜ADHD弥赛亚｜逆转抑郁症｜消灭失眠｜無限進步 Don’t Die｜互助论支持‼️欢迎互惠互利、资源交换｜X第二大💊商｜ADHD/ASD贴贴大欢迎～ ｜TG✈️ ：@paitangcuzhi3加速回復｜ENG OK👌 #让人类保持理智确实是一种奢求",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 156,
+                "start": 141,
+                "tag": "让人类保持理智确实是一种奢求"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 128,
+                "start": 114,
+                "username": "paitangcuzhi3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqN78M"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "生物工程从业者，从事逆转衰老、干细胞和基因治疗研发",
+        "name": "☯️🧬無極生物科技会社",
+        "pinned_tweet_id": "1900430020994118128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895373899451203584/iYVTiUNb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8826,
+          "following_count": 384,
+          "like_count": 6813,
+          "listed_count": 26,
+          "media_count": 1451,
+          "tweet_count": 11731
+        },
+        "url": "https://t.co/r6ojtqN78M",
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

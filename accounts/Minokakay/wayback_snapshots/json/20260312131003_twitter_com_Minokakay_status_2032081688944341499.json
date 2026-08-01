@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2032051685993111778",
+    "created_at": "2026-03-12T13:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T14:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032081688944341499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "909882313",
+          "start": 0,
+          "username": "Davidmouse1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032081688944341499",
+    "in_reply_to_user_id": "909882313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032074048453427418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Davidmouse1 你没遇到就是不存在吗？小米又不是只有一款电饭煲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2032051685993111778",
+        "created_at": "2026-03-12T13:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032081688944341499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "909882313",
+              "start": 0,
+              "username": "Davidmouse1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032081688944341499",
+        "in_reply_to_user_id": "909882313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032074048453427418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Davidmouse1 你没遇到就是不存在吗？小米又不是只有一款电饭煲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909882313",
+        "conversation_id": "2032051685993111778",
+        "created_at": "2026-03-12T12:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T13:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032074048453427418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032074048453427418",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032051685993111778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 我特地查了下，我19年国内淘宝买的小米电饭煲，售价389人民币。用到今天7年了还在用，哪来的掉涂层之说？小米有些产品质量不好，比如智能马桶盖（但是生态链的那款就很好），大部分还可以。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp，私信不回，打不开换梯子换浏览器",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 51,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14069,
+          "following_count": 1060,
+          "like_count": 44120,
+          "listed_count": 51,
+          "media_count": 1750,
+          "tweet_count": 25375
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2012-10-28T09:07:12.000Z",
+        "description": "",
+        "id": "909882313",
+        "location": "Australia",
+        "name": "Davidmouse",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2774528776/bfe3c1f1765ac0c1df226fa64e02f871_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 169,
+          "like_count": 9867,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 4789
+        },
+        "username": "Davidmouse1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1815207646460522990",
+    "created_at": "2024-07-22T07:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-22T08:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815288902430949799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1742381695045939200",
+          "start": 0,
+          "username": "mo6ji4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815288902430949799",
+    "in_reply_to_user_id": "1742381695045939200",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815207646460522990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mo6ji4 我也想舔主人的白襪子🥵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1815207646460522990].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1815207646460522990",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1815207646460522990"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1815207646460522990",
+        "created_at": "2024-07-22T07:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T08:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815288902430949799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1742381695045939200",
+              "start": 0,
+              "username": "mo6ji4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815288902430949799",
+        "in_reply_to_user_id": "1742381695045939200",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815207646460522990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo6ji4 我也想舔主人的白襪子🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome\n遇到傻逼会直接block，见谅，不和非人类交流",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 768,
+          "like_count": 2643,
+          "listed_count": 1,
+          "tweet_count": 1313
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T03:06:37.000Z",
+        "description": "头像源：《blacksouls》圣骑士贞德相爱CG\n防失联小号@m8o9j6i4 妈妈@cang_lan3667妈妈@azusaROCtw妈妈@8964Prostitute主人@Allknowbody 亲爱的@miku_suki393939",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "m8o9j6i4"
+              },
+              {
+                "end": 56,
+                "start": 43,
+                "username": "cang_lan3667"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "azusaROCtw"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "8964Prostitute"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "Allknowbody"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "miku_suki393939"
+              }
+            ]
+          }
+        },
+        "id": "1742381695045939200",
+        "location": "距你489米",
+        "name": "圣骑士贞德",
+        "pinned_tweet_id": "1814718985717576034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812996267813052417/d3NB8SOr_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 794,
+          "like_count": 55455,
+          "listed_count": 2,
+          "tweet_count": 7758
+        },
+        "username": "mo6ji4",
+        "verified": false
+      }
+    ]
+  }
+}

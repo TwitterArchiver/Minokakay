@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+          "id": "1011352563667558400",
+          "name": "Economic Issues in Japan"
+        }
+      }
+    ],
+    "conversation_id": "1983541207512093015",
+    "created_at": "2025-10-29T14:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T15:26:24.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983540927881936953",
+      "1983541207512093015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/minokakay/stat…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/minokakay/status/1983540009623072927",
+          "start": 146,
+          "url": "https://t.co/bweae0dlcd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983541207512093015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983540009623072927",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们寄日本台湾是按单算，日本106双清包税，台湾140双清包税无需易利委不会被卡，100需要自己易利委认证且被卡几率仅1%。\n\n部分欧美地区只能发ems（有被卡几率，但很小）或走更慢的海运敏货线路（被查概率极低），一般一百多一点一公斤，按克计价，发五盒泰补一盒土色过去欧陆加派送费才120。 https://t.co/bweae0dlcd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          }
+        ],
+        "conversation_id": "1983540927881936953",
+        "created_at": "2025-10-29T14:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:26:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983540927881936953",
+          "1983541207512093015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/minokakay/status/1983540009623072927",
+              "start": 143,
+              "url": "https://t.co/bweae0dlcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983540927881936953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983540009623072927",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们寄日本台湾是按单算，日本106双清包税，台湾140双清包税无需易利委，100需要自己易利委认证，且被卡几率仅1%。\n\n部分欧美地区只能发ems（有被卡几率，但很小）或走更慢的海运敏货线路（被查概率极低），一般一百多一点一公斤，按克计价，发五盒泰补一盒土色过去欧陆加派送费才120。 https://t.co/bweae0dlcd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          }
+        ],
+        "conversation_id": "1983541207512093015",
+        "created_at": "2025-10-29T14:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:26:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983540927881936953",
+          "1983541207512093015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/minokakay/status/1983540009623072927",
+              "start": 146,
+              "url": "https://t.co/bweae0dlcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983541207512093015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983540009623072927",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们寄日本台湾是按单算，日本106双清包税，台湾140双清包税无需易利委不会被卡，100需要自己易利委认证且被卡几率仅1%。\n\n部分欧美地区只能发ems（有被卡几率，但很小）或走更慢的海运敏货线路（被查概率极低），一般一百多一点一公斤，按克计价，发五盒泰补一盒土色过去欧陆加派送费才120。 https://t.co/bweae0dlcd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          }
+        ],
+        "conversation_id": "1983540009623072927",
+        "created_at": "2025-10-29T14:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:21:31.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983539700590862560",
+          "1983540009623072927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/minokakay/status/1966586801117671544",
+              "start": 147,
+              "url": "https://t.co/VfPv6gsFEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983540009623072927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966586801117671544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有日本和台湾客户说我们这个物流价格比其他药商贵，再次声明，我们的是双清包税的，且我们合作的物流公司在日本有自己的报关行，我们合作的台湾物流公司也有台湾药物进口牌照，不会被卡，你找别人直接ems很容易是超过两盒海关扣货自己报关。只能ems的地区我们价格也比他们的ems便宜，欧洲基本150以内。 https://t.co/VfPv6gsFEF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11873,
+          "following_count": 993,
+          "like_count": 44971,
+          "listed_count": 41,
+          "media_count": 1485,
+          "tweet_count": 22223
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

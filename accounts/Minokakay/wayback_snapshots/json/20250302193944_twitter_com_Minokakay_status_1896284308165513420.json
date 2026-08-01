@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892979909296828416"
+      ],
+      "media_source_tweet_id": [
+        "1892979912073715809"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1896284308165513420",
+    "created_at": "2025-03-02T19:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T20:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896284308165513420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "966481508042080258",
+          "start": 3,
+          "username": "AusonLee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WzICQ3QWRx",
+          "end": 49,
+          "expanded_url": "https://x.com/AusonLee/status/1892979912073715809/photo/1",
+          "media_key": "3_1892979909296828416",
+          "start": 26,
+          "url": "https://t.co/WzICQ3QWRx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896284308165513420",
+    "lang": "et",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 390
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892979912073715809",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AusonLee: suzime moli https://t.co/WzICQ3QWRx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1896284308165513420].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1896284308165513420",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1896284308165513420"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 690,
+        "media_key": "3_1892979909296828416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkU3MrSWsAARx43.jpg",
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892979909296828416"
+          ]
+        },
+        "author_id": "966481508042080258",
+        "conversation_id": "1892979912073715809",
+        "created_at": "2025-02-21T16:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T17:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892979912073715809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WzICQ3QWRx",
+              "end": 35,
+              "expanded_url": "https://x.com/AusonLee/status/1892979912073715809/photo/1",
+              "media_key": "3_1892979909296828416",
+              "start": 12,
+              "url": "https://t.co/WzICQ3QWRx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892979912073715809",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1466,
+          "impression_count": 101879,
+          "like_count": 5659,
+          "quote_count": 9,
+          "reply_count": 33,
+          "retweet_count": 390
+        },
+        "reply_settings": "everyone",
+        "text": "suzime moli https://t.co/WzICQ3QWRx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈 https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 99,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 76,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay （日雌泰补色诺",
+        "pinned_tweet_id": "1891554377909010835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5409,
+          "following_count": 819,
+          "like_count": 36992,
+          "listed_count": 27,
+          "media_count": 1030,
+          "tweet_count": 16508
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-22T01:15:22.000Z",
+        "description": "May i be aware",
+        "id": "966481508042080258",
+        "name": "途淄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874483693034819584/cCr-BvBL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 128,
+          "like_count": 247,
+          "listed_count": 8,
+          "media_count": 17,
+          "tweet_count": 43
+        },
+        "username": "AusonLee",
+        "verified": false
+      }
+    ]
+  }
+}

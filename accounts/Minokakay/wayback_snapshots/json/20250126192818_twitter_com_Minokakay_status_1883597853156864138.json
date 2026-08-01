@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1883596420604891548",
+    "created_at": "2025-01-26T19:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T20:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883597853156864138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1675529366334480386",
+          "start": 0,
+          "username": "bigfufu1145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883597853156864138",
+    "in_reply_to_user_id": "1675529366334480386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883597680078897311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigfufu1145 有些地方顺丰都停运了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1883597680078897311].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1883597680078897311",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1883597680078897311"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1883596420604891548",
+        "created_at": "2025-01-26T19:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T20:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883597853156864138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675529366334480386",
+              "start": 0,
+              "username": "bigfufu1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883597853156864138",
+        "in_reply_to_user_id": "1675529366334480386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883597680078897311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigfufu1145 有些地方顺丰都停运了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日380色320泰210",
+        "pinned_tweet_id": "1881268152111440138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3178,
+          "following_count": 782,
+          "like_count": 33481,
+          "listed_count": 14,
+          "media_count": 901,
+          "tweet_count": 15186
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T15:38:39.000Z",
+        "description": "原名fufuhu",
+        "id": "1675529366334480386",
+        "name": "猫猫鼠不是老鼠！",
+        "pinned_tweet_id": "1882136228881190940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722996114973233152/Q9PR-gp2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 697,
+          "like_count": 29969,
+          "listed_count": 3,
+          "media_count": 759,
+          "tweet_count": 4691
+        },
+        "username": "bigfufu1145",
+        "verified": false
+      }
+    ]
+  }
+}

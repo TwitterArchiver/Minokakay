@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1415412351449268224",
+          "name": "Fumio Kishida"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1415412351449268224",
+          "name": "Fumio Kishida"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1415412351449268224",
+          "name": "Fumio Kishida"
+        }
+      }
+    ],
+    "conversation_id": "1837429535132078282",
+    "created_at": "2024-09-21T09:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T10:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837429535132078282"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "中国広東",
+          "probability": 0.3998,
+          "start": 19,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1247032696586436609",
+          "start": 3,
+          "username": "kishida230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837429535132078282",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11135
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836654574083674410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kishida230: 昨日、中国広東省深圳市で男に襲われた深圳日本人学校の児童が、１９日未明に逝去されたとの報告を受けており、深い悲しみを禁じ得ません。心からのお悔やみを申し上げます。\n極めて卑劣な犯行であり、重大かつ深刻な事案と受け止めています。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1415412351449268224",
+              "name": "Fumio Kishida"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1415412351449268224",
+              "name": "Fumio Kishida"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1415412351449268224",
+              "name": "Fumio Kishida"
+            }
+          }
+        ],
+        "conversation_id": "1837429535132078282",
+        "created_at": "2024-09-21T09:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T10:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837429535132078282"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "中国広東",
+              "probability": 0.3998,
+              "start": 19,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1247032696586436609",
+              "start": 3,
+              "username": "kishida230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837429535132078282",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11135
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836654574083674410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kishida230: 昨日、中国広東省深圳市で男に襲われた深圳日本人学校の児童が、１９日未明に逝去されたとの報告を受けており、深い悲しみを禁じ得ません。心からのお悔やみを申し上げます。\n極めて卑劣な犯行であり、重大かつ深刻な事案と受け止めています。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247032696586436609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1415412351449268224",
+              "name": "Fumio Kishida"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1415412351449268224",
+              "name": "Fumio Kishida"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1415412351449268224",
+              "name": "Fumio Kishida"
+            }
+          }
+        ],
+        "conversation_id": "1836654574083674410",
+        "created_at": "2024-09-19T06:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T07:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836654574083674410"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "中国広東",
+              "probability": 0.4047,
+              "start": 3,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836654574083674410",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3231,
+          "impression_count": 18379390,
+          "like_count": 92243,
+          "quote_count": 3059,
+          "reply_count": 9895,
+          "retweet_count": 11135
+        },
+        "reply_settings": "everyone",
+        "text": "昨日、中国広東省深圳市で男に襲われた深圳日本人学校の児童が、１９日未明に逝去されたとの報告を受けており、深い悲しみを禁じ得ません。心からのお悔やみを申し上げます。\n極めて卑劣な犯行であり、重大かつ深刻な事案と受け止めています。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高三生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 836,
+          "like_count": 15723,
+          "listed_count": 3,
+          "tweet_count": 6677
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T05:26:12.000Z",
+        "description": "第101代内閣総理大臣。第27代自民党総裁。\nいま日本は大きな岐路に立っています。世界のリーダーと共に平和と世界秩序、価値観を守るために結束し、新しい資本主義で日本を成長軌道へと乗せ、さらなる賃上げを実現する。一人ひとり寄り添い新しい未来を切り拓く。\n著書『岸田ビジョン』(講談社) ／『核兵器のない世界へ』(日経BP)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kishida.gr.jp",
+                "end": 23,
+                "expanded_url": "https://kishida.gr.jp/",
+                "start": 0,
+                "url": "https://t.co/ZHZCnuzSvs"
+              }
+            ]
+          }
+        },
+        "id": "1247032696586436609",
+        "location": "東京 千代田区",
+        "name": "岸田文雄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547582068661440512/kWVUOKKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867099,
+          "following_count": 469,
+          "like_count": 5088,
+          "listed_count": 4329,
+          "tweet_count": 2295
+        },
+        "url": "https://t.co/ZHZCnuzSvs",
+        "username": "kishida230",
+        "verified": true
+      }
+    ]
+  }
+}

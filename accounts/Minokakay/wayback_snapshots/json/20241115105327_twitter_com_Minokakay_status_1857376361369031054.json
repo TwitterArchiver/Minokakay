@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857148485440819200"
+      ],
+      "media_source_tweet_id": [
+        "1857148493745541393"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1857376361369031054",
+    "created_at": "2024-11-15T10:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T11:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857376361369031054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1509913938296639491",
+          "start": 3,
+          "username": "TheRoyalSerf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K5P7UzI5WX",
+          "end": 41,
+          "expanded_url": "https://x.com/TheRoyalSerf/status/1857148493745541393/photo/1",
+          "media_key": "3_1857148485440819200",
+          "start": 18,
+          "url": "https://t.co/K5P7UzI5WX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857376361369031054",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1058
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857148493745541393",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheRoyalSerf: https://t.co/K5P7UzI5WX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1857376361369031054].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1857376361369031054",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1857376361369031054"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1857148485440819200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcXqtTna0AAC1iI.jpg",
+        "width": 1530
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857148485440819200"
+          ]
+        },
+        "author_id": "1509913938296639491",
+        "conversation_id": "1857148493745541393",
+        "created_at": "2024-11-14T19:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T20:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857148493745541393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K5P7UzI5WX",
+              "end": 23,
+              "expanded_url": "https://x.com/TheRoyalSerf/status/1857148493745541393/photo/1",
+              "media_key": "3_1857148485440819200",
+              "start": 0,
+              "url": "https://t.co/K5P7UzI5WX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857148493745541393",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1507,
+          "impression_count": 679400,
+          "like_count": 16370,
+          "quote_count": 165,
+          "reply_count": 905,
+          "retweet_count": 1058
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/K5P7UzI5WX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1850583794224635904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 943,
+          "like_count": 26572,
+          "listed_count": 3,
+          "tweet_count": 11919
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T15:23:08.000Z",
+        "description": "",
+        "id": "1509913938296639491",
+        "name": "Serf",
+        "pinned_tweet_id": "1857133092429041848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841174920057012226/8-AB-4ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44384,
+          "following_count": 289,
+          "like_count": 68570,
+          "listed_count": 95,
+          "tweet_count": 2689
+        },
+        "username": "TheRoyalSerf",
+        "verified": true
+      }
+    ]
+  }
+}

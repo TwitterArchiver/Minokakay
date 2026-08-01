@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1939380780859597231",
+    "created_at": "2025-06-29T17:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T18:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939380780859597231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938866971669606400",
+          "start": 3,
+          "username": "xiaosong2_33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939380780859597231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939352195230822530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaosong2_33: 孩子们我回来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1939380780859597231",
+        "created_at": "2025-06-29T17:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T18:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939380780859597231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938866971669606400",
+              "start": 3,
+              "username": "xiaosong2_33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939380780859597231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939352195230822530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaosong2_33: 孩子们我回来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938866971669606400",
+        "conversation_id": "1939352195230822530",
+        "created_at": "2025-06-29T15:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T16:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939352195230822530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939352195230822530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们我回来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 93,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1939142634112721402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7891,
+          "following_count": 893,
+          "like_count": 43937,
+          "listed_count": 30,
+          "media_count": 1255,
+          "tweet_count": 19222
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-28T07:48:19.000Z",
+        "description": "这里是xiaosong，我回来了，不过在这里你见不到任何与我私生活相关的内容。",
+        "id": "1938866971669606400",
+        "name": "xiaosong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939362088347955200/7VRVMTFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "xiaosong2_33",
+        "verified": false
+      }
+    ]
+  }
+}

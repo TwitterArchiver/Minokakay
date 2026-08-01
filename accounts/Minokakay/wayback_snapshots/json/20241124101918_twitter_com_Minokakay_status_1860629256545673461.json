@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1860627321365176321"
+      ],
+      "media_source_tweet_id": [
+        "1860627795652866276"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1860629256545673461",
+    "created_at": "2024-11-24T10:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T11:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860629256545673461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1831961897899585536",
+          "start": 3,
+          "username": "Mingckwkb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rMBLEOoWfr",
+          "end": 47,
+          "expanded_url": "https://x.com/Mingckwkb/status/1860627795652866276/video/1",
+          "media_key": "7_1860627321365176321",
+          "start": 24,
+          "url": "https://t.co/rMBLEOoWfr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860629256545673461",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860627795652866276",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mingckwkb: 😤乖乖被我后入吧 https://t.co/rMBLEOoWfr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50133,
+        "height": 1280,
+        "media_key": "7_1860627321365176321",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1860627321365176321/pu/img/7sftgDh-BmGxJlzj.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1860627321365176321/pu/vid/avc1/320x710/JfsmbEEoCUc2ZuPn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1860627321365176321/pu/vid/avc1/480x1066/fDAtLApr8GJBkSan.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1860627321365176321/pu/vid/avc1/576x1280/QG93s7upcprifky7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1860627321365176321/pu/pl/_t2aBbpy4PI2COHh.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1860627321365176321"
+          ],
+          "media_source_tweet_id": [
+            "1860627795652866276"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1860629256545673461",
+        "created_at": "2024-11-24T10:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T11:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860629256545673461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1831961897899585536",
+              "start": 3,
+              "username": "Mingckwkb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rMBLEOoWfr",
+              "end": 47,
+              "expanded_url": "https://x.com/Mingckwkb/status/1860627795652866276/video/1",
+              "media_key": "7_1860627321365176321",
+              "start": 24,
+              "url": "https://t.co/rMBLEOoWfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860629256545673461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860627795652866276",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mingckwkb: 😤乖乖被我后入吧 https://t.co/rMBLEOoWfr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1860627321365176321"
+          ]
+        },
+        "author_id": "1831961897899585536",
+        "conversation_id": "1860627795652866276",
+        "created_at": "2024-11-24T10:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T11:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860627795652866276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rMBLEOoWfr",
+              "end": 32,
+              "expanded_url": "https://x.com/Mingckwkb/status/1860627795652866276/video/1",
+              "media_key": "7_1860627321365176321",
+              "start": 9,
+              "url": "https://t.co/rMBLEOoWfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860627795652866276",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "😤乖乖被我后入吧 https://t.co/rMBLEOoWfr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1858231079683182919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1871,
+          "following_count": 640,
+          "like_count": 27725,
+          "listed_count": 4,
+          "tweet_count": 12415
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T07:45:44.000Z",
+        "description": "/锁推互fo的请私信 没锁推也可以私信👆🏻✉️\n主人様@KRKRDKDK2024白粥宝宝@baizhou_kawaii不认识@saksamalah2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "KRKRDKDK2024"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "baizhou_kawaii"
+              },
+              {
+                "end": 76,
+                "start": 62,
+                "username": "saksamalah2nd"
+              }
+            ]
+          }
+        },
+        "id": "1831961897899585536",
+        "location": "句容 江苏",
+        "name": "黑夜里的大鸡巴🌯🥖",
+        "pinned_tweet_id": "1858539275417219307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860295445068853248/_2y-5Kti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 494,
+          "like_count": 19121,
+          "listed_count": 1,
+          "tweet_count": 2894
+        },
+        "username": "Mingckwkb",
+        "verified": false
+      }
+    ]
+  }
+}

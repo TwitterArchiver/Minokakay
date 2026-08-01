@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916799768636071936",
+        "3_1916799768631914496"
+      ],
+      "media_source_tweet_id": [
+        "1916799775774544241",
+        "1916799775774544241"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Desserts and baked goods",
+          "id": "847863957599567872",
+          "name": "Desserts and baked goods"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      }
+    ],
+    "conversation_id": "1916849641368207771",
+    "created_at": "2025-04-28T13:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T14:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916849641368207771"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "京都",
+          "probability": 0.9566,
+          "start": 18,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1583815275756941312",
+          "start": 3,
+          "username": "harapeko_jpn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FM2YxiKYHi",
+          "end": 59,
+          "expanded_url": "https://x.com/harapeko_jpn/status/1916799775774544241/photo/1",
+          "media_key": "3_1916799768636071936",
+          "start": 36,
+          "url": "https://t.co/FM2YxiKYHi"
+        },
+        {
+          "display_url": "pic.x.com/FM2YxiKYHi",
+          "end": 59,
+          "expanded_url": "https://x.com/harapeko_jpn/status/1916799775774544241/photo/1",
+          "media_key": "3_1916799768631914496",
+          "start": 36,
+          "url": "https://t.co/FM2YxiKYHi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916849641368207771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916799775774544241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @harapeko_jpn: 京都で絶対食べるべきスイーツ12選 https://t.co/FM2YxiKYHi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1581,
+        "media_key": "3_1916799768636071936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpnXO-MaoAAhFPe.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1569,
+        "media_key": "3_1916799768631914496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpnXO-LbMAANNtl.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916799768636071936",
+            "3_1916799768631914496"
+          ],
+          "media_source_tweet_id": [
+            "1916799775774544241",
+            "1916799775774544241"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1916849641368207771",
+        "created_at": "2025-04-28T13:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T14:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916849641368207771"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "京都",
+              "probability": 0.9566,
+              "start": 18,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1583815275756941312",
+              "start": 3,
+              "username": "harapeko_jpn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FM2YxiKYHi",
+              "end": 59,
+              "expanded_url": "https://x.com/harapeko_jpn/status/1916799775774544241/photo/1",
+              "media_key": "3_1916799768636071936",
+              "start": 36,
+              "url": "https://t.co/FM2YxiKYHi"
+            },
+            {
+              "display_url": "pic.x.com/FM2YxiKYHi",
+              "end": 59,
+              "expanded_url": "https://x.com/harapeko_jpn/status/1916799775774544241/photo/1",
+              "media_key": "3_1916799768631914496",
+              "start": 36,
+              "url": "https://t.co/FM2YxiKYHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916849641368207771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916799775774544241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @harapeko_jpn: 京都で絶対食べるべきスイーツ12選 https://t.co/FM2YxiKYHi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916799768636071936",
+            "3_1916799768631914496"
+          ]
+        },
+        "author_id": "1583815275756941312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1916799775774544241",
+        "created_at": "2025-04-28T10:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T11:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916799775774544241"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "京都",
+              "probability": 0.952,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FM2YxiKYHi",
+              "end": 41,
+              "expanded_url": "https://x.com/harapeko_jpn/status/1916799775774544241/photo/1",
+              "media_key": "3_1916799768636071936",
+              "start": 18,
+              "url": "https://t.co/FM2YxiKYHi"
+            },
+            {
+              "display_url": "pic.x.com/FM2YxiKYHi",
+              "end": 41,
+              "expanded_url": "https://x.com/harapeko_jpn/status/1916799775774544241/photo/1",
+              "media_key": "3_1916799768631914496",
+              "start": 18,
+              "url": "https://t.co/FM2YxiKYHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916799775774544241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 281,
+          "impression_count": 40750,
+          "like_count": 804,
+          "quote_count": 11,
+          "reply_count": 1,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "京都で絶対食べるべきスイーツ12選 https://t.co/FM2YxiKYHi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1916475690863726978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6529,
+          "following_count": 867,
+          "like_count": 41294,
+          "listed_count": 29,
+          "media_count": 859,
+          "tweet_count": 16700
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-22T13:39:56.000Z",
+        "description": "東京 大阪をメインに全国のグルメを食べ歩くグルメ日記！がっつりごはん系からカフェスイーツ系まで幅広く紹介していきます！ SNS総フォロワー数500万人突破！お仕事のご依頼はこちらにお願いします→harapeko_kc@yahoo.co.jp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/harapeko_jpn",
+                "end": 23,
+                "expanded_url": "https://instagram.com/harapeko_jpn",
+                "start": 0,
+                "url": "https://t.co/SKpQargUjF"
+              }
+            ]
+          }
+        },
+        "id": "1583815275756941312",
+        "location": "👇インスタでは営業時間や料理のお値段も公開中",
+        "name": "はらぺこグルメ日記(ぺこグルメ)",
+        "pinned_tweet_id": "1916434369209880914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877014137198493696/7vNPkM9O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103293,
+          "following_count": 21,
+          "like_count": 597,
+          "listed_count": 1007,
+          "media_count": 790,
+          "tweet_count": 933
+        },
+        "url": "https://t.co/SKpQargUjF",
+        "username": "harapeko_jpn",
+        "verified": true
+      }
+    ]
+  }
+}

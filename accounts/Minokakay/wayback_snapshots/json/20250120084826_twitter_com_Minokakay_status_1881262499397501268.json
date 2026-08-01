@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881262496612560898",
+        "3_1881262496692277248"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1881262499397501268",
+    "created_at": "2025-01-20T08:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T09:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881262499397501268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UnokpGazOO",
+          "end": 187,
+          "expanded_url": "https://x.com/Minokakay/status/1881262499397501268/photo/1",
+          "media_key": "3_1881262496612560898",
+          "start": 164,
+          "url": "https://t.co/UnokpGazOO"
+        },
+        {
+          "display_url": "pic.x.com/UnokpGazOO",
+          "end": 187,
+          "expanded_url": "https://x.com/Minokakay/status/1881262499397501268/photo/1",
+          "media_key": "3_1881262496692277248",
+          "start": 164,
+          "url": "https://t.co/UnokpGazOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881262499397501268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天怎麼沒單子😨\n春節活動\n日雌380 土色50/100分別320/360\n泰補210 諾坤复85\n超強效美白產品（NAC+α硫辛酸+甘氨酸）基礎版進階版直接降到49/59（最近三天下了單的找我退差價）\n\n我們春節不放假，持續接單發貨，需要的私信聯繫俺，沒回就是被吞信息，在我最新post下面叫我一聲，也可以tg聯繫，tg同名 https://t.co/UnokpGazOO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 797,
+        "media_key": "3_1881262496612560898",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhuWRffbMAIaIo3.jpg",
+        "width": 966
+      },
+      {
+        "height": 825,
+        "media_key": "3_1881262496692277248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhuWRfybkAA4Zs0.jpg",
+        "width": 975
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881262496612560898",
+            "3_1881262496692277248"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1881262499397501268",
+        "created_at": "2025-01-20T08:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T09:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881262499397501268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UnokpGazOO",
+              "end": 187,
+              "expanded_url": "https://x.com/Minokakay/status/1881262499397501268/photo/1",
+              "media_key": "3_1881262496612560898",
+              "start": 164,
+              "url": "https://t.co/UnokpGazOO"
+            },
+            {
+              "display_url": "pic.x.com/UnokpGazOO",
+              "end": 187,
+              "expanded_url": "https://x.com/Minokakay/status/1881262499397501268/photo/1",
+              "media_key": "3_1881262496692277248",
+              "start": 164,
+              "url": "https://t.co/UnokpGazOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881262499397501268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天怎麼沒單子😨\n春節活動\n日雌380 土色50/100分別320/360\n泰補210 諾坤复85\n超強效美白產品（NAC+α硫辛酸+甘氨酸）基礎版進階版直接降到49/59（最近三天下了單的找我退差價）\n\n我們春節不放假，持續接單發貨，需要的私信聯繫俺，沒回就是被吞信息，在我最新post下面叫我一聲，也可以tg聯繫，tg同名 https://t.co/UnokpGazOO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日380色320泰210",
+        "pinned_tweet_id": "1872051766805840215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3020,
+          "following_count": 779,
+          "like_count": 32550,
+          "listed_count": 12,
+          "media_count": 862,
+          "tweet_count": 14739
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

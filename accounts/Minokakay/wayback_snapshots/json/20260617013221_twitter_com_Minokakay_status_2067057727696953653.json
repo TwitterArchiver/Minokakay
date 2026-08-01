@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2067057727696953653",
+    "created_at": "2026-06-17T01:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T02:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067057727696953653"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lrmc4e/status/…",
+          "end": 121,
+          "expanded_url": "https://twitter.com/lrmc4e/status/2066872224917979642",
+          "start": 98,
+          "url": "https://t.co/8MCDWuMd2r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067057727696953653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066872224917979642",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还不止大学呢，中文互联网还有很多人用东大代指中国，一会东大跟美国怎么了，一会东大把日本怎么了，我还说东京大学什么时候这么牛逼了，原来粉红是说的“东方大国”（中国）这东西有什么代称/缩写的必要吗？ https://t.co/8MCDWuMd2r"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2067057727696953653",
+        "created_at": "2026-06-17T01:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067057727696953653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lrmc4e/status/…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/lrmc4e/status/2066872224917979642",
+              "start": 98,
+              "url": "https://t.co/8MCDWuMd2r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067057727696953653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066872224917979642",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还不止大学呢，中文互联网还有很多人用东大代指中国，一会东大跟美国怎么了，一会东大把日本怎么了，我还说东京大学什么时候这么牛逼了，原来粉红是说的“东方大国”（中国）这东西有什么代称/缩写的必要吗？ https://t.co/8MCDWuMd2r"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852390818390450176",
+        "conversation_id": "2066872224917979642",
+        "created_at": "2026-06-16T13:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066872224917979642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066872224917979642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 57484,
+          "like_count": 272,
+          "quote_count": 3,
+          "reply_count": 59,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "完全不能理解为什么国内的大学生很执着于在主页挂上自己大学的英语缩写，有点莫名其妙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14424,
+          "following_count": 1055,
+          "like_count": 44005,
+          "listed_count": 49,
+          "media_count": 1845,
+          "tweet_count": 26263
+        },
+        "url": "",
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-01T16:42:50.000Z",
+        "description": "这个账号只是为了满足自己的分享欲 防走丢 @ditchn2c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "ditchn2c"
+              }
+            ]
+          }
+        },
+        "id": "1852390818390450176",
+        "name": "Looe",
+        "pinned_tweet_id": "2029190752761463130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852391001618612224/yosj9UJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13937,
+          "following_count": 103,
+          "like_count": 21358,
+          "listed_count": 31,
+          "media_count": 250,
+          "tweet_count": 5614
+        },
+        "url": "",
+        "username": "Lrmc4e",
+        "verified": false
+      }
+    ]
+  }
+}

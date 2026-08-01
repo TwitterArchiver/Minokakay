@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1982994368203284901",
+    "created_at": "2025-10-29T04:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T05:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983389247525794104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822655771341119488",
+          "start": 0,
+          "username": "murder_of_seoul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983389247525794104",
+    "in_reply_to_user_id": "1822655771341119488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982994368203284901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@murder_of_seoul 买贵了，一般成都重庆之间时速350满速运行的高速铁路只要166元😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1982994368203284901",
+        "created_at": "2025-10-29T04:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T05:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983389247525794104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822655771341119488",
+              "start": 0,
+              "username": "murder_of_seoul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983389247525794104",
+        "in_reply_to_user_id": "1822655771341119488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982994368203284901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@murder_of_seoul 买贵了，一般成都重庆之间时速350满速运行的高速铁路只要166元😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822655771341119488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hospitality",
+              "id": "864938653063159808",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Sausage",
+              "id": "842484798576705536",
+              "name": "Sausage"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hotel/Motel",
+              "id": "864939492947275776",
+              "name": "Hotel/Motel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sausage",
+              "id": "842484798576705536",
+              "name": "Sausage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1982994368203284901",
+        "created_at": "2025-10-28T02:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T03:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982994368203284901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/murder_of_seou…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/murder_of_seoul/status/1982991631474430057",
+              "start": 122,
+              "url": "https://t.co/XkpxCmNaUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982994368203284901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3348,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982991631474430057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "春秋航空「9800日元」\n重庆成都高铁「200元」\n速8 如家「150元」\n火鍋「98元」\n雪花純生「12元」\n重庆小面「8元」\n可口可乐「3元」\n农夫山水「2元」\n\n朕「共筑习近平新时代中国特色社会主义伟大胜利‼️」「中华民族伟大复兴‼️」 https://t.co/XkpxCmNaUJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11871,
+          "following_count": 992,
+          "like_count": 44966,
+          "listed_count": 41,
+          "media_count": 1484,
+          "tweet_count": 22187
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-11T15:26:24.000Z",
+        "description": "奋进新征程 🇬🇺🇲🇵🇵🇼🇫🇲🇹🇼🇭🇰🇲🇴🇺🇸🇨🇴🇧🇴🇨🇱🇵🇪🇰🇷🇹🇭🇮🇳🇬🇪🇰🇿🇺🇿🇰🇬🇨🇳🇲🇳",
+        "id": "1822655771341119488",
+        "name": "松田",
+        "pinned_tweet_id": "1971464606200824203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977766760775581696/IljIJH_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 233,
+          "like_count": 9513,
+          "listed_count": 1,
+          "media_count": 808,
+          "tweet_count": 2945
+        },
+        "username": "murder_of_seoul",
+        "verified": false
+      }
+    ]
+  }
+}

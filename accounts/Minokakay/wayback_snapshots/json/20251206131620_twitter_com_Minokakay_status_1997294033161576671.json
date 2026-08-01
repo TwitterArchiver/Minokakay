@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995530393467191301"
+      ],
+      "media_source_tweet_id": [
+        "1997274830576787898"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1997294033161576671",
+    "created_at": "2025-12-06T13:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T14:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997294033161576671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1936773162357985280",
+          "start": 3,
+          "username": "otoko_onaka2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XLQ7Mwee33",
+          "end": 41,
+          "expanded_url": "https://x.com/otoko_onaka2/status/1997274830576787898/photo/1",
+          "media_key": "3_1995530393467191301",
+          "start": 18,
+          "url": "https://t.co/XLQ7Mwee33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997294033161576671",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997274830576787898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @otoko_onaka2: https://t.co/XLQ7Mwee33"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1995530393467191301",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7GMUfEbgAUjY2a.jpg",
+        "width": 435
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995530393467191301"
+          ],
+          "media_source_tweet_id": [
+            "1997274830576787898"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1997294033161576671",
+        "created_at": "2025-12-06T13:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T14:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997294033161576671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1936773162357985280",
+              "start": 3,
+              "username": "otoko_onaka2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XLQ7Mwee33",
+              "end": 41,
+              "expanded_url": "https://x.com/otoko_onaka2/status/1997274830576787898/photo/1",
+              "media_key": "3_1995530393467191301",
+              "start": 18,
+              "url": "https://t.co/XLQ7Mwee33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997294033161576671",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997274830576787898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @otoko_onaka2: https://t.co/XLQ7Mwee33"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995530393467191301"
+          ]
+        },
+        "author_id": "1936773162357985280",
+        "conversation_id": "1997274830576787898",
+        "created_at": "2025-12-06T12:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T13:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997274830576787898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XLQ7Mwee33",
+              "end": 23,
+              "expanded_url": "https://x.com/otoko_onaka2/status/1997274830576787898/photo/1",
+              "media_key": "3_1995530393467191301",
+              "start": 0,
+              "url": "https://t.co/XLQ7Mwee33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997274830576787898",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 3357,
+          "like_count": 171,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XLQ7Mwee33"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。  阿斯ADHD精分抑鬱焦慮MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智/靶向药请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12894,
+          "following_count": 1011,
+          "like_count": 44984,
+          "listed_count": 49,
+          "media_count": 1703,
+          "tweet_count": 24059
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-22T13:08:07.000Z",
+        "description": "男性のお腹の写真をDMにて募集するbotの2代目です。露出多いと採用できません。収益化は決して致しません。",
+        "id": "1936773162357985280",
+        "location": "平日2枚、休日3枚投稿",
+        "name": "男のお腹自撮りbot２",
+        "pinned_tweet_id": "1989567392595480611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989355755338969088/OVRHPpPn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8671,
+          "following_count": 47,
+          "like_count": 6,
+          "listed_count": 19,
+          "media_count": 35,
+          "tweet_count": 43
+        },
+        "username": "otoko_onaka2",
+        "verified": false
+      }
+    ]
+  }
+}

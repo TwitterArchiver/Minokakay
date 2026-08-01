@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1861270967810695372",
+    "created_at": "2024-11-26T04:50:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T05:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861271174153732572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "baizhou_kawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861271174153732572",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861270967810695372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhou_kawaii 做泡菜得了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1861270967810695372].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1861270967810695372",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1861270967810695372"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1861270967810695372",
+        "created_at": "2024-11-26T04:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T05:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861271174153732572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "baizhou_kawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861271174153732572",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861270967810695372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhou_kawaii 做泡菜得了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1858231079683182919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 641,
+          "like_count": 27968,
+          "listed_count": 4,
+          "tweet_count": 12495
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "这里是白粥|怎么称呼都可以哦\n|很重要的人🥰\n@Sus1e_Glitter\n@susiethegamer\n@kagurazakaSusie\n@KeihinTohoku_JR\n@JR_yamanoteE235",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Sus1e_Glitter"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "susiethegamer"
+              },
+              {
+                "end": 69,
+                "start": 53,
+                "username": "kagurazakaSusie"
+              },
+              {
+                "end": 86,
+                "start": 70,
+                "username": "KeihinTohoku_JR"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "JR_yamanoteE235"
+              }
+            ]
+          }
+        },
+        "id": "1680834021377593344",
+        "location": "你❤️里",
+        "name": "电脑玩家白粥🕊️🫲🌛🫲💧",
+        "pinned_tweet_id": "1860592089773539762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841855706666033152/DD_MzYgh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2573,
+          "following_count": 870,
+          "like_count": 42810,
+          "listed_count": 6,
+          "tweet_count": 15790
+        },
+        "username": "baizhou_kawaii",
+        "verified": false
+      }
+    ]
+  }
+}

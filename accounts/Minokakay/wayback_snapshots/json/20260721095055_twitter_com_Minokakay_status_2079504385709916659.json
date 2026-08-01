@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2079475392084357626",
+    "created_at": "2026-07-21T09:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079504385709916659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1515861400387678211",
+          "start": 0,
+          "username": "xionabi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079504385709916659",
+    "in_reply_to_user_id": "1515861400387678211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079493250566746454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xionabi 不要武斗要文斗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2079475392084357626",
+        "created_at": "2026-07-21T09:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079504385709916659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1515861400387678211",
+              "start": 0,
+              "username": "xionabi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079504385709916659",
+        "in_reply_to_user_id": "1515861400387678211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079493250566746454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xionabi 不要武斗要文斗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515861400387678211",
+        "conversation_id": "2079475392084357626",
+        "created_at": "2026-07-21T09:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079493250566746454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079493250566746454",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079475392084357626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 复斗号😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14433,
+          "following_count": 1081,
+          "like_count": 43819,
+          "listed_count": 49,
+          "media_count": 1851,
+          "tweet_count": 26299
+        },
+        "url": "",
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-18T01:15:10.000Z",
+        "description": "愿原力与你同在。",
+        "id": "1515861400387678211",
+        "location": "五角場",
+        "name": "Kevin_kjjdndn",
+        "pinned_tweet_id": "2020170427604300086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063101822819258368/2BuFrYcG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 578,
+          "like_count": 9495,
+          "listed_count": 0,
+          "media_count": 708,
+          "tweet_count": 4833
+        },
+        "url": "",
+        "username": "xionabi",
+        "verified": true
+      }
+    ]
+  }
+}

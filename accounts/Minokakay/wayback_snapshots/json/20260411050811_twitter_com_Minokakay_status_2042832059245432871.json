@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042832043483238402"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2042832059245432871",
+    "created_at": "2026-04-11T05:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042832059245432871"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wI7lJ4kn95",
+          "end": 36,
+          "expanded_url": "https://x.com/Minokakay/status/2042832059245432871/photo/1",
+          "media_key": "3_2042832043483238402",
+          "start": 13,
+          "url": "https://t.co/wI7lJ4kn95"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042832059245432871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可以帮我办理行李直挂吗？ https://t.co/wI7lJ4kn95"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_2042832043483238402",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmY64-akAId9GD.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042832043483238402"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2042832059245432871",
+        "created_at": "2026-04-11T05:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042832059245432871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wI7lJ4kn95",
+              "end": 36,
+              "expanded_url": "https://x.com/Minokakay/status/2042832059245432871/photo/1",
+              "media_key": "3_2042832043483238402",
+              "start": 13,
+              "url": "https://t.co/wI7lJ4kn95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042832059245432871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以帮我办理行李直挂吗？ https://t.co/wI7lJ4kn95"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "命に嫌われている。 mtx 正找寻着生命意义的人，成都大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 68,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 45,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14170,
+          "following_count": 1046,
+          "like_count": 44012,
+          "listed_count": 53,
+          "media_count": 1804,
+          "tweet_count": 25949
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

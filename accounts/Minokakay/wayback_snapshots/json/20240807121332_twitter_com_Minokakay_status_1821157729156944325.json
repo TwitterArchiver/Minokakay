@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1821157729156944325",
+    "created_at": "2024-08-07T12:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T13:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1821157729156944325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Minokakay2nd/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Minokakay2nd/status/1821157545228255391",
+          "start": 13,
+          "url": "https://t.co/0A3qIhVFIT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821157729156944325",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821157545228255391",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的防封號小號，請灌注🥺 https://t.co/0A3qIhVFIT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1821157729156944325",
+        "created_at": "2024-08-07T12:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T13:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821157729156944325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minokakay2nd/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Minokakay2nd/status/1821157545228255391",
+              "start": 13,
+              "url": "https://t.co/0A3qIhVFIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821157729156944325",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821157545228255391",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的防封號小號，請灌注🥺 https://t.co/0A3qIhVFIT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821154658213359618",
+        "conversation_id": "1821157545228255391",
+        "created_at": "2024-08-07T12:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T13:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821157545228255391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821157545228255391",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這裡是Minokakay的避難所喵，請灌注我防止走丟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成都重慶 半休学状态陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome 防封小号：@Minokakay2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Minokakay2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 823,
+          "like_count": 4619,
+          "listed_count": 1,
+          "tweet_count": 1876
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T12:01:27.000Z",
+        "description": "@Minokakay 的小号喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "Minokakay"
+              }
+            ]
+          }
+        },
+        "id": "1821154658213359618",
+        "name": "Minokakay2nd",
+        "pinned_tweet_id": "1821157545228255391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821155012179062786/xKCbgb8Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 7,
+          "like_count": 6,
+          "listed_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Minokakay2nd",
+        "verified": false
+      }
+    ]
+  }
+}

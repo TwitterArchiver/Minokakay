@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1890955105869979939",
+    "created_at": "2025-02-16T08:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T09:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891049690965201266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2384854741",
+          "start": 0,
+          "username": "Rinyu001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891049690965201266",
+    "in_reply_to_user_id": "2384854741",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891049568504037819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinyu001 尽量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1890955105869979939",
+        "created_at": "2025-02-16T08:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T09:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891049690965201266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2384854741",
+              "start": 0,
+              "username": "Rinyu001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891049690965201266",
+        "in_reply_to_user_id": "2384854741",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891049568504037819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinyu001 尽量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2384854741",
+        "conversation_id": "1890955105869979939",
+        "created_at": "2025-02-16T08:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T09:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891049568504037819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891049568504037819",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890955105869979939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 啊？\n以后没有泰补了吗.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1887195421598257202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4655,
+          "following_count": 803,
+          "like_count": 35075,
+          "listed_count": 23,
+          "media_count": 980,
+          "tweet_count": 15995
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-12T07:27:12.000Z",
+        "description": "🏳️‍⚧️🍥mtf/HRT：2025.1.28/无证含糖中/LGBT+友好/泛性恋/infp/常驻浙江/07年18岁/169cm45kg/高三在读/hcm/摄影爱好者/不定时营业",
+        "id": "2384854741",
+        "name": "綾羽Rinyu🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888594779652685824/Rem2lP-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 84,
+          "like_count": 997,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 384
+        },
+        "username": "Rinyu001",
+        "verified": false
+      }
+    ]
+  }
+}

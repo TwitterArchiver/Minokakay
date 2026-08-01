@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995269430196977664"
+      ],
+      "media_source_tweet_id": [
+        "1995269432747118975"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1995546111470424090",
+    "created_at": "2025-12-01T17:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T18:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995546111470424090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1919090854033051648",
+          "start": 3,
+          "username": "Hot_F_B"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WQwY5pmOCD",
+          "end": 42,
+          "expanded_url": "https://x.com/Hot_F_B/status/1995269432747118975/photo/1",
+          "media_key": "3_1995269430196977664",
+          "start": 19,
+          "url": "https://t.co/WQwY5pmOCD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995546111470424090",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 267
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995269432747118975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hot_F_B: Wataa https://t.co/WQwY5pmOCD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1995546111470424090].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1995546111470424090",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1995546111470424090"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1995269430196977664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Ce-bIWQAAEi1c.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995269430196977664"
+          ]
+        },
+        "author_id": "1919090854033051648",
+        "conversation_id": "1995269432747118975",
+        "created_at": "2025-11-30T23:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T00:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995269432747118975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WQwY5pmOCD",
+              "end": 29,
+              "expanded_url": "https://x.com/Hot_F_B/status/1995269432747118975/photo/1",
+              "media_key": "3_1995269430196977664",
+              "start": 6,
+              "url": "https://t.co/WQwY5pmOCD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995269432747118975",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 756,
+          "impression_count": 27362,
+          "like_count": 3129,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 267
+        },
+        "reply_settings": "everyone",
+        "text": "Wataa https://t.co/WQwY5pmOCD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。  阿斯ADHD精分抑鬱焦慮MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智/靶向药请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12785,
+          "following_count": 1014,
+          "like_count": 45027,
+          "listed_count": 47,
+          "media_count": 1679,
+          "tweet_count": 23885
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-04T18:07:37.000Z",
+        "description": "just like hot things🤤.(🔞art not mine) I learn 3D. you can support me to make my own art 🎨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/T_he_player_3D…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/T_he_player_3D?utm_source=linktree_admin_share",
+                "start": 0,
+                "url": "https://t.co/JP0P7gs88t"
+              }
+            ]
+          }
+        },
+        "id": "1919090854033051648",
+        "name": "H_F_B",
+        "pinned_tweet_id": "1988026161008410700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919171962925985793/gKD6klkx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56180,
+          "following_count": 29,
+          "like_count": 12,
+          "listed_count": 142,
+          "media_count": 321,
+          "tweet_count": 335
+        },
+        "url": "https://t.co/JP0P7gs88t",
+        "username": "Hot_F_B",
+        "verified": false
+      }
+    ]
+  }
+}

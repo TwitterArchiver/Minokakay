@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1839960763831550125",
+    "created_at": "2024-09-28T10:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T11:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839977040017273204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Akirameru_QAQ"
+        },
+        {
+          "end": 24,
+          "id": "1779556990500630528",
+          "start": 15,
+          "username": "24421yue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839977040017273204",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839960763831550125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akirameru_QAQ @24421yue 😱"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [24421yue].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "24421yue",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "24421yue"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1839960763831550125].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1839960763831550125",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1839960763831550125"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1839960763831550125",
+        "created_at": "2024-09-28T10:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T11:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839977040017273204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Akirameru_QAQ"
+            },
+            {
+              "end": 24,
+              "id": "1779556990500630528",
+              "start": 15,
+              "username": "24421yue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839977040017273204",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839960763831550125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akirameru_QAQ @24421yue 😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比男高三生 阿斯ADHD Pansexual INFP 🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 854,
+          "like_count": 17895,
+          "listed_count": 3,
+          "tweet_count": 7906
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "A sweet soul🥺 || Hug wanted || 互fo😘\n物理硬件是男性，阿弃是女孩子，我已经在尝试着改变了...\n喜欢推友们，有你们在就不会孤独\n分身@mkc_Cute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "mkc_Cute"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "冷風吹（阿棄）🥺♥️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817164041938223105/KiWCGCWA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 627,
+          "like_count": 74754,
+          "listed_count": 3,
+          "tweet_count": 2690
+        },
+        "username": "Akirameru_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

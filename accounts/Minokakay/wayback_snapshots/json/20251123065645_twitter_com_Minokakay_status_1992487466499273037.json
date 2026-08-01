@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1992236542107217945",
+    "created_at": "2025-11-23T06:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T07:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992487466499273037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "26322132",
+          "start": 0,
+          "username": "snovian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992487466499273037",
+    "in_reply_to_user_id": "26322132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992406993798349197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snovian 弱智 没看到表上写着浙江余姚？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1992236542107217945",
+        "created_at": "2025-11-23T06:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T07:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992487466499273037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "26322132",
+              "start": 0,
+              "username": "snovian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992487466499273037",
+        "in_reply_to_user_id": "26322132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992406993798349197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snovian 弱智 没看到表上写着浙江余姚？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "26322132",
+        "conversation_id": "1992236542107217945",
+        "created_at": "2025-11-23T01:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T02:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992406993798349197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992406993798349197",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1233,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992236542107217945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 你就说那个厂商造的不行吗？地域黑很高级？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12472,
+          "following_count": 1011,
+          "like_count": 45009,
+          "listed_count": 43,
+          "media_count": 1626,
+          "tweet_count": 23411
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-24T20:56:54.000Z",
+        "description": "",
+        "id": "26322132",
+        "location": "Shanghai, China",
+        "name": "Simon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/970195983/Nature_002______normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 172,
+          "like_count": 131,
+          "listed_count": 4,
+          "media_count": 44,
+          "tweet_count": 2980
+        },
+        "username": "snovian",
+        "verified": false
+      }
+    ]
+  }
+}

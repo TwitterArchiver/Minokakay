@@ -1,0 +1,599 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1834414436096073728"
+      ],
+      "media_source_tweet_id": [
+        "1834414696981840060"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1540264045382488065",
+          "name": "リコリス・リコイル"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1283786058618945536",
+          "name": "Photographers"
+        }
+      }
+    ],
+    "conversation_id": "1835129779827491029",
+    "created_at": "2024-09-15T01:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T02:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835129779827491029"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 74,
+          "tag": "Cosplay"
+        },
+        {
+          "end": 97,
+          "start": 83,
+          "tag": "LycorisRecoil"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "776669937716699137",
+          "start": 3,
+          "username": "akanacos710"
+        },
+        {
+          "end": 72,
+          "id": "59463724",
+          "start": 65,
+          "username": "b3c_OC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/50jowsr3hg",
+          "end": 121,
+          "expanded_url": "https://twitter.com/akanacos710/status/1834414696981840060/photo/1",
+          "media_key": "3_1834414436096073728",
+          "start": 98,
+          "url": "https://t.co/50jOwsR3HG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835129779827491029",
+    "lang": "ht",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834414696981840060",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akanacos710: Lycoris Recoil｜Nishikigi Chisato\n\nPhotographer :@b3c_OC\n\n#Cosplay #LycorisRecoil https://t.co/50jOwsR3HG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1834414436096073728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXUmNeJa4AAwhiR.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834414436096073728"
+          ],
+          "media_source_tweet_id": [
+            "1834414696981840060"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1540264045382488065",
+              "name": "リコリス・リコイル"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283786058618945536",
+              "name": "Photographers"
+            }
+          }
+        ],
+        "conversation_id": "1835129779827491029",
+        "created_at": "2024-09-15T01:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T02:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835129779827491029"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 74,
+              "tag": "Cosplay"
+            },
+            {
+              "end": 97,
+              "start": 83,
+              "tag": "LycorisRecoil"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "776669937716699137",
+              "start": 3,
+              "username": "akanacos710"
+            },
+            {
+              "end": 72,
+              "id": "59463724",
+              "start": 65,
+              "username": "b3c_OC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/50jowsr3hg",
+              "end": 121,
+              "expanded_url": "https://twitter.com/akanacos710/status/1834414696981840060/photo/1",
+              "media_key": "3_1834414436096073728",
+              "start": 98,
+              "url": "https://t.co/50jOwsR3HG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835129779827491029",
+        "lang": "ht",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834414696981840060",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akanacos710: Lycoris Recoil｜Nishikigi Chisato\n\nPhotographer :@b3c_OC\n\n#Cosplay #LycorisRecoil https://t.co/50jOwsR3HG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834414436096073728"
+          ]
+        },
+        "author_id": "776669937716699137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1540264045382488065",
+              "name": "リコリス・リコイル"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283786058618945536",
+              "name": "Photographers"
+            }
+          }
+        ],
+        "conversation_id": "1834414696981840060",
+        "created_at": "2024-09-13T02:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T03:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834414696981840060"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 57,
+              "tag": "Cosplay"
+            },
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "LycorisRecoil"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 55,
+              "id": "59463724",
+              "start": 48,
+              "username": "b3c_OC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/50jowsr3hg",
+              "end": 104,
+              "expanded_url": "https://twitter.com/akanacos710/status/1834414696981840060/photo/1",
+              "media_key": "3_1834414436096073728",
+              "start": 81,
+              "url": "https://t.co/50jOwsR3HG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834414696981840060",
+        "lang": "ht",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 25736,
+          "like_count": 663,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "Lycoris Recoil｜Nishikigi Chisato\n\nPhotographer :@b3c_OC\n\n#Cosplay #LycorisRecoil https://t.co/50jOwsR3HG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 820,
+          "like_count": 14218,
+          "listed_count": 3,
+          "tweet_count": 5981
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-16T06:31:57.000Z",
+        "description": "関東在住気まぐれレイヤー成人済♀⚠️Photoshopでレッツ重加工！極端に加工が上手いタイプのレイヤーです。写真の人物は存在しません‼️(｀；∀；´)趣味でカメラも触ります📸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/akanacat/?hl=ja",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/akanacat/?hl=ja",
+                "start": 0,
+                "url": "https://t.co/IgTLpqTBXw"
+              }
+            ]
+          }
+        },
+        "id": "776669937716699137",
+        "location": "東京",
+        "name": "あかな😇",
+        "pinned_tweet_id": "1695738026968956950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781522579611942912/zNU3x6-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11467,
+          "following_count": 1357,
+          "like_count": 33038,
+          "listed_count": 119,
+          "tweet_count": 18665
+        },
+        "url": "https://t.co/IgTLpqTBXw",
+        "username": "akanacos710",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-23T13:37:42.000Z",
+        "description": "フリーランスのカメラマンです。(スタジオカメラマン歴3年) IRやKemper用のRIGを製作・販売をしています。(@F884SL) | Guitar & Portrait Photographer. ※撮影、レッスン依頼受付中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 58,
+                "username": "F884SL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8iw.site",
+                "end": 23,
+                "expanded_url": "https://8iw.site",
+                "start": 0,
+                "url": "https://t.co/FIofYEWPhG"
+              }
+            ]
+          }
+        },
+        "id": "59463724",
+        "location": "黄昏の東京",
+        "name": "884 (呼び方はご自由に)",
+        "pinned_tweet_id": "1768597229588394248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715715972773154816/DDVX6dsp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6383,
+          "following_count": 2858,
+          "like_count": 64020,
+          "listed_count": 119,
+          "tweet_count": 131812
+        },
+        "url": "https://t.co/FIofYEWPhG",
+        "username": "b3c_OC",
+        "verified": true
+      }
+    ]
+  }
+}

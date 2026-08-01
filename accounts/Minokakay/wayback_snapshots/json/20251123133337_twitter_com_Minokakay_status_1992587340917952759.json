@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992587333070454784"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1992587340917952759",
+    "created_at": "2025-11-23T13:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T14:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992587340917952759"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MFDHqIYk9c",
+          "end": 53,
+          "expanded_url": "https://x.com/Minokakay/status/1992587340917952759/photo/1",
+          "media_key": "3_1992587333070454784",
+          "start": 30,
+          "url": "https://t.co/MFDHqIYk9c"
+        },
+        {
+          "display_url": "x.com/ericcha8065479…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/ericcha80654797/status/1992586924230660523",
+          "start": 54,
+          "url": "https://t.co/qiquXdk995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992587340917952759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992586924230660523",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "用个便宜梯子闹麻了，不知道马斯克更新了推特ip检测功能吗🤡 https://t.co/MFDHqIYk9c https://t.co/qiquXdk995"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992587333070454784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cXn0ubgAAPe0T.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992587333070454784"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1992587340917952759",
+        "created_at": "2025-11-23T13:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992587340917952759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MFDHqIYk9c",
+              "end": 53,
+              "expanded_url": "https://x.com/Minokakay/status/1992587340917952759/photo/1",
+              "media_key": "3_1992587333070454784",
+              "start": 30,
+              "url": "https://t.co/MFDHqIYk9c"
+            },
+            {
+              "display_url": "x.com/ericcha8065479…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/ericcha80654797/status/1992586924230660523",
+              "start": 54,
+              "url": "https://t.co/qiquXdk995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992587340917952759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992586924230660523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用个便宜梯子闹麻了，不知道马斯克更新了推特ip检测功能吗🤡 https://t.co/MFDHqIYk9c https://t.co/qiquXdk995"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797897095304843264",
+        "conversation_id": "1992273186692669523",
+        "created_at": "2025-11-23T13:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992586924230660523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992586924230660523",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992573576101474554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 我IP东京OK?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12480,
+          "following_count": 1011,
+          "like_count": 45009,
+          "listed_count": 43,
+          "media_count": 1632,
+          "tweet_count": 23484
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-04T07:44:13.000Z",
+        "description": "",
+        "id": "1797897095304843264",
+        "name": "Kaydence Mueller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797898325712363520/E6Wmx9_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 70,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 123
+        },
+        "username": "EricCha80654797",
+        "verified": false
+      }
+    ]
+  }
+}

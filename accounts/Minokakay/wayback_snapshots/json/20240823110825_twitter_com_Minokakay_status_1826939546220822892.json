@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1826939453522509824"
+      ],
+      "media_source_tweet_id": [
+        "1826939456773087249"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "1826939546220822892",
+    "created_at": "2024-08-23T11:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T12:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826939546220822892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1032481823689924608",
+          "start": 3,
+          "username": "PRPRLO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/skrzolgu7x",
+          "end": 51,
+          "expanded_url": "https://twitter.com/PRPRLO/status/1826939456773087249/photo/1",
+          "media_key": "3_1826939453522509824",
+          "start": 28,
+          "url": "https://t.co/SkrzOLGu7X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826939546220822892",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826939456773087249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PRPRLO: バニー貞操帯とバニーパーカー🐇 https://t.co/SkrzOLGu7X"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1826939546220822892].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1826939546220822892",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1826939546220822892"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1826939453522509824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVqXwOFbAAAQ8GT.jpg",
+        "width": 715
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826939453522509824"
+          ]
+        },
+        "author_id": "1032481823689924608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "1826939456773087249",
+        "created_at": "2024-08-23T11:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T12:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826939456773087249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/skrzolgu7x",
+              "end": 39,
+              "expanded_url": "https://twitter.com/PRPRLO/status/1826939456773087249/photo/1",
+              "media_key": "3_1826939453522509824",
+              "start": 16,
+              "url": "https://t.co/SkrzOLGu7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826939456773087249",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "バニー貞操帯とバニーパーカー🐇 https://t.co/SkrzOLGu7X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 付费裡推：@Minokakaysex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Minokakaysex"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 924,
+          "like_count": 10134,
+          "listed_count": 3,
+          "tweet_count": 3749
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-23T04:17:04.000Z",
+        "description": "🔞NSFW🔞趣味でえっち男子を描く💜フラット貞操帯┃🎮スクショ多┃絵はよく消すのでFantiaで見てくれhttps://t.co/y3N1XLpnvH【Skeb】https://t.co/8FLXHWM6Sj 🔕ﾌｫﾛ-外通知OFF ⭐️🍟 https://t.co/7hylNV5hjU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/48457…",
+                "end": 75,
+                "expanded_url": "https://fantia.jp/fanclubs/484570/",
+                "start": 52,
+                "url": "https://t.co/y3N1XLpnvH"
+              },
+              {
+                "display_url": "skeb.jp/@PRPRLO",
+                "end": 104,
+                "expanded_url": "https://skeb.jp/@PRPRLO",
+                "start": 81,
+                "url": "https://t.co/8FLXHWM6Sj"
+              },
+              {
+                "display_url": "bit.ly/3o15aB1",
+                "end": 144,
+                "expanded_url": "https://bit.ly/3o15aB1",
+                "start": 121,
+                "url": "https://t.co/7hylNV5hjU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clap.webclap.com/clap.php?id=PR…",
+                "end": 23,
+                "expanded_url": "http://clap.webclap.com/clap.php?id=PRPRLO",
+                "start": 0,
+                "url": "https://t.co/JAAQBBJREp"
+              }
+            ]
+          }
+        },
+        "id": "1032481823689924608",
+        "location": "👇web拍手👏✨シコれたら押してね",
+        "name": "ペペ口͚",
+        "pinned_tweet_id": "1747613686645359020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625063092278398978/fJvDOsso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125416,
+          "following_count": 69,
+          "like_count": 21931,
+          "listed_count": 899,
+          "tweet_count": 4533
+        },
+        "url": "https://t.co/JAAQBBJREp",
+        "username": "PRPRLO",
+        "verified": false
+      }
+    ]
+  }
+}

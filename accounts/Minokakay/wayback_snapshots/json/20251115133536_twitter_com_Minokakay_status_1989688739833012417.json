@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1988528653890719837",
+    "created_at": "2025-11-15T13:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T14:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989688739833012417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1573863666000224256",
+          "start": 0,
+          "username": "Futuristic2007"
+        },
+        {
+          "end": 32,
+          "id": "1272405078683430913",
+          "start": 16,
+          "username": "PaitangOfficial"
+        },
+        {
+          "end": 43,
+          "id": "1419403960696385546",
+          "start": 33,
+          "username": "WaiFu8964"
+        },
+        {
+          "end": 56,
+          "id": "1274158125520613376",
+          "start": 44,
+          "username": "Duparquetia"
+        },
+        {
+          "end": 67,
+          "id": "1597158942668226560",
+          "start": 57,
+          "username": "Bitget_zh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989688739833012417",
+    "in_reply_to_user_id": "1573863666000224256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989688238332612639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Futuristic2007 @PaitangOfficial @WaiFu8964 @Duparquetia @Bitget_zh 这什么我怎么看不了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1989688238332612639].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1989688238332612639",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1989688238332612639"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1988528653890719837",
+        "created_at": "2025-11-15T13:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T14:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989688739833012417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1573863666000224256",
+              "start": 0,
+              "username": "Futuristic2007"
+            },
+            {
+              "end": 32,
+              "id": "1272405078683430913",
+              "start": 16,
+              "username": "PaitangOfficial"
+            },
+            {
+              "end": 43,
+              "id": "1419403960696385546",
+              "start": 33,
+              "username": "WaiFu8964"
+            },
+            {
+              "end": 56,
+              "id": "1274158125520613376",
+              "start": 44,
+              "username": "Duparquetia"
+            },
+            {
+              "end": 67,
+              "id": "1597158942668226560",
+              "start": 57,
+              "username": "Bitget_zh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989688739833012417",
+        "in_reply_to_user_id": "1573863666000224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989688238332612639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Futuristic2007 @PaitangOfficial @WaiFu8964 @Duparquetia @Bitget_zh 这什么我怎么看不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12075,
+          "following_count": 1009,
+          "like_count": 45025,
+          "listed_count": 42,
+          "media_count": 1551,
+          "tweet_count": 22868
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-25T02:36:14.000Z",
+        "description": "26届高三牲😭/已成年/dser/是健全b/希望大家都可以找到自己热爱的事情并过上充实的生活哦❤️/永远是中推圈的过客🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/i/communities/1950931607126409236",
+                "start": 0,
+                "url": "https://t.co/kuaFVW5OWC"
+              }
+            ]
+          }
+        },
+        "id": "1573863666000224256",
+        "location": "People's Republic of China",
+        "name": "过客·Futuristic History",
+        "pinned_tweet_id": "1985652020498567294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984124060889182211/M1-auBvi_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 643,
+          "like_count": 133348,
+          "listed_count": 3,
+          "media_count": 1100,
+          "tweet_count": 24823
+        },
+        "url": "https://t.co/kuaFVW5OWC",
+        "username": "Futuristic2007",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "paipaipaitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "name": "☯️🧬無極 利他林和专注达",
+        "pinned_tweet_id": "1903330051837530420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985270408904376320/SHUUETVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9889,
+          "following_count": 546,
+          "like_count": 8055,
+          "listed_count": 27,
+          "media_count": 1639,
+          "tweet_count": 13741
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "退休准备中，现已启用付费消息，用来过滤垃圾信息。如果您是别人推荐来的客户请让Ta通知我加联系人即可免费发信息，聊天的话可以在任意群喊我看心情回复。付费信息100%回复. #BNB hodler",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "BNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/saomei",
+                "end": 23,
+                "expanded_url": "https://t.me/saomei",
+                "start": 0,
+                "url": "https://t.co/GrZymHku4e"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地:深圳",
+        "name": "Waifu今天退休了吗",
+        "pinned_tweet_id": "1977005187031351464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958651886569234432/g2E3qUEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7091,
+          "following_count": 2242,
+          "like_count": 5095,
+          "listed_count": 18,
+          "media_count": 766,
+          "tweet_count": 6560
+        },
+        "url": "https://t.co/GrZymHku4e",
+        "username": "WaiFu8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-20T01:52:31.000Z",
+        "description": ".",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://www.4399.com",
+                "start": 0,
+                "url": "https://t.co/bKSEIciMp7"
+              }
+            ]
+          }
+        },
+        "id": "1274158125520613376",
+        "location": "320台湾桃園市中壢區中大路300號",
+        "name": "delterfln",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983910611248685056/a0gcKpus_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 328,
+          "like_count": 5833,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 4713
+        },
+        "url": "https://t.co/bKSEIciMp7",
+        "username": "Duparquetia",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T09:22:26.000Z",
+        "description": "全球最大的 UEX 全景交易所，优质资产一站式交易 #Bitget \nBitget VIP，费率更低，福利更狠！\n官方中文社群：https://t.co/WnPfdfyp1K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 26,
+                "tag": "Bitget"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Bitget_CNOffic…",
+                "end": 87,
+                "expanded_url": "https://t.me/Bitget_CNOfficial",
+                "start": 64,
+                "url": "https://t.co/WnPfdfyp1K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "partner.bitget.fit/bg/gsvbqfr6",
+                "end": 23,
+                "expanded_url": "https://partner.bitget.fit/bg/gsvbqfr6",
+                "start": 0,
+                "url": "https://t.co/K55RAh2G97"
+              }
+            ]
+          }
+        },
+        "id": "1597158942668226560",
+        "location": "注册获20%手续费返还👉",
+        "name": "Bitget中文",
+        "pinned_tweet_id": "1987718141665800674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974153079474806784/5--tt6Dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101384,
+          "following_count": 590,
+          "like_count": 4828,
+          "listed_count": 381,
+          "media_count": 6025,
+          "tweet_count": 10466
+        },
+        "url": "https://t.co/K55RAh2G97",
+        "username": "Bitget_zh",
+        "verified": true
+      }
+    ]
+  }
+}

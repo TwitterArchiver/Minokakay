@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1842951930118864949",
+    "created_at": "2024-10-06T15:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T16:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1842951930118864949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huajuan0625/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/huajuan0625/status/1837505824530341902",
+          "start": 2,
+          "url": "https://t.co/B8IvdkA6aN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842951930118864949",
+    "lang": "art",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837505824530341902",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤤 https://t.co/B8IvdkA6aN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1837505824530341902].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1837505824530341902",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1837505824530341902"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1842951930118864949",
+        "created_at": "2024-10-06T15:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T16:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842951930118864949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huajuan0625/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/huajuan0625/status/1837505824530341902",
+              "start": 2,
+              "url": "https://t.co/B8IvdkA6aN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842951930118864949",
+        "lang": "art",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837505824530341902",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤤 https://t.co/B8IvdkA6aN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 872,
+          "like_count": 20478,
+          "listed_count": 3,
+          "tweet_count": 9128
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

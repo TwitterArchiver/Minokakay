@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1842538847479243131",
+    "created_at": "2024-10-05T15:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T16:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842584812470878330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826218931797032960",
+          "start": 0,
+          "username": "mostima_13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842584812470878330",
+    "in_reply_to_user_id": "1826218931797032960",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842584353391747213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mostima_13 可以喵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1842584353391747213].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1842584353391747213",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1842584353391747213"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1842538847479243131",
+        "created_at": "2024-10-05T15:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T16:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842584812470878330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826218931797032960",
+              "start": 0,
+              "username": "mostima_13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842584812470878330",
+        "in_reply_to_user_id": "1826218931797032960",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842584353391747213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mostima_13 可以喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 862,
+          "like_count": 20186,
+          "listed_count": 3,
+          "tweet_count": 9022
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T11:25:11.000Z",
+        "description": "GBC&结束乐队\\素晴日&樱之诗\\存哲与虚无\\术力口\\月计\\深度学习\\ACG\\正常号互fo like\\叫我小莫就好\\倾向温和意识形态\\msk你没🐎\\二号机@m_mostima\n《逻辑哲学论》和《终之空remake》在读中  轻度jz\\理性爱国\n希望明天会更好 PicaPica",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 77,
+                "username": "m_mostima"
+              }
+            ]
+          }
+        },
+        "id": "1826218931797032960",
+        "location": "终之空",
+        "name": "Mostima、(国庆限定版)",
+        "pinned_tweet_id": "1841485220174053392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840739757435064320/M9ZtV33M_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 0,
+          "like_count": 54,
+          "listed_count": 2,
+          "tweet_count": 2564
+        },
+        "username": "mostima_13",
+        "verified": false
+      }
+    ]
+  }
+}

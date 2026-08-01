@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1988637299555361194",
+    "created_at": "2025-11-12T15:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T16:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988637299555361194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bi3bxi/status/…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/bi3bxi/status/1988109431012466795",
+          "start": 63,
+          "url": "https://t.co/OV5Iu33w4W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988637299555361194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988109431012466795",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上次听到这个词还是初中。\n不过貌似也不是很久远，我初中的时候还在各种古老的网站上找各种学习资料。\n其实我挺喜欢以前的互联网的 https://t.co/OV5Iu33w4W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 591,
+        "media_key": "3_1987759460585250816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5XwsqMbIAAIhYa.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1988637299555361194",
+        "created_at": "2025-11-12T15:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T16:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988637299555361194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bi3bxi/status/…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/bi3bxi/status/1988109431012466795",
+              "start": 63,
+              "url": "https://t.co/OV5Iu33w4W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988637299555361194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988109431012466795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上次听到这个词还是初中。\n不过貌似也不是很久远，我初中的时候还在各种古老的网站上找各种学习资料。\n其实我挺喜欢以前的互联网的 https://t.co/OV5Iu33w4W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987759460585250816"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1988109431012466795",
+        "created_at": "2025-11-11T05:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988109431012466795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jT7TiNBoCd",
+              "end": 44,
+              "expanded_url": "https://x.com/BI3BXI/status/1988109431012466795/photo/1",
+              "media_key": "3_1987759460585250816",
+              "start": 21,
+              "url": "https://t.co/jT7TiNBoCd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988109431012466795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 98889,
+          "like_count": 693,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "百度知道。。。也算是互联网一个历史景点了 https://t.co/jT7TiNBoCd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12046,
+          "following_count": 1005,
+          "like_count": 45017,
+          "listed_count": 42,
+          "media_count": 1532,
+          "tweet_count": 22721
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Student at law｜Inherited from @ryq59｜Enby.｜#Worlds2025",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 43,
+                "tag": "Worlds2025"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 36,
+                "start": 30,
+                "username": "ryq59"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xPmuGPt",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xPmuGPt",
+                "start": 0,
+                "url": "https://t.co/HOju3R3g8T"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "你是要气死铨酱么🍥（互fo寻回中）",
+        "pinned_tweet_id": "1975487873429459064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958486481359745024/uwWD92j4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3346,
+          "following_count": 2505,
+          "like_count": 24856,
+          "listed_count": 12,
+          "media_count": 620,
+          "tweet_count": 3968
+        },
+        "url": "https://t.co/HOju3R3g8T",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

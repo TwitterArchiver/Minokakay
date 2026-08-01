@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1827013006884024691",
+    "created_at": "2024-08-23T16:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T17:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827013182528901613"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1827013182528901613",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827013006884024691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "誰來和我交配"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1827013006884024691",
+        "created_at": "2024-08-23T16:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T17:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827013182528901613"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1827013182528901613",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827013006884024691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "誰來和我交配"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1827013006884024691",
+        "created_at": "2024-08-23T16:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T17:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827013006884024691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tubomi520/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/tubomi520/status/1826958964397113798",
+              "start": 15,
+              "url": "https://t.co/eCsHhLsCmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827013006884024691",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826958964397113798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好朋友之间当然可以一起交配👍 https://t.co/eCsHhLsCmc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 付费裡推：@Minokakaysex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Minokakaysex"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 930,
+          "like_count": 10190,
+          "listed_count": 3,
+          "tweet_count": 3774
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

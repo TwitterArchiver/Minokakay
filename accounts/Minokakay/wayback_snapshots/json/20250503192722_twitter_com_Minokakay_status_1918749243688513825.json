@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1918749243688513825",
+    "created_at": "2025-05-03T19:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T20:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918749243688513825"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kagurazakaSiri…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/kagurazakaSiri_/status/1918734402978271645",
+          "start": 21,
+          "url": "https://t.co/wn5SinXnyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918749243688513825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918734402978271645",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "chicken明早起来发现推特反鸡浪潮了 https://t.co/wn5SinXnyl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1918749243688513825",
+        "created_at": "2025-05-03T19:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T20:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918749243688513825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagurazakaSiri…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/kagurazakaSiri_/status/1918734402978271645",
+              "start": 21,
+              "url": "https://t.co/wn5SinXnyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918749243688513825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918734402978271645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "chicken明早起来发现推特反鸡浪潮了 https://t.co/wn5SinXnyl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "1918734402978271645",
+        "created_at": "2025-05-03T18:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T19:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918734402978271645"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918734402978271645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢鸡哥请block我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1916475690863726978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6667,
+          "following_count": 870,
+          "like_count": 41559,
+          "listed_count": 28,
+          "media_count": 894,
+          "tweet_count": 16977
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "“我把我的胃发射到天上，残缺的身体第一次张开了对汉堡的怀抱”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "🏳️‍🌈🏳️‍⚧️",
+        "name": "翎.",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916471335238422528/As6XMr1p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2884,
+          "following_count": 775,
+          "like_count": 19528,
+          "listed_count": 6,
+          "media_count": 1019,
+          "tweet_count": 7781
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "kagurazakaSiri_",
+        "verified": false
+      }
+    ]
+  }
+}

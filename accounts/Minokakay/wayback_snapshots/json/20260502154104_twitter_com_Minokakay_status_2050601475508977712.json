@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2050443518032970157",
+    "created_at": "2026-05-02T15:41:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050601475508977712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "926036105866002432",
+          "start": 0,
+          "username": "yuwa_hin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050601475508977712",
+    "in_reply_to_user_id": "926036105866002432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050443518032970157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuwa_hin 中国最早引进高铁时引进的是E2新干线，许多标准和规范沿用下来了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6266,
+        "height": 720,
+        "media_key": "13_2050443444217348097",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050443444217348097/img/Ps3ppr5VWwvpKnZs.jpg",
+        "public_metrics": {
+          "view_count": 40953
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050443444217348097/vid/avc1/480x270/Pz9sWFAquGK0IMRR.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050443444217348097/vid/avc1/640x360/M0Pxp9KnYsNOMlIH.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050443444217348097/vid/avc1/1280x720/WfBiYSmEQgOMDjC1.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050443444217348097/pl/E-DYCaq-BRvfyH7y.m3u8?tag=27"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2050443518032970157",
+        "created_at": "2026-05-02T15:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050601475508977712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "926036105866002432",
+              "start": 0,
+              "username": "yuwa_hin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050601475508977712",
+        "in_reply_to_user_id": "926036105866002432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050443518032970157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuwa_hin 中国最早引进高铁时引进的是E2新干线，许多标准和规范沿用下来了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050443444217348097"
+          ]
+        },
+        "author_id": "926036105866002432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "2050443518032970157",
+        "created_at": "2026-05-02T05:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050443518032970157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WKE1L63qv5",
+              "end": 72,
+              "expanded_url": "https://x.com/yuwa_hin/status/2050443518032970157/video/1",
+              "media_key": "13_2050443444217348097",
+              "start": 49,
+              "url": "https://t.co/WKE1L63qv5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050443518032970157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 297,
+          "impression_count": 108342,
+          "like_count": 1070,
+          "quote_count": 22,
+          "reply_count": 20,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "中国の高鉄のチャイムが日本でも聞いたことあるメロディなんだけど、鉄道オタクの人解説してくれない？ https://t.co/WKE1L63qv5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "发着光的半平米，胡乱哼唱的旋律，\n但是还想拯救你，同时拯救我自己。 \n大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 76,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 53,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14432,
+          "following_count": 1055,
+          "like_count": 43999,
+          "listed_count": 54,
+          "media_count": 1807,
+          "tweet_count": 26011
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-02T10:39:47.000Z",
+        "description": "VRC、VALORANT、Apex、ハオルチア、QK",
+        "id": "926036105866002432",
+        "name": "yuwa🌱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048070400979197952/xkbHiJHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9801,
+          "following_count": 8401,
+          "like_count": 123887,
+          "listed_count": 56,
+          "media_count": 10778,
+          "tweet_count": 81421
+        },
+        "username": "yuwa_hin",
+        "verified": false
+      }
+    ]
+  }
+}

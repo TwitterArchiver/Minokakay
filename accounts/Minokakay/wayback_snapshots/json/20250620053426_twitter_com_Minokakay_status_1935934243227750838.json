@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935934158317989888",
+        "3_1935934164861095937",
+        "3_1935934158234112000"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "1935934243227750838",
+    "created_at": "2025-06-20T05:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T06:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935934243227750838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZihsLaCrtI",
+          "end": 166,
+          "expanded_url": "https://x.com/Minokakay/status/1935934243227750838/photo/1",
+          "media_key": "3_1935934158317989888",
+          "start": 143,
+          "url": "https://t.co/ZihsLaCrtI"
+        },
+        {
+          "display_url": "pic.x.com/ZihsLaCrtI",
+          "end": 166,
+          "expanded_url": "https://x.com/Minokakay/status/1935934243227750838/photo/1",
+          "media_key": "3_1935934164861095937",
+          "start": 143,
+          "url": "https://t.co/ZihsLaCrtI"
+        },
+        {
+          "display_url": "pic.x.com/ZihsLaCrtI",
+          "end": 166,
+          "expanded_url": "https://x.com/Minokakay/status/1935934243227750838/photo/1",
+          "media_key": "3_1935934158234112000",
+          "start": 143,
+          "url": "https://t.co/ZihsLaCrtI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935934243227750838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "见过最好的服务区，有第三卫生间，残障人士车位，英文标识和残障坡道完善，服务去内有KFC 绝味 蜜雪冰城等连锁食品店，价格和成都市区一致，在藏区待久了出来看到这么完善便利且标准化的公共设施，还是挺开心的，藏区普遍还是老外和老弱病残孕禁区，设施比较落后，修了很多烂尾楼也不肯把人行道修好。 https://t.co/ZihsLaCrtI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935934158317989888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt3R3CcWsAAFEjD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1935934164861095937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt3R3a0WkAE4MMd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1935934158234112000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt3R3CIW0AATGZ8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935934158317989888",
+            "3_1935934164861095937",
+            "3_1935934158234112000"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1935934243227750838",
+        "created_at": "2025-06-20T05:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T06:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935934243227750838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZihsLaCrtI",
+              "end": 166,
+              "expanded_url": "https://x.com/Minokakay/status/1935934243227750838/photo/1",
+              "media_key": "3_1935934158317989888",
+              "start": 143,
+              "url": "https://t.co/ZihsLaCrtI"
+            },
+            {
+              "display_url": "pic.x.com/ZihsLaCrtI",
+              "end": 166,
+              "expanded_url": "https://x.com/Minokakay/status/1935934243227750838/photo/1",
+              "media_key": "3_1935934164861095937",
+              "start": 143,
+              "url": "https://t.co/ZihsLaCrtI"
+            },
+            {
+              "display_url": "pic.x.com/ZihsLaCrtI",
+              "end": 166,
+              "expanded_url": "https://x.com/Minokakay/status/1935934243227750838/photo/1",
+              "media_key": "3_1935934158234112000",
+              "start": 143,
+              "url": "https://t.co/ZihsLaCrtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935934243227750838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "见过最好的服务区，有第三卫生间，残障人士车位，英文标识和残障坡道完善，服务去内有KFC 绝味 蜜雪冰城等连锁食品店，价格和成都市区一致，在藏区待久了出来看到这么完善便利且标准化的公共设施，还是挺开心的，藏区普遍还是老外和老弱病残孕禁区，设施比较落后，修了很多烂尾楼也不肯把人行道修好。 https://t.co/ZihsLaCrtI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1933516848781537400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7752,
+          "following_count": 886,
+          "like_count": 43736,
+          "listed_count": 30,
+          "media_count": 1194,
+          "tweet_count": 18981
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

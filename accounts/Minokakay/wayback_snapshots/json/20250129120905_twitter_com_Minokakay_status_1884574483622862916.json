@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884574258879410176"
+      ],
+      "media_source_tweet_id": [
+        "1884574273865764999"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1884574483622862916",
+    "created_at": "2025-01-29T12:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T13:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884574483622862916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1036626336377266176",
+          "start": 3,
+          "username": "ta_ku_m_a_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZKTAsuVF7R",
+          "end": 39,
+          "expanded_url": "https://x.com/ta_ku_m_a_/status/1884574273865764999/photo/1",
+          "media_key": "3_1884574258879410176",
+          "start": 16,
+          "url": "https://t.co/ZKTAsuVF7R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884574483622862916",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884574273865764999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ta_ku_m_a_: https://t.co/ZKTAsuVF7R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1884574258879410176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GidaTbVaMAAezkm.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884574258879410176"
+          ],
+          "media_source_tweet_id": [
+            "1884574273865764999"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1884574483622862916",
+        "created_at": "2025-01-29T12:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T13:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884574483622862916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1036626336377266176",
+              "start": 3,
+              "username": "ta_ku_m_a_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZKTAsuVF7R",
+              "end": 39,
+              "expanded_url": "https://x.com/ta_ku_m_a_/status/1884574273865764999/photo/1",
+              "media_key": "3_1884574258879410176",
+              "start": 16,
+              "url": "https://t.co/ZKTAsuVF7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884574483622862916",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884574273865764999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ta_ku_m_a_: https://t.co/ZKTAsuVF7R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884574258879410176"
+          ]
+        },
+        "author_id": "1036626336377266176",
+        "conversation_id": "1884574273865764999",
+        "created_at": "2025-01-29T12:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T13:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884574273865764999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZKTAsuVF7R",
+              "end": 23,
+              "expanded_url": "https://x.com/ta_ku_m_a_/status/1884574273865764999/photo/1",
+              "media_key": "3_1884574258879410176",
+              "start": 0,
+              "url": "https://t.co/ZKTAsuVF7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884574273865764999",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZKTAsuVF7R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日380色320泰210",
+        "pinned_tweet_id": "1881268152111440138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3387,
+          "following_count": 784,
+          "like_count": 33943,
+          "listed_count": 17,
+          "media_count": 914,
+          "tweet_count": 15356
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-03T14:45:52.000Z",
+        "description": "instagram _ciel_0 モデル アパレルデザイン 昆虫ブリード",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "abyssea.jp",
+                "end": 23,
+                "expanded_url": "https://abyssea.jp/",
+                "start": 0,
+                "url": "https://t.co/OWlDgHaCcE"
+              }
+            ]
+          }
+        },
+        "id": "1036626336377266176",
+        "name": "Takuma Kujo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748082732906029056/l8bqf76Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205833,
+          "following_count": 34,
+          "like_count": 2854,
+          "listed_count": 292,
+          "media_count": 511,
+          "tweet_count": 585
+        },
+        "url": "https://t.co/OWlDgHaCcE",
+        "username": "ta_ku_m_a_",
+        "verified": false
+      }
+    ]
+  }
+}

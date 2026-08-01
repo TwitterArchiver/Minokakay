@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1998730699780583675",
+    "created_at": "2025-12-10T12:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T13:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998732974251036727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1444097362889097226",
+          "start": 0,
+          "username": "MagaJokesBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998732974251036727",
+    "in_reply_to_user_id": "1444097362889097226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998732499350856083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MagaJokesBot 湖南也是个臭名昭著的省份"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1998730699780583675",
+        "created_at": "2025-12-10T12:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T13:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998732974251036727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1444097362889097226",
+              "start": 0,
+              "username": "MagaJokesBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998732974251036727",
+        "in_reply_to_user_id": "1444097362889097226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998732499350856083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MagaJokesBot 湖南也是个臭名昭著的省份"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444097362889097226",
+        "conversation_id": "1998730699780583675",
+        "created_at": "2025-12-10T12:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T13:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998732499350856083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998732499350856083",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998730699780583675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 为啥我看的最后一名是湖南"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 阿斯ADHD精分抑鬱焦慮MtX，成都大阪随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智/靶向药请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13034,
+          "following_count": 1012,
+          "like_count": 44984,
+          "listed_count": 50,
+          "media_count": 1723,
+          "tweet_count": 24220
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-02T00:30:31.000Z",
+        "description": "#MEGA #MUGA Make EU Great Agian,Together,be stronger.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "MEGA"
+              },
+              {
+                "end": 11,
+                "start": 6,
+                "tag": "MUGA"
+              }
+            ]
+          }
+        },
+        "id": "1444097362889097226",
+        "location": "海牙监狱",
+        "name": "最坚定的包蜜🇪🇺🇺🇦🇵🇸🇨🇦",
+        "pinned_tweet_id": "1998520139160104988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996350321271164928/F09KxCZc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 927,
+          "like_count": 106152,
+          "listed_count": 3,
+          "media_count": 397,
+          "tweet_count": 42860
+        },
+        "username": "MagaJokesBot",
+        "verified": false
+      }
+    ]
+  }
+}

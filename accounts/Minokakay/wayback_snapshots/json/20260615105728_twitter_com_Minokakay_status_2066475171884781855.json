@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2066473893750333658",
+    "created_at": "2026-06-15T10:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066475171884781855"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066475171884781855",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066473893750333658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我这种不工作纯啃老的，都不知道今天是星期几，也不看手机上是星期几"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066473886338961408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2XDQza0AAiFAL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2066473893750333658",
+        "created_at": "2026-06-15T10:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066475171884781855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066475171884781855",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066473893750333658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这种不工作纯啃老的，都不知道今天是星期几，也不看手机上是星期几"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066473886338961408"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2066473893750333658",
+        "created_at": "2026-06-15T10:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066473893750333658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/leygpoF2bF",
+              "end": 126,
+              "expanded_url": "https://x.com/Minokakay/status/2066473893750333658/photo/1",
+              "media_key": "3_2066473886338961408",
+              "start": 103,
+              "url": "https://t.co/leygpoF2bF"
+            },
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/minokakay/status/2066178011159048454",
+              "start": 127,
+              "url": "https://t.co/YIDlvveDY2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066473893750333658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066178011159048454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前两天也来了这个观景台，还说东京内透也不怎么样，看着也就跟上海差不多，比我上次来看的时候还差点。一看日期，原来是因为周末，日本人严格落实双休都回家过周末去了，所以写字楼都没开灯，今天是工作日，就好很多了。 https://t.co/leygpoF2bF https://t.co/YIDlvveDY2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14399,
+          "following_count": 1054,
+          "like_count": 44039,
+          "listed_count": 49,
+          "media_count": 1840,
+          "tweet_count": 26238
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

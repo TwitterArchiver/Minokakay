@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1942166863938478080"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1942166876727263367",
+    "created_at": "2025-07-07T10:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T11:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942166876727263367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vUBuGrVAZS",
+          "end": 23,
+          "expanded_url": "https://x.com/Minokakay/status/1942166876727263367/video/1",
+          "media_key": "13_1942166863938478080",
+          "start": 0,
+          "url": "https://t.co/vUBuGrVAZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942166876727263367",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/vUBuGrVAZS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1000,
+        "height": 448,
+        "media_key": "13_1942166863938478080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1942166863938478080/img/kxoSpV8JhWGAMd4D.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942166863938478080/vid/avc1/324x270/9vIY0AwNGC_NoSMj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942166863938478080/vid/avc1/540x448/VB6cs04x1PFiSRc7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1942166863938478080/pl/PrpTsJAFVVi7pbvy.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1942166863938478080"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1942166876727263367",
+        "created_at": "2025-07-07T10:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T11:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942166876727263367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vUBuGrVAZS",
+              "end": 23,
+              "expanded_url": "https://x.com/Minokakay/status/1942166876727263367/video/1",
+              "media_key": "13_1942166863938478080",
+              "start": 0,
+              "url": "https://t.co/vUBuGrVAZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942166876727263367",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vUBuGrVAZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/癌症靶向藥找 @ChosekiNoraneko，我在做客服",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1940009083995873344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8053,
+          "following_count": 895,
+          "like_count": 44111,
+          "listed_count": 31,
+          "media_count": 1283,
+          "tweet_count": 19469
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

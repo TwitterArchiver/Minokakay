@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1912072046013554688"
+      ],
+      "media_source_tweet_id": [
+        "1912072116737876071"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1912075147718365614",
+    "created_at": "2025-04-15T09:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T10:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912075147718365614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1358308167700996100",
+          "start": 3,
+          "username": "Luonanzhu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qkiOaa9RgU",
+          "end": 46,
+          "expanded_url": "https://x.com/Luonanzhu/status/1912072116737876071/video/1",
+          "media_key": "7_1912072046013554688",
+          "start": 23,
+          "url": "https://t.co/qkiOaa9RgU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912075147718365614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912072116737876071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Luonanzhu: 华为给我增智慧 https://t.co/qkiOaa9RgU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12627,
+        "height": 1280,
+        "media_key": "7_1912072046013554688",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1912072046013554688/pu/img/_TZO0XpCPIHI6M0t.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1912072046013554688/pu/vid/avc1/320x568/M3NFBPDfXwqNC8Bs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1912072046013554688/pu/vid/avc1/480x852/UcZVTGKap_TgZ9zN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1912072046013554688/pu/vid/avc1/720x1280/UWpv4ncD6-LjbYh3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1912072046013554688/pu/pl/1eI7ILlBBbt_2B4i.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1912072046013554688"
+          ],
+          "media_source_tweet_id": [
+            "1912072116737876071"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1912075147718365614",
+        "created_at": "2025-04-15T09:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T10:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912075147718365614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1358308167700996100",
+              "start": 3,
+              "username": "Luonanzhu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qkiOaa9RgU",
+              "end": 46,
+              "expanded_url": "https://x.com/Luonanzhu/status/1912072116737876071/video/1",
+              "media_key": "7_1912072046013554688",
+              "start": 23,
+              "url": "https://t.co/qkiOaa9RgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912075147718365614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912072116737876071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Luonanzhu: 华为给我增智慧 https://t.co/qkiOaa9RgU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1912072046013554688"
+          ]
+        },
+        "author_id": "1358308167700996100",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1912072116737876071",
+        "created_at": "2025-04-15T09:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T10:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912072116737876071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qkiOaa9RgU",
+              "end": 31,
+              "expanded_url": "https://x.com/Luonanzhu/status/1912072116737876071/video/1",
+              "media_key": "7_1912072046013554688",
+              "start": 8,
+              "url": "https://t.co/qkiOaa9RgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912072116737876071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "华为给我增智慧 https://t.co/qkiOaa9RgU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1911284276345405679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6354,
+          "following_count": 863,
+          "like_count": 40481,
+          "listed_count": 31,
+          "media_count": 786,
+          "tweet_count": 16152
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-07T06:55:01.000Z",
+        "description": "我们牵着手，看着散落一地的照片                             \n          \nCN/MTX/性格爆裂/人格破碎/门槛是88r/请和我玩/🍄逃生装置：@likeliuhua🍄@ye15803❤️@4ntid0te_💙@shiiiiiiii47💜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 91,
+                "username": "likeliuhua"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "username": "ye15803"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "4ntid0te_"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "username": "shiiiiiiii47"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/luonan…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/luonanzhu.bsky.social",
+                "start": 0,
+                "url": "https://t.co/yuOt4OmUZo"
+              }
+            ]
+          }
+        },
+        "id": "1358308167700996100",
+        "location": "Bluesky🦋:↓    禁止跳楼 违者罚款",
+        "name": "🍄†Rօղąղzհմ†",
+        "pinned_tweet_id": "1730507373289304230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852184097415925761/oboOr_cI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4240,
+          "following_count": 777,
+          "like_count": 59756,
+          "listed_count": 10,
+          "media_count": 3610,
+          "tweet_count": 12038
+        },
+        "url": "https://t.co/yuOt4OmUZo",
+        "username": "Luonanzhu",
+        "verified": false
+      }
+    ]
+  }
+}

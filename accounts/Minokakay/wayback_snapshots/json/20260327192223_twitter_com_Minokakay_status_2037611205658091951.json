@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2037611205658091951",
+    "created_at": "2026-03-27T19:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T20:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037611205658091951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/royinthecar/st…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/royinthecar/status/2037322391790256151",
+          "start": 31,
+          "url": "https://t.co/AXvXJXqX4v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037611205658091951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037322391790256151",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我怎么感觉中国大部分人100年以来一直都是这样的，没啥区别。 https://t.co/AXvXJXqX4v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2037611205658091951",
+        "created_at": "2026-03-27T19:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T20:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037611205658091951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/royinthecar/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/royinthecar/status/2037322391790256151",
+              "start": 31,
+              "url": "https://t.co/AXvXJXqX4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037611205658091951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037322391790256151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我怎么感觉中国大部分人100年以来一直都是这样的，没啥区别。 https://t.co/AXvXJXqX4v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628370676552966144",
+        "conversation_id": "2037172210226663603",
+        "created_at": "2026-03-27T00:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T01:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037322391790256151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1558346182316896256",
+              "start": 0,
+              "username": "hoxer15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037322391790256151",
+        "in_reply_to_user_id": "1558346182316896256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 8830,
+          "like_count": 226,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037172210226663603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoxer15 不讲逻辑，不讲常识，情绪至上，立场优先，正常说话都像异类。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp，私信不回，打不开换梯子换浏览器",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 51,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14225,
+          "following_count": 1051,
+          "like_count": 43993,
+          "listed_count": 53,
+          "media_count": 1775,
+          "tweet_count": 25518
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-22T12:26:51.000Z",
+        "description": "妄图靠 Python 过滤市场噪音。\n警惕宏大叙事，只看冷冰冰的数据。\n关注 AI 算力、创新药与商业航天的产业变迁。\n在 K 线图之外，试图写出像散文一样的行业观察。\n拍一点无聊的照片。",
+        "id": "1628370676552966144",
+        "name": "Roy",
+        "pinned_tweet_id": "2035360554555228597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027628806056644609/1bK0PzLt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 2216,
+          "like_count": 1415,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 2228
+        },
+        "username": "Royinthecar",
+        "verified": true
+      }
+    ]
+  }
+}

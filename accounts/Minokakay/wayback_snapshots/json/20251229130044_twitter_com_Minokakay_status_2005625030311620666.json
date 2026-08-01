@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005499155930894336"
+      ],
+      "media_source_tweet_id": [
+        "2005499163442819262"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2005625030311620666",
+    "created_at": "2025-12-29T13:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T14:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005625030311620666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1457184624766238720",
+          "start": 3,
+          "username": "retiyan__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mVws3oxiyJ",
+          "end": 65,
+          "expanded_url": "https://x.com/retiyan__/status/2005499163442819262/photo/1",
+          "media_key": "3_2005499155930894336",
+          "start": 42,
+          "url": "https://t.co/mVws3oxiyJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005625030311620666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1313
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005499163442819262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @retiyan__: 訳のわからん謎ポーズカヲシンが描き納めになってもたぞ https://t.co/mVws3oxiyJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2005625030311620666].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2005625030311620666",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2005625030311620666"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1430,
+        "media_key": "3_2005499155930894336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9T221KbUAA87QO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005499155930894336"
+          ]
+        },
+        "author_id": "1457184624766238720",
+        "conversation_id": "2005499163442819262",
+        "created_at": "2025-12-29T04:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T05:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005499163442819262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mVws3oxiyJ",
+              "end": 50,
+              "expanded_url": "https://x.com/retiyan__/status/2005499163442819262/photo/1",
+              "media_key": "3_2005499155930894336",
+              "start": 27,
+              "url": "https://t.co/mVws3oxiyJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005499163442819262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3026,
+          "impression_count": 844770,
+          "like_count": 25002,
+          "quote_count": 61,
+          "reply_count": 14,
+          "retweet_count": 1313
+        },
+        "reply_settings": "everyone",
+        "text": "訳のわからん謎ポーズカヲシンが描き納めになってもたぞ https://t.co/mVws3oxiyJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，如需癌症/慢病用药，请找@Lucius_Pharma，均是我朋友开的，我担保。如需电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Lucius_Pharma"
+              },
+              {
+                "end": 136,
+                "start": 126,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13495,
+          "following_count": 1016,
+          "like_count": 44961,
+          "listed_count": 51,
+          "media_count": 1831,
+          "tweet_count": 25232
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-07T03:14:29.000Z",
+        "description": "20↑ キモ腐女子の日常雑多垢です。プロフカード読んで！今はカヲシンがアツい。idv 🔮/eva5⃣3️⃣/隠居してます👉@xxx_xre",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "xxx_xre"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/DWWQUm94Q4Wr…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/DWWQUm94Q4Wrwe7w2Y1P7eaZHLH2",
+                "start": 0,
+                "url": "https://t.co/Q3GjqSua5O"
+              }
+            ]
+          }
+        },
+        "id": "1457184624766238720",
+        "location": "F外通知OFF🔕、自衛ブロミュしてます",
+        "name": "れち",
+        "pinned_tweet_id": "1979514517118992844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947344689847533568/cf3sxxaJ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12053,
+          "following_count": 215,
+          "like_count": 40383,
+          "listed_count": 23,
+          "media_count": 92,
+          "tweet_count": 24416
+        },
+        "url": "https://t.co/Q3GjqSua5O",
+        "username": "retiyan__",
+        "verified": false
+      }
+    ]
+  }
+}

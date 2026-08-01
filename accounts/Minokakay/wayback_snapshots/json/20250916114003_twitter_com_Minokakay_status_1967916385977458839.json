@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967823703342977024"
+      ],
+      "media_source_tweet_id": [
+        "1967861012775964881"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1967916385977458839",
+    "created_at": "2025-09-16T11:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T12:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967916385977458839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "181581808",
+          "start": 3,
+          "username": "IsraelinChina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FGADK02D5E",
+          "end": 94,
+          "expanded_url": "https://x.com/IsraelinChina/status/1967861012775964881/photo/1",
+          "media_key": "3_1967823703342977024",
+          "start": 71,
+          "url": "https://t.co/FGADK02D5E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967916385977458839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967861012775964881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IsraelinChina: 哪怕只是一米，以色列也不会让哈马斯武装圣战分子靠近我们孩子们的床。\n\n我们不会让10月7日的屠杀重演。 https://t.co/FGADK02D5E"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1967916385977458839].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1967916385977458839",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1967916385977458839"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "3_1967823703342977024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08dO3JaEAAR9E2.jpg",
+        "width": 1027
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967823703342977024"
+          ]
+        },
+        "author_id": "181581808",
+        "conversation_id": "1967861012775964881",
+        "created_at": "2025-09-16T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967861012775964881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGADK02D5E",
+              "end": 75,
+              "expanded_url": "https://x.com/IsraelinChina/status/1967861012775964881/photo/1",
+              "media_key": "3_1967823703342977024",
+              "start": 52,
+              "url": "https://t.co/FGADK02D5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967861012775964881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2384,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "哪怕只是一米，以色列也不会让哈马斯武装圣战分子靠近我们孩子们的床。\n\n我们不会让10月7日的屠杀重演。 https://t.co/FGADK02D5E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX 长居🇭🇰🇯🇵🇹🇭买HRT补佳乐色普龙诺坤复/减肥/促智找 @ChosekiNoraneko，全球可寄，我朋友开的我在做客服。买电子烟找@weita2024。买抗癌药物找@LuciusPharmacy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "LuciusPharmacy"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9812,
+          "following_count": 938,
+          "like_count": 44609,
+          "listed_count": 35,
+          "media_count": 1437,
+          "tweet_count": 21124
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2010-08-22T15:21:03.000Z",
+        "description": "Official twitter of Israel's Embassy to China • 以色列駐華大使館 🇮🇱🇨🇳 | #BringThemHome🎗️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 64,
+                "tag": "BringThemHome"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "embassies.gov.il/beijing",
+                "end": 23,
+                "expanded_url": "http://embassies.gov.il/beijing",
+                "start": 0,
+                "url": "https://t.co/p3RXd1cmMc"
+              }
+            ]
+          }
+        },
+        "id": "181581808",
+        "location": "Beijing",
+        "name": "以色列在中国",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1188709847/twitterlogo_normal.PNG",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54360,
+          "following_count": 140,
+          "like_count": 330,
+          "listed_count": 142,
+          "media_count": 1438,
+          "tweet_count": 2591
+        },
+        "url": "https://t.co/p3RXd1cmMc",
+        "username": "IsraelinChina",
+        "verified": true
+      }
+    ]
+  }
+}

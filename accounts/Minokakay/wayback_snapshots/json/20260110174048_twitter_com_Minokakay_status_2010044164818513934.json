@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009112158051946496"
+      ],
+      "media_source_tweet_id": [
+        "2009112352692830638"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2010044164818513934",
+    "created_at": "2026-01-10T17:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T18:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010044164818513934"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "ICE",
+          "probability": 0.4206,
+          "start": 25,
+          "type": "Organization"
+        },
+        {
+          "end": 64,
+          "normalized_text": "Minneapolis",
+          "probability": 0.6801,
+          "start": 54,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "267695291",
+          "start": 3,
+          "username": "badiucao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kFflSuiXOP",
+          "end": 106,
+          "expanded_url": "https://x.com/badiucao/status/2009112352692830638/photo/1",
+          "media_key": "3_2009112158051946496",
+          "start": 83,
+          "url": "https://t.co/kFflSuiXOP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010044164818513934",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22807
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009112352692830638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @badiucao: Cartoon on ICE Agent Kills Woman During Minneapolis Immigration Raid https://t.co/kFflSuiXOP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2805,
+        "media_key": "3_2009112158051946496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-HM3O6a0AAIzH1.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009112158051946496"
+          ],
+          "media_source_tweet_id": [
+            "2009112352692830638"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2010044164818513934",
+        "created_at": "2026-01-10T17:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T18:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010044164818513934"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "ICE",
+              "probability": 0.4206,
+              "start": 25,
+              "type": "Organization"
+            },
+            {
+              "end": 64,
+              "normalized_text": "Minneapolis",
+              "probability": 0.6801,
+              "start": 54,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "267695291",
+              "start": 3,
+              "username": "badiucao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kFflSuiXOP",
+              "end": 106,
+              "expanded_url": "https://x.com/badiucao/status/2009112352692830638/photo/1",
+              "media_key": "3_2009112158051946496",
+              "start": 83,
+              "url": "https://t.co/kFflSuiXOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010044164818513934",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22807
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009112352692830638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @badiucao: Cartoon on ICE Agent Kills Woman During Minneapolis Immigration Raid https://t.co/kFflSuiXOP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009112158051946496"
+          ]
+        },
+        "author_id": "267695291",
+        "conversation_id": "2009112352692830638",
+        "created_at": "2026-01-08T03:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T04:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009112352692830638"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "ICE",
+              "probability": 0.6458,
+              "start": 11,
+              "type": "Organization"
+            },
+            {
+              "end": 50,
+              "normalized_text": "Minneapolis",
+              "probability": 0.7905,
+              "start": 40,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kFflSuiXOP",
+              "end": 92,
+              "expanded_url": "https://x.com/badiucao/status/2009112352692830638/photo/1",
+              "media_key": "3_2009112158051946496",
+              "start": 69,
+              "url": "https://t.co/kFflSuiXOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009112352692830638",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3889,
+          "impression_count": 1953149,
+          "like_count": 131995,
+          "quote_count": 326,
+          "reply_count": 882,
+          "retweet_count": 22807
+        },
+        "reply_settings": "everyone",
+        "text": "Cartoon on ICE Agent Kills Woman During Minneapolis Immigration Raid https://t.co/kFflSuiXOP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️咨询补色诺凝胶/减肥/促智等先看https://t.co/9scN5m8csf，不回答网站已经回答过的问题",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chosekipharmacy",
+                "end": 81,
+                "expanded_url": "http://linktr.ee/chosekipharmacy",
+                "start": 58,
+                "url": "https://t.co/9scN5m8csf"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2007855045178716540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13802,
+          "following_count": 1025,
+          "like_count": 44982,
+          "listed_count": 49,
+          "media_count": 1820,
+          "tweet_count": 25407
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-17T11:22:49.000Z",
+        "description": "Chinese Australian artist/Award wining cartoonist for @theage @smh /Human rights Activist/Anti-CCP/New Book https://t.co/O7ZmTyt7h5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 54,
+                "username": "theage"
+              },
+              {
+                "end": 66,
+                "start": 62,
+                "username": "smh"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "badiucao.com/book",
+                "end": 131,
+                "expanded_url": "http://www.badiucao.com/book",
+                "start": 108,
+                "url": "https://t.co/O7ZmTyt7h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "badiucao.com",
+                "end": 23,
+                "expanded_url": "https://badiucao.com",
+                "start": 0,
+                "url": "https://t.co/kCZxU6rbVQ"
+              }
+            ]
+          }
+        },
+        "id": "267695291",
+        "name": "巴丢草 Bad ї ucao",
+        "pinned_tweet_id": "1859208674767700312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1251816290211082240/jo1xNu8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125892,
+          "following_count": 16178,
+          "like_count": 43223,
+          "listed_count": 928,
+          "media_count": 11407,
+          "tweet_count": 227527
+        },
+        "url": "https://t.co/kCZxU6rbVQ",
+        "username": "badiucao",
+        "verified": true
+      }
+    ]
+  }
+}

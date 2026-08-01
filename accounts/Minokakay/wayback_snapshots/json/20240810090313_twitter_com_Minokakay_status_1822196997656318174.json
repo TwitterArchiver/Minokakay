@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1822195602374951126",
+    "created_at": "2024-08-10T09:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-10T10:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822196997656318174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1577816015840296960",
+          "start": 0,
+          "username": "yangaaa111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822196997656318174",
+    "in_reply_to_user_id": "1577816015840296960",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822195602374951126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangaaa111 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1822195602374951126",
+        "created_at": "2024-08-10T09:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T10:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822196997656318174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1577816015840296960",
+              "start": 0,
+              "username": "yangaaa111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822196997656318174",
+        "in_reply_to_user_id": "1577816015840296960",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822195602374951126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangaaa111 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577816015840296960",
+        "conversation_id": "1822195602374951126",
+        "created_at": "2024-08-10T08:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T09:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822195602374951126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1822195602374951126",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根本不能平静下来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome 🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 付费裡推：@Minokakaysex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 152,
+                "start": 139,
+                "username": "Minokakaysex"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 863,
+          "like_count": 6024,
+          "listed_count": 1,
+          "tweet_count": 2265
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-06T00:20:49.000Z",
+        "description": "又是想似的一天呢",
+        "id": "1577816015840296960",
+        "location": "「結束バンド」",
+        "name": "yang",
+        "pinned_tweet_id": "1821150161479069831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820632584906244096/ardl_EdE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 199,
+          "like_count": 17900,
+          "listed_count": 0,
+          "tweet_count": 3801
+        },
+        "username": "yangaaa111",
+        "verified": false
+      }
+    ]
+  }
+}

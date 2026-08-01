@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935519561505456129"
+      ],
+      "media_source_tweet_id": [
+        "1935519575464144963"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1935874360142971218",
+    "created_at": "2025-06-20T01:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T02:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935874360142971218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1843131527351394304",
+          "start": 3,
+          "username": "xu244986"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hOF3xOEuH5",
+          "end": 67,
+          "expanded_url": "https://x.com/xu244986/status/1935519575464144963/photo/1",
+          "media_key": "3_1935519561505456129",
+          "start": 44,
+          "url": "https://t.co/hOF3xOEuH5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935874360142971218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935519575464144963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xu244986: 俄乌撕b在望，米宫对喷相闻。敌人骂声万千重，我自岿然不动。 https://t.co/hOF3xOEuH5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935519561505456129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtxYyU9aQAEUMk1.jpg",
+        "width": 1383
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935519561505456129"
+          ],
+          "media_source_tweet_id": [
+            "1935519575464144963"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1935874360142971218",
+        "created_at": "2025-06-20T01:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T02:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935874360142971218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1843131527351394304",
+              "start": 3,
+              "username": "xu244986"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOF3xOEuH5",
+              "end": 67,
+              "expanded_url": "https://x.com/xu244986/status/1935519575464144963/photo/1",
+              "media_key": "3_1935519561505456129",
+              "start": 44,
+              "url": "https://t.co/hOF3xOEuH5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935874360142971218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935519575464144963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xu244986: 俄乌撕b在望，米宫对喷相闻。敌人骂声万千重，我自岿然不动。 https://t.co/hOF3xOEuH5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935519561505456129"
+          ]
+        },
+        "author_id": "1843131527351394304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1935519575464144963",
+        "created_at": "2025-06-19T02:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T03:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935519575464144963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOF3xOEuH5",
+              "end": 53,
+              "expanded_url": "https://x.com/xu244986/status/1935519575464144963/photo/1",
+              "media_key": "3_1935519561505456129",
+              "start": 30,
+              "url": "https://t.co/hOF3xOEuH5"
+            },
+            {
+              "display_url": "x.com/ShoahUkraine/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/ShoahUkraine/status/1935195262508744822",
+              "start": 54,
+              "url": "https://t.co/7SzBWqHHD6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935519575464144963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4872,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935195262508744822",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "俄乌撕b在望，米宫对喷相闻。敌人骂声万千重，我自岿然不动。 https://t.co/hOF3xOEuH5 https://t.co/7SzBWqHHD6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1933516848781537400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7750,
+          "following_count": 886,
+          "like_count": 43726,
+          "listed_count": 30,
+          "media_count": 1193,
+          "tweet_count": 18972
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T03:29:45.000Z",
+        "description": "安石性强忮，遇事无可否，自信所见，执意不回。 至议变法，而在廷交执不可，安石傅经义，出己意，辩论辄数百言，众不能诎。甚者谓:天变不足畏，祖宗不足法，人言不足恤。(老保之友，明日香激推，熙宁变法失败：@shan80799）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 99,
+                "username": "shan80799"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/maozed…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194205.htm",
+                "start": 0,
+                "url": "https://t.co/mHaTcrS2eE"
+              }
+            ]
+          }
+        },
+        "id": "1843131527351394304",
+        "location": "大宋江宁府",
+        "name": "獾郎Caswer Lebel（谪居金陵中）",
+        "pinned_tweet_id": "1935539433312502186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919415700508278784/Y3ZTdBEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 604,
+          "like_count": 10586,
+          "listed_count": 1,
+          "media_count": 734,
+          "tweet_count": 4557
+        },
+        "url": "https://t.co/mHaTcrS2eE",
+        "username": "xu244986",
+        "verified": false
+      }
+    ]
+  }
+}

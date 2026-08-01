@@ -1,0 +1,567 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917190821125988352"
+      ],
+      "media_source_tweet_id": [
+        "1917534412121735480"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1575775931846709248",
+          "name": "ぼっち・ざ・ろっく!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585394722129858560",
+          "name": "Bocchi the Rock!"
+        }
+      }
+    ],
+    "conversation_id": "1917635448790475074",
+    "created_at": "2025-04-30T17:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T18:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917635448790475074"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 31,
+          "tag": "OLぼっちざろっく"
+        },
+        {
+          "end": 52,
+          "start": 42,
+          "tag": "ぼっち・ざ・ろっく"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2754865507",
+          "start": 3,
+          "username": "hanagamigendai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HKfgYN9hCW",
+          "end": 76,
+          "expanded_url": "https://x.com/hanagamigendai/status/1917534412121735480/photo/1",
+          "media_key": "3_1917190821125988352",
+          "start": 53,
+          "url": "https://t.co/HKfgYN9hCW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917635448790475074",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5325
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917534412121735480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanagamigendai: 社会人1年目と7年目\n#OLぼっちざろっく #ぼっち・ざ・ろっく https://t.co/HKfgYN9hCW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_1917190821125988352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gps65OPaoAAzSoF.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917190821125988352"
+          ],
+          "media_source_tweet_id": [
+            "1917534412121735480"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1917635448790475074",
+        "created_at": "2025-04-30T17:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T18:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917635448790475074"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 31,
+              "tag": "OLぼっちざろっく"
+            },
+            {
+              "end": 52,
+              "start": 42,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2754865507",
+              "start": 3,
+              "username": "hanagamigendai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKfgYN9hCW",
+              "end": 76,
+              "expanded_url": "https://x.com/hanagamigendai/status/1917534412121735480/photo/1",
+              "media_key": "3_1917190821125988352",
+              "start": 53,
+              "url": "https://t.co/HKfgYN9hCW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917635448790475074",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5325
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917534412121735480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanagamigendai: 社会人1年目と7年目\n#OLぼっちざろっく #ぼっち・ざ・ろっく https://t.co/HKfgYN9hCW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917190821125988352"
+          ]
+        },
+        "author_id": "2754865507",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1575775931846709248",
+              "name": "ぼっち・ざ・ろっく!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585394722129858560",
+              "name": "Bocchi the Rock!"
+            }
+          }
+        ],
+        "conversation_id": "1917534412121735480",
+        "created_at": "2025-04-30T11:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T12:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917534412121735480"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 11,
+              "tag": "OLぼっちざろっく"
+            },
+            {
+              "end": 32,
+              "start": 22,
+              "tag": "ぼっち・ざ・ろっく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKfgYN9hCW",
+              "end": 56,
+              "expanded_url": "https://x.com/hanagamigendai/status/1917534412121735480/photo/1",
+              "media_key": "3_1917190821125988352",
+              "start": 33,
+              "url": "https://t.co/HKfgYN9hCW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917534412121735480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3927,
+          "impression_count": 705056,
+          "like_count": 43102,
+          "quote_count": 219,
+          "reply_count": 63,
+          "retweet_count": 5325
+        },
+        "reply_settings": "everyone",
+        "text": "社会人1年目と7年目\n#OLぼっちざろっく #ぼっち・ざ・ろっく https://t.co/HKfgYN9hCW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1916475690863726978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6576,
+          "following_count": 866,
+          "like_count": 41419,
+          "listed_count": 29,
+          "media_count": 880,
+          "tweet_count": 16829
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-22T12:40:25.000Z",
+        "description": "Japanese Illustrator\npixiv:https://t.co/vvkomIn0xQ\nmail: hanagamigendai@gmail.com \n弟とラジオやってます📻https://t.co/mUWa0TyIS6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/8039074",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/8039074",
+                "start": 27,
+                "url": "https://t.co/vvkomIn0xQ"
+              },
+              {
+                "display_url": "open.spotify.com/show/1prxkpd3C…",
+                "end": 117,
+                "expanded_url": "https://open.spotify.com/show/1prxkpd3CanfL8AGsVBnq8",
+                "start": 94,
+                "url": "https://t.co/mUWa0TyIS6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inprnt.com/gallery/hanaga…",
+                "end": 23,
+                "expanded_url": "https://www.inprnt.com/gallery/hanagamigendai/",
+                "start": 0,
+                "url": "https://t.co/bZtb3FQO1n"
+              }
+            ]
+          }
+        },
+        "id": "2754865507",
+        "location": "東京",
+        "name": "花紙 現代-gendai hanagami",
+        "pinned_tweet_id": "1792142655813451863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760164228617707520/Nr5HHQLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6830,
+          "following_count": 1214,
+          "like_count": 8255,
+          "listed_count": 96,
+          "media_count": 437,
+          "tweet_count": 2081
+        },
+        "url": "https://t.co/bZtb3FQO1n",
+        "username": "hanagamigendai",
+        "verified": false
+      }
+    ]
+  }
+}

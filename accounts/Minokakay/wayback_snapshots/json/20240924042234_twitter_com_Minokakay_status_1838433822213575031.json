@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "1838267826110685660",
+    "created_at": "2024-09-24T04:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T05:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838433822213575031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1779154402588172288",
+          "start": 0,
+          "username": "_Nikisade"
+        },
+        {
+          "end": 20,
+          "id": "1725336655069159425",
+          "start": 11,
+          "username": "_glaciel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838433822213575031",
+    "in_reply_to_user_id": "1779154402588172288",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838421409309020298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Nikisade @_glaciel 微軟就是會在這些地方偷懶，比如右鍵打開菜單的更多選項，跟win7 win10基本沒差，質感有點差"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "1838267826110685660",
+        "created_at": "2024-09-24T04:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T05:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838433822213575031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1779154402588172288",
+              "start": 0,
+              "username": "_Nikisade"
+            },
+            {
+              "end": 20,
+              "id": "1725336655069159425",
+              "start": 11,
+              "username": "_glaciel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838433822213575031",
+        "in_reply_to_user_id": "1779154402588172288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838421409309020298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Nikisade @_glaciel 微軟就是會在這些地方偷懶，比如右鍵打開菜單的更多選項，跟win7 win10基本沒差，質感有點差"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779154402588172288",
+        "conversation_id": "1838267826110685660",
+        "created_at": "2024-09-24T03:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T04:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838421409309020298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1725336655069159425",
+              "start": 0,
+              "username": "_glaciel"
+            },
+            {
+              "end": 20,
+              "id": "1597257668313260033",
+              "start": 10,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838421409309020298",
+        "in_reply_to_user_id": "1725336655069159425",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838420925089484963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_glaciel @Minokakay 草对哦 那是什么呢 是Win7吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比男高三生 阿斯ADHD Pansexual INFP 🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1838293568034869644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 837,
+          "like_count": 16516,
+          "listed_count": 4,
+          "tweet_count": 7146
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:35:04.000Z",
+        "description": "等我死掉，你就会拥有独一无二的阴雨天娃娃。",
+        "id": "1779154402588172288",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空 is watching you, affectionately.",
+        "pinned_tweet_id": "1828873920969355779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836238844519194624/UCHQCmH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 362,
+          "like_count": 70148,
+          "listed_count": 4,
+          "tweet_count": 12054
+        },
+        "username": "_Nikisade",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T02:15:07.000Z",
+        "description": "Best Test your Nest for Guests from the West to Rest",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "uhio.uk",
+                "end": 23,
+                "expanded_url": "http://uhio.uk",
+                "start": 0,
+                "url": "https://t.co/Dq7QiXo4C9"
+              }
+            ]
+          }
+        },
+        "id": "1725336655069159425",
+        "location": "#RenameMapToGeograph",
+        "name": "間霜 明華 Mashimo Meika",
+        "pinned_tweet_id": "1834595080373493997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832943997410807808/uSv-RiMP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 184,
+          "like_count": 119,
+          "listed_count": 1,
+          "tweet_count": 2761
+        },
+        "url": "https://t.co/Dq7QiXo4C9",
+        "username": "_glaciel",
+        "verified": false
+      }
+    ]
+  }
+}

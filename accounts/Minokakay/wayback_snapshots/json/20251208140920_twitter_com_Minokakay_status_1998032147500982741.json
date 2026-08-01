@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998030303588466688",
+        "3_1998030303676583936"
+      ],
+      "media_source_tweet_id": [
+        "1998030307283619891",
+        "1998030307283619891"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1998032147500982741",
+    "created_at": "2025-12-08T14:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T15:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998032147500982741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894281664093982722",
+          "start": 3,
+          "username": "Fukaerisama"
+        },
+        {
+          "end": 54,
+          "id": "1856322437144817667",
+          "start": 38,
+          "username": "ChosekiNoraneko"
+        },
+        {
+          "end": 65,
+          "id": "1597257668313260033",
+          "start": 55,
+          "username": "Minokakay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OTxUxlbJgA",
+          "end": 89,
+          "expanded_url": "https://x.com/Fukaerisama/status/1998030307283619891/photo/1",
+          "media_key": "3_1998030303588466688",
+          "start": 66,
+          "url": "https://t.co/OTxUxlbJgA"
+        },
+        {
+          "display_url": "pic.x.com/OTxUxlbJgA",
+          "end": 89,
+          "expanded_url": "https://x.com/Fukaerisama/status/1998030307283619891/photo/1",
+          "media_key": "3_1998030303676583936",
+          "start": 66,
+          "url": "https://t.co/OTxUxlbJgA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998032147500982741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998030307283619891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fukaerisama: 非常好补和色\n孩子和鲨鲨fufu都很喜欢\n@ChosekiNoraneko @Minokakay https://t.co/OTxUxlbJgA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998030303588466688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pt-Z_bQAAk0cc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1998030303676583936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pt-aUb0AAtzdL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998030303588466688",
+            "3_1998030303676583936"
+          ],
+          "media_source_tweet_id": [
+            "1998030307283619891",
+            "1998030307283619891"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1998032147500982741",
+        "created_at": "2025-12-08T14:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T15:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998032147500982741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894281664093982722",
+              "start": 3,
+              "username": "Fukaerisama"
+            },
+            {
+              "end": 54,
+              "id": "1856322437144817667",
+              "start": 38,
+              "username": "ChosekiNoraneko"
+            },
+            {
+              "end": 65,
+              "id": "1597257668313260033",
+              "start": 55,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTxUxlbJgA",
+              "end": 89,
+              "expanded_url": "https://x.com/Fukaerisama/status/1998030307283619891/photo/1",
+              "media_key": "3_1998030303588466688",
+              "start": 66,
+              "url": "https://t.co/OTxUxlbJgA"
+            },
+            {
+              "display_url": "pic.x.com/OTxUxlbJgA",
+              "end": 89,
+              "expanded_url": "https://x.com/Fukaerisama/status/1998030307283619891/photo/1",
+              "media_key": "3_1998030303676583936",
+              "start": 66,
+              "url": "https://t.co/OTxUxlbJgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998032147500982741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998030307283619891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fukaerisama: 非常好补和色\n孩子和鲨鲨fufu都很喜欢\n@ChosekiNoraneko @Minokakay https://t.co/OTxUxlbJgA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998030303588466688",
+            "3_1998030303676583936"
+          ]
+        },
+        "author_id": "1894281664093982722",
+        "conversation_id": "1998030307283619891",
+        "created_at": "2025-12-08T14:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T15:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998030307283619891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1856322437144817667",
+              "start": 21,
+              "username": "ChosekiNoraneko"
+            },
+            {
+              "end": 48,
+              "id": "1597257668313260033",
+              "start": 38,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTxUxlbJgA",
+              "end": 72,
+              "expanded_url": "https://x.com/Fukaerisama/status/1998030307283619891/photo/1",
+              "media_key": "3_1998030303588466688",
+              "start": 49,
+              "url": "https://t.co/OTxUxlbJgA"
+            },
+            {
+              "display_url": "pic.x.com/OTxUxlbJgA",
+              "end": 72,
+              "expanded_url": "https://x.com/Fukaerisama/status/1998030307283619891/photo/1",
+              "media_key": "3_1998030303676583936",
+              "start": 49,
+              "url": "https://t.co/OTxUxlbJgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998030307283619891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "非常好补和色\n孩子和鲨鲨fufu都很喜欢\n@ChosekiNoraneko @Minokakay https://t.co/OTxUxlbJgA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 阿斯ADHD精分抑鬱焦慮MtX，成都大阪随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智/靶向药请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13005,
+          "following_count": 1013,
+          "like_count": 44987,
+          "listed_count": 50,
+          "media_count": 1722,
+          "tweet_count": 24171
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-25T07:02:26.000Z",
+        "description": "MtF/持证含糖/maimai/推文是我的情绪垃圾场",
+        "id": "1894281664093982722",
+        "name": "絵里",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951348057515442176/Yrkx8stZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 14,
+          "like_count": 717,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 501
+        },
+        "username": "Fukaerisama",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T13:05:46.000Z",
+        "description": "Choseki Pharmacy的官方賬號，售卖正规进口药品，EN/JP/CN三語客服，此店铺由@Minokakay 担保并提供客服服务，欢迎https://t.co/Re1C3wI5BZ或推特私信下单！ 可邮寄港台及全球220國 工作时间12PM-25PM，下单采取留言制，不定时回复见谅，未成年/高中生勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Minokakay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/chosekinoraneko",
+                "end": 94,
+                "expanded_url": "http://t.me/chosekinoraneko",
+                "start": 71,
+                "url": "https://t.co/Re1C3wI5BZ"
+              }
+            ]
+          }
+        },
+        "id": "1856322437144817667",
+        "location": "Singapore",
+        "name": "Choseki Pharmacy（泰补色诺HRT",
+        "pinned_tweet_id": "1993981353671709036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983515505492467712/aSgVpP5B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4743,
+          "following_count": 32,
+          "like_count": 132,
+          "listed_count": 11,
+          "media_count": 22,
+          "tweet_count": 218
+        },
+        "username": "ChosekiNoraneko",
+        "verified": false
+      }
+    ]
+  }
+}

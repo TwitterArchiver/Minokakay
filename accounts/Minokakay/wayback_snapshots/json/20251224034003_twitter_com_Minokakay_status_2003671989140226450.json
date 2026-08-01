@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "2003671989140226450",
+    "created_at": "2025-12-24T03:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T04:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003671989140226450"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dameiliuhe111/…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/dameiliuhe111/status/2003501193608462410",
+          "start": 64,
+          "url": "https://t.co/JMjwaDni30"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003671989140226450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003501193608462410",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Merry Christmas\n朝鲜人可感谢抗美援朝了，要不是咱们帮他们打仗，他们就得用三星手机，开现代汽车了，还是饿着舒服😁 https://t.co/JMjwaDni30"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_2003500945343414277",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83dfqpagAUAZbx.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2003671989140226450",
+        "created_at": "2025-12-24T03:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T04:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003671989140226450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dameiliuhe111/…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/dameiliuhe111/status/2003501193608462410",
+              "start": 64,
+              "url": "https://t.co/JMjwaDni30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003671989140226450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003501193608462410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Merry Christmas\n朝鲜人可感谢抗美援朝了，要不是咱们帮他们打仗，他们就得用三星手机，开现代汽车了，还是饿着舒服😁 https://t.co/JMjwaDni30"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003500945343414277"
+          ]
+        },
+        "author_id": "1840055966525726720",
+        "conversation_id": "2003501193608462410",
+        "created_at": "2025-12-23T16:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T17:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003501193608462410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFfpMUSjLE",
+              "end": 161,
+              "expanded_url": "https://x.com/dameiliuhe111/status/2003501193608462410/photo/1",
+              "media_key": "3_2003500945343414277",
+              "start": 138,
+              "url": "https://t.co/mFfpMUSjLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003501193608462410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "冰雪啊，我决不屈服于你，哪怕是冻死，我也要高傲地耸立在我的阵地上！\n\n75年前的今天，年轻的人民志愿军战士宋阿毛在长津湖那冰天雪地的严寒里，写下了这样滚烫的文字。\n\n那年，无数志愿军战士如他一样，用炙热的意志与信念克服了巨大而悬殊的装备差距，用一场决定性的胜利向全世界宣告：\n\n自由的人民绝不会屈服于帝国主义者的侵略与暴行。\n\n这是中国在圣诞节这一天给予这个世界的，最好的礼物。\n\n我们将会永远铭记他们伟大的牺牲，致敬他们为保卫人类文明世界所展现出的，非凡的勇气。\n\n向英雄们致敬！🫡🇨🇳"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 514,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "冰雪啊，我决不屈服于你，哪怕是冻死，我也要高傲地耸立在我的阵地上！\n\n75年前的今天，年轻的人民志愿军战士宋阿毛在长津湖那冰天雪地的严寒里，写下了这样滚烫的文字。\n\n那年，无数志愿军战士如他一样，用炙热的意志与信念克服了巨大而悬殊的装备差距，用一场决定性的胜利向全世界宣告： https://t.co/mFfpMUSjLE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，如需癌症/慢病用药，请找@Lucius_Pharma，均是我朋友开的，我担保。如需电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Lucius_Pharma"
+              },
+              {
+                "end": 136,
+                "start": 126,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13375,
+          "following_count": 1016,
+          "like_count": 44951,
+          "listed_count": 50,
+          "media_count": 1800,
+          "tweet_count": 24936
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-28T15:48:30.000Z",
+        "description": "红色的旗帜，一定会在全球飘扬！",
+        "id": "1840055966525726720",
+        "location": "台北",
+        "name": "大美六合（链条）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840917985864925184/qCauo_Ey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4313,
+          "following_count": 3279,
+          "like_count": 104835,
+          "listed_count": 69,
+          "media_count": 1484,
+          "tweet_count": 29358
+        },
+        "username": "dameiliuhe111",
+        "verified": true
+      }
+    ]
+  }
+}

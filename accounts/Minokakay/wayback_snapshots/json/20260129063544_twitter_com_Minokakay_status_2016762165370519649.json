@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016462810377502720",
+        "3_2016462810189012992"
+      ],
+      "media_source_tweet_id": [
+        "2016462816400875816",
+        "2016462816400875816"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2016762165370519649",
+    "created_at": "2026-01-29T06:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T07:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016762165370519649"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "カヲシン",
+          "probability": 0.4975,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1958866789452193793",
+          "start": 3,
+          "username": "m3gris3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GJl2G1GbXw",
+          "end": 49,
+          "expanded_url": "https://x.com/m3gris3/status/2016462816400875816/photo/1",
+          "media_key": "3_2016462810377502720",
+          "start": 26,
+          "url": "https://t.co/GJl2G1GbXw"
+        },
+        {
+          "display_url": "pic.x.com/GJl2G1GbXw",
+          "end": 49,
+          "expanded_url": "https://x.com/m3gris3/status/2016462816400875816/photo/1",
+          "media_key": "3_2016462810189012992",
+          "start": 26,
+          "url": "https://t.co/GJl2G1GbXw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016762165370519649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1354
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016462816400875816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @m3gris3: さんばかトリオとカヲシン https://t.co/GJl2G1GbXw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016462810377502720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vqPgtWQAAScl_.jpg",
+        "width": 1412
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016462810189012992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vqPgAaIAAeKwu.jpg",
+        "width": 1412
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016462810377502720",
+            "3_2016462810189012992"
+          ],
+          "media_source_tweet_id": [
+            "2016462816400875816",
+            "2016462816400875816"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2016762165370519649",
+        "created_at": "2026-01-29T06:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016762165370519649"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "カヲシン",
+              "probability": 0.4975,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1958866789452193793",
+              "start": 3,
+              "username": "m3gris3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJl2G1GbXw",
+              "end": 49,
+              "expanded_url": "https://x.com/m3gris3/status/2016462816400875816/photo/1",
+              "media_key": "3_2016462810377502720",
+              "start": 26,
+              "url": "https://t.co/GJl2G1GbXw"
+            },
+            {
+              "display_url": "pic.x.com/GJl2G1GbXw",
+              "end": 49,
+              "expanded_url": "https://x.com/m3gris3/status/2016462816400875816/photo/1",
+              "media_key": "3_2016462810189012992",
+              "start": 26,
+              "url": "https://t.co/GJl2G1GbXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016762165370519649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1354
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016462816400875816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @m3gris3: さんばかトリオとカヲシン https://t.co/GJl2G1GbXw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016462810377502720",
+            "3_2016462810189012992"
+          ]
+        },
+        "author_id": "1958866789452193793",
+        "conversation_id": "2016462816400875816",
+        "created_at": "2026-01-28T10:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016462816400875816"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "カヲシン",
+              "probability": 0.511,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJl2G1GbXw",
+              "end": 36,
+              "expanded_url": "https://x.com/m3gris3/status/2016462816400875816/photo/1",
+              "media_key": "3_2016462810377502720",
+              "start": 13,
+              "url": "https://t.co/GJl2G1GbXw"
+            },
+            {
+              "display_url": "pic.x.com/GJl2G1GbXw",
+              "end": 36,
+              "expanded_url": "https://x.com/m3gris3/status/2016462816400875816/photo/1",
+              "media_key": "3_2016462810189012992",
+              "start": 13,
+              "url": "https://t.co/GJl2G1GbXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016462816400875816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1508,
+          "impression_count": 154881,
+          "like_count": 15734,
+          "quote_count": 65,
+          "reply_count": 3,
+          "retweet_count": 1354
+        },
+        "reply_settings": "following",
+        "text": "さんばかトリオとカヲシン https://t.co/GJl2G1GbXw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️咨询补色诺凝胶等找https://t.co/9scN5m8KhN，私信不回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chosekipharmacy",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/chosekipharmacy",
+                "start": 51,
+                "url": "https://t.co/9scN5m8KhN"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2013945809042350395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13963,
+          "following_count": 1028,
+          "like_count": 44876,
+          "listed_count": 49,
+          "media_count": 1801,
+          "tweet_count": 25608
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-22T12:20:19.000Z",
+        "description": "成人/ EVA 中心（53）/ ✉️ https://t.co/totup7iXIN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/2mf0ek93j…",
+                "end": 42,
+                "expanded_url": "https://wavebox.me/wave/2mf0ek93js5cwls8/",
+                "start": 19,
+                "url": "https://t.co/totup7iXIN"
+              }
+            ]
+          }
+        },
+        "id": "1958866789452193793",
+        "name": "ちょじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010734623941357568/WplxTCuf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6004,
+          "following_count": 55,
+          "like_count": 1730,
+          "listed_count": 11,
+          "media_count": 71,
+          "tweet_count": 1285
+        },
+        "username": "m3gris3",
+        "verified": false
+      }
+    ]
+  }
+}

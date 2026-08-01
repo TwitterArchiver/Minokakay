@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962953100693843968"
+      ],
+      "media_source_tweet_id": [
+        "1963074481884455325"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1163813996698279936",
+          "name": "学校校則"
+        }
+      }
+    ],
+    "conversation_id": "1963175840679952684",
+    "created_at": "2025-09-03T09:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T10:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963175840679952684"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "町薫",
+          "probability": 0.5335,
+          "start": 30,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1814718379783299072",
+          "start": 3,
+          "username": "aidigger182020"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Eb47Dty7Y0",
+          "end": 56,
+          "expanded_url": "https://x.com/aidigger182020/status/1963074481884455325/photo/1",
+          "media_key": "3_1962953100693843968",
+          "start": 33,
+          "url": "https://t.co/Eb47Dty7Y0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963175840679952684",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963074481884455325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aidigger182020: 校則違反してくれる棚町薫 https://t.co/Eb47Dty7Y0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_1962953100693843968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz3PceWbsAAn5vj.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962953100693843968"
+          ],
+          "media_source_tweet_id": [
+            "1963074481884455325"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1163813996698279936",
+              "name": "学校校則"
+            }
+          }
+        ],
+        "conversation_id": "1963175840679952684",
+        "created_at": "2025-09-03T09:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T10:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963175840679952684"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "町薫",
+              "probability": 0.5335,
+              "start": 30,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1814718379783299072",
+              "start": 3,
+              "username": "aidigger182020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eb47Dty7Y0",
+              "end": 56,
+              "expanded_url": "https://x.com/aidigger182020/status/1963074481884455325/photo/1",
+              "media_key": "3_1962953100693843968",
+              "start": 33,
+              "url": "https://t.co/Eb47Dty7Y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963175840679952684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963074481884455325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aidigger182020: 校則違反してくれる棚町薫 https://t.co/Eb47Dty7Y0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962953100693843968"
+          ]
+        },
+        "author_id": "1814718379783299072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1163813996698279936",
+              "name": "学校校則"
+            }
+          }
+        ],
+        "conversation_id": "1963074481884455325",
+        "created_at": "2025-09-03T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963074481884455325"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "町薫",
+              "probability": 0.5857,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eb47Dty7Y0",
+              "end": 36,
+              "expanded_url": "https://x.com/aidigger182020/status/1963074481884455325/photo/1",
+              "media_key": "3_1962953100693843968",
+              "start": 13,
+              "url": "https://t.co/Eb47Dty7Y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963074481884455325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 8637,
+          "like_count": 613,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "校則違反してくれる棚町薫 https://t.co/Eb47Dty7Y0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9340,
+          "following_count": 928,
+          "like_count": 44593,
+          "listed_count": 33,
+          "media_count": 1395,
+          "tweet_count": 20768
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-20T17:46:02.000Z",
+        "description": "@comiques_ai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "comiques_ai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/comiques",
+                "end": 23,
+                "expanded_url": "https://lit.link/comiques",
+                "start": 0,
+                "url": "https://t.co/cKPYdZGu7Y"
+              }
+            ]
+          }
+        },
+        "id": "1814718379783299072",
+        "location": "AI+加筆修正",
+        "name": "aidigger",
+        "pinned_tweet_id": "1944405946618507436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917588452067151872/W3JbILLa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14932,
+          "following_count": 1208,
+          "like_count": 2753,
+          "listed_count": 119,
+          "media_count": 393,
+          "tweet_count": 1093
+        },
+        "url": "https://t.co/cKPYdZGu7Y",
+        "username": "aidigger182020",
+        "verified": true
+      }
+    ]
+  }
+}

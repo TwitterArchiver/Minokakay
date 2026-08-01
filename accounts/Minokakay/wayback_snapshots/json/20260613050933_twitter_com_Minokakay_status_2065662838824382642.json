@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2065069054319333634",
+    "created_at": "2026-06-13T05:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T06:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065662838824382642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900189464972140544",
+          "start": 0,
+          "username": "ayaoshenguyo"
+        },
+        {
+          "end": 30,
+          "id": "1499751599685521410",
+          "start": 14,
+          "username": "TherPalebluedot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065662838824382642",
+    "in_reply_to_user_id": "1900189464972140544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065652723945750685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayaoshenguyo @TherPalebluedot 那不就更说明北京上海招太多其他地方招太少了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2065069054319333634",
+        "created_at": "2026-06-13T05:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065662838824382642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900189464972140544",
+              "start": 0,
+              "username": "ayaoshenguyo"
+            },
+            {
+              "end": 30,
+              "id": "1499751599685521410",
+              "start": 14,
+              "username": "TherPalebluedot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065662838824382642",
+        "in_reply_to_user_id": "1900189464972140544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065652723945750685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayaoshenguyo @TherPalebluedot 那不就更说明北京上海招太多其他地方招太少了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900189464972140544",
+        "conversation_id": "2065069054319333634",
+        "created_at": "2026-06-13T04:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065652723945750685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            },
+            {
+              "end": 27,
+              "id": "1499751599685521410",
+              "start": 11,
+              "username": "TherPalebluedot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065652723945750685",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065298132012081176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay @TherPalebluedot 除了北京和上海，哪的录取能超过人口占比"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14375,
+          "following_count": 1051,
+          "like_count": 44025,
+          "listed_count": 50,
+          "media_count": 1837,
+          "tweet_count": 26222
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T14:17:53.000Z",
+        "description": "叫我阿要就可以，男，高三生，喜欢看百合，可扩列，颜控足控，4i，m😘qq  2357580148欢迎扩列(没有门槛，没同意就是没看见，给我发私信)https://t.co/ExYk7qcWGR欢迎互动😋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ayao57504",
+                "end": 96,
+                "expanded_url": "https://ngl.link/ayao57504",
+                "start": 73,
+                "url": "https://t.co/ExYk7qcWGR"
+              }
+            ]
+          }
+        },
+        "id": "1900189464972140544",
+        "name": "阿要",
+        "pinned_tweet_id": "2060811620864184419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907077544966496256/v05nOqWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 440,
+          "like_count": 1522,
+          "listed_count": 4,
+          "media_count": 15,
+          "tweet_count": 179
+        },
+        "username": "ayaoshenguyo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T14:20:31.000Z",
+        "description": "Do you forget your dream in your Childhood?\n\nWish you happy no matter where you are.\nhttps://t.co/bfXFOSvBh5\n\nMy blog is getting fleshed out  👇",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+nKLYNDNPM_81Z…",
+                "end": 108,
+                "expanded_url": "http://t.me/+nKLYNDNPM_81ZmRk",
+                "start": 85,
+                "url": "https://t.co/bfXFOSvBh5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spaceprobevoyager.org",
+                "end": 23,
+                "expanded_url": "http://spaceprobevoyager.org",
+                "start": 0,
+                "url": "https://t.co/n4mpzWb7XE"
+              }
+            ]
+          }
+        },
+        "id": "1499751599685521410",
+        "location": "Out of Solar system",
+        "name": "Voyager I",
+        "pinned_tweet_id": "1898840573689331986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883661225885872128/Tai86hXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 152,
+          "like_count": 5250,
+          "listed_count": 2,
+          "media_count": 318,
+          "tweet_count": 3126
+        },
+        "url": "https://t.co/n4mpzWb7XE",
+        "username": "TherPalebluedot",
+        "verified": false
+      }
+    ]
+  }
+}

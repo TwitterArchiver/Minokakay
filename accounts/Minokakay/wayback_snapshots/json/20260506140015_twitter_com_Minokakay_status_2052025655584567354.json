@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2052025655584567354",
+    "created_at": "2026-05-06T14:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052025655584567354"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052025655584567354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "仅仅是坐在你对面 相顾无言，\n落日便等不及般沉没进了地平线，\n我说如何才能留下这些时间，\n可只有蒸汽味仍旧盘旋不歇。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2052025655584567354",
+        "created_at": "2026-05-06T14:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052025655584567354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052025655584567354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仅仅是坐在你对面 相顾无言，\n落日便等不及般沉没进了地平线，\n我说如何才能留下这些时间，\n可只有蒸汽味仍旧盘旋不歇。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "发着光的半平米，胡乱哼唱的旋律，\n但是还想拯救你，同时拯救我自己。 \n大阪随机刷新✝️🍬找choseki见https://t.co/hStQSlMtBp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 76,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 53,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14414,
+          "following_count": 1056,
+          "like_count": 43998,
+          "listed_count": 51,
+          "media_count": 1808,
+          "tweet_count": 26043
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

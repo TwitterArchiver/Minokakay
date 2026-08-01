@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1997989839761998263",
+    "created_at": "2025-12-08T12:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T13:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998000753101979922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971664911546888192",
+          "start": 0,
+          "username": "lnln715686"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998000753101979922",
+    "in_reply_to_user_id": "1971664911546888192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997989839761998263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnln715686 现在是不过长江了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1997989839761998263",
+        "created_at": "2025-12-08T12:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T13:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998000753101979922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971664911546888192",
+              "start": 0,
+              "username": "lnln715686"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998000753101979922",
+        "in_reply_to_user_id": "1971664911546888192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997989839761998263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnln715686 现在是不过长江了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971664911546888192",
+        "conversation_id": "1997989839761998263",
+        "created_at": "2025-12-08T11:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T12:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997989839761998263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/minokakay/status/1997632225030914307",
+              "start": 26,
+              "url": "https://t.co/VeRX5A5S5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997989839761998263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997632225030914307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我管理学老师跟我们讲过一句俗语“做生意不过山海关” https://t.co/VeRX5A5S5y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 阿斯ADHD精分抑鬱焦慮MtX，成都大阪随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智/靶向药请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12999,
+          "following_count": 1013,
+          "like_count": 44986,
+          "listed_count": 50,
+          "media_count": 1718,
+          "tweet_count": 24154
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-26T19:55:30.000Z",
+        "description": "只有天知道",
+        "id": "1971664911546888192",
+        "name": "ininLL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997942489911803904/VWvzktEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 33,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 522
+        },
+        "username": "lnln715686",
+        "verified": false
+      }
+    ]
+  }
+}

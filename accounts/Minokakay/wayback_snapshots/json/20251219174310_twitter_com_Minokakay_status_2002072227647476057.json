@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001919311992991744"
+      ],
+      "media_source_tweet_id": [
+        "2001919331010252982"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2002072227647476057",
+    "created_at": "2025-12-19T17:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T18:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002072227647476057"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 52,
+          "normalized_text": "Sheremetyevo International Airport",
+          "probability": 0.9752,
+          "start": 19,
+          "type": "Place"
+        },
+        {
+          "end": 60,
+          "normalized_text": "Moscow",
+          "probability": 0.9766,
+          "start": 55,
+          "type": "Place"
+        },
+        {
+          "end": 66,
+          "normalized_text": "USSR",
+          "probability": 0.9616,
+          "start": 63,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "732649152807469056",
+          "start": 3,
+          "username": "sovietvisuals"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4xZsKKwiu0",
+          "end": 98,
+          "expanded_url": "https://x.com/sovietvisuals/status/2001919331010252982/photo/1",
+          "media_key": "3_2001919311992991744",
+          "start": 75,
+          "url": "https://t.co/4xZsKKwiu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002072227647476057",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 252
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001919331010252982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sovietvisuals: Sheremetyevo International Airport, Moscow, USSR, 1990. https://t.co/4xZsKKwiu0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2446,
+        "media_key": "3_2001919311992991744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8g_AfRWMAAMlgJ.jpg",
+        "width": 3423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001919311992991744"
+          ],
+          "media_source_tweet_id": [
+            "2001919331010252982"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2002072227647476057",
+        "created_at": "2025-12-19T17:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T18:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002072227647476057"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "Sheremetyevo International Airport",
+              "probability": 0.9752,
+              "start": 19,
+              "type": "Place"
+            },
+            {
+              "end": 60,
+              "normalized_text": "Moscow",
+              "probability": 0.9766,
+              "start": 55,
+              "type": "Place"
+            },
+            {
+              "end": 66,
+              "normalized_text": "USSR",
+              "probability": 0.9616,
+              "start": 63,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "732649152807469056",
+              "start": 3,
+              "username": "sovietvisuals"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4xZsKKwiu0",
+              "end": 98,
+              "expanded_url": "https://x.com/sovietvisuals/status/2001919331010252982/photo/1",
+              "media_key": "3_2001919311992991744",
+              "start": 75,
+              "url": "https://t.co/4xZsKKwiu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002072227647476057",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 252
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001919331010252982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sovietvisuals: Sheremetyevo International Airport, Moscow, USSR, 1990. https://t.co/4xZsKKwiu0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001919311992991744"
+          ]
+        },
+        "author_id": "732649152807469056",
+        "conversation_id": "2001919331010252982",
+        "created_at": "2025-12-19T07:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T08:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001919331010252982"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Sheremetyevo International Airport",
+              "probability": 0.983,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Moscow",
+              "probability": 0.9797,
+              "start": 36,
+              "type": "Place"
+            },
+            {
+              "end": 47,
+              "normalized_text": "USSR",
+              "probability": 0.9617,
+              "start": 44,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4xZsKKwiu0",
+              "end": 79,
+              "expanded_url": "https://x.com/sovietvisuals/status/2001919331010252982/photo/1",
+              "media_key": "3_2001919311992991744",
+              "start": 56,
+              "url": "https://t.co/4xZsKKwiu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001919331010252982",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 268,
+          "impression_count": 47876,
+          "like_count": 2689,
+          "quote_count": 9,
+          "reply_count": 3,
+          "retweet_count": 252
+        },
+        "reply_settings": "everyone",
+        "text": "Sheremetyevo International Airport, Moscow, USSR, 1990. https://t.co/4xZsKKwiu0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13063,
+          "following_count": 1005,
+          "like_count": 44955,
+          "listed_count": 50,
+          "media_count": 1762,
+          "tweet_count": 24597
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-17T19:09:04.000Z",
+        "description": "Visuals from behind the Iron Curtain. Soviet (and bits of pre/post-Soviet) photography, architecture & design. USSR propaganda art. Curated by @variainayurt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "variainayurt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stratonaut.shop",
+                "end": 23,
+                "expanded_url": "https://stratonaut.shop/",
+                "start": 0,
+                "url": "https://t.co/R8ZYPt6jLt"
+              }
+            ]
+          }
+        },
+        "id": "732649152807469056",
+        "location": "USSR",
+        "name": "Soviet Visuals",
+        "pinned_tweet_id": "1496431879356137473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1517637980046991360/YQAdqLKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407687,
+          "following_count": 1830,
+          "like_count": 14677,
+          "listed_count": 2744,
+          "media_count": 25407,
+          "tweet_count": 39961
+        },
+        "url": "https://t.co/R8ZYPt6jLt",
+        "username": "sovietvisuals",
+        "verified": false
+      }
+    ]
+  }
+}

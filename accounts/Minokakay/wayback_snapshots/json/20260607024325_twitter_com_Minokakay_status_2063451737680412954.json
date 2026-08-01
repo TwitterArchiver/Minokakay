@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2063238680148586717",
+    "created_at": "2026-06-07T02:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063451737680412954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1476936878137823232",
+          "start": 0,
+          "username": "namsle0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063451737680412954",
+    "in_reply_to_user_id": "1476936878137823232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063322561816277250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@namsle0 日本引进了大量东南亚南亚人来上班"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2063238680148586717",
+        "created_at": "2026-06-07T02:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063451737680412954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1476936878137823232",
+              "start": 0,
+              "username": "namsle0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063451737680412954",
+        "in_reply_to_user_id": "1476936878137823232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063322561816277250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@namsle0 日本引进了大量东南亚南亚人来上班"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476936878137823232",
+        "conversation_id": "2063238680148586717",
+        "created_at": "2026-06-06T18:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063322561816277250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063322561816277250",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1388,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063238680148586717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 东南亚是不是发财了啊 这次去到处都是东南亚人 欧美人韩国人的比例都没那么高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "成都大阪随机刷新",
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2053855849005961576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14319,
+          "following_count": 1045,
+          "like_count": 43999,
+          "listed_count": 48,
+          "media_count": 1829,
+          "tweet_count": 26164
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-31T15:22:53.000Z",
+        "description": "阿宅生活日志",
+        "id": "1476936878137823232",
+        "name": "Na録",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061681727928745984/l954gR72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 176,
+          "like_count": 1729,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 499
+        },
+        "username": "namsle0",
+        "verified": false
+      }
+    ]
+  }
+}

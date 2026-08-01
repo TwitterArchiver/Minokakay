@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1912929580102639616"
+      ],
+      "media_source_tweet_id": [
+        "1912929601942405120"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1912942051358024049",
+    "created_at": "2025-04-17T18:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T19:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912942051358024049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "613474927",
+          "start": 3,
+          "username": "PunchingCat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fqhzG5uknn",
+          "end": 40,
+          "expanded_url": "https://x.com/PunchingCat/status/1912929601942405120/video/1",
+          "media_key": "7_1912929580102639616",
+          "start": 17,
+          "url": "https://t.co/fqhzG5uknn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912942051358024049",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912929601942405120",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PunchingCat: https://t.co/fqhzG5uknn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25402,
+        "height": 640,
+        "media_key": "7_1912929580102639616",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1912929580102639616/pu/img/6MSeoOrbOM-7JcmI.jpg",
+        "public_metrics": {
+          "view_count": 3668
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1912929580102639616/pu/vid/avc1/320x568/rmNs19VFqgO9WcTc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1912929580102639616/pu/vid/avc1/360x640/Yh9ea_UGAGUFY5uI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1912929580102639616/pu/pl/eTqGeF8W5_r4nuDV.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1912929580102639616"
+          ],
+          "media_source_tweet_id": [
+            "1912929601942405120"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1912942051358024049",
+        "created_at": "2025-04-17T18:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T19:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912942051358024049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "613474927",
+              "start": 3,
+              "username": "PunchingCat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fqhzG5uknn",
+              "end": 40,
+              "expanded_url": "https://x.com/PunchingCat/status/1912929601942405120/video/1",
+              "media_key": "7_1912929580102639616",
+              "start": 17,
+              "url": "https://t.co/fqhzG5uknn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912942051358024049",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912929601942405120",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PunchingCat: https://t.co/fqhzG5uknn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1912929580102639616"
+          ]
+        },
+        "author_id": "613474927",
+        "conversation_id": "1912929601942405120",
+        "created_at": "2025-04-17T18:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T19:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912929601942405120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fqhzG5uknn",
+              "end": 23,
+              "expanded_url": "https://x.com/PunchingCat/status/1912929601942405120/video/1",
+              "media_key": "7_1912929580102639616",
+              "start": 0,
+              "url": "https://t.co/fqhzG5uknn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912929601942405120",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 10741,
+          "like_count": 374,
+          "quote_count": 8,
+          "reply_count": 7,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fqhzG5uknn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1911284276345405679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6395,
+          "following_count": 865,
+          "like_count": 40636,
+          "listed_count": 30,
+          "media_count": 797,
+          "tweet_count": 16240
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-20T14:15:13.000Z",
+        "description": "random cats from my camera roll to your 𝕏 feed :3 | dm for credit/removal • *i own no content posted*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "punchingcat.com",
+                "end": 23,
+                "expanded_url": "http://punchingcat.com",
+                "start": 0,
+                "url": "https://t.co/v4U8STUOKB"
+              }
+            ]
+          }
+        },
+        "id": "613474927",
+        "location": "litter box",
+        "name": "Punch Cat",
+        "pinned_tweet_id": "1912637124949553167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828145724963561472/CzV0LTLP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255352,
+          "following_count": 143,
+          "like_count": 4766,
+          "listed_count": 2383,
+          "media_count": 70712,
+          "tweet_count": 79300
+        },
+        "url": "https://t.co/v4U8STUOKB",
+        "username": "PunchingCat",
+        "verified": true
+      }
+    ]
+  }
+}

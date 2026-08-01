@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1829464449067184404",
+    "created_at": "2024-08-31T08:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-31T09:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829794954635530347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "233804919",
+          "start": 0,
+          "username": "Lanszhang"
+        },
+        {
+          "end": 26,
+          "id": "1573863666000224256",
+          "start": 11,
+          "username": "Futuristic2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829794954635530347",
+    "in_reply_to_user_id": "233804919",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829793541943415243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lanszhang @Futuristic2007 医院里面也是让吃谷胱甘肽美白淡斑，NAC和甘胺酸是谷胱甘肽合成前体，全世界都知道，不管你Google还是wiki还是百度，只要原材料没问题用量没问题就没有安全问题，你医学博士这都不知道吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1829464449067184404",
+        "created_at": "2024-08-31T08:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T09:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829794954635530347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "233804919",
+              "start": 0,
+              "username": "Lanszhang"
+            },
+            {
+              "end": 26,
+              "id": "1573863666000224256",
+              "start": 11,
+              "username": "Futuristic2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829794954635530347",
+        "in_reply_to_user_id": "233804919",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829793541943415243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lanszhang @Futuristic2007 医院里面也是让吃谷胱甘肽美白淡斑，NAC和甘胺酸是谷胱甘肽合成前体，全世界都知道，不管你Google还是wiki还是百度，只要原材料没问题用量没问题就没有安全问题，你医学博士这都不知道吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "233804919",
+        "conversation_id": "1829464449067184404",
+        "created_at": "2024-08-31T08:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T09:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829793541943415243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            },
+            {
+              "end": 26,
+              "id": "1573863666000224256",
+              "start": 11,
+              "username": "Futuristic2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829793541943415243",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829764724969652610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay @Futuristic2007 请不要用你谷歌到的知识和商家的专业认证拿来质疑一个医学研究博士的结论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 793,
+          "like_count": 11943,
+          "listed_count": 3,
+          "tweet_count": 4615
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-04T04:20:45.000Z",
+        "description": "#metoo 。酷兒Queer🏳️‍🌈。生物学者。江南人。上级日本语。上级英语。中级德|独语。资深动画宅|アニオタ。@L78783869",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "metoo"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "L78783869"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "smoggy-trade-1af.notion.site/From-A-Railway…",
+                "end": 23,
+                "expanded_url": "https://smoggy-trade-1af.notion.site/From-A-Railway-Carriage-739dab4bd0d146d996a8d28ee87b0039?pvs=4",
+                "start": 0,
+                "url": "https://t.co/hRmQHxnIWt"
+              }
+            ]
+          }
+        },
+        "id": "233804919",
+        "location": "Germany",
+        "name": "lans",
+        "pinned_tweet_id": "1829036702674891227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763683654427881472/e5scolPD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7717,
+          "following_count": 1095,
+          "like_count": 54897,
+          "listed_count": 75,
+          "tweet_count": 58372
+        },
+        "url": "https://t.co/hRmQHxnIWt",
+        "username": "Lanszhang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T02:36:14.000Z",
+        "description": "07/高二/一只不太会用正常语气说话的fw/希望能变可爱(๑＞ڡ＜)☆/只要是能相互尊重的友友们都可以和我交朋友啦❤️❤️我爱大家❤️❤️",
+        "id": "1573863666000224256",
+        "location": "People's Republic of China",
+        "name": "过客·Futuristic History",
+        "pinned_tweet_id": "1813069847242416183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798018678686162944/Jv_koOjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 379,
+          "like_count": 85967,
+          "listed_count": 3,
+          "tweet_count": 15725
+        },
+        "username": "Futuristic2007",
+        "verified": false
+      }
+    ]
+  }
+}

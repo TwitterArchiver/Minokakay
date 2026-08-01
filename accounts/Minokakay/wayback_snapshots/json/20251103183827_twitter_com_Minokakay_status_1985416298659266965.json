@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1985213989006266368"
+      ],
+      "media_source_tweet_id": [
+        "1985214294322225471"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1985416298659266965",
+    "created_at": "2025-11-03T18:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T19:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985416298659266965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "162959858",
+          "start": 3,
+          "username": "manggalakurnia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EZO4F4Ljq5",
+          "end": 79,
+          "expanded_url": "https://x.com/manggalakurnia/status/1985214294322225471/video/1",
+          "media_key": "7_1985213989006266368",
+          "start": 56,
+          "url": "https://t.co/EZO4F4Ljq5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985416298659266965",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1516
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985214294322225471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @manggalakurnia: Well  a big misunderstanding 🤣🤣😭😭🤯🤯 https://t.co/EZO4F4Ljq5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985416298659266965].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985416298659266965",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985416298659266965"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 67570,
+        "height": 1280,
+        "media_key": "7_1985213989006266368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1985213989006266368/pu/img/pEN2p1I1td--jvI3.jpg",
+        "public_metrics": {
+          "view_count": 3716716
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1985213989006266368/pu/vid/avc1/320x568/UHoo_Md1xXVeivEU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1985213989006266368/pu/vid/avc1/480x852/GdC5mlHnoNYA3THi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1985213989006266368/pu/vid/avc1/720x1280/2zN0mfFYQu6C1Y-8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1985213989006266368/pu/pl/JrWvEfqx_pfuXuF3.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1985213989006266368"
+          ]
+        },
+        "author_id": "162959858",
+        "conversation_id": "1985214294322225471",
+        "created_at": "2025-11-03T05:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T06:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985214294322225471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EZO4F4Ljq5",
+              "end": 59,
+              "expanded_url": "https://x.com/manggalakurnia/status/1985214294322225471/video/1",
+              "media_key": "7_1985213989006266368",
+              "start": 36,
+              "url": "https://t.co/EZO4F4Ljq5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985214294322225471",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7508,
+          "impression_count": 203868,
+          "like_count": 14359,
+          "quote_count": 56,
+          "reply_count": 316,
+          "retweet_count": 1516
+        },
+        "reply_settings": "everyone",
+        "text": "Well  a big misunderstanding 🤣🤣😭😭🤯🤯 https://t.co/EZO4F4Ljq5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12007,
+          "following_count": 1002,
+          "like_count": 45026,
+          "listed_count": 41,
+          "media_count": 1496,
+          "tweet_count": 22437
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-05T04:54:06.000Z",
+        "description": "Hi, have fun guys",
+        "id": "162959858",
+        "location": "Mamang Snacks",
+        "name": "Mamang Gabut",
+        "pinned_tweet_id": "1985214294322225471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838829644390559744/TFM7-vwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6803,
+          "following_count": 5060,
+          "like_count": 22135,
+          "listed_count": 27,
+          "media_count": 1174,
+          "tweet_count": 88016
+        },
+        "username": "manggalakurnia",
+        "verified": true
+      }
+    ]
+  }
+}

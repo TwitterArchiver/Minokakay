@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1970871119050883174",
+    "created_at": "2025-09-24T15:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T16:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970871119050883174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bbcchinese/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/bbcchinese/status/1970488325078503855",
+          "start": 10,
+          "url": "https://t.co/mLtHOp6Y33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970871119050883174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970488325078503855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "快来喝赖清德咖啡😁 https://t.co/mLtHOp6Y33"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48560,
+        "height": 1280,
+        "media_key": "13_1970460906825097221",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1970460906825097221/img/SkCWEKvmRNMSljdy.jpg",
+        "public_metrics": {
+          "view_count": 32559
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970460906825097221/vid/avc1/320x568/AnM2zLhqRHcf8A4_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970460906825097221/vid/avc1/480x852/SOV9W98m8graHE9m.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970460906825097221/vid/avc1/720x1280/zqCawHqtPsAiTnv4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1970460906825097221/pl/TbRF-qXMsTCHJ7I9.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1970871119050883174",
+        "created_at": "2025-09-24T15:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970871119050883174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/bbcchinese/status/1970488325078503855",
+              "start": 10,
+              "url": "https://t.co/mLtHOp6Y33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970871119050883174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970488325078503855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快来喝赖清德咖啡😁 https://t.co/mLtHOp6Y33"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1970460906825097221"
+          ]
+        },
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1970488325078503855",
+        "created_at": "2025-09-23T14:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T15:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970488325078503855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dE3ob2OU2f",
+              "end": 128,
+              "expanded_url": "https://x.com/bbcchinese/status/1970488325078503855/video/1",
+              "media_key": "13_1970460906825097221",
+              "start": 105,
+              "url": "https://t.co/dE3ob2OU2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970488325078503855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 79300,
+          "like_count": 220,
+          "quote_count": 8,
+          "reply_count": 82,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "受超强台风桦加沙影响，台湾东部花莲县万荣乡马太鞍溪堰塞湖周二（9月23日）下午溢流，马太鞍溪桥遭大水重击冲断，堤防溃堤。\n\n洪水涌入光复市区造成民众受困，花莲县消防局统计，截至傍晚，共有71人受困、两人失联。 https://t.co/dE3ob2OU2f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX 长居🇭🇰🇯🇵🇹🇭买HRT补佳乐色普龙诺坤复/减肥/促智找 @ChosekiNoraneko，全球可寄，我朋友开的我在做客服。买电子烟找@weita2024。买抗癌药物找@LuciusPharmacy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "LuciusPharmacy"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10221,
+          "following_count": 939,
+          "like_count": 44633,
+          "listed_count": 34,
+          "media_count": 1423,
+          "tweet_count": 21236
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5134880,
+          "following_count": 73,
+          "like_count": 60,
+          "listed_count": 11844,
+          "media_count": 23888,
+          "tweet_count": 153828
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

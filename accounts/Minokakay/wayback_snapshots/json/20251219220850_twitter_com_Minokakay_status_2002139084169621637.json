@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002139078398279680"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2002139084169621637",
+    "created_at": "2025-12-19T22:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T23:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002139084169621637"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zclg7kSvF5",
+          "end": 46,
+          "expanded_url": "https://x.com/Minokakay/status/2002139084169621637/photo/1",
+          "media_key": "3_2002139078398279680",
+          "start": 23,
+          "url": "https://t.co/Zclg7kSvF5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002139084169621637",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "HANA 組曲「NIPPON」より\n这个好听 https://t.co/Zclg7kSvF5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 435,
+        "media_key": "3_2002139078398279680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8kG4k7bgAAaLvQ.jpg",
+        "width": 435
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002139078398279680"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002139084169621637",
+        "created_at": "2025-12-19T22:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T23:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002139084169621637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zclg7kSvF5",
+              "end": 46,
+              "expanded_url": "https://x.com/Minokakay/status/2002139084169621637/photo/1",
+              "media_key": "3_2002139078398279680",
+              "start": 23,
+              "url": "https://t.co/Zclg7kSvF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002139084169621637",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "HANA 組曲「NIPPON」より\n这个好听 https://t.co/Zclg7kSvF5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13064,
+          "following_count": 1006,
+          "like_count": 44955,
+          "listed_count": 50,
+          "media_count": 1769,
+          "tweet_count": 24652
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

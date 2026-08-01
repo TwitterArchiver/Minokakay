@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1466143328882159619",
+          "name": "World Water Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1321912164496470016",
+          "name": "Saving money"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1321912164496470016",
+          "name": "Saving money"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1466143328882159619",
+          "name": "World Water Day"
+        }
+      }
+    ],
+    "conversation_id": "1910590258946900359",
+    "created_at": "2025-04-11T07:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T08:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910590258946900359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PETAAsiaZH/sta…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/PETAAsiaZH/status/1903394532970082492",
+          "start": 72,
+          "url": "https://t.co/eNHAf1aoE4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910590258946900359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903394532970082492",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "确实，牛养殖业是不环保的，环保业一般提倡用猪肉和鸡肉代替牛肉，因为牛养殖耗费的草场和水过多，且牛有多个胃，会排出大量的CO2，不如猪肉和鸡肉。 https://t.co/eNHAf1aoE4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1418,
+        "media_key": "3_1903394510312529921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmo3OPabYAEIGJI.jpg",
+        "width": 1418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1466143328882159619",
+              "name": "World Water Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1321912164496470016",
+              "name": "Saving money"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1321912164496470016",
+              "name": "Saving money"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1466143328882159619",
+              "name": "World Water Day"
+            }
+          }
+        ],
+        "conversation_id": "1910590258946900359",
+        "created_at": "2025-04-11T07:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T08:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910590258946900359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PETAAsiaZH/sta…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/PETAAsiaZH/status/1903394532970082492",
+              "start": 72,
+              "url": "https://t.co/eNHAf1aoE4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910590258946900359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903394532970082492",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实，牛养殖业是不环保的，环保业一般提倡用猪肉和鸡肉代替牛肉，因为牛养殖耗费的草场和水过多，且牛有多个胃，会排出大量的CO2，不如猪肉和鸡肉。 https://t.co/eNHAf1aoE4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903394510312529921"
+          ]
+        },
+        "author_id": "1247510311717879809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1466143328882159619",
+              "name": "World Water Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1321912164496470016",
+              "name": "Saving money"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1321912164496470016",
+              "name": "Saving money"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1466143328882159619",
+              "name": "World Water Day"
+            }
+          }
+        ],
+        "conversation_id": "1903394532970082492",
+        "created_at": "2025-03-22T10:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T11:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903394532970082492"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "世界水資源日"
+            },
+            {
+              "end": 60,
+              "start": 46,
+              "tag": "WorldWaterDay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/noVrEPSvXq",
+              "end": 84,
+              "expanded_url": "https://x.com/PETAAsiaZH/status/1903394532970082492/photo/1",
+              "media_key": "3_1903394510312529921",
+              "start": 61,
+              "url": "https://t.co/noVrEPSvXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903394532970082492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 837,
+          "like_count": 7,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "📣六個月，你能想像嗎？📣⁠\n⁠\n今天是 #世界水資源日，你有否為節約水資源做點甚麼？🌏💧\n\n#WorldWaterDay https://t.co/noVrEPSvXq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1907979068806672414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6348,
+          "following_count": 867,
+          "like_count": 40316,
+          "listed_count": 31,
+          "media_count": 767,
+          "tweet_count": 16000
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-07T13:04:07.000Z",
+        "description": "PETA 亞洲善待動物組織是於香港成立和註冊的動物權益組織，致力於建立和保護所有動物的權利。我們奉行簡單的原則：動物不是供我們實驗、食用、穿戴、娛樂或以其他任何方式虐待的。\n捐助支持我們的工作👇🏻\nhttps://t.co/LhMmHUma13",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "secure.petaasia.com/page/104300/do…",
+                "end": 122,
+                "expanded_url": "http://secure.petaasia.com/page/104300/donate/1",
+                "start": 99,
+                "url": "https://t.co/LhMmHUma13"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "petaasia.com",
+                "end": 23,
+                "expanded_url": "http://www.petaasia.com",
+                "start": 0,
+                "url": "https://t.co/NCQYXcn9Ft"
+              }
+            ]
+          }
+        },
+        "id": "1247510311717879809",
+        "location": "Hong Kong",
+        "name": "PETA亞洲善待動物組織",
+        "pinned_tweet_id": "1907986268656644272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546714237342343169/odOO_AXv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5397,
+          "following_count": 389,
+          "like_count": 187,
+          "listed_count": 35,
+          "media_count": 4029,
+          "tweet_count": 4204
+        },
+        "url": "https://t.co/NCQYXcn9Ft",
+        "username": "PETAAsiaZH",
+        "verified": true
+      }
+    ]
+  }
+}

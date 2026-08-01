@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001624871059755010"
+      ],
+      "media_source_tweet_id": [
+        "2001624969365909805"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2004384463611175279",
+    "created_at": "2025-12-26T02:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T03:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004384463611175279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "940183452753608705",
+          "start": 3,
+          "username": "finch0023"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7gtxyuTHvo",
+          "end": 60,
+          "expanded_url": "https://x.com/finch0023/status/2001624969365909805/photo/1",
+          "media_key": "3_2001624871059755010",
+          "start": 37,
+          "url": "https://t.co/7gtxyuTHvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004384463611175279",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 740
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001624969365909805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @finch0023: Durin X Wanderer🐉☂️🩷🩷 https://t.co/7gtxyuTHvo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004384463611175279].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004384463611175279",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004384463611175279"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2001624871059755010",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8czNxUakAIZMJl.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001624871059755010"
+          ]
+        },
+        "author_id": "940183452753608705",
+        "conversation_id": "2001624969365909805",
+        "created_at": "2025-12-18T12:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T13:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001624969365909805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7gtxyuTHvo",
+              "end": 45,
+              "expanded_url": "https://x.com/finch0023/status/2001624969365909805/photo/1",
+              "media_key": "3_2001624871059755010",
+              "start": 22,
+              "url": "https://t.co/7gtxyuTHvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001624969365909805",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1448,
+          "impression_count": 70081,
+          "like_count": 6184,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 740
+        },
+        "reply_settings": "everyone",
+        "text": "Durin X Wanderer🐉☂️🩷🩷 https://t.co/7gtxyuTHvo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，如需癌症/慢病用药，请找@Lucius_Pharma，均是我朋友开的，我担保。如需电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Lucius_Pharma"
+              },
+              {
+                "end": 136,
+                "start": 126,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13420,
+          "following_count": 1016,
+          "like_count": 44944,
+          "listed_count": 51,
+          "media_count": 1810,
+          "tweet_count": 25061
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-11T11:36:17.000Z",
+        "description": "⚠R18+/NSFW \nEnglish // 中国語 //日本語ok \nhttps://t.co/ccvlhAobpD\nhttps://t.co/waLOPir1oC\nhttps://t.co/TkbK4LXS0N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "app.unifans.io/c/finch0023",
+                "end": 59,
+                "expanded_url": "https://app.unifans.io/c/finch0023",
+                "start": 36,
+                "url": "https://t.co/ccvlhAobpD"
+              },
+              {
+                "display_url": "finch0023.fanbox.cc",
+                "end": 83,
+                "expanded_url": "https://finch0023.fanbox.cc/",
+                "start": 60,
+                "url": "https://t.co/waLOPir1oC"
+              },
+              {
+                "display_url": "patreon.com/finch",
+                "end": 107,
+                "expanded_url": "https://patreon.com/finch",
+                "start": 84,
+                "url": "https://t.co/TkbK4LXS0N"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/18770097",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/18770097",
+                "start": 0,
+                "url": "https://t.co/1PYfyPhntM"
+              }
+            ]
+          }
+        },
+        "id": "940183452753608705",
+        "location": "Taipei City, Taiwan",
+        "name": "Finch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951040595742564352/pCSKDVnZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71197,
+          "following_count": 145,
+          "like_count": 416,
+          "listed_count": 195,
+          "media_count": 223,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/1PYfyPhntM",
+        "username": "finch0023",
+        "verified": true
+      }
+    ]
+  }
+}

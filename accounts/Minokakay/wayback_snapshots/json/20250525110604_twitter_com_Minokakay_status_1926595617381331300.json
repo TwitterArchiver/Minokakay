@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1926595617381331300",
+    "created_at": "2025-05-25T11:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T12:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926595617381331300"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Minokakay/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Minokakay/status/1926207140085039368",
+          "start": 7,
+          "url": "https://t.co/kFiC0af6PA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926595617381331300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926207140085039368",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草东没有od https://t.co/kFiC0af6PA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1926595617381331300",
+        "created_at": "2025-05-25T11:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T12:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926595617381331300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minokakay/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Minokakay/status/1926207140085039368",
+              "start": 7,
+              "url": "https://t.co/kFiC0af6PA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926595617381331300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926207140085039368",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草东没有od https://t.co/kFiC0af6PA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1926207140085039368",
+        "created_at": "2025-05-24T09:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T10:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926207140085039368"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926207140085039368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7333,
+          "like_count": 114,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "少尝试垃圾药，有些药物被公认没啥滥用价值是有原因的，你想要嗑的前人们都嗑过了，你想要吸的有钱人都吸过了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 90,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1925566748516024652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7087,
+          "following_count": 883,
+          "like_count": 42639,
+          "listed_count": 30,
+          "media_count": 1018,
+          "tweet_count": 17841
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

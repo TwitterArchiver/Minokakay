@@ -1,0 +1,641 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990694076606525442",
+        "3_1990694076610719744"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1990694082612801982",
+    "created_at": "2025-11-18T08:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T09:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990694082612801982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1upU3CksoF",
+          "end": 67,
+          "expanded_url": "https://x.com/Minokakay/status/1990694082612801982/photo/1",
+          "media_key": "3_1990694076606525442",
+          "start": 44,
+          "url": "https://t.co/1upU3CksoF"
+        },
+        {
+          "display_url": "pic.x.com/1upU3CksoF",
+          "end": 67,
+          "expanded_url": "https://x.com/Minokakay/status/1990694082612801982/photo/1",
+          "media_key": "3_1990694076610719744",
+          "start": 44,
+          "url": "https://t.co/1upU3CksoF"
+        },
+        {
+          "display_url": "x.com/minokakay/stat…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/minokakay/status/1990693165821784412",
+          "start": 68,
+          "url": "https://t.co/yEaTCSTPit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990694082612801982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990693165821784412",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是华为手机拍的\n苹果拍的太糊了 长焦还得是国产机拍的清楚，不过视频还是iPhone好 https://t.co/1upU3CksoF https://t.co/yEaTCSTPit"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1990694076606525442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BdtyybMAIOnmd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1990694076610719744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BdtyzbMAA8F0i.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 7866,
+        "height": 1080,
+        "media_key": "13_1990693101258878979",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1990693101258878979/img/4LmR1y0KLsljuazX.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990693101258878979/vid/avc1/640x360/ecxJv3D60ZWDuZOX.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990693101258878979/vid/avc1/480x270/C9pFwn85EXvukASq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1990693101258878979/pl/mXoix-He-91J3fM6.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990693101258878979/vid/avc1/1280x720/qjTbFxtbrTSRmedN.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990693101258878979/vid/avc1/1920x1080/CUf_4PKmEx3fyBdn.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1990693101237886976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Bc1BQa4AARGn8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1990693101233668096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Bc1BPagAA2qbd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990694076606525442",
+            "3_1990694076610719744"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1990694082612801982",
+        "created_at": "2025-11-18T08:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990694082612801982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1upU3CksoF",
+              "end": 67,
+              "expanded_url": "https://x.com/Minokakay/status/1990694082612801982/photo/1",
+              "media_key": "3_1990694076606525442",
+              "start": 44,
+              "url": "https://t.co/1upU3CksoF"
+            },
+            {
+              "display_url": "pic.x.com/1upU3CksoF",
+              "end": 67,
+              "expanded_url": "https://x.com/Minokakay/status/1990694082612801982/photo/1",
+              "media_key": "3_1990694076610719744",
+              "start": 44,
+              "url": "https://t.co/1upU3CksoF"
+            },
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/minokakay/status/1990693165821784412",
+              "start": 68,
+              "url": "https://t.co/yEaTCSTPit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990694082612801982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990693165821784412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是华为手机拍的\n苹果拍的太糊了 长焦还得是国产机拍的清楚，不过视频还是iPhone好 https://t.co/1upU3CksoF https://t.co/yEaTCSTPit"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1990693101258878979",
+            "3_1990693101237886976",
+            "3_1990693101233668096"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1990693165821784412",
+        "created_at": "2025-11-18T08:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990693165821784412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3FEhqSkVJv",
+              "end": 82,
+              "expanded_url": "https://x.com/Minokakay/status/1990693165821784412/video/1",
+              "media_key": "13_1990693101258878979",
+              "start": 59,
+              "url": "https://t.co/3FEhqSkVJv"
+            },
+            {
+              "display_url": "pic.x.com/3FEhqSkVJv",
+              "end": 82,
+              "expanded_url": "https://x.com/Minokakay/status/1990693165821784412/video/1",
+              "media_key": "3_1990693101237886976",
+              "start": 59,
+              "url": "https://t.co/3FEhqSkVJv"
+            },
+            {
+              "display_url": "pic.x.com/3FEhqSkVJv",
+              "end": 82,
+              "expanded_url": "https://x.com/Minokakay/status/1990693165821784412/video/1",
+              "media_key": "3_1990693101233668096",
+              "start": 59,
+              "url": "https://t.co/3FEhqSkVJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990693165821784412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从shibuya sky拍摄的东京羽田机场排队降落的飞机和跑道 今天东京下小雨 但空气一如既往地好 所以能见度还可以 https://t.co/3FEhqSkVJv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12331,
+          "following_count": 1014,
+          "like_count": 45016,
+          "listed_count": 45,
+          "media_count": 1572,
+          "tweet_count": 23077
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

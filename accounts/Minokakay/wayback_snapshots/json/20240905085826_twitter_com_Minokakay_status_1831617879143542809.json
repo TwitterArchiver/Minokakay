@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1831613418060570624"
+      ],
+      "media_source_tweet_id": [
+        "1831613547975209029"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1831617879143542809",
+    "created_at": "2024-09-05T08:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T09:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831617879143542809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1694273432790433792",
+          "start": 3,
+          "username": "huanghuO_o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c5cznfpa87",
+          "end": 44,
+          "expanded_url": "https://twitter.com/huanghuO_o/status/1831613547975209029/video/1",
+          "media_key": "7_1831613418060570624",
+          "start": 21,
+          "url": "https://t.co/c5CZNfpa87"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831617879143542809",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831613547975209029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huanghuO_o: 拆家鼠鼠 https://t.co/c5CZNfpa87"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1831617879143542809].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1831617879143542809",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1831617879143542809"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33034,
+        "height": 960,
+        "media_key": "7_1831613418060570624",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1831613418060570624/pu/img/LqLGwy-vE8nLmnKd.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1831613418060570624/pu/vid/avc1/320x426/P4By4gkhdUBOLy8u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1831613418060570624/pu/vid/avc1/480x640/C_n04erG67npQOHB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1831613418060570624/pu/vid/avc1/720x960/EanAoHq8F6KYcNq0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1831613418060570624/pu/pl/Oc-0ffXAHFRjwtNr.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1831613418060570624"
+          ]
+        },
+        "author_id": "1694273432790433792",
+        "conversation_id": "1831613547975209029",
+        "created_at": "2024-09-05T08:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T09:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831613547975209029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c5cznfpa87",
+              "end": 28,
+              "expanded_url": "https://twitter.com/huanghuO_o/status/1831613547975209029/video/1",
+              "media_key": "7_1831613418060570624",
+              "start": 5,
+              "url": "https://t.co/c5CZNfpa87"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831613547975209029",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "拆家鼠鼠 https://t.co/c5CZNfpa87"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 809,
+          "like_count": 12677,
+          "listed_count": 3,
+          "tweet_count": 5116
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T09:01:39.000Z",
+        "description": "请随便记住我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huanghuo_o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huanghuo_o",
+                "start": 0,
+                "url": "https://t.co/kuHL2lF0eV"
+              }
+            ]
+          }
+        },
+        "id": "1694273432790433792",
+        "name": "恍惚",
+        "pinned_tweet_id": "1828700999701402046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828121184334159874/6x_Eaz5-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 328,
+          "like_count": 29809,
+          "listed_count": 3,
+          "tweet_count": 6284
+        },
+        "url": "https://t.co/kuHL2lF0eV",
+        "username": "huanghuO_o",
+        "verified": false
+      }
+    ]
+  }
+}

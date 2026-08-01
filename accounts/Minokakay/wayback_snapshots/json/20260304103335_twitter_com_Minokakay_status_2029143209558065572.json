@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "2029060312473977075",
+    "created_at": "2026-03-04T10:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T11:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029143209558065572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1787864835814047744",
+          "start": 0,
+          "username": "IIlllIllIlIllII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029143209558065572",
+    "in_reply_to_user_id": "1787864835814047744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029142930511020043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IIlllIllIlIllII 卡组织汇率比银联差，我习惯汇率好的时候囤日元，然后有空就拿去日本消费。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "2029060312473977075",
+        "created_at": "2026-03-04T10:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T11:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029143209558065572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1787864835814047744",
+              "start": 0,
+              "username": "IIlllIllIlIllII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029143209558065572",
+        "in_reply_to_user_id": "1787864835814047744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029142930511020043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IIlllIllIlIllII 卡组织汇率比银联差，我习惯汇率好的时候囤日元，然后有空就拿去日本消费。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787864835814047744",
+        "conversation_id": "2029060312473977075",
+        "created_at": "2026-03-04T10:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T11:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029142930511020043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029142930511020043",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029142341601386906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 其实我觉得差不多？存人民币然后消费什么币种通过当天万事达组织规律直接转换成人民币扣款"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️找choseki见https://t.co/hStQSlMtBp，私信不回，打不开换梯子换浏览器",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/choseki111",
+                "end": 74,
+                "expanded_url": "http://linktr.ee/choseki111",
+                "start": 51,
+                "url": "https://t.co/hStQSlMtBp"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "2019736772826341551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14113,
+          "following_count": 1066,
+          "like_count": 44131,
+          "listed_count": 52,
+          "media_count": 1746,
+          "tweet_count": 25331
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-07T15:19:36.000Z",
+        "description": "ㅤ",
+        "id": "1787864835814047744",
+        "name": "→​←",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003851690764820480/hN-Ycg_C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 113,
+          "like_count": 9813,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 1020
+        },
+        "username": "IIlllIllIlIllII",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1905738760886907165",
+    "created_at": "2025-03-28T21:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T22:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905738760886907165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HIU147258/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/HIU147258/status/1905634580826390576",
+          "start": 10,
+          "url": "https://t.co/9k2o5LOW8O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905738760886907165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905634580826390576",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "北洋这个帽徽挺帅的 https://t.co/9k2o5LOW8O"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1905634580826390576].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1905634580826390576",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1905634580826390576"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1905738760886907165",
+        "created_at": "2025-03-28T21:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T22:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905738760886907165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HIU147258/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/HIU147258/status/1905634580826390576",
+              "start": 10,
+              "url": "https://t.co/9k2o5LOW8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905738760886907165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905634580826390576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "北洋这个帽徽挺帅的 https://t.co/9k2o5LOW8O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 101,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 78,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1899298005330899355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6109,
+          "following_count": 849,
+          "like_count": 39424,
+          "listed_count": 28,
+          "media_count": 702,
+          "tweet_count": 15536
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

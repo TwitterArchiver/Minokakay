@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876247518268592128"
+      ],
+      "media_source_tweet_id": [
+        "1876247525960888629"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1877272347939402101",
+    "created_at": "2025-01-09T08:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T09:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877272347939402101"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "镜音连"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "正太"
+        },
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "可爱正太"
+        },
+        {
+          "end": 45,
+          "start": 40,
+          "tag": "正太弟弟"
+        },
+        {
+          "end": 53,
+          "start": 46,
+          "tag": "可爱的男孩子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1835144644126289920",
+          "start": 3,
+          "username": "luheiofficial2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KJ6IBYKc4V",
+          "end": 77,
+          "expanded_url": "https://x.com/luheiofficial2/status/1876247525960888629/photo/1",
+          "media_key": "3_1876247518268592128",
+          "start": 54,
+          "url": "https://t.co/KJ6IBYKc4V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877272347939402101",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876247525960888629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luheiofficial2: 立了喵~\n#镜音连 #正太 #可爱正太 #正太弟弟 #可爱的男孩子 https://t.co/KJ6IBYKc4V"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1877272347939402101].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1877272347939402101",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1877272347939402101"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1876247518268592128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgnFLVUbkAAMrXQ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876247518268592128"
+          ]
+        },
+        "author_id": "1835144644126289920",
+        "conversation_id": "1876247525960888629",
+        "created_at": "2025-01-06T12:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T13:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876247525960888629"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "镜音连"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "正太"
+            },
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "可爱正太"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "正太弟弟"
+            },
+            {
+              "end": 33,
+              "start": 26,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KJ6IBYKc4V",
+              "end": 57,
+              "expanded_url": "https://x.com/luheiofficial2/status/1876247525960888629/photo/1",
+              "media_key": "3_1876247518268592128",
+              "start": 34,
+              "url": "https://t.co/KJ6IBYKc4V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876247525960888629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5601,
+          "like_count": 151,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "立了喵~\n#镜音连 #正太 #可爱正太 #正太弟弟 #可爱的男孩子 https://t.co/KJ6IBYKc4V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白成分/日雌土色/药物与咨询找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日雌 藥物諮詢 購藥",
+        "pinned_tweet_id": "1872051766805840215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2766,
+          "following_count": 749,
+          "like_count": 31949,
+          "listed_count": 9,
+          "media_count": 794,
+          "tweet_count": 14285
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T02:32:41.000Z",
+        "description": "这里是辘黑，纯内屏舞萌痴星将，擦边、直球、舞萌、梗图什么都发\n还是一样的，图包40块需要的话加QQ喵：1375939960 没有QQ在私信要电报也是可以的！",
+        "id": "1835144644126289920",
+        "location": "你的背后",
+        "name": "小只辘黑（圣诞版）",
+        "pinned_tweet_id": "1863221808004304938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849517418777067520/YQrv_svo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6345,
+          "following_count": 395,
+          "like_count": 384,
+          "listed_count": 11,
+          "media_count": 159,
+          "tweet_count": 942
+        },
+        "username": "luheiofficial2",
+        "verified": false
+      }
+    ]
+  }
+}

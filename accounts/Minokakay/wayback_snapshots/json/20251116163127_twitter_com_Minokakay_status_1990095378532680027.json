@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1990001240487710720"
+      ],
+      "media_source_tweet_id": [
+        "1990001308968124540"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1990095378532680027",
+    "created_at": "2025-11-16T16:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T17:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990095378532680027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1796937387899064320",
+          "start": 3,
+          "username": "CleverFf050755"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Te8XPO845r",
+          "end": 53,
+          "expanded_url": "https://x.com/CleverFf050755/status/1990001308968124540/video/1",
+          "media_key": "7_1990001240487710720",
+          "start": 30,
+          "url": "https://t.co/Te8XPO845r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990095378532680027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990001308968124540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CleverFf050755: 化学极乐百科的诞生 https://t.co/Te8XPO845r"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38233,
+        "height": 720,
+        "media_key": "7_1990001240487710720",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1990001240487710720/pu/img/AUSu6GBV-Lcg2OU1.jpg",
+        "public_metrics": {
+          "view_count": 503
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990001240487710720/pu/vid/avc1/320x320/YvvYJP7-CSBlU5t6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990001240487710720/pu/vid/avc1/540x540/dogjO3-k5-hC4GMG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1990001240487710720/pu/vid/avc1/720x720/_Sz4KXx_hdEEvLTT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1990001240487710720/pu/pl/PT3xJU22XSfe4Rsq.m3u8?tag=12&v=f49"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1990001240487710720"
+          ],
+          "media_source_tweet_id": [
+            "1990001308968124540"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1990095378532680027",
+        "created_at": "2025-11-16T16:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T17:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990095378532680027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1796937387899064320",
+              "start": 3,
+              "username": "CleverFf050755"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Te8XPO845r",
+              "end": 53,
+              "expanded_url": "https://x.com/CleverFf050755/status/1990001308968124540/video/1",
+              "media_key": "7_1990001240487710720",
+              "start": 30,
+              "url": "https://t.co/Te8XPO845r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990095378532680027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990001308968124540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CleverFf050755: 化学极乐百科的诞生 https://t.co/Te8XPO845r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1990001240487710720"
+          ]
+        },
+        "author_id": "1796937387899064320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1990001308968124540",
+        "created_at": "2025-11-16T10:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T11:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990001308968124540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Te8XPO845r",
+              "end": 33,
+              "expanded_url": "https://x.com/CleverFf050755/status/1990001308968124540/video/1",
+              "media_key": "7_1990001240487710720",
+              "start": 10,
+              "url": "https://t.co/Te8XPO845r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990001308968124540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1553,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "化学极乐百科的诞生 https://t.co/Te8XPO845r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12186,
+          "following_count": 1012,
+          "like_count": 45020,
+          "listed_count": 42,
+          "media_count": 1563,
+          "tweet_count": 22982
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。\n提问盒：https://t.co/ZSBub0KBoe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 57,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 34,
+                "url": "https://t.co/ZSBub0KBoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#地卫一",
+        "pinned_tweet_id": "1988513225185653018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984526675133280256/FEBTrBQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 153,
+          "like_count": 65,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 1307
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

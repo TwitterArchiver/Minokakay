@@ -1,0 +1,554 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989628975262695424"
+      ],
+      "media_source_tweet_id": [
+        "1989629448862527794"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311728290139258880",
+          "name": "Animation & comics events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1313532909337210880",
+          "name": "Comitia"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1989729615192244372",
+    "created_at": "2025-11-15T16:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T17:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989729615192244372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "832380767279865856",
+          "start": 3,
+          "username": "kageroudt33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jaaMMOdqYW",
+          "end": 111,
+          "expanded_url": "https://x.com/kageroudt33/status/1989629448862527794/photo/1",
+          "media_key": "3_1989628975262695424",
+          "start": 88,
+          "url": "https://t.co/jaaMMOdqYW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989729615192244372",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989629448862527794",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kageroudt33: コミティア154で出す予定の本の表紙です🐾\n凄くかわいく描けたけど発送次第でイベントに間に合わないので間に合わなかったら一緒に泣いてください https://t.co/jaaMMOdqYW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1989628975262695424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5yVAvFbgAANI3s.jpg",
+        "width": 2892
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989628975262695424"
+          ],
+          "media_source_tweet_id": [
+            "1989629448862527794"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1313532909337210880",
+              "name": "Comitia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1989729615192244372",
+        "created_at": "2025-11-15T16:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T17:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989729615192244372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "832380767279865856",
+              "start": 3,
+              "username": "kageroudt33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jaaMMOdqYW",
+              "end": 111,
+              "expanded_url": "https://x.com/kageroudt33/status/1989629448862527794/photo/1",
+              "media_key": "3_1989628975262695424",
+              "start": 88,
+              "url": "https://t.co/jaaMMOdqYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989729615192244372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989629448862527794",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kageroudt33: コミティア154で出す予定の本の表紙です🐾\n凄くかわいく描けたけど発送次第でイベントに間に合わないので間に合わなかったら一緒に泣いてください https://t.co/jaaMMOdqYW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989628975262695424"
+          ]
+        },
+        "author_id": "832380767279865856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1313532909337210880",
+              "name": "Comitia"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1989629448862527794",
+        "created_at": "2025-11-15T09:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T10:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989629448862527794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jaaMMOdqYW",
+              "end": 94,
+              "expanded_url": "https://x.com/kageroudt33/status/1989629448862527794/photo/1",
+              "media_key": "3_1989628975262695424",
+              "start": 71,
+              "url": "https://t.co/jaaMMOdqYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989629448862527794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 14619,
+          "like_count": 1106,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "コミティア154で出す予定の本の表紙です🐾\n凄くかわいく描けたけど発送次第でイベントに間に合わないので間に合わなかったら一緒に泣いてください https://t.co/jaaMMOdqYW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12086,
+          "following_count": 1010,
+          "like_count": 45025,
+          "listed_count": 42,
+          "media_count": 1552,
+          "tweet_count": 22888
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-17T00:06:54.000Z",
+        "description": "illustrator ¦ VTuber ¦ @daihuku_sabu322 ¦ /依頼→ 1月着手⚪︎¦ daihukumame322@gmail.com (リプ返は不定期ですが全て大切に拝読しております)＊Repost is prohibited.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "daihuku_sabu322"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/kageroudt33",
+                "end": 23,
+                "expanded_url": "http://twpf.jp/kageroudt33",
+                "start": 0,
+                "url": "https://t.co/4gHMMMF7WH"
+              }
+            ]
+          }
+        },
+        "id": "832380767279865856",
+        "location": "＊作品の転載・使用・AI学習×",
+        "name": "煮タ 大福豆@コミティア154_L03b",
+        "pinned_tweet_id": "1524709878522335233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915320458163216388/dF8pSPr5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48527,
+          "following_count": 226,
+          "like_count": 51588,
+          "listed_count": 316,
+          "media_count": 924,
+          "tweet_count": 16740
+        },
+        "url": "https://t.co/4gHMMMF7WH",
+        "username": "kageroudt33",
+        "verified": false
+      }
+    ]
+  }
+}

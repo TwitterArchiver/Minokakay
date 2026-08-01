@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1820053780433625460",
+    "created_at": "2024-08-04T11:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T12:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820053780433625460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1573863666000224256",
+          "start": 3,
+          "username": "Futuristic2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820053780433625460",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819894136579010702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Futuristic2007: 你们怎么互动着互动着就全变成亲友了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1820053780433625460",
+        "created_at": "2024-08-04T11:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T12:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820053780433625460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1573863666000224256",
+              "start": 3,
+              "username": "Futuristic2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820053780433625460",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819894136579010702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Futuristic2007: 你们怎么互动着互动着就全变成亲友了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573863666000224256",
+        "conversation_id": "1819894136579010702",
+        "created_at": "2024-08-04T00:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T01:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819894136579010702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Naii3120720/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Naii3120720/status/1819754262546780486",
+              "start": 19,
+              "url": "https://t.co/31HZ0gCHpr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819894136579010702",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 556,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819754262546780486",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们怎么互动着互动着就全变成亲友了？ https://t.co/31HZ0gCHpr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成都重慶 陰暗比高二生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome",
+        "id": "1597257668313260033",
+        "location": "中華民國總統府",
+        "name": "Minokayay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 804,
+          "like_count": 3924,
+          "listed_count": 1,
+          "tweet_count": 1708
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T02:36:14.000Z",
+        "description": "07/准高二/一只不太会用正常语气说话的fw/希望能变可爱(๑＞ڡ＜)☆/只要是能相互尊重的友友们都可以和我交朋友啦❤️❤️我爱大家❤️❤️",
+        "id": "1573863666000224256",
+        "location": "People's Republic of China",
+        "name": "过客·Futuristic History",
+        "pinned_tweet_id": "1813069847242416183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798018678686162944/Jv_koOjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 298,
+          "like_count": 70121,
+          "listed_count": 2,
+          "tweet_count": 12737
+        },
+        "username": "Futuristic2007",
+        "verified": false
+      }
+    ]
+  }
+}

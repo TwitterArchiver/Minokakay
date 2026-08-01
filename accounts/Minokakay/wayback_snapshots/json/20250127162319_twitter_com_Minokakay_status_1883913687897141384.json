@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1883910427287154688",
+        "7_1883910498187653120",
+        "3_1883910530680938496"
+      ],
+      "media_source_tweet_id": [
+        "1883910533507850360",
+        "1883910533507850360",
+        "1883910533507850360"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1883913687897141384",
+    "created_at": "2025-01-27T16:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T17:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883913687897141384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1796349415650664448",
+          "start": 3,
+          "username": "KawaiiCheshire_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XJWKw2JZqi",
+          "end": 91,
+          "expanded_url": "https://x.com/KawaiiCheshire_/status/1883910533507850360/video/1",
+          "media_key": "7_1883910427287154688",
+          "start": 68,
+          "url": "https://t.co/XJWKw2JZqi"
+        },
+        {
+          "display_url": "pic.x.com/XJWKw2JZqi",
+          "end": 91,
+          "expanded_url": "https://x.com/KawaiiCheshire_/status/1883910533507850360/video/1",
+          "media_key": "7_1883910498187653120",
+          "start": 68,
+          "url": "https://t.co/XJWKw2JZqi"
+        },
+        {
+          "display_url": "pic.x.com/XJWKw2JZqi",
+          "end": 91,
+          "expanded_url": "https://x.com/KawaiiCheshire_/status/1883910533507850360/video/1",
+          "media_key": "3_1883910530680938496",
+          "start": 68,
+          "url": "https://t.co/XJWKw2JZqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883913687897141384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883910533507850360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KawaiiCheshire_: 昨日（监控有时间），重庆一女子将鞭炮扔向井内，结局令人舒适，希望井盖和地砖可以快点好起来🙏🏻 https://t.co/XJWKw2JZqi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17466,
+        "height": 720,
+        "media_key": "7_1883910427287154688",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1883910427287154688/pu/img/wBJGjVMwIX2IaQHZ.jpg",
+        "public_metrics": {
+          "view_count": 43
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883910427287154688/pu/vid/avc1/480x270/TfdLBo-PqzqoCzEg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883910427287154688/pu/vid/avc1/640x360/kgOOO_yseHfbiUAa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883910427287154688/pu/vid/avc1/1280x720/j8Uzth3g6LLZYFjq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1883910427287154688/pu/pl/LHkT1atI5Q797ojy.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 4734,
+        "height": 1280,
+        "media_key": "7_1883910498187653120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1883910498187653120/pu/img/xub1CJFjEw5yqbdT.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883910498187653120/pu/vid/avc1/320x568/cCnhVvfWtAWDV-JF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883910498187653120/pu/vid/avc1/480x852/HA93iGUf1VBLCCro.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883910498187653120/pu/vid/avc1/720x1280/lQA1bXcK2fbI3O2Q.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1883910498187653120/pu/pl/tXbFv_sAOCf_07VN.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1058,
+        "media_key": "3_1883910530680938496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiT-pXHa4AACo-E.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883910427287154688",
+            "7_1883910498187653120",
+            "3_1883910530680938496"
+          ],
+          "media_source_tweet_id": [
+            "1883910533507850360",
+            "1883910533507850360",
+            "1883910533507850360"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1883913687897141384",
+        "created_at": "2025-01-27T16:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T17:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883913687897141384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1796349415650664448",
+              "start": 3,
+              "username": "KawaiiCheshire_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJWKw2JZqi",
+              "end": 91,
+              "expanded_url": "https://x.com/KawaiiCheshire_/status/1883910533507850360/video/1",
+              "media_key": "7_1883910427287154688",
+              "start": 68,
+              "url": "https://t.co/XJWKw2JZqi"
+            },
+            {
+              "display_url": "pic.x.com/XJWKw2JZqi",
+              "end": 91,
+              "expanded_url": "https://x.com/KawaiiCheshire_/status/1883910533507850360/video/1",
+              "media_key": "7_1883910498187653120",
+              "start": 68,
+              "url": "https://t.co/XJWKw2JZqi"
+            },
+            {
+              "display_url": "pic.x.com/XJWKw2JZqi",
+              "end": 91,
+              "expanded_url": "https://x.com/KawaiiCheshire_/status/1883910533507850360/video/1",
+              "media_key": "3_1883910530680938496",
+              "start": 68,
+              "url": "https://t.co/XJWKw2JZqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883913687897141384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883910533507850360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KawaiiCheshire_: 昨日（监控有时间），重庆一女子将鞭炮扔向井内，结局令人舒适，希望井盖和地砖可以快点好起来🙏🏻 https://t.co/XJWKw2JZqi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883910427287154688",
+            "7_1883910498187653120",
+            "3_1883910530680938496"
+          ]
+        },
+        "author_id": "1796349415650664448",
+        "conversation_id": "1883910533507850360",
+        "created_at": "2025-01-27T16:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T17:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883910533507850360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJWKw2JZqi",
+              "end": 70,
+              "expanded_url": "https://x.com/KawaiiCheshire_/status/1883910533507850360/video/1",
+              "media_key": "7_1883910427287154688",
+              "start": 47,
+              "url": "https://t.co/XJWKw2JZqi"
+            },
+            {
+              "display_url": "pic.x.com/XJWKw2JZqi",
+              "end": 70,
+              "expanded_url": "https://x.com/KawaiiCheshire_/status/1883910533507850360/video/1",
+              "media_key": "7_1883910498187653120",
+              "start": 47,
+              "url": "https://t.co/XJWKw2JZqi"
+            },
+            {
+              "display_url": "pic.x.com/XJWKw2JZqi",
+              "end": 70,
+              "expanded_url": "https://x.com/KawaiiCheshire_/status/1883910533507850360/video/1",
+              "media_key": "3_1883910530680938496",
+              "start": 47,
+              "url": "https://t.co/XJWKw2JZqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883910533507850360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "昨日（监控有时间），重庆一女子将鞭炮扔向井内，结局令人舒适，希望井盖和地砖可以快点好起来🙏🏻 https://t.co/XJWKw2JZqi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日380色320泰210",
+        "pinned_tweet_id": "1881268152111440138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3194,
+          "following_count": 784,
+          "like_count": 33716,
+          "listed_count": 14,
+          "media_count": 909,
+          "tweet_count": 15282
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T01:14:22.000Z",
+        "description": "友跨/#fo我之前请不要锁推/不会单取（除非为了查成分而回fo），最多双取/主人@saksamalah2nd脑婆@zhao_mama琉璃花@zhao_flowers13甜雨@Romanorum_杂鱼@Inwal3310/小号：@LovelyCheshire_/可以叫我猫猫，头像是本人/什么都发",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 3,
+                "tag": "fo我之前请不要锁推"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "saksamalah2nd"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "zhao_mama"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "zhao_flowers13"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Romanorum_"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "Inwal3310"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "LovelyCheshire_"
+              }
+            ]
+          }
+        },
+        "id": "1796349415650664448",
+        "location": "距离你1m",
+        "name": "坂下チェシャー🐱🧨",
+        "pinned_tweet_id": "1860958109939958103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882285721605861376/w0BlTDMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 311,
+          "like_count": 16013,
+          "listed_count": 8,
+          "media_count": 1674,
+          "tweet_count": 8266
+        },
+        "username": "KawaiiCheshire_",
+        "verified": true
+      }
+    ]
+  }
+}

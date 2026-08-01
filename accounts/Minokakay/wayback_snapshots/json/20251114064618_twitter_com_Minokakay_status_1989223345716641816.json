@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1988976209665966160",
+    "created_at": "2025-11-14T06:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T07:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989223345716641816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1293926136645394435",
+          "start": 0,
+          "username": "ctct1927"
+        },
+        {
+          "end": 24,
+          "id": "1256377778192084992",
+          "start": 10,
+          "username": "LuvLetter_moe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989223345716641816",
+    "in_reply_to_user_id": "1293926136645394435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989207222266597887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ctct1927 @LuvLetter_moe 80欧其实不便宜了了，弱水时砂琉璃X，只要200人民币，如果对品控有要求，华为也行，都是LDAC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1988976209665966160",
+        "created_at": "2025-11-14T06:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T07:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989223345716641816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1293926136645394435",
+              "start": 0,
+              "username": "ctct1927"
+            },
+            {
+              "end": 24,
+              "id": "1256377778192084992",
+              "start": 10,
+              "username": "LuvLetter_moe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989223345716641816",
+        "in_reply_to_user_id": "1293926136645394435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989207222266597887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ctct1927 @LuvLetter_moe 80欧其实不便宜了了，弱水时砂琉璃X，只要200人民币，如果对品控有要求，华为也行，都是LDAC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1293926136645394435",
+        "conversation_id": "1988976209665966160",
+        "created_at": "2025-11-14T05:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T06:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989207222266597887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            },
+            {
+              "end": 25,
+              "id": "1256377778192084992",
+              "start": 11,
+              "username": "LuvLetter_moe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989207222266597887",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988995696507428988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay @LuvLetter_moe 小米的蓝牙耳机我感觉还行。。。80€的东西居然给LDAC，索尼自家这个价钱都只能ACC。其他的东西我没有用过不好说。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1987176249970835785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12067,
+          "following_count": 1006,
+          "like_count": 45022,
+          "listed_count": 42,
+          "media_count": 1537,
+          "tweet_count": 22764
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-13T15:03:35.000Z",
+        "description": "in exile\nDeutsch English Nederlands\n\nRome catholic",
+        "id": "1293926136645394435",
+        "location": "Cantonia",
+        "name": "Athanas urbis aquensis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923317668704116736/sssIvr0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 1136,
+          "like_count": 16961,
+          "listed_count": 3,
+          "media_count": 3986,
+          "tweet_count": 16557
+        },
+        "username": "ctct1927",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-02T00:21:09.000Z",
+        "description": "Life can be much broader.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rainbow8loop",
+                "end": 23,
+                "expanded_url": "http://t.me/rainbow8loop",
+                "start": 0,
+                "url": "https://t.co/IZs416pyTF"
+              }
+            ]
+          }
+        },
+        "id": "1256377778192084992",
+        "name": "Luv Letter",
+        "pinned_tweet_id": "1988267824096350508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1256379106431651841/phJ9TAHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9613,
+          "following_count": 1061,
+          "like_count": 23937,
+          "listed_count": 56,
+          "media_count": 3179,
+          "tweet_count": 9780
+        },
+        "url": "https://t.co/IZs416pyTF",
+        "username": "LuvLetter_moe",
+        "verified": true
+      }
+    ]
+  }
+}

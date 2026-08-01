@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1942025773227094062",
+    "created_at": "2025-07-07T06:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T07:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942112286841491759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910137141570740225",
+          "start": 0,
+          "username": "AsabaLazySSR"
+        },
+        {
+          "end": 27,
+          "id": "1583858559544332290",
+          "start": 14,
+          "username": "_sharkee1024"
+        },
+        {
+          "end": 44,
+          "id": "1807107145756008448",
+          "start": 28,
+          "username": "KagurazakaAzure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942112286841491759",
+    "in_reply_to_user_id": "1910137141570740225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942085376614740409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsabaLazySSR @_sharkee1024 @KagurazakaAzure 喵喵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1942085376614740409].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1942085376614740409",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1942085376614740409"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1942025773227094062",
+        "created_at": "2025-07-07T06:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T07:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942112286841491759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910137141570740225",
+              "start": 0,
+              "username": "AsabaLazySSR"
+            },
+            {
+              "end": 27,
+              "id": "1583858559544332290",
+              "start": 14,
+              "username": "_sharkee1024"
+            },
+            {
+              "end": 44,
+              "id": "1807107145756008448",
+              "start": 28,
+              "username": "KagurazakaAzure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942112286841491759",
+        "in_reply_to_user_id": "1910137141570740225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942085376614740409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsabaLazySSR @_sharkee1024 @KagurazakaAzure 喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/癌症靶向藥找 @ChosekiNoraneko，我在做客服",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1940009083995873344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8054,
+          "following_count": 895,
+          "like_count": 44103,
+          "listed_count": 31,
+          "media_count": 1282,
+          "tweet_count": 19459
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-10T01:06:09.000Z",
+        "description": "洛｜长存不灭的过去、逐渐消逝的未来",
+        "id": "1910137141570740225",
+        "location": "地球",
+        "name": "AsabaLazy⭐️",
+        "pinned_tweet_id": "1928500024671089032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929406731278589952/R_xVLztV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 186,
+          "like_count": 9412,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1719
+        },
+        "username": "AsabaLazySSR",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T16:31:31.000Z",
+        "description": "",
+        "id": "1583858559544332290",
+        "location": "距您124m",
+        "name": "村雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852520211595038720/AiBYkHsK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2297,
+          "following_count": 467,
+          "like_count": 3259,
+          "listed_count": 4,
+          "media_count": 226,
+          "tweet_count": 1445
+        },
+        "username": "_sharkee1024",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🌊⁉️“洞烛の摩耶” | 避雷概率掉落R18🔞｜líng ｜MtX｜🍥hrt24.4.20｜ASD&ADHD｜179cm55kg｜🇬🇧英区留子｜08｜重庆｜入坑半年音游 ｜Arcaea&maimaiでらっくす｜曾列席特朗普马斯克对谈会 ｜买雌二醇找@minokakay｜洞烛@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "minokakay"
+              },
+              {
+                "end": 149,
+                "start": 139,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "Λ𝒛𝒖𝒓𝒆色號の水彩翎.",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941707843977261056/0OzLQ_0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7223,
+          "following_count": 1041,
+          "like_count": 34124,
+          "listed_count": 9,
+          "media_count": 2362,
+          "tweet_count": 18959
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

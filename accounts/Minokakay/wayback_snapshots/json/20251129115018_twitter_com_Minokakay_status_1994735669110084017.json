@@ -1,0 +1,498 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994591311547269120"
+      ],
+      "media_source_tweet_id": [
+        "1994591319122219423"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": "UFC",
+          "id": "852221476711186432",
+          "name": "UFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543857066848256",
+          "name": "MMA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "UFC",
+          "id": "852221476711186432",
+          "name": "UFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fighting",
+          "id": "1047520229192912896",
+          "name": "Combat sports"
+        }
+      }
+    ],
+    "conversation_id": "1994735669110084017",
+    "created_at": "2025-11-29T11:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T12:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994735669110084017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "178794303",
+          "start": 3,
+          "username": "internation0501"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ev38nrrT8P",
+          "end": 53,
+          "expanded_url": "https://x.com/internation0501/status/1994591319122219423/photo/1",
+          "media_key": "3_1994591311547269120",
+          "start": 30,
+          "url": "https://t.co/ev38nrrT8P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994735669110084017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994591319122219423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @internation0501: 喜欢我们乐队吗🥰 https://t.co/ev38nrrT8P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_1994591311547269120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G642OuTbAAAjGwI.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994591311547269120"
+          ],
+          "media_source_tweet_id": [
+            "1994591319122219423"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "UFC",
+              "id": "852221476711186432",
+              "name": "UFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543857066848256",
+              "name": "MMA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "UFC",
+              "id": "852221476711186432",
+              "name": "UFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fighting",
+              "id": "1047520229192912896",
+              "name": "Combat sports"
+            }
+          }
+        ],
+        "conversation_id": "1994735669110084017",
+        "created_at": "2025-11-29T11:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T12:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994735669110084017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "178794303",
+              "start": 3,
+              "username": "internation0501"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ev38nrrT8P",
+              "end": 53,
+              "expanded_url": "https://x.com/internation0501/status/1994591319122219423/photo/1",
+              "media_key": "3_1994591311547269120",
+              "start": 30,
+              "url": "https://t.co/ev38nrrT8P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994735669110084017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994591319122219423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @internation0501: 喜欢我们乐队吗🥰 https://t.co/ev38nrrT8P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994591311547269120"
+          ]
+        },
+        "author_id": "178794303",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "UFC",
+              "id": "852221476711186432",
+              "name": "UFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543857066848256",
+              "name": "MMA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "UFC",
+              "id": "852221476711186432",
+              "name": "UFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fighting",
+              "id": "1047520229192912896",
+              "name": "Combat sports"
+            }
+          }
+        ],
+        "conversation_id": "1994591319122219423",
+        "created_at": "2025-11-29T02:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T03:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994591319122219423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ev38nrrT8P",
+              "end": 32,
+              "expanded_url": "https://x.com/internation0501/status/1994591319122219423/photo/1",
+              "media_key": "3_1994591311547269120",
+              "start": 9,
+              "url": "https://t.co/ev38nrrT8P"
+            },
+            {
+              "display_url": "x.com/yepa41/status/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/yepa41/status/1994393135850623273",
+              "start": 33,
+              "url": "https://t.co/IICVVJVxeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994591319122219423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 45691,
+          "like_count": 374,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994393135850623273",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢我们乐队吗🥰 https://t.co/ev38nrrT8P https://t.co/IICVVJVxeo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。  阿斯ADHD精分抑鬱焦慮MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智/靶向药请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12547,
+          "following_count": 1010,
+          "like_count": 45022,
+          "listed_count": 47,
+          "media_count": 1658,
+          "tweet_count": 23751
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2010-08-15T18:25:03.000Z",
+        "description": "普通的存在主义者，自认为。资本主义终将灭亡，这一趋势是自《九十五条论纲》始。彻底的解放即是叙事灭亡的开始，这一点毫无质疑。存在先于本质，先有鸡再有鸡蛋；先有资本主义精神，才有资本主义，后有《资本论》。在讨论自由等自然法时，先想想天赋人权的天在哪？人真正的不自由，就是永远都无法摆脱自由。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/zhongwen/trad/…",
+                "end": 23,
+                "expanded_url": "https://www.bbc.com/zhongwen/trad/world/2015/04/150411_ukraine_ban_communism",
+                "start": 0,
+                "url": "https://t.co/BGeLzlbfif"
+              }
+            ]
+          }
+        },
+        "id": "178794303",
+        "location": "上海市",
+        "name": "華盛頓革委",
+        "pinned_tweet_id": "1650332348355846144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600447410068942849/7JlFQQNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2727,
+          "following_count": 493,
+          "like_count": 20029,
+          "listed_count": 16,
+          "media_count": 3782,
+          "tweet_count": 21848
+        },
+        "url": "https://t.co/BGeLzlbfif",
+        "username": "internation0501",
+        "verified": false
+      }
+    ]
+  }
+}

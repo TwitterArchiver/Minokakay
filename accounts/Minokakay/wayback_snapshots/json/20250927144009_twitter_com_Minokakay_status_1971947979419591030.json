@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971946505151172608"
+      ],
+      "media_source_tweet_id": [
+        "1971946518774255622"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1971947979419591030",
+    "created_at": "2025-09-27T14:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T15:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971947979419591030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1414958530038222853",
+          "start": 3,
+          "username": "Kayip_Wong"
+        },
+        {
+          "end": 32,
+          "id": "1856322437144817667",
+          "start": 16,
+          "username": "ChosekiNoraneko"
+        },
+        {
+          "end": 43,
+          "id": "1597257668313260033",
+          "start": 33,
+          "username": "Minokakay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gs7lzmprz9",
+          "end": 67,
+          "expanded_url": "https://x.com/Kayip_Wong/status/1971946518774255622/photo/1",
+          "media_key": "3_1971946505151172608",
+          "start": 44,
+          "url": "https://t.co/Gs7lzmprz9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971947979419591030",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971946518774255622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kayip_Wong: @ChosekiNoraneko @Minokakay https://t.co/Gs7lzmprz9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1971947979419591030].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1971947979419591030",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1971947979419591030"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971946505151172608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13C5gub0AAGDWi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971946505151172608"
+          ]
+        },
+        "author_id": "1414958530038222853",
+        "conversation_id": "1971946518774255622",
+        "created_at": "2025-09-27T14:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T15:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971946518774255622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1856322437144817667",
+              "start": 0,
+              "username": "ChosekiNoraneko"
+            },
+            {
+              "end": 27,
+              "id": "1597257668313260033",
+              "start": 17,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gs7lzmprz9",
+              "end": 51,
+              "expanded_url": "https://x.com/Kayip_Wong/status/1971946518774255622/photo/1",
+              "media_key": "3_1971946505151172608",
+              "start": 28,
+              "url": "https://t.co/Gs7lzmprz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971946518774255622",
+        "in_reply_to_user_id": "1856322437144817667",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "@ChosekiNoraneko @Minokakay https://t.co/Gs7lzmprz9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX 长居🇭🇰🇯🇵🇹🇭买HRT补佳乐色普龙诺坤复/减肥/促智找 @ChosekiNoraneko，全球可寄，我朋友开的我在做客服。买电子烟找@weita2024。买抗癌药物找@LuciusPharmacy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "LuciusPharmacy"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10379,
+          "following_count": 944,
+          "like_count": 44693,
+          "listed_count": 35,
+          "media_count": 1430,
+          "tweet_count": 21345
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-13T14:43:07.000Z",
+        "description": "",
+        "id": "1414958530038222853",
+        "name": "curiositykillme",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1428988366373068800/KeM3EiAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 142,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 28
+        },
+        "username": "Kayip_Wong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T13:05:46.000Z",
+        "description": "Choseki Pharmacy的官方賬號，售卖正规进口药品，此店铺由@Minokakay 担保并提供客服服务，欢迎https://t.co/Re1C3wI5BZ或推特私信下单！ 可邮寄全球。工作时间12AM-25PM，不在时请留言，下单采取留言制，不定时回复 见谅，未成年/中学生勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "Minokakay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/chosekinoraneko",
+                "end": 81,
+                "expanded_url": "http://t.me/chosekinoraneko",
+                "start": 58,
+                "url": "https://t.co/Re1C3wI5BZ"
+              }
+            ]
+          }
+        },
+        "id": "1856322437144817667",
+        "location": "Singapore",
+        "name": "Choseki Pharmacy（HRT药商）",
+        "pinned_tweet_id": "1963871499271455228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970461184341221378/Q2FYjkcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3297,
+          "following_count": 31,
+          "like_count": 123,
+          "listed_count": 6,
+          "media_count": 5,
+          "tweet_count": 110
+        },
+        "username": "ChosekiNoraneko",
+        "verified": false
+      }
+    ]
+  }
+}

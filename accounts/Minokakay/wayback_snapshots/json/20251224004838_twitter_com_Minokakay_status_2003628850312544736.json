@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003046931027927040"
+      ],
+      "media_source_tweet_id": [
+        "2003046936740499499"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "2003628850312544736",
+    "created_at": "2025-12-24T00:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T01:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003628850312544736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1942051519395983360",
+          "start": 3,
+          "username": "bluewolflan66"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YMeLKXno5z",
+          "end": 47,
+          "expanded_url": "https://x.com/bluewolflan66/status/2003046936740499499/photo/1",
+          "media_key": "3_2003046931027927040",
+          "start": 24,
+          "url": "https://t.co/YMeLKXno5z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003628850312544736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 158
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003046936740499499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bluewolflan66: 群裡誰？ https://t.co/YMeLKXno5z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2003046931027927040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8xAkjhbIAA_B3h.jpg",
+        "width": 777
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003046931027927040"
+          ],
+          "media_source_tweet_id": [
+            "2003046936740499499"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "2003628850312544736",
+        "created_at": "2025-12-24T00:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T01:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003628850312544736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1942051519395983360",
+              "start": 3,
+              "username": "bluewolflan66"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YMeLKXno5z",
+              "end": 47,
+              "expanded_url": "https://x.com/bluewolflan66/status/2003046936740499499/photo/1",
+              "media_key": "3_2003046931027927040",
+              "start": 24,
+              "url": "https://t.co/YMeLKXno5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003628850312544736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 158
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003046936740499499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bluewolflan66: 群裡誰？ https://t.co/YMeLKXno5z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003046931027927040"
+          ]
+        },
+        "author_id": "1942051519395983360",
+        "conversation_id": "2003046936740499499",
+        "created_at": "2025-12-22T10:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003046936740499499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YMeLKXno5z",
+              "end": 28,
+              "expanded_url": "https://x.com/bluewolflan66/status/2003046936740499499/photo/1",
+              "media_key": "3_2003046931027927040",
+              "start": 5,
+              "url": "https://t.co/YMeLKXno5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003046936740499499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 360,
+          "impression_count": 393879,
+          "like_count": 3220,
+          "quote_count": 13,
+          "reply_count": 138,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "群裡誰？ https://t.co/YMeLKXno5z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。如需癌症/慢病用药，请找@Lucius_Pharma，朋友的香港公司",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Lucius_Pharma"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13371,
+          "following_count": 1015,
+          "like_count": 44951,
+          "listed_count": 50,
+          "media_count": 1800,
+          "tweet_count": 24904
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T02:42:37.000Z",
+        "description": "🇹🇼🇯🇵🇺🇦🇮🇱  包蜜，小學博士生，管理老中這一块，安卓護照持有者，謝謝你發給我的台灣國國籍🥰",
+        "id": "1942051519395983360",
+        "location": "Singapore",
+        "name": "阿蘭（二代目）",
+        "pinned_tweet_id": "2000124928239284653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999824800148262912/6Ljg8syA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 141,
+          "like_count": 3451,
+          "listed_count": 10,
+          "media_count": 747,
+          "tweet_count": 2085
+        },
+        "username": "bluewolflan66",
+        "verified": false
+      }
+    ]
+  }
+}
