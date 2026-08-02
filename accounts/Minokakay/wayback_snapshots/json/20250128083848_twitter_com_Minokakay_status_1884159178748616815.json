@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884158216898277376"
+      ],
+      "media_source_tweet_id": [
+        "1884158219427389748"
+      ]
+    },
+    "author_id": "1597257668313260033",
+    "conversation_id": "1884159178748616815",
+    "created_at": "2025-01-28T08:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T09:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884159178748616815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1664056708925382656",
+          "start": 3,
+          "username": "a3155971996"
+        },
+        {
+          "end": 29,
+          "id": "1870490185051348992",
+          "start": 17,
+          "username": "yctf1112720"
+        },
+        {
+          "end": 40,
+          "id": "1597257668313260033",
+          "start": 30,
+          "username": "Minokakay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uJCTHH4O74",
+          "end": 126,
+          "expanded_url": "https://x.com/a3155971996/status/1884158219427389748/photo/1",
+          "media_key": "3_1884158216898277376",
+          "start": 103,
+          "url": "https://t.co/uJCTHH4O74"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884159178748616815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884158219427389748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a3155971996: @yctf1112720 @Minokakay 臭瘟猪我的建议是你自己一头猪好好待着，别再恶心你的养父养母了！他们收养你这个臭瘟猪真的很倒霉了！在人类圈子里头都抬不起来了 https://t.co/uJCTHH4O74"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1884159178748616815].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1884159178748616815",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1884159178748616815"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 673,
+        "media_key": "3_1884158216898277376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiXf6mLa8AAh4jN.jpg",
+        "width": 521
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884158216898277376"
+          ]
+        },
+        "author_id": "1664056708925382656",
+        "conversation_id": "1883911167003005235",
+        "created_at": "2025-01-28T08:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T09:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884158219427389748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870490185051348992",
+              "start": 0,
+              "username": "yctf1112720"
+            },
+            {
+              "end": 23,
+              "id": "1597257668313260033",
+              "start": 13,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uJCTHH4O74",
+              "end": 109,
+              "expanded_url": "https://x.com/a3155971996/status/1884158219427389748/photo/1",
+              "media_key": "3_1884158216898277376",
+              "start": 86,
+              "url": "https://t.co/uJCTHH4O74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884158219427389748",
+        "in_reply_to_user_id": "1870490185051348992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884010704468074697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yctf1112720 @Minokakay 臭瘟猪我的建议是你自己一头猪好好待着，别再恶心你的养父养母了！他们收养你这个臭瘟猪真的很倒霉了！在人类圈子里头都抬不起来了 https://t.co/uJCTHH4O74"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd TG同名 需要内服美白/日雌土色/药物与咨询/减肥找我超低价",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay日380色320泰210",
+        "pinned_tweet_id": "1881268152111440138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3218,
+          "following_count": 785,
+          "like_count": 33794,
+          "listed_count": 15,
+          "media_count": 909,
+          "tweet_count": 15309
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-31T23:50:45.000Z",
+        "description": "",
+        "id": "1664056708925382656",
+        "name": "明月当空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664057615201206273/AKONZL-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 175,
+          "like_count": 127,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 756
+        },
+        "username": "a3155971996",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T15:23:25.000Z",
+        "description": "已有老婆，请勿打扰，我很爱我老婆，谢谢。女生不要私我，老婆会吃醋。老婆：@SurongNy1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "SurongNy1"
+              }
+            ]
+          }
+        },
+        "id": "1870490185051348992",
+        "name": "速溶奶酪",
+        "pinned_tweet_id": "1881637991749439624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870490498110300160/fRIa4odw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 36,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 196
+        },
+        "username": "yctf1112720",
+        "verified": false
+      }
+    ]
+  }
+}

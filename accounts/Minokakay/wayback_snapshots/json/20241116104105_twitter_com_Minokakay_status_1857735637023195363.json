@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1857735637023195363",
+    "created_at": "2024-11-16T10:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T11:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857735637023195363"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/EricLiu_USA/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/EricLiu_USA/status/1857529803911606447",
+          "start": 8,
+          "url": "https://t.co/xTHEJ2NxIE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857735637023195363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857529803911606447",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "薄熙米亞狂想曲 https://t.co/xTHEJ2NxIE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1857735637023195363",
+        "created_at": "2024-11-16T10:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T11:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857735637023195363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EricLiu_USA/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/EricLiu_USA/status/1857529803911606447",
+              "start": 8,
+              "url": "https://t.co/xTHEJ2NxIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857735637023195363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857529803911606447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "薄熙米亞狂想曲 https://t.co/xTHEJ2NxIE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "569860610",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1857529803911606447",
+        "created_at": "2024-11-15T21:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T22:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857529803911606447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857529803911606447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 89842,
+          "like_count": 498,
+          "quote_count": 14,
+          "reply_count": 119,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "薄瓜瓜入赘台湾是为了掌握芯片，而谁掌握了芯片谁就掌握了全球，届时通过威胁炸毁台积电引来习近平御驾亲征，然后打败解放军并向习近平发起决斗，最后习近平接班人被杀被逼退位，薄瓜瓜迎娶习明泽即位。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1850583794224635904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1843,
+          "following_count": 944,
+          "like_count": 26645,
+          "listed_count": 3,
+          "tweet_count": 11961
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-03T10:25:01.000Z",
+        "description": "美国董学专家，坚定团结在Vance同志周围",
+        "id": "569860610",
+        "name": "Eric Liu 刘力朋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831492166750748672/KVKgt6qC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69820,
+          "following_count": 1530,
+          "like_count": 24914,
+          "listed_count": 304,
+          "tweet_count": 23036
+        },
+        "username": "EricLiu_USA",
+        "verified": false
+      }
+    ]
+  }
+}

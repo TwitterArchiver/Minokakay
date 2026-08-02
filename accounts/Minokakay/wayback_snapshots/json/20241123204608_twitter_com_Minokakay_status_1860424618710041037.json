@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1860301048541552972",
+    "created_at": "2024-11-23T20:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T21:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860424618710041037"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1860424618710041037",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860423449191264713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "互文式成語有主謂，動賓，偏正等類型，但俺考試時啥都沒想到，後悔不聽語文課"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1860301048541552972",
+        "created_at": "2024-11-23T20:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T21:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860424618710041037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860424618710041037",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860423449191264713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "互文式成語有主謂，動賓，偏正等類型，但俺考試時啥都沒想到，後悔不聽語文課"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1860301048541552972",
+        "created_at": "2024-11-23T20:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T21:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860423449191264713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703297947121901568",
+              "start": 0,
+              "username": "xue_zhi2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860423449191264713",
+        "in_reply_to_user_id": "1703297947121901568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860301048541552972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xue_zhi2008 高中文言文閱讀裡面的一個小技巧，某些四字詞例如ABCD，AC二字意思相同，BD二字意思相同，因此只需要4個字裡面有2個字知道大概含義就能推斷出整個詞語的意思，也可以通過更換順序為ACBD方便理解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要美白成分找我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1858231079683182919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1867,
+          "following_count": 658,
+          "like_count": 27640,
+          "listed_count": 4,
+          "tweet_count": 12367
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

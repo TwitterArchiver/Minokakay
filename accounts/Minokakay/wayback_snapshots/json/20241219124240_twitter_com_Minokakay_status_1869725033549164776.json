@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1597257668313260033",
+    "conversation_id": "1869631416562266453",
+    "created_at": "2024-12-19T12:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T13:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869725033549164776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1570466382365728771",
+          "start": 0,
+          "username": "m8o9j6i4"
+        },
+        {
+          "end": 19,
+          "id": "1840055457756610560",
+          "start": 10,
+          "username": "hood8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869725033549164776",
+    "in_reply_to_user_id": "1570466382365728771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869724335155687616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m8o9j6i4 @hood8964 送"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1869724335155687616].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1869724335155687616",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1869724335155687616"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1869631416562266453",
+        "created_at": "2024-12-19T12:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T13:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869725033549164776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1570466382365728771",
+              "start": 0,
+              "username": "m8o9j6i4"
+            },
+            {
+              "end": 19,
+              "id": "1840055457756610560",
+              "start": 10,
+              "username": "hood8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869725033549164776",
+        "in_reply_to_user_id": "1570466382365728771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869724335155687616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m8o9j6i4 @hood8964 送"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈LGBTQ+友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd 需要内服美白成分/日雌/色普龙/促智药找我超低價",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay（日雌390！",
+        "pinned_tweet_id": "1858231079683182919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2284,
+          "following_count": 711,
+          "like_count": 30698,
+          "listed_count": 6,
+          "media_count": 690,
+          "tweet_count": 13584
+        },
+        "username": "Minokakay",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-15T17:35:48.000Z",
+        "description": "@mo6ji4 \n最好最善良最可爱的好厚米@BigFreshShrimp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "mo6ji4"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "BigFreshShrimp"
+              }
+            ]
+          }
+        },
+        "id": "1570466382365728771",
+        "location": "厄普西隆南极总部",
+        "name": "Big青蛙姬",
+        "pinned_tweet_id": "1865773808550056210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869701810270961664/P39j1RK6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 296,
+          "like_count": 6608,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 3059
+        },
+        "username": "m8o9j6i4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T15:46:52.000Z",
+        "description": "努力成为诗人，可能是萌萌人，有时候很阴暗😈是精神病！左下老孩，希望活下去\n唔，有悄悄话请告诉：https://t.co/sBMnS4hIP6\n这个可能是红移！： @I_mmissUsomuch\n最最最最最喜欢的人：@GLaDOS8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "I_mmissUsomuch"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "GLaDOS8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hood8964",
+                "end": 70,
+                "expanded_url": "https://ngl.link/hood8964",
+                "start": 47,
+                "url": "https://t.co/sBMnS4hIP6"
+              }
+            ]
+          }
+        },
+        "id": "1840055457756610560",
+        "location": "深圳湾底",
+        "name": "138亿年の红移.",
+        "pinned_tweet_id": "1866515021573865479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867520414349471744/6y3jg7SK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 554,
+          "like_count": 12379,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 3466
+        },
+        "username": "hood8964",
+        "verified": false
+      }
+    ]
+  }
+}
